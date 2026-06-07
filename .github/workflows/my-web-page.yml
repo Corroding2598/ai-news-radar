@@ -28,7 +28,7 @@ jobs:
         run: |
           python scripts/update_news.py --output-dir data --window-hours 24 --archive-days 21 || true
 
-      - name: 🧠 阿里云百炼大模型理科生级深度重写提炼
+      - name: 🧠 阿里云百炼大模型重磅头条初筛与深度提炼
         env:
           ALI_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
         run: |
@@ -44,7 +44,7 @@ jobs:
           tz_bj = timezone(timedelta(hours=8))
           report_date = datetime.now(timezone.utc).astimezone(tz_bj).strftime('%Y年%m月%d日')
 
-          # 2. 读取数据
+          # 2. 读取原始抓取数据
           items = []
           file_path = "data/daily-brief.json"
           if os.path.exists(file_path):
@@ -56,27 +56,70 @@ jobs:
                       print(f"读取JSON基础数据失败: {e}")
 
           api_key = os.environ.get("ALI_KEY", "")
+          url = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
+          headers = {
+              "Authorization": f"Bearer {api_key}",
+              "Content-Type": "application/json"
+          }
 
+          # 【核心步骤一】：让 AI 充当主编，从几十条新闻里盲选出 6 条最重磅的
+          def select_heavyweight_news(all_items):
+              if not api_key or not all_items:
+                  return all_items[:6]
+              
+              # 仅构建一个轻量级的标题列表提供给 AI 筛选，节省计算量
+              list_for_ai = []
+              for idx, item in enumerate(all_items[:40]): # 最多看前40条
+                  list_for_ai.append(f"[{idx}] {item.get('title', '无标题')}")
+              
+              titles_string = "\n".join(list_for_ai)
+              
+              selector_prompt = f"""
+              你现在是顶级科技媒体的『总编辑』。以下是今天抓取到的最新科技资讯标题列表：
+              {titles_string}
+
+              请从中挑选出 6 条【技术含金量最高】、【行业硬核影响力最深远】、或者【最值得理科生深入学习探讨】的重磅大新闻。
+              彻底过滤掉那些没营养的行业八卦、小公司常规更新、或者纯公关水文。
+
+              【硬性输出格式】：
+              只输出你挑选出来的 6 个新闻的原始数字序号，用英文逗号隔开，不要任何文字解释。
+              例如：3,7,12,15,18,22
+              """
+              
+              try:
+                  data = {
+                      "model": "qwen-plus",
+                      "messages": [{"role": "user", "content": selector_prompt}],
+                      "temperature": 0.1
+                  }
+                  res = requests.post(url, headers=headers, json=data, timeout=20)
+                  res_text = res.json()['choices'][0]['message']['content'].strip()
+                  
+                  # 用正则表达式把数字抠出来
+                  chosen_indices = [int(x) for x in re.findall(r'\d+', res_text)]
+                  selected_items = [all_items[i] for i in chosen_indices if i < len(all_items)]
+                  
+                  if selected_items:
+                      print(f"AI 主编选出的重磅新闻序号为: {chosen_indices[:6]}")
+                      return selected_items[:6]
+              except Exception as e:
+                  print(f"AI 主编初筛失败（原因: {e}），降级使用前 6 条最新消息。")
+              
+              return all_items[:6]
+
+          # 【核心步骤二】：对挑选出来的重磅新闻做科普化提炼
           def ai_refine(title, raw_summary):
               if not api_key:
                   return "【错误：未配置有效的 DASHSCOPE_API_KEY 凭证】"
               
-              url = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
-              headers = {
-                  "Authorization": f"Bearer {api_key}",
-                  "Content-Type": "application/json"
-              }
-              
-              # 核心升级：改写 Prompt，加入“降维类比”和“科普化”指令
               prompt = f"""
               请对以下科技资讯进行科普化、趣味化的深度重写提炼：
               【新闻标题】：{title}
               【原始零散数据】：{raw_summary}
 
               【硬性指标】：
-              1. 目标受众：虽然是『理科大学生』，但要确保非本专业的同学也能一眼看懂。请用更接地气、通俗易懂的中文来解释，不要像写学术论文那样高冷。
-              2. 降维打击专业概念：如果文中出现生硬的专业术语、技术指标、或AI圈黑话（例如：Fine-tuning、Agent、LLM、RLHF、物理渲染等），必须使用日常生活的常见事物进行“打比方/类比”解释。
-                 - 例如：不要干巴巴说“微调（Fine-tuning）”，要说“微调（就像让一个读完大学的通才去专门考个特定岗位的证书）”。
+              1. 目标受众：虽然是『理科大学生』，但要确保非本专业的同学也能一眼看懂。用更接地气、通俗易懂的中文来解释，不要像写学术论文那样高冷。
+              2. 降维打击专业概念：如果文中出现生硬的专业术语或AI圈黑话，必须使用日常生活的常见事物进行“打比方/类比”解释。
               3. 讲清核心逻辑：用人话说明白这项成果“帮我们解决了什么实际问题”或者“带来了什么好玩的改变”。
               4. 格式要求：篇幅保持充实（150 到 250 字），合理分为 1 或 2 个段落。必须在你认为最核心、最接地气的技术突破点或关键数据上，使用 **双星号加粗** 括起来。
               5. 严禁输出废话，直接吐出最终摘要正文。
@@ -84,36 +127,28 @@ jobs:
               
               data = {
                   "model": "qwen-plus",
-                  "messages": [
-                      {"role": "user", "content": prompt}
-                  ],
-                  "temperature": 0.4  # 稍微提高一点点创造力，让大模型打比方更生动
+                  "messages": [{"role": "user", "content": prompt}],
+                  "temperature": 0.4
               }
               
               try:
                   res = requests.post(url, headers=headers, json=data, timeout=30)
-                  if res.status_code != 200:
-                      return f"【阿里云服务器响应异常，状态码 {res.status_code}】"
-                      
-                  res_json = res.json()
-                  if 'choices' in res_json and len(res_json['choices']) > 0:
-                      content = res_json['choices'][0].get('message', {}).get('content', '')
-                      if content:
-                          return content.strip()
-                  return f"【解析障碍】阿里接口未返回有效文本"
-              except Exception as e:
-                  return f"【请求失败】：{str(e)}"
+                  return res.json()['choices'][0]['message']['content'].strip()
+              except:
+                  return "【提炼遇到技术障碍】"
 
-          # 3. 拼接并转换格式
+          # 3. 运行重磅初筛逻辑
           list_html = ""
           if not items:
               list_html = '<div class="empty">该报告期内暂无伯乐精选更新</div>'
           else:
-              print(f"正在启动通义千问 AI 进行通俗科普化改造...")
-              for idx, item in enumerate(items[:30]):
+              # 核心改变：在这里调用初筛机制
+              heavyweight_items = select_heavyweight_news(items)
+              print(f"初筛完毕！正在启动通义千问 AI 对这 {len(heavyweight_items)} 条重磅头条进行深度科普化改造...")
+              
+              for idx, item in enumerate(heavyweight_items):
                   orig_title = item.get("title", "无标题")
                   orig_url = item.get("url", "#")
-                  
                   orig_summary = item.get("summary", "")
                   if not orig_summary and "sources" in item and item["sources"]:
                       orig_summary = item["sources"][0].get("title", "")
@@ -143,14 +178,14 @@ jobs:
           <head>
               <meta charset="UTF-8">
               <meta name="viewport" content="width=device-width, initial-scale=1.0">
-              <title>🤖 伯乐精选 · AI 每日雷达</title>
+              <title>🤖 伯乐精选 · AI 每日重磅雷达</title>
               <style>
                   :root {{ --bg: #f4f7f6; --card: #ffffff; --text: #333333; --primary: #2563eb; }}
                   body {{ font-family: -apple-system, BlinkMacSystemFont, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; }}
                   .container {{ max-width: 800px; margin: 0 auto; }}
                   header {{ text-align: center; margin-bottom: 30px; }}
                   h1 {{ color: #111827; margin-bottom: 5px; }}
-                  .date-badge {{ display: inline-block; background: #e0f2fe; color: #0369a1; padding: 6px 16px; border-radius: 20px; font-weight: bold; font-size: 0.95rem; margin-top: 10px; }}
+                  .date-badge {{ display: inline-block; background: #fff7ed; color: #c2410c; padding: 6px 16px; border-radius: 20px; font-weight: bold; font-size: 0.95rem; margin-top: 10px; border: 1px solid #ffedd5; }}
                   .news-list {{ display: flex; flex-direction: column; gap: 15px; margin-top: 20px; }}
                   .news-card {{ background: var(--card); padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.03); border: 1px solid #e5e7eb; }}
                   .news-title {{ font-size: 1.2rem; font-weight: bold; color: #1e293b; margin: 0 0 12px 0; line-height: 1.4; }}
@@ -165,8 +200,8 @@ jobs:
           <body>
               <div class="container">
                   <header>
-                      <h1>🤖 伯乐精选 · AI 每日雷达</h1>
-                      <div class="date-badge">📅 当前报告期：{report_date}</div>
+                      <h1>🔥 伯乐精选 · AI 每日重磅雷达</h1>
+                      <div class="date-badge">🎯 今日重磅头条精选报告期：{report_date}</div>
                   </header>
                   <main class="news-list">
                       {list_html}
@@ -177,7 +212,7 @@ jobs:
 
           with open("index.html", "w", encoding="utf-8") as f:
               f.write(html_content)
-          print("科普化升级页面发布成功！")
+          print("重磅头条定制网页发布成功！")
           EOF
 
       - name: 🌐 将网页一键发布到 GitHub Pages
