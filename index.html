@@ -10,24 +10,60 @@
         .container { max-width: 800px; margin: 0 auto; }
         header { text-align: center; margin-bottom: 30px; }
         h1 { color: #111827; margin-bottom: 5px; }
-        .update-time { color: #6b7280; font-size: 0.9rem; }
-        .news-list { display: flex; flex-direction: column; gap: 20px; }
-        .news-card { background: var(--card); padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
-        .news-title { font-size: 1.2rem; font-weight: bold; color: #1e293b; margin: 0 0 10px 0; }
-        .news-summary { color: #475569; font-size: 0.95rem; line-height: 1.6; margin-bottom: 15px; }
-        .news-link { color: var(--primary); text-decoration: none; font-weight: 500; font-size: 0.9rem; }
+        .date-badge { display: inline-block; background: #e0f2fe; color: #0369a1; padding: 6px 16px; border-radius: 20px; font-weight: bold; font-size: 0.95rem; margin-top: 10px; }
+        .update-time { color: #6b7280; font-size: 0.85rem; margin-top: 8px; }
+        .news-list { display: flex; flex-direction: column; gap: 15px; }
+        
+        /* 卡片基础样式 */
+        .news-card { background: var(--card); padding: 18px 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.03); border: 1px solid #e5e7eb; }
+        
+        /* 头部标题区域 */
+        .card-header { display: flex; justify-content: space-between; align-items: center; gap: 15px; cursor: pointer; }
+        .news-title { font-size: 1.15rem; font-weight: bold; color: #1e293b; margin: 0; line-height: 1.4; flex-grow: 1; }
+        
+        /* 控制折叠的按钮 */
+        .toggle-btn { background: #f1f5f9; color: var(--primary); border: none; padding: 6px 12px; border-radius: 6px; font-size: 0.85rem; font-weight: 500; cursor: pointer; white-space: nowrap; transition: all 0.2s; }
+        .toggle-btn:hover { background: #e2e8f0; }
+        
+        /* 默认隐藏的内容区域 */
+        .card-content { max-height: 0; overflow: hidden; transition: max-height 0.3s ease-out, margin-top 0.3s ease-out; }
+        .content-inner { padding: 15px 0 5px 0; border-top: 1px dashed #e5e7eb; margin-top: 12px; }
+        
+        .news-summary { color: #475569; font-size: 0.95rem; line-height: 1.6; margin: 0 0 12px 0; }
+        .news-link { display: inline-block; color: var(--primary); text-decoration: none; font-weight: 500; font-size: 0.9rem; background: #eff6ff; padding: 4px 10px; border-radius: 4px; }
+        .news-link:hover { background: #dbeafe; }
         .empty { text-align: center; color: #9ca3af; padding: 40px; }
+        
+        /* 展开状态的样式类 */
+        .news-card.active .card-content { max-height: 500px; }
+        .news-card.active .toggle-btn { background: #2563eb; color: #ffffff; }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
             <h1>🤖 伯乐精选 · AI 每日雷达</h1>
-            <p class="update-time">北京时间每天晚上 21:00 自动刷新</p>
+            <div class="date-badge">📅 当前报告期：2026年06月07日</div>
+            <p class="update-time">（系统于每天北京时间 21:00 自动抓取更新）</p>
         </header>
         <main class="news-list" id="news-list">正在加载最新数据...</main>
     </div>
     <script>
+        // 点击卡片或按钮切换折叠状态
+        function toggleCard(cardId) {
+            const card = document.getElementById(cardId);
+            const btn = card.querySelector('.toggle-btn');
+            const isExpanded = card.classList.contains('active');
+            
+            if (isExpanded) {
+                card.classList.remove('active');
+                btn.innerText = '展开内容 ➔';
+            } else {
+                card.classList.add('active');
+                btn.innerText = '收起内容 ✖';
+            }
+        }
+
         async function loadNews() {
             try {
                 const response = await fetch('./data/daily-brief.json?t=' + new Date().getTime());
@@ -35,28 +71,35 @@
                 let items = rawData.items || rawData || [];
                 const listContainer = document.getElementById('news-list');
                 if (items.length === 0) {
-                    listContainer.innerHTML = '<div class="empty">过去 24 小时内无伯乐精选更新</div>';
+                    listContainer.innerHTML = '<div class="empty">该报告期内暂无伯乐精选更新</div>';
                     return;
                 }
                 listContainer.innerHTML = items.slice(0, 30).map((item, idx) => {
                     const title = item.title || '无标题';
                     const url = item.url || '#';
                     let summary = item.summary || (item.sources && item.sources[0] ? item.sources[0].title : '暂无摘要');
+                    const cardId = 'card-' + idx;
                     
-                    // 这里彻底修复了转义Bug
                     let linkHtml = '';
                     if (url !== '#') {
-                        linkHtml = '<a href="' + url + '" target="_blank" class="news-link">查看原文 ↗</a>';
+                        linkHtml = '<a href="' + url + '" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>';
                     }
                     
-                    return '<article class="news-card">' +
-                           '<h2 class="news-title">' + (idx + 1) + '. ' + title + '</h2>' +
-                           '<p class="news-summary">' + summary + '</p>' +
-                           linkHtml +
+                    return '<article class="news-card" id="' + cardId + '">' +
+                           '  <div class="card-header" onclick="toggleCard(\'' + cardId + '\')">' +
+                           '    <h2 class="news-title">' + (idx + 1) + '. ' + title + '</h2>' +
+                           '    <button class="toggle-btn">展开内容 ➔</button>' +
+                           '  </div>' +
+                           '  <div class="card-content">' +
+                           '    <div class="content-inner">' +
+                           '      <p class="news-summary">📝 <b>摘要描述：</b>' + summary + '</p>' +
+                           '      ' + linkHtml +
+                           '    </div>' +
+                           '  </div>' +
                            '</article>';
                 }).join('');
             } catch (e) {
-                document.getElementById('news-list').innerHTML = '<div class="empty">数据加载中或暂无数据，请稍后再试</div>';
+                document.getElementById('news-list').innerHTML = '<div class="empty">数据加载失败，请稍后再试</div>';
             }
         }
         window.onload = loadNews;
