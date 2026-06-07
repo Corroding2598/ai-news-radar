@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T10:19:51.871647Z",
+  "generated_at": "2026-06-07T10:48:42.086384Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8961,
-      "importance": 0.8961,
-      "importance_score": 0.8961,
+      "score": 0.8921,
+      "importance": 0.8921,
+      "importance_score": 0.8921,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9957,
+        "recency": 0.9757,
         "story_heat": 0.0
       },
       "category": "official",
@@ -99,14 +99,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7843,
-      "importance": 0.7843,
-      "importance_score": 0.7843,
+      "score": 0.7803,
+      "importance": 0.7803,
+      "importance_score": 0.7803,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8614,
+        "recency": 0.8414,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -178,14 +178,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
+      "score": 0.7786,
+      "importance": 0.7786,
+      "importance_score": 0.7786,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.363,
+        "recency": 0.343,
         "story_heat": 0.25
       },
       "category": "official",
@@ -259,14 +259,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7814,
-      "importance": 0.7814,
-      "importance_score": 0.7814,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7221,
+        "recency": 0.702,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -320,14 +320,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7794,
-      "importance": 0.7794,
-      "importance_score": 0.7794,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8371,
+        "recency": 0.8171,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -380,14 +380,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8299,
+        "recency": 0.8098,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -440,14 +440,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.717,
+        "recency": 0.697,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -500,17 +500,17 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7209,
-      "importance": 0.7209,
-      "importance_score": 0.7209,
-      "importance_label": "行业动态",
+      "score": 0.7169,
+      "importance": 0.7169,
+      "importance_score": 0.7169,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5444,
+        "recency": 0.5244,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
@@ -559,14 +559,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7187,
-      "importance": 0.7187,
-      "importance_score": 0.7187,
+      "score": 0.7147,
+      "importance": 0.7147,
+      "importance_score": 0.7147,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5337,
+        "recency": 0.5137,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -618,14 +618,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6626,
-      "importance": 0.6626,
-      "importance_score": 0.6626,
+      "score": 0.6586,
+      "importance": 0.6586,
+      "importance_score": 0.6586,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2529,
+        "recency": 0.2329,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -696,14 +696,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6484,
-      "importance": 0.6484,
-      "importance_score": 0.6484,
+      "score": 0.6444,
+      "importance": 0.6444,
+      "importance_score": 0.6444,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0571,
+        "recency": 0.037,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -756,14 +756,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6406,
-      "importance": 0.6406,
-      "importance_score": 0.6406,
+      "score": 0.6366,
+      "importance": 0.6366,
+      "importance_score": 0.6366,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
         "ai_relevance": 0.81,
-        "recency": 0.7482,
+        "recency": 0.7282,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -815,14 +815,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6353,
-      "importance": 0.6353,
-      "importance_score": 0.6353,
+      "score": 0.6312,
+      "importance": 0.6312,
+      "importance_score": 0.6312,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1163,
+        "recency": 0.0962,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -874,14 +874,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6138,
-      "importance": 0.6138,
-      "importance_score": 0.6138,
+      "score": 0.6097,
+      "importance": 0.6097,
+      "importance_score": 0.6097,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
         "ai_relevance": 0.81,
-        "recency": 0.6138,
+        "recency": 0.5937,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -933,14 +933,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5982,
-      "importance": 0.5982,
-      "importance_score": 0.5982,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9862,
+        "recency": 0.9662,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1030,14 +1030,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5561,
-      "importance": 0.5561,
-      "importance_score": 0.5561,
+      "score": 0.5521,
+      "importance": 0.5521,
+      "importance_score": 0.5521,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9155,
+        "recency": 0.8955,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1055,30 +1055,30 @@
       }
     },
     {
-      "story_id": "story_5ff47086408d",
-      "title": "AI 男友会干掉传统乙游吗？",
-      "url": "https://www.huxiu.com/article/4865130.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4865130.html?f=rss",
+      "story_id": "story_344f1c86fac5",
+      "title": "Anthropic 的 AI 效率失灵之忧：主张中止前沿研究",
+      "url": "https://www.huxiu.com/article/4865141.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4865141.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "8845992afcdeb11c1573e32ed6b7ec9007cf9ccf",
-          "title": "AI 男友会干掉传统乙游吗？",
-          "url": "https://www.huxiu.com/article/4865130.html?f=rss",
+          "id": "3bf0e55485812eaf8d49111d523a8dfdc1b401e3",
+          "title": "Anthropic 的 AI 效率失灵之忧：主张中止前沿研究",
+          "url": "https://www.huxiu.com/article/4865141.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "bc54431315b7f43f787d2163cd100d861d0830cf",
-          "title": "AI男友会干掉传统乙游吗？",
-          "url": "https://www.huxiu.com/article/4865130.html?f=rss",
+          "id": "e890b44dc28667f1857494f79562c3526d32b138",
+          "title": "Anthropic的AI效率失灵之忧：主张中止前沿研究",
+          "url": "https://www.huxiu.com/article/4865141.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-07T08:52:56Z"
+          "published_at": "2026-06-07T10:02:06Z"
         }
       ],
       "source_count": 2,
@@ -1088,22 +1088,22 @@
       ],
       "items": [
         {
-          "id": "8845992afcdeb11c1573e32ed6b7ec9007cf9ccf",
-          "title": "AI 男友会干掉传统乙游吗？",
-          "url": "https://www.huxiu.com/article/4865130.html?f=rss",
+          "id": "3bf0e55485812eaf8d49111d523a8dfdc1b401e3",
+          "title": "Anthropic 的 AI 效率失灵之忧：主张中止前沿研究",
+          "url": "https://www.huxiu.com/article/4865141.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "bc54431315b7f43f787d2163cd100d861d0830cf",
-          "title": "AI男友会干掉传统乙游吗？",
-          "url": "https://www.huxiu.com/article/4865130.html?f=rss",
+          "id": "e890b44dc28667f1857494f79562c3526d32b138",
+          "title": "Anthropic的AI效率失灵之忧：主张中止前沿研究",
+          "url": "https://www.huxiu.com/article/4865141.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-07T08:52:56Z"
+          "published_at": "2026-06-07T10:02:06Z"
         }
       ],
       "item_count": 2,
@@ -1122,12 +1122,89 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-07T08:52:56Z",
-      "latest_at": "2026-06-07T10:19:51.871647Z",
+      "earliest_at": "2026-06-07T10:02:06Z",
+      "latest_at": "2026-06-07T10:48:42.086384Z",
       "primary_item": {
-        "id": "8845992afcdeb11c1573e32ed6b7ec9007cf9ccf",
-        "title": "AI 男友会干掉传统乙游吗？",
-        "url": "https://www.huxiu.com/article/4865130.html?f=rss",
+        "id": "3bf0e55485812eaf8d49111d523a8dfdc1b401e3",
+        "title": "Anthropic 的 AI 效率失灵之忧：主张中止前沿研究",
+        "url": "https://www.huxiu.com/article/4865141.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_e96eedcb754a",
+      "title": "中信证券：接下来霍尔木兹海峡通航是 A 股非 AI 板块转机的临界点",
+      "url": "https://www.gelonghui.com/live/2489632",
+      "primary_url": "https://www.gelonghui.com/live/2489632",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "8b1291b3554781a6837b255663394abe90075b18",
+          "title": "中信证券：接下来霍尔木兹海峡通航是 A 股非 AI 板块转机的临界点",
+          "url": "https://www.gelonghui.com/live/2489632",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7be2e7361ad833ae35061c2c0e7845688053dcc6",
+          "title": "中信证券：接下来霍尔木兹海峡通航是 A 股非 AI 板块转机的临界点",
+          "url": "https://finance.sina.com.cn/stock/2026-06-07/doc-iniaqtns4623371.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8b1291b3554781a6837b255663394abe90075b18",
+          "title": "中信证券：接下来霍尔木兹海峡通航是 A 股非 AI 板块转机的临界点",
+          "url": "https://www.gelonghui.com/live/2489632",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7be2e7361ad833ae35061c2c0e7845688053dcc6",
+          "title": "中信证券：接下来霍尔木兹海峡通航是 A 股非 AI 板块转机的临界点",
+          "url": "https://finance.sina.com.cn/stock/2026-06-07/doc-iniaqtns4623371.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-07T10:48:42.086384Z",
+      "latest_at": "2026-06-07T10:48:42.086384Z",
+      "primary_item": {
+        "id": "8b1291b3554781a6837b255663394abe90075b18",
+        "title": "中信证券：接下来霍尔木兹海峡通航是 A 股非 AI 板块转机的临界点",
+        "url": "https://www.gelonghui.com/live/2489632",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1167,14 +1244,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
+      "score": 0.5393,
+      "importance": 0.5393,
+      "importance_score": 0.5393,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
         "ai_relevance": 0.77,
-        "recency": 0.3214,
+        "recency": 0.3013,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1245,14 +1322,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5413,
-      "importance": 0.5413,
-      "importance_score": 0.5413,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9663,
+        "recency": 0.9463,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1265,84 +1342,6 @@
         "id": "7c2afef63ea8d7faf96f8911e754884a5ee1ec8c",
         "title": "人工智能热潮正以前所未有的速度消耗着电力",
         "url": "https://www.businessinsider.com/us-ai-data-center-power-electricity-use-consumption-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_51061f7681e7",
-      "title": "我家正在迈阿密出售一套价值260万美元的房子。与其把房子租出去，我们宁愿持有OpenAI或Anthropic的股票。",
-      "url": "https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6",
-      "primary_url": "https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "54aa49670fe7536e065655d2587d19f032511982",
-          "title": "我家正在迈阿密出售一套价值260万美元的房子。与其把房子租出去，我们宁愿持有OpenAI或Anthropic的股票。",
-          "url": "https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-07T09:15:09.966000Z"
-        },
-        {
-          "id": "d5752e528ae1c866fc646fbb24b31346bd9ca133",
-          "title": "我家正在迈阿密出售一套价值260万美元的房子。与其把房子租出去，我们宁愿持有OpenAI或Anthropic的股票。 / My family is selling a $2.6M home in Miami. We'd rather own OpenAI or Anthropic stock than keep it as a rental property.",
-          "url": "https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-07T08:47:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "54aa49670fe7536e065655d2587d19f032511982",
-          "title": "我家正在迈阿密出售一套价值260万美元的房子。与其把房子租出去，我们宁愿持有OpenAI或Anthropic的股票。",
-          "url": "https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-07T09:15:09.966000Z"
-        },
-        {
-          "id": "d5752e528ae1c866fc646fbb24b31346bd9ca133",
-          "title": "我家正在迈阿密出售一套价值260万美元的房子。与其把房子租出去，我们宁愿持有OpenAI或Anthropic的股票。 / My family is selling a $2.6M home in Miami. We'd rather own OpenAI or Anthropic stock than keep it as a rental property.",
-          "url": "https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-07T08:47:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9551,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-07T08:47:01Z",
-      "latest_at": "2026-06-07T09:15:09.966000Z",
-      "primary_item": {
-        "id": "54aa49670fe7536e065655d2587d19f032511982",
-        "title": "我家正在迈阿密出售一套价值260万美元的房子。与其把房子租出去，我们宁愿持有OpenAI或Anthropic的股票。",
-        "url": "https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
