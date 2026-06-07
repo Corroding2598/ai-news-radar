@@ -13,19 +13,29 @@
         .date-badge { display: inline-block; background: #e0f2fe; color: #0369a1; padding: 6px 16px; border-radius: 20px; font-weight: bold; font-size: 0.95rem; margin-top: 10px; }
         .update-time { color: #6b7280; font-size: 0.85rem; margin-top: 8px; }
         .news-list { display: flex; flex-direction: column; gap: 15px; }
-        .news-card { background: var(--card); padding: 18px 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.03); border: 1px solid #e5e7eb; }
-        .card-header { display: flex; justify-content: space-between; align-items: center; gap: 15px; cursor: pointer; }
-        .news-title { font-size: 1.15rem; font-weight: bold; color: #1e293b; margin: 0; line-height: 1.4; flex-grow: 1; }
-        .toggle-btn { background: #f1f5f9; color: var(--primary); border: none; padding: 6px 12px; border-radius: 6px; font-size: 0.85rem; font-weight: 500; cursor: pointer; white-space: nowrap; transition: all 0.2s; }
-        .toggle-btn:hover { background: #e2e8f0; }
-        .card-content { max-height: 0; overflow: hidden; transition: max-height 0.3s ease-out; }
-        .content-inner { padding: 15px 0 5px 0; border-top: 1px dashed #e5e7eb; margin-top: 12px; }
-        .news-summary { color: #475569; font-size: 0.95rem; line-height: 1.6; margin: 0 0 12px 0; }
-        .news-link { display: inline-block; color: var(--primary); text-decoration: none; font-weight: 500; font-size: 0.9rem; background: #eff6ff; padding: 4px 10px; border-radius: 4px; }
-        .news-link:hover { background: #dbeafe; }
+        
+        /* 卡片 */
+        .news-card { background: var(--card); padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.03); border: 1px solid #e5e7eb; }
+        .news-title { font-size: 1.2rem; font-weight: bold; color: #1e293b; margin: 0 0 10px 0; line-height: 1.4; }
+        .news-summary { color: #475569; font-size: 0.95rem; line-height: 1.6; margin: 0 0 15px 0; }
+        
+        /* 按钮区域 */
+        .card-action { border-top: 1px solid #f1f5f9; padding-top: 12px; }
+        .toggle-btn { background: #eff6ff; color: var(--primary); border: none; padding: 6px 14px; border-radius: 6px; font-size: 0.85rem; font-weight: 500; cursor: pointer; transition: all 0.2s; }
+        .toggle-btn:hover { background: #dbeafe; }
+        
+        /* 折叠动画 */
+        .card-content { max-height: 0; overflow: hidden; transition: max-height 0.25s ease-out; }
+        .content-inner { padding: 10px 0 0 0; }
+        .news-link { display: inline-block; color: #ffffff; text-decoration: none; font-weight: 500; font-size: 0.9rem; background: var(--primary); padding: 8px 14px; border-radius: 6px; box-shadow: 0 2px 4px rgba(37,99,235,0.2); }
+        .news-link:hover { background: #1d4ed8; }
+        
+        .no-link { color: #9ca3af; font-size: 0.85rem; margin: 0; padding-top: 10px; border-top: 1px solid #f1f5f9; }
         .empty { text-align: center; color: #9ca3af; padding: 40px; }
-        .news-card.active .card-content { max-height: 500px; }
-        .news-card.active .toggle-btn { background: #2563eb; color: #ffffff; }
+        
+        /* 展开状态 */
+        .news-card.active .card-content { max-height: 100px; }
+        .news-card.active .toggle-btn { background: #f1f5f9; color: #64748b; }
     </style>
 </head>
 <body>
@@ -38,263 +48,303 @@
         <main class="news-list">
             
         <article class="news-card" id="card-0">
-          <div class="card-header" onclick="toggleCard('card-0')">
-            <h2 class="news-title">1. NVIDIA 与 KRAFTON、NC、T1 在韩国 PC 房庆祝 RTX Spark 发布</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>NVIDIA 与 KRAFTON、NC、T1 在韩国 PC 房庆祝 RTX Spark 发布</p>
-              <a href="https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">1. NVIDIA 与 KRAFTON、NC、T1 在韩国 PC 房庆祝 RTX Spark 发布</h2>
+          <p class="news-summary">📝 <b>摘要：</b>NVIDIA 与 KRAFTON、NC、T1 在韩国 PC 房庆祝 RTX Spark 发布</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-0')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-1">
-          <div class="card-header" onclick="toggleCard('card-1')">
-            <h2 class="news-title">2. 五个实验室，五个心智：用小模型构建多模型金融剧情游戏 / Five labs, five minds: building a multi-model finance drama on small models</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>五个实验室，五个心智：用小模型构建多模型金融剧情游戏 / Five labs, five minds: building a multi-model finance drama on small models</p>
-              <a href="https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">2. 五个实验室，五个心智：用小模型构建多模型金融剧情游戏 / Five labs, five minds: building a multi-model finance drama on small models</h2>
+          <p class="news-summary">📝 <b>摘要：</b>五个实验室，五个心智：用小模型构建多模型金融剧情游戏 / Five labs, five minds: building a multi-model finance drama on small models</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-1')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-2">
-          <div class="card-header" onclick="toggleCard('card-2')">
-            <h2 class="news-title">3. Harness 工程：在智能体优先的世界中运用 Codex</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>Harness 工程：在智能体优先的世界中运用 Codex</p>
-              <a href="https://openai.com/index/harness-engineering" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">3. Harness 工程：在智能体优先的世界中运用 Codex</h2>
+          <p class="news-summary">📝 <b>摘要：</b>Harness 工程：在智能体优先的世界中运用 Codex</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-2')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://openai.com/index/harness-engineering" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-3">
-          <div class="card-header" onclick="toggleCard('card-3')">
-            <h2 class="news-title">4. Harness-1：基于强化学习训练的有状态搜索20B检索子智能体</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>Harness-1：基于强化学习训练的有状态搜索20B检索子智能体</p>
-              <a href="https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">4. Harness-1：基于强化学习训练的有状态搜索20B检索子智能体</h2>
+          <p class="news-summary">📝 <b>摘要：</b>Harness-1：基于强化学习训练的有状态搜索20B检索子智能体</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-3')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-4">
-          <div class="card-header" onclick="toggleCard('card-4')">
-            <h2 class="news-title">5. Opus 4.8 缓存命中率与有效价格可实时查看</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>Opus 4.8 缓存命中率与有效价格可实时查看</p>
-              <a href="https://x.com/OpenRouter/status/2063504950429147376" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">5. Opus 4.8 缓存命中率与有效价格可实时查看</h2>
+          <p class="news-summary">📝 <b>摘要：</b>Opus 4.8 缓存命中率与有效价格可实时查看</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-4')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://x.com/OpenRouter/status/2063504950429147376" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-5">
-          <div class="card-header" onclick="toggleCard('card-5')">
-            <h2 class="news-title">6. 对比一下 GPT-5.5 的设计效果和 Opus 4.8 的设计效果</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>对比一下 GPT-5.5 的设计效果和 Opus 4.8 的设计效果</p>
-              <a href="https://x.com/dotey/status/2063464057647075379" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">6. 对比一下 GPT-5.5 的设计效果和 Opus 4.8 的设计效果</h2>
+          <p class="news-summary">📝 <b>摘要：</b>对比一下 GPT-5.5 的设计效果和 Opus 4.8 的设计效果</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-5')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://x.com/dotey/status/2063464057647075379" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-6">
-          <div class="card-header" onclick="toggleCard('card-6')">
-            <h2 class="news-title">7. 谷歌将每月向SpaceX支付9.2亿美元，以获取xAI数据中心的计算能力</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>谷歌将每月向SpaceX支付9.2亿美元，以获取xAI数据中心的计算能力</p>
-              <a href="https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">7. 谷歌将每月向SpaceX支付9.2亿美元，以获取xAI数据中心的计算能力</h2>
+          <p class="news-summary">📝 <b>摘要：</b>谷歌将每月向SpaceX支付9.2亿美元，以获取xAI数据中心的计算能力</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-6')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-7">
-          <div class="card-header" onclick="toggleCard('card-7')">
-            <h2 class="news-title">8. M3与Opus代码审计13个bug：$0.07 vs $1.30</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>M3与Opus代码审计13个bug：$0.07 vs $1.30</p>
-              <a href="https://x.com/MiniMax_AI/status/2063397618034844135" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">8. M3与Opus代码审计13个bug：$0.07 vs $1.30</h2>
+          <p class="news-summary">📝 <b>摘要：</b>M3与Opus代码审计13个bug：$0.07 vs $1.30</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-7')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://x.com/MiniMax_AI/status/2063397618034844135" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-8">
-          <div class="card-header" onclick="toggleCard('card-8')">
-            <h2 class="news-title">9. AI 的黑色星期五</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>AI 的黑色星期五</p>
-              <a href="https://garymarcus.substack.com/p/ais-black-friday" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">9. AI 的黑色星期五</h2>
+          <p class="news-summary">📝 <b>摘要：</b>AI 的黑色星期五</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-8')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://garymarcus.substack.com/p/ais-black-friday" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-9">
-          <div class="card-header" onclick="toggleCard('card-9')">
-            <h2 class="news-title">10. Persona Atlas：Hugging Face 上的开源人物思维映射工具</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>Persona Atlas：Hugging Face 上的开源人物思维映射工具</p>
-              <a href="https://huggingface.co/blog/build-small-hackathon/persona-atlas" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">10. Persona Atlas：Hugging Face 上的开源人物思维映射工具</h2>
+          <p class="news-summary">📝 <b>摘要：</b>Persona Atlas：Hugging Face 上的开源人物思维映射工具</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-9')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://huggingface.co/blog/build-small-hackathon/persona-atlas" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-10">
-          <div class="card-header" onclick="toggleCard('card-10')">
-            <h2 class="news-title">11. 应该有一种方法可以以不同的方式（而不是仅按项目）过滤或排序我的所有 Codex 线程。就像过滤器或排序依据： - 全部等待批准 - 全部当前正在工作 我试图将其保持在 10 个线程，但它...... / There should be a way to filter or sort all my Codex threads in different ways vs. only by project. Like filter or sort by: - All waiting for approval - All currently working I\'m trying to keep it to 10 threads but it...</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>应该有一种方法可以以不同的方式（而不是仅按项目）过滤或排序我的所有 Codex 线程。就像过滤器或排序依据： - 全部等待批准 - 全部当前正在工作 我试图将其保持在 10 个线程，但它...... / There should be a way to filter or sort all my Codex threads in different ways vs. only by project. Like filter or sort by: - All waiting for approval - All currently working I\'m trying to keep it to 10 threads but it...</p>
-              <a href="https://x.com/petergyang/status/2063475353335869922" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">11. 应该有一种方法可以以不同的方式（而不是仅按项目）过滤或排序我的所有 Codex 线程。就像过滤器或排序依据： - 全部等待批准 - 全部当前正在工作 我试图将其保持在 10 个线程，但它...... / There should be a way to filter or sort all my Codex threads in different ways vs. only by project. Like filter or sort by: - All waiting for approval - All currently working I\'m trying to keep it to 10 threads but it...</h2>
+          <p class="news-summary">📝 <b>摘要：</b>应该有一种方法可以以不同的方式（而不是仅按项目）过滤或排序我的所有 Codex 线程。就像过滤器或排序依据： - 全部等待批准 - 全部当前正在工作 我试图将其保持在 10 个线程，但它...... / There should be a way to filter or sort all my Codex threads in different ways vs. only by project. Like filter or sort by: - All waiting for approval - All currently working I\'m trying to keep it to 10 threads but it...</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-10')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://x.com/petergyang/status/2063475353335869922" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-11">
-          <div class="card-header" onclick="toggleCard('card-11')">
-            <h2 class="news-title">12. GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码</p>
-              <a href="https://x.com/rohanpaul_ai/status/2063246343842501091" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">12. GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码</h2>
+          <p class="news-summary">📝 <b>摘要：</b>GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-11')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://x.com/rohanpaul_ai/status/2063246343842501091" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-12">
-          <div class="card-header" onclick="toggleCard('card-12')">
-            <h2 class="news-title">13. LLM 没有意识。 LLM 并不是没有意识。两者都是真的。 / LLMs are not conscious. LLMs are not not conscious. Both true.</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>LLM 没有意识。 LLM 并不是没有意识。两者都是真的。 / LLMs are not conscious. LLMs are not not conscious. Both true.</p>
-              <a href="https://x.com/danshipper/status/2063426632824562167" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">13. LLM 没有意识。 LLM 并不是没有意识。两者都是真的。 / LLMs are not conscious. LLMs are not not conscious. Both true.</h2>
+          <p class="news-summary">📝 <b>摘要：</b>LLM 没有意识。 LLM 并不是没有意识。两者都是真的。 / LLMs are not conscious. LLMs are not not conscious. Both true.</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-12')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://x.com/danshipper/status/2063426632824562167" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-13">
-          <div class="card-header" onclick="toggleCard('card-13')">
-            <h2 class="news-title">14. 得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海</p>
-              <a href="https://www.infoq.cn/article/pOwoNlmEL9zV0aodLVB9" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">14. 得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海</h2>
+          <p class="news-summary">📝 <b>摘要：</b>得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-13')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://www.infoq.cn/article/pOwoNlmEL9zV0aodLVB9" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-14">
-          <div class="card-header" onclick="toggleCard('card-14')">
-            <h2 class="news-title">15. 我现在和 Claude 一起设计比 Figma 还多 / I design with Claude more than Figma now</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>我现在和 Claude 一起设计比 Figma 还多 / I design with Claude more than Figma now</p>
-              <a href="https://news.ycombinator.com/item?id=48431981" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">15. 我现在和 Claude 一起设计比 Figma 还多 / I design with Claude more than Figma now</h2>
+          <p class="news-summary">📝 <b>摘要：</b>我现在和 Claude 一起设计比 Figma 还多 / I design with Claude more than Figma now</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-14')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://news.ycombinator.com/item?id=48431981" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-15">
-          <div class="card-header" onclick="toggleCard('card-15')">
-            <h2 class="news-title">16. 对于我现在交谈的任何企业来说，代币成本正在成为最热门的话题之一。总体而言，这对人工智能非常乐观，因为这意味着这些系统的使用规模是以前没有想到的…… / Token costs are becoming one of the hottest topics for any enterprise I talk with right now. It’s very bullish for AI in general because it means these systems are being used at a scale that wasn’t contemplated before...</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>对于我现在交谈的任何企业来说，代币成本正在成为最热门的话题之一。总体而言，这对人工智能非常乐观，因为这意味着这些系统的使用规模是以前没有想到的…… / Token costs are becoming one of the hottest topics for any enterprise I talk with right now. It’s very bullish for AI in general because it means these systems are being used at a scale that wasn’t contemplated before...</p>
-              <a href="https://x.com/levie/status/2063320673217609936" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">16. 对于我现在交谈的任何企业来说，代币成本正在成为最热门的话题之一。总体而言，这对人工智能非常乐观，因为这意味着这些系统的使用规模是以前没有想到的…… / Token costs are becoming one of the hottest topics for any enterprise I talk with right now. It’s very bullish for AI in general because it means these systems are being used at a scale that wasn’t contemplated before...</h2>
+          <p class="news-summary">📝 <b>摘要：</b>对于我现在交谈的任何企业来说，代币成本正在成为最热门的话题之一。总体而言，这对人工智能非常乐观，因为这意味着这些系统的使用规模是以前没有想到的…… / Token costs are becoming one of the hottest topics for any enterprise I talk with right now. It’s very bullish for AI in general because it means these systems are being used at a scale that wasn’t contemplated before...</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-15')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://x.com/levie/status/2063320673217609936" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-16">
-          <div class="card-header" onclick="toggleCard('card-16')">
-            <h2 class="news-title">17. 京沪高考作文考 AI，三大模型同台 PK：谁是真正的「作文王者」？</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>京沪高考作文考 AI，三大模型同台 PK：谁是真正的「作文王者」？</p>
-              <a href="https://www.huxiu.com/article/4865128.html?f=rss" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">17. 京沪高考作文考 AI，三大模型同台 PK：谁是真正的「作文王者」？</h2>
+          <p class="news-summary">📝 <b>摘要：</b>京沪高考作文考 AI，三大模型同台 PK：谁是真正的「作文王者」？</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-16')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://www.huxiu.com/article/4865128.html?f=rss" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-17">
-          <div class="card-header" onclick="toggleCard('card-17')">
-            <h2 class="news-title">18. 黄仁勋会见韩国两大游戏商代表共商游戏 AI 合作方案</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>黄仁勋会见韩国两大游戏商代表共商游戏 AI 合作方案</p>
-              <a href="https://36kr.com/newsflashes/3842764594792708?f=rss" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">18. 黄仁勋会见韩国两大游戏商代表共商游戏 AI 合作方案</h2>
+          <p class="news-summary">📝 <b>摘要：</b>黄仁勋会见韩国两大游戏商代表共商游戏 AI 合作方案</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-17')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://36kr.com/newsflashes/3842764594792708?f=rss" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-18">
-          <div class="card-header" onclick="toggleCard('card-18')">
-            <h2 class="news-title">19. AI 真能学会心算？隐式思维链首次得到理论证明，Stuart Russell 参与</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>AI 真能学会心算？隐式思维链首次得到理论证明，Stuart Russell 参与</p>
-              <a href="https://www.huxiu.com/article/4865097.html?f=rss" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">19. AI 真能学会心算？隐式思维链首次得到理论证明，Stuart Russell 参与</h2>
+          <p class="news-summary">📝 <b>摘要：</b>AI 真能学会心算？隐式思维链首次得到理论证明，Stuart Russell 参与</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-18')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://www.huxiu.com/article/4865097.html?f=rss" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         <article class="news-card" id="card-19">
-          <div class="card-header" onclick="toggleCard('card-19')">
-            <h2 class="news-title">20. OpenAI 芯片元老「002 号员工」转投 Anthropic</h2>
-            <button class="toggle-btn">展开内容 ➔</button>
-          </div>
-          <div class="card-content">
-            <div class="content-inner">
-              <p class="news-summary">📝 <b>摘要描述：</b>OpenAI 芯片元老「002 号员工」转投 Anthropic</p>
-              <a href="https://36kr.com/newsflashes/3842586501466625?f=rss" target="_blank" class="news-link">🚀 访问原文链接 ↗</a>
+          <h2 class="news-title">20. OpenAI 芯片元老「002 号员工」转投 Anthropic</h2>
+          <p class="news-summary">📝 <b>摘要：</b>OpenAI 芯片元老「002 号员工」转投 Anthropic</p>
+          
+            <div class="card-action">
+                <button class="toggle-btn" onclick="toggleCard('card-19')">🔗 展开原文查看 ➔</button>
             </div>
-          </div>
+            <div class="card-content">
+                <div class="content-inner">
+                    <a href="https://36kr.com/newsflashes/3842586501466625?f=rss" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
+                </div>
+            </div>
+            
         </article>
         
         </main>
@@ -306,10 +356,10 @@
             const isExpanded = card.classList.contains('active');
             if (isExpanded) {
                 card.classList.remove('active');
-                btn.innerText = '展开内容 ➔';
+                btn.innerText = '🔗 展开原文查看 ➔';
             } else {
                 card.classList.add('active');
-                btn.innerText = '收起内容 ✖';
+                btn.innerText = '✖ 收起原文链接';
             }
         }
     </script>
