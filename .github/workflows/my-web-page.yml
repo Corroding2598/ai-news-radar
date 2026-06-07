@@ -28,9 +28,9 @@ jobs:
         run: |
           python scripts/update_news.py --output-dir data --window-hours 24 --archive-days 21 || true
 
-      - name: 🧠 腾讯混元大模型理科生级深度重写提炼
+      - name: 🧠 阿里云百炼大模型理科生级深度重写提炼
         env:
-          HUNYUAN_KEY: ${{ secrets.HUNYUAN_API_KEY }}
+          ALI_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
         run: |
           python - << 'EOF'
           import json
@@ -54,14 +54,14 @@ jobs:
                   except Exception as e:
                       print(f"读取JSON基础数据失败: {e}")
 
-          api_key = os.environ.get("HUNYUAN_KEY", "")
+          api_key = os.environ.get("ALI_KEY", "")
 
           def ai_refine(title, raw_summary):
               if not api_key:
-                  return "【错误：未配置有效的 HUNYUAN_API_KEY 保险箱凭证】"
+                  return "【错误：未配置有效的 DASHSCOPE_API_KEY 凭证】"
               
-              # 腾讯云原生大模型标准 API 入口
-              url = "https://api.hunyuan.cloud.tencent.com/v1/chat/completions"
+              # 阿里云百炼通义千问官方标准兼容 HTTP API 入口
+              url = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
               headers = {
                   "Authorization": f"Bearer {api_key}",
                   "Content-Type": "application/json"
@@ -73,15 +73,15 @@ jobs:
               【原始零散数据】：{raw_summary}
 
               【硬性指标】：
-              1. 核心受众为『理科大学生』。必须层层剥离技术表象，用理智客观的语调讲清楚这项科技成果的“核心原理”、“应用场景”或“技术突破点是什麼”。
-              2. 提炼篇幅必须充实饱满，字数必须严格控制在 150 到 250 字之间，严禁一句话应付。
+              1. 核心受众为『理科大学生』。必须层层剥离技术表象，用理智客观的语调讲清楚这项科技成果的“核心原理”、“应用场景”或“技术突破点是什么”。
+              2. 提炼篇幅必须充实饱满，字数必须严格控制在 150 到 250 字之间，严禁一句话糊弄。
               3. 严厉拒绝死板直译与生硬黑话（如Prompt、Agent、Fine-tuning等词，必须用通俗易懂的中文进行地道翻译并融入句意解释）。
               4. 严禁输出任何多余的废话引导词，直接吐出最终摘要正文。
               """
               
-              # 精确适配混元开放平台原生轻量/标准版调用规格
+              # 严格遵循阿里云百炼模型规范调用 qwen-plus
               data = {
-                  "model": "hunyuan-lite", # 采用混元高性价比原生轻量/标准平替模型
+                  "model": "qwen-plus",
                   "messages": [
                       {"role": "user", "content": prompt}
                   ],
@@ -90,23 +90,20 @@ jobs:
               
               try:
                   res = requests.post(url, headers=headers, json=data, timeout=30)
-                  # 如果HTTP状态码不对，直接抛出，不糊弄
                   if res.status_code != 200:
-                      return f"【混元服务器响应异常，状态码 {res.status_code}】"
+                      return f"【阿里云服务器响应异常，状态码 {res.status_code}，详情: {res.text[:100]}】"
                       
                   res_json = res.json()
                   
-                  # 安全多重嵌套路径防御解析
                   if 'choices' in res_json and len(res_json['choices']) > 0:
                       content = res_json['choices'][0].get('message', {}).get('content', '')
                       if content:
                           return content.strip()
                   
-                  # 显式捕获并吐出腾讯云官方给的报错原因
                   if 'error' in res_json:
-                      return f"【混元官方报错】：{res_json['error'].get('message', '未知技术障碍')}"
+                      return f"【阿里官方报错】：{res_json['error'].get('message', '未知技术障碍')}"
                       
-                  return f"【解析障碍】接口未返回有效文本，原始响应：{res.text[:80]}"
+                  return f"【解析障碍】阿里接口未返回有效文本"
                   
               except Exception as e:
                   return f"【请求失败，网络或技术障碍】：{str(e)}"
@@ -116,7 +113,7 @@ jobs:
           if not items:
               list_html = '<div class="empty">该报告期内暂无伯乐精选更新</div>'
           else:
-              print(f"正在启动腾讯混元 AI 对前 {min(len(items), 30)} 条资讯进行深度理科生化改造...")
+              print(f"正在启动通义千问 AI 对前 {min(len(items), 30)} 条资讯进行理科生深度适配...")
               for idx, item in enumerate(items[:30]):
                   orig_title = item.get("title", "无标题")
                   orig_url = item.get("url", "#")
@@ -125,10 +122,8 @@ jobs:
                   if not orig_summary and "sources" in item and item["sources"]:
                       orig_summary = item["sources"][0].get("title", "")
                   
-                  # 去大模型换取 150-250 字的详尽硬核提炼
                   ai_summary = ai_refine(orig_title, orig_summary)
                   
-                  # 使用安全规避技术：彻底杜绝特殊符号引起的 JavaScript 渲染崩塌
                   safe_title = html.escape(orig_title)
                   safe_summary = html.escape(ai_summary)
                   
@@ -142,7 +137,7 @@ jobs:
                   </article>
                   '''
 
-          # 4. 生成彻底移除多余广告语、无混元废话行、纯净硬核的 HTML 网页
+          # 4. 生成完美格式的前端页面
           html_content = f'''<!DOCTYPE html>
           <html lang="zh-CN">
           <head>
@@ -181,7 +176,7 @@ jobs:
 
           with open("index.html", "w", encoding="utf-8") as f:
               f.write(html_content)
-          print("经过严格审查的AI网页数据层重新封装完毕！")
+          print("阿里百炼驱动的理科生专属看报页面构建成功！")
           EOF
 
       - name: 🌐 将网页一键发布到 GitHub Pages
