@@ -22,23 +22,28 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt || true
+          # 安装调用混元接口所需的通用网络库
+          pip install requests || true
 
       - name: 🤖 抓取过去 24 小时数据
         run: |
           python scripts/update_news.py --output-dir data --window-hours 24 --archive-days 21 || true
 
-      - name: 📝 用 Python 生成“直观无折叠”极简网页
+      - name: 🧠 调用腾讯混元大模型进行理科生专属提炼并生成网页
+        env:
+          HUNYUAN_KEY: ${{ secrets.HUNYUAN_API_KEY }}
         run: |
           python - << 'EOF'
           import json
           import os
+          import requests
           from datetime import datetime, timedelta, timezone
 
-          # 1. 获取准确的北京时间日期
+          # 1. 获取北京时间
           tz_bj = timezone(timedelta(hours=8))
           report_date = datetime.now(timezone.utc).astimezone(tz_bj).strftime('%Y年%m月%d日')
 
-          # 2. 读取数据
+          # 2. 读取原始抓取数据
           items = []
           file_path = "data/daily-brief.json"
           if os.path.exists(file_path):
@@ -49,33 +54,69 @@ jobs:
                   except:
                       pass
 
-          # 3. 拼接网页列表 HTML
+          api_key = os.environ.get("HUNYUAN_KEY", "")
+
+          # 3. 定义混元AI清洗提炼函数
+          def ai_refine(title, raw_summary):
+              if not api_key:
+                  return raw_summary or "暂无摘要描述"
+              
+              url = "https://api.hunyuan.cloud.tencent.com/v1/chat/completions"
+              headers = {
+                  "Authorization": f"Bearer {api_key}",
+                  "Content-Type": "application/json"
+              }
+              
+              prompt = f"新闻标题：{title}\n原初摘要数据：{raw_summary}\n\n请严格按以下要求对上述科技资讯进行翻译和重写提炼：\n1. 核心面向『理科大学生』，语气理智客观，逻辑清晰。\n2. 字数必须严格控制在 100 到 200 字之间。\n3. 少用或不用小众、生硬的科技圈黑话和直译词，如果出现专业术语（如Prompt、Agent、Fine-tuning等），必须用通俗易懂的中文进行地道翻译与解释，拒绝机器翻译的死板感，不重复车轱辘话。\n4. 直接输出提炼后的最终摘要正文，不要带有『好的』、『摘要如下』等任何废话引导词。"
+              
+              data = {
+                  "model": "hunyuan-standard", # 使用腾讯混元标准版模型
+                  "messages": [
+                      {"role": "user", "content": prompt}
+                  ]
+              }
+              
+              try:
+                  res = requests.post(url, headers=headers, json=data, timeout=30)
+                  res_json = res.json()
+                  refined = res_json['choices'][0]['message']['content'].strip()
+                  return refined
+              except Exception as e:
+                  print(f"AI提炼单条出错: {e}")
+                  return raw_summary or "暂无摘要描述"
+
+          # 4. 开始循环处理前 30 条资讯
           list_html = ""
           if not items:
               list_html = '<div class="empty">该报告期内暂无伯乐精选更新</div>'
           else:
+              print(f"开始用腾讯混元AI精炼共 {min(len(items), 30)} 条科技资讯...")
               for idx, item in enumerate(items[:30]):
-                  title = item.get("title", "无标题").replace("'", "\\'").replace('"', '\\"')
-                  url = item.get("url", "#")
-                  summary = item.get("summary", "")
-                  if not summary and "sources" in item and item["sources"]:
-                      summary = item["sources"][0].get("title", "")
-                  if not summary:
-                      summary = "暂无摘要描述"
-                  summary = summary.replace("'", "\\'").replace('"', '\\"')
+                  orig_title = item.get("title", "无标题")
+                  orig_url = item.get("url", "#")
                   
-                  # 一键直达的链接标签
-                  link_html = f'<div class="card-action"><a href="{url}" target="_blank" class="news-link">🚀 访问原文查看正文 ↗</a></div>' if url != "#" else ""
+                  orig_summary = item.get("summary", "")
+                  if not orig_summary and "sources" in item and item["sources"]:
+                      orig_summary = item["sources"][0].get("title", "")
+                  
+                  # 喂给大模型做理科生定制级降维润色
+                  ai_summary = ai_refine(orig_title, orig_summary)
+                  
+                  # 防止脚本因为特殊标点符号崩溃
+                  clean_title = orig_title.replace("'", "\\'").replace('"', '\\"')
+                  clean_summary = ai_summary.replace("'", "\\'").replace('"', '\\"')
+                  
+                  link_html = f'<div class="card-action"><a href="{orig_url}" target="_blank" class="news-link">🚀 访问原文查看正文 ↗</a></div>' if orig_url != "#" else ""
                   
                   list_html += f'''
                   <article class="news-card">
-                    <h2 class="news-title">{idx + 1}. {title}</h2>
-                    <p class="news-summary">📝 <b>摘要提炼：</b>{summary}</p>
+                    <h2 class="news-title">{idx + 1}. {clean_title}</h2>
+                    <p class="news-summary">📝 {clean_summary}</p>
                     {link_html}
                   </article>
                   '''
 
-          # 4. 完整的 HTML 模板
+          # 5. 完整的 HTML 网页模板
           html_content = f'''<!DOCTYPE html>
           <html lang="zh-CN">
           <head>
@@ -91,13 +132,9 @@ jobs:
                   .date-badge {{ display: inline-block; background: #e0f2fe; color: #0369a1; padding: 6px 16px; border-radius: 20px; font-weight: bold; font-size: 0.95rem; margin-top: 10px; }}
                   .update-time {{ color: #6b7280; font-size: 0.85rem; margin-top: 8px; }}
                   .news-list {{ display: flex; flex-direction: column; gap: 15px; }}
-                  
-                  /* 卡片主样式 */
                   .news-card {{ background: var(--card); padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.03); border: 1px solid #e5e7eb; }}
-                  .news-title {{ font-size: 1.2rem; font-weight: bold; color: #1e293b; margin: 0 0 10px 0; line-height: 1.4; }}
-                  .news-summary {{ color: #475569; font-size: 0.95rem; line-height: 1.6; margin: 0 0 15px 0; }}
-                  
-                  /* 直接展示的链接按钮 */
+                  .news-title {{ font-size: 1.2rem; font-weight: bold; color: #1e293b; margin: 0 0 12px 0; line-height: 1.4; }}
+                  .news-summary {{ color: #475569; font-size: 0.98rem; line-height: 1.65; margin: 0 0 15px 0; text-align: justify; }}
                   .card-action {{ border-top: 1px dashed #e5e7eb; padding-top: 12px; }}
                   .news-link {{ display: inline-block; color: var(--primary); text-decoration: none; font-weight: 500; font-size: 0.88rem; background: #eff6ff; padding: 6px 12px; border-radius: 6px; transition: all 0.2s; }}
                   .news-link:hover {{ background: #2563eb; color: #ffffff; }}
@@ -109,7 +146,7 @@ jobs:
                   <header>
                       <h1>🤖 伯乐精选 · AI 每日雷达</h1>
                       <div class="date-badge">📅 当前报告期：{report_date}</div>
-                      <p class="update-time">（系统于每天北京时间 21:00 自动抓取更新）</p>
+                      <p class="update-time">🧠 本期内容已由腾讯混元大模型为理科生定制提炼</p>
                   </header>
                   <main class="news-list">
                       {list_html}
@@ -120,7 +157,7 @@ jobs:
 
           with open("index.html", "w", encoding="utf-8") as f:
               f.write(html_content)
-          print("无折叠纯净HTML复写成功！")
+          print("AI级理科生看报HTML页面大功告成！")
           EOF
 
       - name: 🌐 将网页一键发布到 GitHub Pages
