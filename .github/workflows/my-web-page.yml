@@ -37,6 +37,7 @@ jobs:
           import os
           import requests
           import html
+          import re
           from datetime import datetime, timedelta, timezone
 
           # 1. 获取北京时间日期
@@ -60,60 +61,55 @@ jobs:
               if not api_key:
                   return "【错误：未配置有效的 DASHSCOPE_API_KEY 凭证】"
               
-              # 阿里云百炼通义千问官方标准兼容 HTTP API 入口
               url = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
               headers = {
                   "Authorization": f"Bearer {api_key}",
                   "Content-Type": "application/json"
               }
               
+              # 核心升级：改写 Prompt，加入“降维类比”和“科普化”指令
               prompt = f"""
-              请对以下科技资讯进行降维翻译与深度硬核提炼：
+              请对以下科技资讯进行科普化、趣味化的深度重写提炼：
               【新闻标题】：{title}
               【原始零散数据】：{raw_summary}
 
               【硬性指标】：
-              1. 核心受众为『理科大学生』。必须层层剥离技术表象，用理智客观的语调讲清楚这项科技成果的“核心原理”、“应用场景”或“技术突破点是什么”。
-              2. 提炼篇幅必须充实饱满，字数必须严格控制在 150 到 250 字之间，严禁一句话糊弄。
-              3. 严厉拒绝死板直译与生硬黑话（如Prompt、Agent、Fine-tuning等词，必须用通俗易懂的中文进行地道翻译并融入句意解释）。
-              4. 严禁输出任何多余的废话引导词，直接吐出最终摘要正文。
+              1. 目标受众：虽然是『理科大学生』，但要确保非本专业的同学也能一眼看懂。请用更接地气、通俗易懂的中文来解释，不要像写学术论文那样高冷。
+              2. 降维打击专业概念：如果文中出现生硬的专业术语、技术指标、或AI圈黑话（例如：Fine-tuning、Agent、LLM、RLHF、物理渲染等），必须使用日常生活的常见事物进行“打比方/类比”解释。
+                 - 例如：不要干巴巴说“微调（Fine-tuning）”，要说“微调（就像让一个读完大学的通才去专门考个特定岗位的证书）”。
+              3. 讲清核心逻辑：用人话说明白这项成果“帮我们解决了什么实际问题”或者“带来了什么好玩的改变”。
+              4. 格式要求：篇幅保持充实（150 到 250 字），合理分为 1 或 2 个段落。必须在你认为最核心、最接地气的技术突破点或关键数据上，使用 **双星号加粗** 括起来。
+              5. 严禁输出废话，直接吐出最终摘要正文。
               """
               
-              # 严格遵循阿里云百炼模型规范调用 qwen-plus
               data = {
                   "model": "qwen-plus",
                   "messages": [
                       {"role": "user", "content": prompt}
                   ],
-                  "temperature": 0.2
+                  "temperature": 0.4  # 稍微提高一点点创造力，让大模型打比方更生动
               }
               
               try:
                   res = requests.post(url, headers=headers, json=data, timeout=30)
                   if res.status_code != 200:
-                      return f"【阿里云服务器响应异常，状态码 {res.status_code}，详情: {res.text[:100]}】"
+                      return f"【阿里云服务器响应异常，状态码 {res.status_code}】"
                       
                   res_json = res.json()
-                  
                   if 'choices' in res_json and len(res_json['choices']) > 0:
                       content = res_json['choices'][0].get('message', {}).get('content', '')
                       if content:
                           return content.strip()
-                  
-                  if 'error' in res_json:
-                      return f"【阿里官方报错】：{res_json['error'].get('message', '未知技术障碍')}"
-                      
                   return f"【解析障碍】阿里接口未返回有效文本"
-                  
               except Exception as e:
-                  return f"【请求失败，网络或技术障碍】：{str(e)}"
+                  return f"【请求失败】：{str(e)}"
 
-          # 3. 拼接纯净安全的 HTML
+          # 3. 拼接并转换格式
           list_html = ""
           if not items:
               list_html = '<div class="empty">该报告期内暂无伯乐精选更新</div>'
           else:
-              print(f"正在启动通义千问 AI 对前 {min(len(items), 30)} 条资讯进行理科生深度适配...")
+              print(f"正在启动通义千问 AI 进行通俗科普化改造...")
               for idx, item in enumerate(items[:30]):
                   orig_title = item.get("title", "无标题")
                   orig_url = item.get("url", "#")
@@ -127,17 +123,21 @@ jobs:
                   safe_title = html.escape(orig_title)
                   safe_summary = html.escape(ai_summary)
                   
+                  # 还原加粗与换行
+                  safe_summary = re.sub(r'\*\*(.*?)\*\*|&amp;quot;\*\*(.*?)\*\*&amp;quot;', r'<strong>\1\2</strong>', safe_summary)
+                  safe_summary = safe_summary.replace('\n', '<br>')
+                  
                   link_html = f'<div class="card-action"><a href="{orig_url}" target="_blank" class="news-link">🚀 访问原文查看正文 ↗</a></div>' if orig_url != "#" else ""
                   
                   list_html += f'''
                   <article class="news-card">
                     <h2 class="news-title">{idx + 1}. {safe_title}</h2>
-                    <p class="news-summary">📝 {safe_summary}</p>
+                    <div class="news-summary">📝 {safe_summary}</div>
                     {link_html}
                   </article>
                   '''
 
-          # 4. 生成完美格式的前端页面
+          # 4. 生成清爽前端页面
           html_content = f'''<!DOCTYPE html>
           <html lang="zh-CN">
           <head>
@@ -154,7 +154,8 @@ jobs:
                   .news-list {{ display: flex; flex-direction: column; gap: 15px; margin-top: 20px; }}
                   .news-card {{ background: var(--card); padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.03); border: 1px solid #e5e7eb; }}
                   .news-title {{ font-size: 1.2rem; font-weight: bold; color: #1e293b; margin: 0 0 12px 0; line-height: 1.4; }}
-                  .news-summary {{ color: #475569; font-size: 0.98rem; line-height: 1.7; margin: 0 0 15px 0; text-align: justify; white-space: pre-wrap; }}
+                  .news-summary {{ color: #475569; font-size: 0.98rem; line-height: 1.7; margin: 0 0 15px 0; text-align: justify; }}
+                  .news-summary strong {{ color: #1e3a8a; background-color: #f0fdf4; padding: 0 2px; border-radius: 4px; font-weight: 600; }}
                   .card-action {{ border-top: 1px dashed #e5e7eb; padding-top: 12px; }}
                   .news-link {{ display: inline-block; color: var(--primary); text-decoration: none; font-weight: 500; font-size: 0.88rem; background: #eff6ff; padding: 6px 12px; border-radius: 6px; transition: all 0.2s; }}
                   .news-link:hover {{ background: #2563eb; color: #ffffff; }}
@@ -176,7 +177,7 @@ jobs:
 
           with open("index.html", "w", encoding="utf-8") as f:
               f.write(html_content)
-          print("阿里百炼驱动的理科生专属看报页面构建成功！")
+          print("科普化升级页面发布成功！")
           EOF
 
       - name: 🌐 将网页一键发布到 GitHub Pages
