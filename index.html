@@ -42,13 +42,18 @@
                     const title = item.title || '无标题';
                     const url = item.url || '#';
                     let summary = item.summary || (item.sources && item.sources[0] ? item.sources[0].title : '暂无摘要');
-                    return `
-                        <article class="news-card">
-                            <h2 class="news-title">${idx + 1}. ${title}</h2>
-                            <p class="news-summary">${summary}</p>
-                            \${url !== '#' ? `<a href="\${url}" target="_blank" class="news-link">查看原文 ↗</a>` : ''}
-                        </article>
-                    `;
+                    
+                    // 这里彻底修复了转义Bug
+                    let linkHtml = '';
+                    if (url !== '#') {
+                        linkHtml = '<a href="' + url + '" target="_blank" class="news-link">查看原文 ↗</a>';
+                    }
+                    
+                    return '<article class="news-card">' +
+                           '<h2 class="news-title">' + (idx + 1) + '. ' + title + '</h2>' +
+                           '<p class="news-summary">' + summary + '</p>' +
+                           linkHtml +
+                           '</article>';
                 }).join('');
             } catch (e) {
                 document.getElementById('news-list').innerHTML = '<div class="empty">数据加载中或暂无数据，请稍后再试</div>';
