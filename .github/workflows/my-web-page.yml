@@ -27,7 +27,7 @@ jobs:
         run: |
           python scripts/update_news.py --output-dir data --window-hours 24 --archive-days 21 || true
 
-      - name: 📝 用 Python 生成“露摘要、折链接”网页
+      - name: 📝 用 Python 生成“直观无折叠”极简网页
         run: |
           python - << 'EOF'
           import json
@@ -64,28 +64,14 @@ jobs:
                       summary = "暂无摘要描述"
                   summary = summary.replace("'", "\\'").replace('"', '\\"')
                   
-                  card_id = f"card-{idx}"
-                  
-                  # 只有当有真实链接时才渲染折叠区域
-                  if url != "#":
-                      action_area = f'''
-                      <div class="card-action">
-                          <button class="toggle-btn" onclick="toggleCard('{card_id}')">🔗 展开原文查看 ➔</button>
-                      </div>
-                      <div class="card-content">
-                          <div class="content-inner">
-                              <a href="{url}" target="_blank" class="news-link">🚀 离开当前页，访问原始网站 ↗</a>
-                          </div>
-                      </div>
-                      '''
-                  else:
-                      action_area = '<p class="no-link">📌 此条资讯暂无外部链接</p>'
+                  # 一键直达的链接标签
+                  link_html = f'<div class="card-action"><a href="{url}" target="_blank" class="news-link">🚀 访问原文查看正文 ↗</a></div>' if url != "#" else ""
                   
                   list_html += f'''
-                  <article class="news-card" id="{card_id}">
+                  <article class="news-card">
                     <h2 class="news-title">{idx + 1}. {title}</h2>
-                    <p class="news-summary">📝 <b>摘要：</b>{summary}</p>
-                    {action_area}
+                    <p class="news-summary">📝 <b>摘要提炼：</b>{summary}</p>
+                    {link_html}
                   </article>
                   '''
 
@@ -106,28 +92,16 @@ jobs:
                   .update-time {{ color: #6b7280; font-size: 0.85rem; margin-top: 8px; }}
                   .news-list {{ display: flex; flex-direction: column; gap: 15px; }}
                   
-                  /* 卡片 */
+                  /* 卡片主样式 */
                   .news-card {{ background: var(--card); padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.03); border: 1px solid #e5e7eb; }}
                   .news-title {{ font-size: 1.2rem; font-weight: bold; color: #1e293b; margin: 0 0 10px 0; line-height: 1.4; }}
                   .news-summary {{ color: #475569; font-size: 0.95rem; line-height: 1.6; margin: 0 0 15px 0; }}
                   
-                  /* 按钮区域 */
-                  .card-action {{ border-top: 1px solid #f1f5f9; padding-top: 12px; }}
-                  .toggle-btn {{ background: #eff6ff; color: var(--primary); border: none; padding: 6px 14px; border-radius: 6px; font-size: 0.85rem; font-weight: 500; cursor: pointer; transition: all 0.2s; }}
-                  .toggle-btn:hover {{ background: #dbeafe; }}
-                  
-                  /* 折叠动画 */
-                  .card-content {{ max-height: 0; overflow: hidden; transition: max-height 0.25s ease-out; }}
-                  .content-inner {{ padding: 10px 0 0 0; }}
-                  .news-link {{ display: inline-block; color: #ffffff; text-decoration: none; font-weight: 500; font-size: 0.9rem; background: var(--primary); padding: 8px 14px; border-radius: 6px; box-shadow: 0 2px 4px rgba(37,99,235,0.2); }}
-                  .news-link:hover {{ background: #1d4ed8; }}
-                  
-                  .no-link {{ color: #9ca3af; font-size: 0.85rem; margin: 0; padding-top: 10px; border-top: 1px solid #f1f5f9; }}
+                  /* 直接展示的链接按钮 */
+                  .card-action {{ border-top: 1px dashed #e5e7eb; padding-top: 12px; }}
+                  .news-link {{ display: inline-block; color: var(--primary); text-decoration: none; font-weight: 500; font-size: 0.88rem; background: #eff6ff; padding: 6px 12px; border-radius: 6px; transition: all 0.2s; }}
+                  .news-link:hover {{ background: #2563eb; color: #ffffff; }}
                   .empty {{ text-align: center; color: #9ca3af; padding: 40px; }}
-                  
-                  /* 展开状态 */
-                  .news-card.active .card-content {{ max-height: 100px; }}
-                  .news-card.active .toggle-btn {{ background: #f1f5f9; color: #64748b; }}
               </style>
           </head>
           <body>
@@ -141,26 +115,12 @@ jobs:
                       {list_html}
                   </main>
               </div>
-              <script>
-                  function toggleCard(cardId) {{
-                      const card = document.getElementById(cardId);
-                      const btn = card.querySelector('.toggle-btn');
-                      const isExpanded = card.classList.contains('active');
-                      if (isExpanded) {{
-                          card.classList.remove('active');
-                          btn.innerText = '🔗 展开原文查看 ➔';
-                      }} else {{
-                          card.classList.add('active');
-                          btn.innerText = '✖ 收起原文链接';
-                      }}
-                  }}
-              </script>
           </body>
           </html>'''
 
           with open("index.html", "w", encoding="utf-8") as f:
               f.write(html_content)
-          print("新结构HTML复写成功！")
+          print("无折叠纯净HTML复写成功！")
           EOF
 
       - name: 🌐 将网页一键发布到 GitHub Pages
