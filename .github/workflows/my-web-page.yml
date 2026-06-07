@@ -51,16 +51,16 @@ jobs:
                   try:
                       raw_data = json.load(f)
                       items = raw_data.get("items", []) if isinstance(raw_data, dict) else raw_data
-                  except:
-                      pass
+                  except Exception as e:
+                      print(f"读取JSON基础数据失败: {e}")
 
           api_key = os.environ.get("HUNYUAN_KEY", "")
 
           def ai_refine(title, raw_summary):
               if not api_key:
-                  return "未配置有效的 API Key，无法进行 AI 深度提炼。"
+                  return "【错误：未配置有效的 HUNYUAN_API_KEY 保险箱凭证】"
               
-              # 关键修复：腾讯云 TokenHub / 混元原生标准流式/非流式通用统一接口路径
+              # 腾讯云原生大模型标准 API 入口
               url = "https://api.hunyuan.cloud.tencent.com/v1/chat/completions"
               headers = {
                   "Authorization": f"Bearer {api_key}",
@@ -70,17 +70,18 @@ jobs:
               prompt = f"""
               请对以下科技资讯进行降维翻译与深度硬核提炼：
               【新闻标题】：{title}
-              【原粗糙数据】：{raw_summary}
+              【原始零散数据】：{raw_summary}
 
               【硬性指标】：
-              1. 核心受众为『理科大学生』。必须层层剥离技术表象，用理智客观的语调讲清楚这项科技成果的“核心原理”、“应用场景”或“技术突破点”。
-              2. 提炼篇幅必须充实饱满，严禁一句话应付，字数必须严格控制在 150 到 250 字之间。
+              1. 核心受众为『理科大学生』。必须层层剥离技术表象，用理智客观的语调讲清楚这项科技成果的“核心原理”、“应用场景”或“技术突破点是什麼”。
+              2. 提炼篇幅必须充实饱满，字数必须严格控制在 150 到 250 字之间，严禁一句话应付。
               3. 严厉拒绝死板直译与生硬黑话（如Prompt、Agent、Fine-tuning等词，必须用通俗易懂的中文进行地道翻译并融入句意解释）。
-              4. 严禁输出任何多余的废话引导词，直接吐出摘要正文。
+              4. 严禁输出任何多余的废话引导词，直接吐出最终摘要正文。
               """
               
+              # 精确适配混元开放平台原生轻量/标准版调用规格
               data = {
-                  "model": "hunyuan-standard", # 腾讯混元标准大模型
+                  "model": "hunyuan-lite", # 采用混元高性价比原生轻量/标准平替模型
                   "messages": [
                       {"role": "user", "content": prompt}
                   ],
@@ -89,27 +90,33 @@ jobs:
               
               try:
                   res = requests.post(url, headers=headers, json=data, timeout=30)
+                  # 如果HTTP状态码不对，直接抛出，不糊弄
+                  if res.status_code != 200:
+                      return f"【混元服务器响应异常，状态码 {res.status_code}】"
+                      
                   res_json = res.json()
                   
-                  # 兼容性多路径解析，彻底防止 'choices' 报错卡死
-                  if 'choices' in res_json and res_json['choices']:
-                      return res_json['choices'][0]['message']['content'].strip()
-                  elif 'data' in res_json and 'choices' in res_json['data']:
-                      return res_json['data']['choices'][0]['message']['content'].strip()
-                  elif 'Error' in res_json or 'error' in res_json:
-                      err_msg = res_json.get('error', {}).get('message', '未知错误')
-                      return f"混元接口返回了错误: {err_msg}"
-                  else:
-                      return f"接口返回异常格式，原始响应: {res.text[:100]}"
+                  # 安全多重嵌套路径防御解析
+                  if 'choices' in res_json and len(res_json['choices']) > 0:
+                      content = res_json['choices'][0].get('message', {}).get('content', '')
+                      if content:
+                          return content.strip()
+                  
+                  # 显式捕获并吐出腾讯云官方给的报错原因
+                  if 'error' in res_json:
+                      return f"【混元官方报错】：{res_json['error'].get('message', '未知技术障碍')}"
+                      
+                  return f"【解析障碍】接口未返回有效文本，原始响应：{res.text[:80]}"
+                  
               except Exception as e:
-                  return f"请求失败，技术障碍原因: {str(e)}"
+                  return f"【请求失败，网络或技术障碍】：{str(e)}"
 
           # 3. 拼接纯净安全的 HTML
           list_html = ""
           if not items:
               list_html = '<div class="empty">该报告期内暂无伯乐精选更新</div>'
           else:
-              print(f"正在使用腾讯混元 AI 加工前 {min(len(items), 30)} 条资讯...")
+              print(f"正在启动腾讯混元 AI 对前 {min(len(items), 30)} 条资讯进行深度理科生化改造...")
               for idx, item in enumerate(items[:30]):
                   orig_title = item.get("title", "无标题")
                   orig_url = item.get("url", "#")
@@ -118,9 +125,10 @@ jobs:
                   if not orig_summary and "sources" in item and item["sources"]:
                       orig_summary = item["sources"][0].get("title", "")
                   
-                  # 换取真正长达 150-250 字的 AI 提炼
+                  # 去大模型换取 150-250 字的详尽硬核提炼
                   ai_summary = ai_refine(orig_title, orig_summary)
                   
+                  # 使用安全规避技术：彻底杜绝特殊符号引起的 JavaScript 渲染崩塌
                   safe_title = html.escape(orig_title)
                   safe_summary = html.escape(ai_summary)
                   
@@ -134,7 +142,7 @@ jobs:
                   </article>
                   '''
 
-          # 4. 生成无混元废话行、且没有前端 JS 报错的网页
+          # 4. 生成彻底移除多余广告语、无混元废话行、纯净硬核的 HTML 网页
           html_content = f'''<!DOCTYPE html>
           <html lang="zh-CN">
           <head>
@@ -153,4 +161,31 @@ jobs:
                   .news-title {{ font-size: 1.2rem; font-weight: bold; color: #1e293b; margin: 0 0 12px 0; line-height: 1.4; }}
                   .news-summary {{ color: #475569; font-size: 0.98rem; line-height: 1.7; margin: 0 0 15px 0; text-align: justify; white-space: pre-wrap; }}
                   .card-action {{ border-top: 1px dashed #e5e7eb; padding-top: 12px; }}
-                  .news-link {{ display: inline-block; color: var(--primary); text-decoration: none; font-weight:
+                  .news-link {{ display: inline-block; color: var(--primary); text-decoration: none; font-weight: 500; font-size: 0.88rem; background: #eff6ff; padding: 6px 12px; border-radius: 6px; transition: all 0.2s; }}
+                  .news-link:hover {{ background: #2563eb; color: #ffffff; }}
+                  .empty {{ text-align: center; color: #9ca3af; padding: 40px; }}
+              </style>
+          </head>
+          <body>
+              <div class="container">
+                  <header>
+                      <h1>🤖 伯乐精选 · AI 每日雷达</h1>
+                      <div class="date-badge">📅 当前报告期：{report_date}</div>
+                  </header>
+                  <main class="news-list">
+                      {list_html}
+                  </main>
+              </div>
+          </body>
+          </html>'''
+
+          with open("index.html", "w", encoding="utf-8") as f:
+              f.write(html_content)
+          print("经过严格审查的AI网页数据层重新封装完毕！")
+          EOF
+
+      - name: 🌐 将网页一键发布到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
