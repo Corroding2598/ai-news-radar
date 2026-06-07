@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T09:25:46.789120Z",
+  "generated_at": "2026-06-07T09:36:53.205092Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7918,
-      "importance": 0.7918,
-      "importance_score": 0.7918,
+      "score": 0.7902,
+      "importance": 0.7902,
+      "importance_score": 0.7902,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8989,
+        "recency": 0.8912,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -117,14 +117,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7901,
-      "importance": 0.7901,
-      "importance_score": 0.7901,
+      "score": 0.7886,
+      "importance": 0.7886,
+      "importance_score": 0.7886,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.4005,
+        "recency": 0.3928,
         "story_heat": 0.25
       },
       "category": "official",
@@ -198,14 +198,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7889,
-      "importance": 0.7889,
-      "importance_score": 0.7889,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7596,
+        "recency": 0.7519,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -259,14 +259,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7869,
-      "importance": 0.7869,
-      "importance_score": 0.7869,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8747,
+        "recency": 0.867,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -319,14 +319,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8674,
+        "recency": 0.8597,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -379,14 +379,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7546,
+        "recency": 0.7469,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -439,14 +439,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7268,
+      "importance": 0.7268,
+      "importance_score": 0.7268,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5819,
+        "recency": 0.5742,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -498,14 +498,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7262,
-      "importance": 0.7262,
-      "importance_score": 0.7262,
+      "score": 0.7247,
+      "importance": 0.7247,
+      "importance_score": 0.7247,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5712,
+        "recency": 0.5635,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -557,14 +557,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6701,
-      "importance": 0.6701,
-      "importance_score": 0.6701,
+      "score": 0.6686,
+      "importance": 0.6686,
+      "importance_score": 0.6686,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2905,
+        "recency": 0.2828,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -635,14 +635,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6559,
-      "importance": 0.6559,
-      "importance_score": 0.6559,
+      "score": 0.6544,
+      "importance": 0.6544,
+      "importance_score": 0.6544,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0946,
+        "recency": 0.0869,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -695,14 +695,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6482,
-      "importance": 0.6482,
-      "importance_score": 0.6482,
+      "score": 0.6466,
+      "importance": 0.6466,
+      "importance_score": 0.6466,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
         "ai_relevance": 0.81,
-        "recency": 0.7858,
+        "recency": 0.778,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -754,14 +754,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6428,
-      "importance": 0.6428,
-      "importance_score": 0.6428,
+      "score": 0.6412,
+      "importance": 0.6412,
+      "importance_score": 0.6412,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1538,
+        "recency": 0.1461,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -813,14 +813,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6213,
-      "importance": 0.6213,
-      "importance_score": 0.6213,
+      "score": 0.6197,
+      "importance": 0.6197,
+      "importance_score": 0.6197,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
         "ai_relevance": 0.81,
-        "recency": 0.6513,
+        "recency": 0.6436,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -969,14 +969,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5636,
-      "importance": 0.5636,
-      "importance_score": 0.5636,
+      "score": 0.5621,
+      "importance": 0.5621,
+      "importance_score": 0.5621,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9531,
+        "recency": 0.9454,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1028,14 +1028,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5508,
-      "importance": 0.5508,
-      "importance_score": 0.5508,
+      "score": 0.5492,
+      "importance": 0.5492,
+      "importance_score": 0.5492,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
         "ai_relevance": 0.77,
-        "recency": 0.3589,
+        "recency": 0.3512,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1050,6 +1050,240 @@
         "url": "https://x.com/levie/status/2063320673217609936",
         "source": "Follow Builders · X · Aaron Levie",
         "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_5ff47086408d",
+      "title": "AI 男友会干掉传统乙游吗？",
+      "url": "https://www.huxiu.com/article/4865130.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4865130.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "8845992afcdeb11c1573e32ed6b7ec9007cf9ccf",
+          "title": "AI 男友会干掉传统乙游吗？",
+          "url": "https://www.huxiu.com/article/4865130.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "bc54431315b7f43f787d2163cd100d861d0830cf",
+          "title": "AI男友会干掉传统乙游吗？",
+          "url": "https://www.huxiu.com/article/4865130.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-07T08:52:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "8845992afcdeb11c1573e32ed6b7ec9007cf9ccf",
+          "title": "AI 男友会干掉传统乙游吗？",
+          "url": "https://www.huxiu.com/article/4865130.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "bc54431315b7f43f787d2163cd100d861d0830cf",
+          "title": "AI男友会干掉传统乙游吗？",
+          "url": "https://www.huxiu.com/article/4865130.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-07T08:52:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-07T08:52:56Z",
+      "latest_at": "2026-06-07T09:36:53.205092Z",
+      "primary_item": {
+        "id": "8845992afcdeb11c1573e32ed6b7ec9007cf9ccf",
+        "title": "AI 男友会干掉传统乙游吗？",
+        "url": "https://www.huxiu.com/article/4865130.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_acb85c2bc5ab",
+      "title": "人工智能热潮正以前所未有的速度消耗着电力",
+      "url": "https://www.businessinsider.com/us-ai-data-center-power-electricity-use-consumption-2026-6",
+      "primary_url": "https://www.businessinsider.com/us-ai-data-center-power-electricity-use-consumption-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7c2afef63ea8d7faf96f8911e754884a5ee1ec8c",
+          "title": "人工智能热潮正以前所未有的速度消耗着电力",
+          "url": "https://www.businessinsider.com/us-ai-data-center-power-electricity-use-consumption-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-07T09:31:21.615000Z"
+        },
+        {
+          "id": "1b9aab447f5bd5f5a8ac1c471282b3e74616724d",
+          "title": "人工智能热潮正以前所未有的速度消耗着电力 / The AI boom is gobbling up power faster than ever",
+          "url": "https://www.businessinsider.com/us-ai-data-center-power-electricity-use-consumption-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-07T09:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "7c2afef63ea8d7faf96f8911e754884a5ee1ec8c",
+          "title": "人工智能热潮正以前所未有的速度消耗着电力",
+          "url": "https://www.businessinsider.com/us-ai-data-center-power-electricity-use-consumption-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-07T09:31:21.615000Z"
+        },
+        {
+          "id": "1b9aab447f5bd5f5a8ac1c471282b3e74616724d",
+          "title": "人工智能热潮正以前所未有的速度消耗着电力 / The AI boom is gobbling up power faster than ever",
+          "url": "https://www.businessinsider.com/us-ai-data-center-power-electricity-use-consumption-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-07T09:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5472,
+      "importance": 0.5472,
+      "importance_score": 0.5472,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9962,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-07T09:00:01Z",
+      "latest_at": "2026-06-07T09:31:21.615000Z",
+      "primary_item": {
+        "id": "7c2afef63ea8d7faf96f8911e754884a5ee1ec8c",
+        "title": "人工智能热潮正以前所未有的速度消耗着电力",
+        "url": "https://www.businessinsider.com/us-ai-data-center-power-electricity-use-consumption-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_51061f7681e7",
+      "title": "我家正在迈阿密出售一套价值260万美元的房子。与其把房子租出去，我们宁愿持有OpenAI或Anthropic的股票。",
+      "url": "https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6",
+      "primary_url": "https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "54aa49670fe7536e065655d2587d19f032511982",
+          "title": "我家正在迈阿密出售一套价值260万美元的房子。与其把房子租出去，我们宁愿持有OpenAI或Anthropic的股票。",
+          "url": "https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-07T09:15:09.966000Z"
+        },
+        {
+          "id": "d5752e528ae1c866fc646fbb24b31346bd9ca133",
+          "title": "我家正在迈阿密出售一套价值260万美元的房子。与其把房子租出去，我们宁愿持有OpenAI或Anthropic的股票。 / My family is selling a $2.6M home in Miami. We'd rather own OpenAI or Anthropic stock than keep it as a rental property.",
+          "url": "https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-07T08:47:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "54aa49670fe7536e065655d2587d19f032511982",
+          "title": "我家正在迈阿密出售一套价值260万美元的房子。与其把房子租出去，我们宁愿持有OpenAI或Anthropic的股票。",
+          "url": "https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-07T09:15:09.966000Z"
+        },
+        {
+          "id": "d5752e528ae1c866fc646fbb24b31346bd9ca133",
+          "title": "我家正在迈阿密出售一套价值260万美元的房子。与其把房子租出去，我们宁愿持有OpenAI或Anthropic的股票。 / My family is selling a $2.6M home in Miami. We'd rather own OpenAI or Anthropic stock than keep it as a rental property.",
+          "url": "https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-07T08:47:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9849,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-07T08:47:01Z",
+      "latest_at": "2026-06-07T09:15:09.966000Z",
+      "primary_item": {
+        "id": "54aa49670fe7536e065655d2587d19f032511982",
+        "title": "我家正在迈阿密出售一套价值260万美元的房子。与其把房子租出去，我们宁愿持有OpenAI或Anthropic的股票。",
+        "url": "https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1106,14 +1340,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9646,
+        "recency": 0.9569,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1126,277 +1360,6 @@
         "id": "392549654b7b506f3d7470a24d27574bcbba53ad",
         "title": "京沪高考作文考 AI，三大模型同台 PK：谁是真正的「作文王者」？",
         "url": "https://www.huxiu.com/article/4865128.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_7726ad0c1b3a",
-      "title": "黄仁勋会见韩国两大游戏商代表共商游戏 AI 合作方案",
-      "url": "https://36kr.com/newsflashes/3842764594792708?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3842764594792708?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "b4feda0663bf25aa14d77bb828a36514f28c3b86",
-          "title": "黄仁勋会见韩国两大游戏商代表共商游戏 AI 合作方案",
-          "url": "https://36kr.com/newsflashes/3842764594792708?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "34fc3669fe01e3cddf3e7f6d44ada8b2a8325fa7",
-          "title": "黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案",
-          "url": "https://36kr.com/newsflashes/3842764594792708?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-07T07:30:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b4feda0663bf25aa14d77bb828a36514f28c3b86",
-          "title": "黄仁勋会见韩国两大游戏商代表共商游戏 AI 合作方案",
-          "url": "https://36kr.com/newsflashes/3842764594792708?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "34fc3669fe01e3cddf3e7f6d44ada8b2a8325fa7",
-          "title": "黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案",
-          "url": "https://36kr.com/newsflashes/3842764594792708?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-07T07:30:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9646,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-07T07:30:10Z",
-      "latest_at": "2026-06-07T08:34:48.660498Z",
-      "primary_item": {
-        "id": "b4feda0663bf25aa14d77bb828a36514f28c3b86",
-        "title": "黄仁勋会见韩国两大游戏商代表共商游戏 AI 合作方案",
-        "url": "https://36kr.com/newsflashes/3842764594792708?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_56d71d54a16f",
-      "title": "AI 真能学会心算？隐式思维链首次得到理论证明，Stuart Russell 参与",
-      "url": "https://www.huxiu.com/article/4865097.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4865097.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "4dde7faa56d708acd38f41d2a43b0e714a0ae17b",
-          "title": "AI 真能学会心算？隐式思维链首次得到理论证明，Stuart Russell 参与",
-          "url": "https://www.huxiu.com/article/4865097.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2a2433ebd47911049d259fcee848bf08de054984",
-          "title": "AI 真能学会心算？隐式思维链首次得到理论证明，Stuart Russell 参与",
-          "url": "https://news.qq.com/rain/a/20260607A03PDF00",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f529299e4cb7c75a07c7bb6cbe2ae741a53c3469",
-          "title": "AI真能学会心算？隐式思维链首次得到理论证明，Stuart Russell参与",
-          "url": "https://www.huxiu.com/article/4865097.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-07T03:49:24Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "4dde7faa56d708acd38f41d2a43b0e714a0ae17b",
-          "title": "AI 真能学会心算？隐式思维链首次得到理论证明，Stuart Russell 参与",
-          "url": "https://www.huxiu.com/article/4865097.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2a2433ebd47911049d259fcee848bf08de054984",
-          "title": "AI 真能学会心算？隐式思维链首次得到理论证明，Stuart Russell 参与",
-          "url": "https://news.qq.com/rain/a/20260607A03PDF00",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f529299e4cb7c75a07c7bb6cbe2ae741a53c3469",
-          "title": "AI真能学会心算？隐式思维链首次得到理论证明，Stuart Russell参与",
-          "url": "https://www.huxiu.com/article/4865097.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-07T03:49:24Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.537,
-      "importance": 0.537,
-      "importance_score": 0.537,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8201,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-07T03:49:24Z",
-      "latest_at": "2026-06-07T05:06:42.993609Z",
-      "primary_item": {
-        "id": "4dde7faa56d708acd38f41d2a43b0e714a0ae17b",
-        "title": "AI 真能学会心算？隐式思维链首次得到理论证明，Stuart Russell 参与",
-        "url": "https://www.huxiu.com/article/4865097.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_f361d88fbcc1",
-      "title": "OpenAI 芯片元老「002 号员工」转投 Anthropic",
-      "url": "https://36kr.com/newsflashes/3842586501466625?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3842586501466625?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e886c06bf0819663779a952834845d21cf49f86b",
-          "title": "OpenAI 芯片元老「002 号员工」转投 Anthropic",
-          "url": "https://36kr.com/newsflashes/3842586501466625?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1d049c141a8a66a436c5ae34a41dbcfd835428c8",
-          "title": "OpenAI芯片元老“002号员工”转投Anthropic",
-          "url": "https://www.36kr.com/newsflashes/3842586501466625",
-          "source": "36kr",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-07T04:16:19.457000Z"
-        },
-        {
-          "id": "00c529841eb8f7e6e059b446d24331dd4622f56b",
-          "title": "OpenAI芯片元老“002号员工”转投Anthropic",
-          "url": "https://36kr.com/newsflashes/3842586501466625?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-07T04:15:56Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "36kr",
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e886c06bf0819663779a952834845d21cf49f86b",
-          "title": "OpenAI 芯片元老「002 号员工」转投 Anthropic",
-          "url": "https://36kr.com/newsflashes/3842586501466625?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1d049c141a8a66a436c5ae34a41dbcfd835428c8",
-          "title": "OpenAI芯片元老“002号员工”转投Anthropic",
-          "url": "https://www.36kr.com/newsflashes/3842586501466625",
-          "source": "36kr",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-07T04:16:19.457000Z"
-        },
-        {
-          "id": "00c529841eb8f7e6e059b446d24331dd4622f56b",
-          "title": "OpenAI芯片元老“002号员工”转投Anthropic",
-          "url": "https://36kr.com/newsflashes/3842586501466625?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-07T04:15:56Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.537,
-      "importance": 0.537,
-      "importance_score": 0.537,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8201,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-07T04:15:56Z",
-      "latest_at": "2026-06-07T05:06:42.993609Z",
-      "primary_item": {
-        "id": "e886c06bf0819663779a952834845d21cf49f86b",
-        "title": "OpenAI 芯片元老「002 号员工」转投 Anthropic",
-        "url": "https://36kr.com/newsflashes/3842586501466625?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
