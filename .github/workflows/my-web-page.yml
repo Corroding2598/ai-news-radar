@@ -1,0 +1,99 @@
+name: 🚀 专属网页定时生成
+
+on:
+  schedule:
+    # 北京时间每天晚上 21:00 自动运行
+    - cron: '0 13 * * *'
+  workflow_dispatch: # 允许你手动点击按钮测试
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 拉取最新代码
+        uses: actions/checkout@v3
+
+      - name: ⚙️ 安装 Python 环境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 📦 安装依赖库
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt || true
+
+      - name: 🤖 抓取过去 24 小时伯乐精选数据
+        run: |
+          python scripts/update_news.py --output-dir data --window-hours 24 --archive-days 21 || true
+
+      - name: 📝 自动生成精美 index.html 网页文件
+        run: |
+          cat << 'EOF' > index.html
+          <!DOCTYPE html>
+          <html lang="zh-CN">
+          <head>
+              <meta charset="UTF-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <title>🤖 伯乐精选 · AI 每日雷达</title>
+              <style>
+                  :root { --bg: #f4f7f6; --card: #ffffff; --text: #333333; --primary: #2563eb; }
+                  body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; }
+                  .container { max-width: 800px; margin: 0 auto; }
+                  header { text-align: center; margin-bottom: 30px; }
+                  h1 { color: #111827; margin-bottom: 5px; }
+                  .update-time { color: #6b7280; font-size: 0.9rem; }
+                  .news-list { display: flex; flex-direction: column; gap: 20px; }
+                  .news-card { background: var(--card); padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+                  .news-title { font-size: 1.2rem; font-weight: bold; color: #1e293b; margin: 0 0 10px 0; }
+                  .news-summary { color: #475569; font-size: 0.95rem; line-height: 1.6; margin-bottom: 15px; }
+                  .news-link { color: var(--primary); text-decoration: none; font-weight: 500; font-size: 0.9rem; }
+                  .empty { text-align: center; color: #9ca3af; padding: 40px; }
+              </style>
+          </head>
+          <body>
+              <div class="container">
+                  <header>
+                      <h1>🤖 伯乐精选 · AI 每日雷达</h1>
+                      <p class="update-time">北京时间每天晚上 21:00 自动刷新</p>
+                  </header>
+                  <main class="news-list" id="news-list">正在加载最新数据...</main>
+              </div>
+              <script>
+                  async function loadNews() {
+                      try {
+                          const response = await fetch('./data/daily-brief.json?t=' + new Date().getTime());
+                          const rawData = await response.json();
+                          let items = rawData.items || rawData || [];
+                          const listContainer = document.getElementById('news-list');
+                          if (items.length === 0) {
+                              listContainer.innerHTML = '<div class="empty">过去 24 小时内无伯乐精选更新</div>';
+                              return;
+                          }
+                          listContainer.innerHTML = items.slice(0, 30).map((item, idx) => {
+                              const title = item.title || '无标题';
+                              const url = item.url || '#';
+                              let summary = item.summary || (item.sources && item.sources[0] ? item.sources[0].title : '暂无摘要');
+                              return `
+                                  <article class="news-card">
+                                      <h2 class="news-title">${idx + 1}. ${title}</h2>
+                                      <p class="news-summary">${summary}</p>
+                                      \${url !== '#' ? `<a href="\${url}" target="_blank" class="news-link">查看原文 ↗</a>` : ''}
+                                  </article>
+                              `;
+                          }).join('');
+                      } catch (e) {
+                          document.getElementById('news-list').innerHTML = '<div class="empty">数据加载中或暂无数据，请稍后再试</div>';
+                      }
+                  }
+                  window.onload = loadNews;
+              </script>
+          </body>
+          </html>
+          EOF
+
+      - name: 🌐 将网页一键发布到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
