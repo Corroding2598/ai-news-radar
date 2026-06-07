@@ -1,8 +1,69 @@
 {
-  "generated_at": "2026-06-07T10:13:31.875065Z",
+  "generated_at": "2026-06-07T10:19:51.871647Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_09eb6580277d",
+      "title": "她的·हेर — 克劳德密码课程中的侦探 / Her · हेर — a detective for your Claude Code sessions",
+      "url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+      "primary_url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e3a226f3f23e4ef5ecf5d7ea83c9f80cb9d34b2e",
+          "title": "她的·हेर — 克劳德密码课程中的侦探 / Her · हेर — a detective for your Claude Code sessions",
+          "url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-07T10:13:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "e3a226f3f23e4ef5ecf5d7ea83c9f80cb9d34b2e",
+          "title": "她的·हेर — 克劳德密码课程中的侦探 / Her · हेर — a detective for your Claude Code sessions",
+          "url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-07T10:13:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8961,
+      "importance": 0.8961,
+      "importance_score": 0.8961,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.9957,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-07T10:13:41Z",
+      "latest_at": "2026-06-07T10:13:41Z",
+      "primary_item": {
+        "id": "e3a226f3f23e4ef5ecf5d7ea83c9f80cb9d34b2e",
+        "title": "她的·हेर — 克劳德密码课程中的侦探 / Her · हेर — a detective for your Claude Code sessions",
+        "url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_7da74453315a",
       "title": "NVIDIA 与 KRAFTON、NC、T1 在韩国 PC 房庆祝 RTX Spark 发布",
@@ -38,14 +99,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7852,
-      "importance": 0.7852,
-      "importance_score": 0.7852,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8658,
+        "recency": 0.8614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -117,14 +178,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7835,
-      "importance": 0.7835,
-      "importance_score": 0.7835,
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.3674,
+        "recency": 0.363,
         "story_heat": 0.25
       },
       "category": "official",
@@ -198,14 +259,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7814,
+      "importance": 0.7814,
+      "importance_score": 0.7814,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7264,
+        "recency": 0.7221,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -259,14 +320,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8415,
+        "recency": 0.8371,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -319,14 +380,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8343,
+        "recency": 0.8299,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -379,14 +440,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7214,
+        "recency": 0.717,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -439,14 +500,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5488,
+        "recency": 0.5444,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -498,14 +559,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7196,
-      "importance": 0.7196,
-      "importance_score": 0.7196,
+      "score": 0.7187,
+      "importance": 0.7187,
+      "importance_score": 0.7187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5381,
+        "recency": 0.5337,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -557,14 +618,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6635,
-      "importance": 0.6635,
-      "importance_score": 0.6635,
+      "score": 0.6626,
+      "importance": 0.6626,
+      "importance_score": 0.6626,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2573,
+        "recency": 0.2529,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -635,14 +696,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6493,
-      "importance": 0.6493,
-      "importance_score": 0.6493,
+      "score": 0.6484,
+      "importance": 0.6484,
+      "importance_score": 0.6484,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0614,
+        "recency": 0.0571,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -695,14 +756,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6415,
-      "importance": 0.6415,
-      "importance_score": 0.6415,
+      "score": 0.6406,
+      "importance": 0.6406,
+      "importance_score": 0.6406,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
         "ai_relevance": 0.81,
-        "recency": 0.7526,
+        "recency": 0.7482,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -754,14 +815,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6361,
-      "importance": 0.6361,
-      "importance_score": 0.6361,
+      "score": 0.6353,
+      "importance": 0.6353,
+      "importance_score": 0.6353,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1206,
+        "recency": 0.1163,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -813,14 +874,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6146,
-      "importance": 0.6146,
-      "importance_score": 0.6146,
+      "score": 0.6138,
+      "importance": 0.6138,
+      "importance_score": 0.6138,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
         "ai_relevance": 0.81,
-        "recency": 0.6181,
+        "recency": 0.6138,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -872,14 +933,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5991,
-      "importance": 0.5991,
-      "importance_score": 0.5991,
+      "score": 0.5982,
+      "importance": 0.5982,
+      "importance_score": 0.5982,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9906,
+        "recency": 0.9862,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -969,14 +1030,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.557,
-      "importance": 0.557,
-      "importance_score": 0.557,
+      "score": 0.5561,
+      "importance": 0.5561,
+      "importance_score": 0.5561,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9199,
+        "recency": 0.9155,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1062,7 +1123,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-06-07T08:52:56Z",
-      "latest_at": "2026-06-07T10:13:31.875065Z",
+      "latest_at": "2026-06-07T10:19:51.871647Z",
       "primary_item": {
         "id": "8845992afcdeb11c1573e32ed6b7ec9007cf9ccf",
         "title": "AI 男友会干掉传统乙游吗？",
@@ -1106,14 +1167,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5442,
-      "importance": 0.5442,
-      "importance_score": 0.5442,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
         "ai_relevance": 0.77,
-        "recency": 0.3258,
+        "recency": 0.3214,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1184,14 +1245,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9707,
+        "recency": 0.9663,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1262,14 +1323,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.539,
+      "importance": 0.539,
+      "importance_score": 0.539,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9595,
+        "recency": 0.9551,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1284,84 +1345,6 @@
         "url": "https://www.businessinsider.com/miami-luxury-home-seller-considers-ai-shares-openai-anthropic-payment-2026-6",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8648eb7f5b69",
-      "title": "京沪高考作文考 AI，三大模型同台 PK：谁是真正的「作文王者」？",
-      "url": "https://www.huxiu.com/article/4865128.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4865128.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "392549654b7b506f3d7470a24d27574bcbba53ad",
-          "title": "京沪高考作文考 AI，三大模型同台 PK：谁是真正的「作文王者」？",
-          "url": "https://www.huxiu.com/article/4865128.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7fa768ec8c1a2e3e9ad58ce3cb39acbd5f482f78",
-          "title": "京沪高考作文考AI，三大模型同台PK：谁是真正的“作文王者”？",
-          "url": "https://www.huxiu.com/article/4865128.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-07T08:15:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "392549654b7b506f3d7470a24d27574bcbba53ad",
-          "title": "京沪高考作文考 AI，三大模型同台 PK：谁是真正的「作文王者」？",
-          "url": "https://www.huxiu.com/article/4865128.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7fa768ec8c1a2e3e9ad58ce3cb39acbd5f482f78",
-          "title": "京沪高考作文考AI，三大模型同台PK：谁是真正的“作文王者”？",
-          "url": "https://www.huxiu.com/article/4865128.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-07T08:15:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9314,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-07T08:15:17Z",
-      "latest_at": "2026-06-07T08:34:48.660498Z",
-      "primary_item": {
-        "id": "392549654b7b506f3d7470a24d27574bcbba53ad",
-        "title": "京沪高考作文考 AI，三大模型同台 PK：谁是真正的「作文王者」？",
-        "url": "https://www.huxiu.com/article/4865128.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
