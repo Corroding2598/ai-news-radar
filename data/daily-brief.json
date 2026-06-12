@@ -1,687 +1,1301 @@
 {
-  "generated_at": "2026-06-11T16:54:45.118233Z",
+  "generated_at": "2026-06-12T16:16:55.923651Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_fed394f367ce",
-      "title": "GitHub Agentic Workflows 现已推出公共预览版 / GitHub Agentic Workflows is now in public preview",
-      "url": "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
-      "source": "GitHub Changelog",
+      "story_id": "story_80b8efd89b1a",
+      "title": "olmo-eval：面向模型开发循环的评估工作台 / olmo-eval: An evaluation workbench for the model development loop",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "primary_url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4d874688f7b0839f97a53bbbce9a6881ad15da0a",
-          "title": "GitHub Agentic Workflows 现已推出公共预览版 / GitHub Agentic Workflows is now in public preview",
-          "url": "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
-          "source": "GitHub Changelog",
+          "id": "e82909d7fe2ae1be410efa96b9241947a7329bfc",
+          "title": "olmo-eval：面向模型开发循环的评估工作台 / olmo-eval: An evaluation workbench for the model development loop",
+          "url": "https://huggingface.co/blog/allenai/olmo-eval",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-11T16:00:35Z"
+          "published_at": "2026-06-12T15:56:10Z"
+        },
+        {
+          "id": "22866cd46e778b441170aa829a06ca8b432cef44",
+          "title": "olmo-eval：面向模型开发循环的评估工作台",
+          "url": "https://huggingface.co/blog/allenai/olmo-eval",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T15:56:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e82909d7fe2ae1be410efa96b9241947a7329bfc",
+          "title": "olmo-eval：面向模型开发循环的评估工作台 / olmo-eval: An evaluation workbench for the model development loop",
+          "url": "https://huggingface.co/blog/allenai/olmo-eval",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-12T15:56:10Z"
+        },
+        {
+          "id": "22866cd46e778b441170aa829a06ca8b432cef44",
+          "title": "olmo-eval：面向模型开发循环的评估工作台",
+          "url": "https://huggingface.co/blog/allenai/olmo-eval",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T15:56:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.9071,
+      "importance": 0.9071,
+      "importance_score": 0.9071,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9856,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T15:56:10Z",
+      "latest_at": "2026-06-12T15:56:10Z",
+      "primary_item": {
+        "id": "e82909d7fe2ae1be410efa96b9241947a7329bfc",
+        "title": "olmo-eval：面向模型开发循环的评估工作台 / olmo-eval: An evaluation workbench for the model development loop",
+        "url": "https://huggingface.co/blog/allenai/olmo-eval",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_42f76ee6df4f",
+      "title": "字节豆包上线\"任务模式\"：支持定时执行与文件生成，\"思考模式\"升级为\"专家模式\"",
+      "url": "https://www.ithome.com/0/963/725.htm",
+      "primary_url": "https://www.ithome.com/0/963/725.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ea2633269bcbbc324357fa22538648bd6785737a",
+          "title": "字节豆包上线\"任务模式\"：支持定时执行与文件生成，\"思考模式\"升级为\"专家模式\"",
+          "url": "https://www.ithome.com/0/963/725.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T15:33:19Z"
+        },
+        {
+          "id": "c34ebd7f295ea0206241ad67a317333dcb71ab80",
+          "title": "字节豆包上线「任务模式」：支持定时执行、代码运行与文件生成，「思考模式」已升级为「专家模式」",
+          "url": "https://www.ithome.com/0/963/725.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家（RSS）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ea2633269bcbbc324357fa22538648bd6785737a",
+          "title": "字节豆包上线\"任务模式\"：支持定时执行与文件生成，\"思考模式\"升级为\"专家模式\"",
+          "url": "https://www.ithome.com/0/963/725.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T15:33:19Z"
+        },
+        {
+          "id": "c34ebd7f295ea0206241ad67a317333dcb71ab80",
+          "title": "字节豆包上线「任务模式」：支持定时执行、代码运行与文件生成，「思考模式」已升级为「专家模式」",
+          "url": "https://www.ithome.com/0/963/725.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8309,
+      "importance": 0.8309,
+      "importance_score": 0.8309,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9697,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T15:33:19Z",
+      "latest_at": "2026-06-12T16:16:55.923651Z",
+      "primary_item": {
+        "id": "ea2633269bcbbc324357fa22538648bd6785737a",
+        "title": "字节豆包上线\"任务模式\"：支持定时执行与文件生成，\"思考模式\"升级为\"专家模式\"",
+        "url": "https://www.ithome.com/0/963/725.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cf98f7794fe4",
+      "title": "MiniMax M3 开源权重模型发布，已上架 HuggingFace",
+      "url": "https://x.com/MiniMax_AI/status/2065436935188058208",
+      "primary_url": "https://x.com/MiniMax_AI/status/2065436935188058208",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "99abc23a30c62899cfbe5ef76b9ff27f4946d00f",
+          "title": "MiniMax M3 开源权重模型发布，已上架 HuggingFace",
+          "url": "https://x.com/MiniMax_AI/status/2065436935188058208",
+          "source": "X：MiniMax (@MiniMax_AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T14:11:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：MiniMax (@MiniMax_AI)"
       ],
       "items": [
         {
-          "id": "4d874688f7b0839f97a53bbbce9a6881ad15da0a",
-          "title": "GitHub Agentic Workflows 现已推出公共预览版 / GitHub Agentic Workflows is now in public preview",
-          "url": "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-11T16:00:35Z"
+          "id": "99abc23a30c62899cfbe5ef76b9ff27f4946d00f",
+          "title": "MiniMax M3 开源权重模型发布，已上架 HuggingFace",
+          "url": "https://x.com/MiniMax_AI/status/2065436935188058208",
+          "source": "X：MiniMax (@MiniMax_AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T14:11:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8535,
-      "importance": 0.8535,
-      "importance_score": 0.8535,
+      "score": 0.7946,
+      "importance": 0.7946,
+      "importance_score": 0.7946,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9132,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T14:11:53Z",
+      "latest_at": "2026-06-12T14:11:53Z",
+      "primary_item": {
+        "id": "99abc23a30c62899cfbe5ef76b9ff27f4946d00f",
+        "title": "MiniMax M3 开源权重模型发布，已上架 HuggingFace",
+        "url": "https://x.com/MiniMax_AI/status/2065436935188058208",
+        "source": "X：MiniMax (@MiniMax_AI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7448e1f4e364",
+      "title": "AI智能体“失控”边缘：Claude Fable5 的自主调试初体验",
+      "url": "https://www.aibase.com/news/28888",
+      "primary_url": "https://www.aibase.com/news/28888",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9c990d9b3c1d937fa751f3d5765ca44090ee6ecd",
+          "title": "AI智能体“失控”边缘：Claude Fable5 的自主调试初体验",
+          "url": "https://www.aibase.com/news/28888",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9c990d9b3c1d937fa751f3d5765ca44090ee6ecd",
+          "title": "AI智能体“失控”边缘：Claude Fable5 的自主调试初体验",
+          "url": "https://www.aibase.com/news/28888",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7701,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T10:45:53.151417Z",
+      "latest_at": "2026-06-12T10:45:53.151417Z",
+      "primary_item": {
+        "id": "9c990d9b3c1d937fa751f3d5765ca44090ee6ecd",
+        "title": "AI智能体“失控”边缘：Claude Fable5 的自主调试初体验",
+        "url": "https://www.aibase.com/news/28888",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2826833d7ea6",
+      "title": "​SK集团拟在日本新建AI工厂 计划两三年内投产运营",
+      "url": "https://www.aibase.com/news/28882",
+      "primary_url": "https://www.aibase.com/news/28882",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "da6c280333b6ef8729b6a073d53e01e709d935db",
+          "title": "​SK集团拟在日本新建AI工厂 计划两三年内投产运营",
+          "url": "https://www.aibase.com/news/28882",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "da6c280333b6ef8729b6a073d53e01e709d935db",
+          "title": "​SK集团拟在日本新建AI工厂 计划两三年内投产运营",
+          "url": "https://www.aibase.com/news/28882",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7701,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T10:45:53.151417Z",
+      "latest_at": "2026-06-12T10:45:53.151417Z",
+      "primary_item": {
+        "id": "da6c280333b6ef8729b6a073d53e01e709d935db",
+        "title": "​SK集团拟在日本新建AI工厂 计划两三年内投产运营",
+        "url": "https://www.aibase.com/news/28882",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a42e5937dbff",
+      "title": "​中央网信办开设AI乱象举报专区 明确 14 类受理举报问题",
+      "url": "https://www.aibase.com/news/28892",
+      "primary_url": "https://www.aibase.com/news/28892",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3dbcd1fba9d4be3c167688416baad7cf873c8de9",
+          "title": "​中央网信办开设AI乱象举报专区 明确 14 类受理举报问题",
+          "url": "https://www.aibase.com/news/28892",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3dbcd1fba9d4be3c167688416baad7cf873c8de9",
+          "title": "​中央网信办开设AI乱象举报专区 明确 14 类受理举报问题",
+          "url": "https://www.aibase.com/news/28892",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7701,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T10:45:53.151417Z",
+      "latest_at": "2026-06-12T10:45:53.151417Z",
+      "primary_item": {
+        "id": "3dbcd1fba9d4be3c167688416baad7cf873c8de9",
+        "title": "​中央网信办开设AI乱象举报专区 明确 14 类受理举报问题",
+        "url": "https://www.aibase.com/news/28892",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ae337f6f1aa3",
+      "title": "​联合研究揭示：AI Agent大幅变革知识工作模式 效率成本优势显著",
+      "url": "https://www.aibase.com/news/28890",
+      "primary_url": "https://www.aibase.com/news/28890",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0fcb29759b22a3b4600fff88738a4992bf67e65b",
+          "title": "​联合研究揭示：AI Agent大幅变革知识工作模式 效率成本优势显著",
+          "url": "https://www.aibase.com/news/28890",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0fcb29759b22a3b4600fff88738a4992bf67e65b",
+          "title": "​联合研究揭示：AI Agent大幅变革知识工作模式 效率成本优势显著",
+          "url": "https://www.aibase.com/news/28890",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7701,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T10:45:53.151417Z",
+      "latest_at": "2026-06-12T10:45:53.151417Z",
+      "primary_item": {
+        "id": "0fcb29759b22a3b4600fff88738a4992bf67e65b",
+        "title": "​联合研究揭示：AI Agent大幅变革知识工作模式 效率成本优势显著",
+        "url": "https://www.aibase.com/news/28890",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_555e228c89f6",
+      "title": "​高盛发布AI行业研报：市场低估AI需求2030 年Token消耗或将暴涨 24 倍",
+      "url": "https://www.aibase.com/news/28887",
+      "primary_url": "https://www.aibase.com/news/28887",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "58407978fabcbdb4935d1e497303121b6b12a5aa",
+          "title": "​高盛发布AI行业研报：市场低估AI需求2030 年Token消耗或将暴涨 24 倍",
+          "url": "https://www.aibase.com/news/28887",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "58407978fabcbdb4935d1e497303121b6b12a5aa",
+          "title": "​高盛发布AI行业研报：市场低估AI需求2030 年Token消耗或将暴涨 24 倍",
+          "url": "https://www.aibase.com/news/28887",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7701,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T10:45:53.151417Z",
+      "latest_at": "2026-06-12T10:45:53.151417Z",
+      "primary_item": {
+        "id": "58407978fabcbdb4935d1e497303121b6b12a5aa",
+        "title": "​高盛发布AI行业研报：市场低估AI需求2030 年Token消耗或将暴涨 24 倍",
+        "url": "https://www.aibase.com/news/28887",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_baaf5ca7e6fa",
+      "title": "余承东：大模型战场无第二，华为盘古全面进阶2.0",
+      "url": "https://www.aibase.com/news/28886",
+      "primary_url": "https://www.aibase.com/news/28886",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e290a01b8b0bf32fb2fe549f16189b2535c8507c",
+          "title": "余承东：大模型战场无第二，华为盘古全面进阶2.0",
+          "url": "https://www.aibase.com/news/28886",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e290a01b8b0bf32fb2fe549f16189b2535c8507c",
+          "title": "余承东：大模型战场无第二，华为盘古全面进阶2.0",
+          "url": "https://www.aibase.com/news/28886",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7701,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T10:45:53.151417Z",
+      "latest_at": "2026-06-12T10:45:53.151417Z",
+      "primary_item": {
+        "id": "e290a01b8b0bf32fb2fe549f16189b2535c8507c",
+        "title": "余承东：大模型战场无第二，华为盘古全面进阶2.0",
+        "url": "https://www.aibase.com/news/28886",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cc109d503548",
+      "title": "大众点评加码内容生态建设 强化AIGC虚假评价治理",
+      "url": "https://www.aibase.com/news/28883",
+      "primary_url": "https://www.aibase.com/news/28883",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "979ba1e4a83347f295a23eaae84c870dad90a1e7",
+          "title": "大众点评加码内容生态建设 强化AIGC虚假评价治理",
+          "url": "https://www.aibase.com/news/28883",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "979ba1e4a83347f295a23eaae84c870dad90a1e7",
+          "title": "大众点评加码内容生态建设 强化AIGC虚假评价治理",
+          "url": "https://www.aibase.com/news/28883",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7701,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T10:45:53.151417Z",
+      "latest_at": "2026-06-12T10:45:53.151417Z",
+      "primary_item": {
+        "id": "979ba1e4a83347f295a23eaae84c870dad90a1e7",
+        "title": "大众点评加码内容生态建设 强化AIGC虚假评价治理",
+        "url": "https://www.aibase.com/news/28883",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ec9ca77f4ef4",
+      "title": "月之暗面Kimi拟发行融合算力服务的AI原生信用卡",
+      "url": "https://www.aibase.com/news/28884",
+      "primary_url": "https://www.aibase.com/news/28884",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3b9be06d940364bdcee65122f0ce3ef9843dc433",
+          "title": "月之暗面Kimi拟发行融合算力服务的AI原生信用卡",
+          "url": "https://www.aibase.com/news/28884",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3b9be06d940364bdcee65122f0ce3ef9843dc433",
+          "title": "月之暗面Kimi拟发行融合算力服务的AI原生信用卡",
+          "url": "https://www.aibase.com/news/28884",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7701,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T10:45:53.151417Z",
+      "latest_at": "2026-06-12T10:45:53.151417Z",
+      "primary_item": {
+        "id": "3b9be06d940364bdcee65122f0ce3ef9843dc433",
+        "title": "月之暗面Kimi拟发行融合算力服务的AI原生信用卡",
+        "url": "https://www.aibase.com/news/28884",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0061bf37a21d",
+      "title": "苹果iOS27 健康应用重磅更新：智能营养识别与围绝经期追踪上线",
+      "url": "https://www.aibase.com/news/28885",
+      "primary_url": "https://www.aibase.com/news/28885",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "00adf3697b00eefd3b5108b502929e57d577aac8",
+          "title": "苹果iOS27 健康应用重磅更新：智能营养识别与围绝经期追踪上线",
+          "url": "https://www.aibase.com/news/28885",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "00adf3697b00eefd3b5108b502929e57d577aac8",
+          "title": "苹果iOS27 健康应用重磅更新：智能营养识别与围绝经期追踪上线",
+          "url": "https://www.aibase.com/news/28885",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7701,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T10:45:53.151417Z",
+      "latest_at": "2026-06-12T10:45:53.151417Z",
+      "primary_item": {
+        "id": "00adf3697b00eefd3b5108b502929e57d577aac8",
+        "title": "苹果iOS27 健康应用重磅更新：智能营养识别与围绝经期追踪上线",
+        "url": "https://www.aibase.com/news/28885",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_db46da724f40",
+      "title": "讯飞医疗正式发布星火医疗大模型V3.5",
+      "url": "https://www.aibase.com/news/28893",
+      "primary_url": "https://www.aibase.com/news/28893",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d859906b8949fdcaf167d7b6b45ceac395c4abe9",
+          "title": "讯飞医疗正式发布星火医疗大模型V3.5",
+          "url": "https://www.aibase.com/news/28893",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d859906b8949fdcaf167d7b6b45ceac395c4abe9",
+          "title": "讯飞医疗正式发布星火医疗大模型V3.5",
+          "url": "https://www.aibase.com/news/28893",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7701,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T10:45:53.151417Z",
+      "latest_at": "2026-06-12T10:45:53.151417Z",
+      "primary_item": {
+        "id": "d859906b8949fdcaf167d7b6b45ceac395c4abe9",
+        "title": "讯飞医疗正式发布星火医疗大模型V3.5",
+        "url": "https://www.aibase.com/news/28893",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6a8169c249bf",
+      "title": "通义千问上线足球预测AI助手 连红牌和绝杀都能算准?",
+      "url": "https://www.aibase.com/news/28891",
+      "primary_url": "https://www.aibase.com/news/28891",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d893b2450a4c3ddfd480e2cf85bb976a83cb00f8",
+          "title": "通义千问上线足球预测AI助手 连红牌和绝杀都能算准?",
+          "url": "https://www.aibase.com/news/28891",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d893b2450a4c3ddfd480e2cf85bb976a83cb00f8",
+          "title": "通义千问上线足球预测AI助手 连红牌和绝杀都能算准?",
+          "url": "https://www.aibase.com/news/28891",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T10:45:53.151417Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7701,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T10:45:53.151417Z",
+      "latest_at": "2026-06-12T10:45:53.151417Z",
+      "primary_item": {
+        "id": "d893b2450a4c3ddfd480e2cf85bb976a83cb00f8",
+        "title": "通义千问上线足球预测AI助手 连红牌和绝杀都能算准?",
+        "url": "https://www.aibase.com/news/28891",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_be2fde6aec8a",
+      "title": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code",
+      "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1ba8e35ce216079ebc43e6a63c3b185889b42668",
+          "title": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code",
+          "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T10:16:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "1ba8e35ce216079ebc43e6a63c3b185889b42668",
+          "title": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code",
+          "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T10:16:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7494,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T10:16:02Z",
+      "latest_at": "2026-06-12T10:16:02Z",
+      "primary_item": {
+        "id": "1ba8e35ce216079ebc43e6a63c3b185889b42668",
+        "title": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code",
+        "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4e47b9dbf572",
+      "title": "母亲起诉OpenAI：聊天机器人是否成为压垮女儿的“最后一根稻草”？",
+      "url": "https://www.aibase.com/news/28880",
+      "primary_url": "https://www.aibase.com/news/28880",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7788ee5c51680e69b9f656e465160cc87404fbf3",
+          "title": "母亲起诉OpenAI：聊天机器人是否成为压垮女儿的“最后一根稻草”？",
+          "url": "https://www.aibase.com/news/28880",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T06:24:38.964697Z"
+        },
+        {
+          "id": "2bf4ab5877bfc7236bdf25a06b8b1c3cef541217",
+          "title": "母亲起诉 OpenAI：聊天机器人是否成为压垮女儿的「最后一根稻草」？",
+          "url": "https://www.aibase.com/zh/news/28880",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "7788ee5c51680e69b9f656e465160cc87404fbf3",
+          "title": "母亲起诉OpenAI：聊天机器人是否成为压垮女儿的“最后一根稻草”？",
+          "url": "https://www.aibase.com/news/28880",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T06:24:38.964697Z"
+        },
+        {
+          "id": "2bf4ab5877bfc7236bdf25a06b8b1c3cef541217",
+          "title": "母亲起诉 OpenAI：聊天机器人是否成为压垮女儿的「最后一根稻草」？",
+          "url": "https://www.aibase.com/zh/news/28880",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5887,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T06:24:38.964697Z",
+      "latest_at": "2026-06-12T06:24:38.964697Z",
+      "primary_item": {
+        "id": "7788ee5c51680e69b9f656e465160cc87404fbf3",
+        "title": "母亲起诉OpenAI：聊天机器人是否成为压垮女儿的“最后一根稻草”？",
+        "url": "https://www.aibase.com/news/28880",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5c4df5cb6ee2",
+      "title": "腾讯AI棋局生变：从“元宝”到“WorkBuddy”，战略重心悄然转移",
+      "url": "https://www.aibase.com/news/28879",
+      "primary_url": "https://www.aibase.com/news/28879",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "96b76454c01e71be96c66b721d4e75215f3c34c2",
+          "title": "腾讯AI棋局生变：从“元宝”到“WorkBuddy”，战略重心悄然转移",
+          "url": "https://www.aibase.com/news/28879",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T06:24:38.964697Z"
+        },
+        {
+          "id": "dfd901826cb4a5108fe8fd88214199714acb45d3",
+          "title": "腾讯 AI 棋局生变：从「元宝」到「WorkBuddy」，战略重心悄然转移",
+          "url": "https://www.aibase.com/zh/news/28879",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "96b76454c01e71be96c66b721d4e75215f3c34c2",
+          "title": "腾讯AI棋局生变：从“元宝”到“WorkBuddy”，战略重心悄然转移",
+          "url": "https://www.aibase.com/news/28879",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T06:24:38.964697Z"
+        },
+        {
+          "id": "dfd901826cb4a5108fe8fd88214199714acb45d3",
+          "title": "腾讯 AI 棋局生变：从「元宝」到「WorkBuddy」，战略重心悄然转移",
+          "url": "https://www.aibase.com/zh/news/28879",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5887,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T06:24:38.964697Z",
+      "latest_at": "2026-06-12T06:24:38.964697Z",
+      "primary_item": {
+        "id": "96b76454c01e71be96c66b721d4e75215f3c34c2",
+        "title": "腾讯AI棋局生变：从“元宝”到“WorkBuddy”，战略重心悄然转移",
+        "url": "https://www.aibase.com/news/28879",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_397f7cdf88e0",
+      "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
+      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+      "primary_url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f477d3a9344bd037de644134f9ef815e5590d0c8",
+          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
+          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-11T22:23:17Z"
+        },
+        {
+          "id": "7a0befc00623be120d658dbbea4fe5223b6ce434",
+          "title": "我们来玩个游戏吧？——在95%的模拟中，大型语言模型都会使用战术核武器",
+          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+          "source": "www.kennethpayne.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-11T22:23:17.154000Z"
+        },
+        {
+          "id": "a1e03371b6e48457831c4d57ca178ed9e7344d62",
+          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器 / Shall we play a game? My AI nuclear simulation",
+          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-11T19:54:54Z"
+        },
+        {
+          "id": "dc27af65a8007267722a7b61bf2c8bbbff03b705",
+          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器 / Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
+          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-11T19:54:54Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.kennethpayne.uk"
+      ],
+      "items": [
+        {
+          "id": "f477d3a9344bd037de644134f9ef815e5590d0c8",
+          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
+          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-11T22:23:17Z"
+        },
+        {
+          "id": "7a0befc00623be120d658dbbea4fe5223b6ce434",
+          "title": "我们来玩个游戏吧？——在95%的模拟中，大型语言模型都会使用战术核武器",
+          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+          "source": "www.kennethpayne.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-11T22:23:17.154000Z"
+        },
+        {
+          "id": "a1e03371b6e48457831c4d57ca178ed9e7344d62",
+          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器 / Shall we play a game? My AI nuclear simulation",
+          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-11T19:54:54Z"
+        },
+        {
+          "id": "dc27af65a8007267722a7b61bf2c8bbbff03b705",
+          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器 / Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
+          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-11T19:54:54Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.2544,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-11T19:54:54Z",
+      "latest_at": "2026-06-11T22:23:17.154000Z",
+      "primary_item": {
+        "id": "f477d3a9344bd037de644134f9ef815e5590d0c8",
+        "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
+        "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_dcc2fd07a9e8",
+      "title": "Preply 如何结合人工智能和真人导师来实现个性化学习 / How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "primary_url": "https://openai.com/index/preply",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f5abe9304398407ef22b6b4fa1701010c32c2102",
+          "title": "Preply 如何结合人工智能和真人导师来实现个性化学习 / How Preply combines AI and human tutors to personalize learning",
+          "url": "https://openai.com/index/preply",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-12T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f5abe9304398407ef22b6b4fa1701010c32c2102",
+          "title": "Preply 如何结合人工智能和真人导师来实现个性化学习 / How Preply combines AI and human tutors to personalize learning",
+          "url": "https://openai.com/index/preply",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-12T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9624,
+        "ai_relevance": 0.91,
+        "recency": 0.3216,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-11T16:00:35Z",
-      "latest_at": "2026-06-11T16:00:35Z",
+      "earliest_at": "2026-06-12T00:00:00Z",
+      "latest_at": "2026-06-12T00:00:00Z",
       "primary_item": {
-        "id": "4d874688f7b0839f97a53bbbce9a6881ad15da0a",
-        "title": "GitHub Agentic Workflows 现已推出公共预览版 / GitHub Agentic Workflows is now in public preview",
-        "url": "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
-        "source": "GitHub Changelog",
+        "id": "f5abe9304398407ef22b6b4fa1701010c32c2102",
+        "title": "Preply 如何结合人工智能和真人导师来实现个性化学习 / How Preply combines AI and human tutors to personalize learning",
+        "url": "https://openai.com/index/preply",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_0c19e76fe6dc",
-      "title": "让秘密扫描更值得信赖：大规模减少误报 / Making secret scanning more trustworthy: Reducing false positives at scale",
-      "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale",
-      "primary_url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fae3e10b0e7277178307d91e5093c0da71fb45ab",
-          "title": "让秘密扫描更值得信赖：大规模减少误报 / Making secret scanning more trustworthy: Reducing false positives at scale",
-          "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-11T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "fae3e10b0e7277178307d91e5093c0da71fb45ab",
-          "title": "让秘密扫描更值得信赖：大规模减少误报 / Making secret scanning more trustworthy: Reducing false positives at scale",
-          "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-11T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8534,
-      "importance": 0.8534,
-      "importance_score": 0.8534,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.962,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T16:00:00Z",
-      "latest_at": "2026-06-11T16:00:00Z",
-      "primary_item": {
-        "id": "fae3e10b0e7277178307d91e5093c0da71fb45ab",
-        "title": "让秘密扫描更值得信赖：大规模减少误报 / Making secret scanning more trustworthy: Reducing false positives at scale",
-        "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a38404c112e7",
-      "title": "代理工作流程不再需要个人访问令牌 / Agentic workflows no longer need a personal access token",
-      "url": "https://github.blog/changelog/2026-06-11-agentic-workflows-no-longer-need-a-personal-access-token",
-      "primary_url": "https://github.blog/changelog/2026-06-11-agentic-workflows-no-longer-need-a-personal-access-token",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0778edce9d1b0d12146a1bed62b7d8e3cae398cd",
-          "title": "代理工作流程不再需要个人访问令牌 / Agentic workflows no longer need a personal access token",
-          "url": "https://github.blog/changelog/2026-06-11-agentic-workflows-no-longer-need-a-personal-access-token",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-11T15:55:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0778edce9d1b0d12146a1bed62b7d8e3cae398cd",
-          "title": "代理工作流程不再需要个人访问令牌 / Agentic workflows no longer need a personal access token",
-          "url": "https://github.blog/changelog/2026-06-11-agentic-workflows-no-longer-need-a-personal-access-token",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-11T15:55:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8528,
-      "importance": 0.8528,
-      "importance_score": 0.8528,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9591,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T15:55:49Z",
-      "latest_at": "2026-06-11T15:55:49Z",
-      "primary_item": {
-        "id": "0778edce9d1b0d12146a1bed62b7d8e3cae398cd",
-        "title": "代理工作流程不再需要个人访问令牌 / Agentic workflows no longer need a personal access token",
-        "url": "https://github.blog/changelog/2026-06-11-agentic-workflows-no-longer-need-a-personal-access-token",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_497d3c1bd2d7",
-      "title": "OpenRouter 推出新活动浏览器",
-      "url": "https://x.com/OpenRouter/status/2065110633360621860",
-      "primary_url": "https://x.com/OpenRouter/status/2065110633360621860",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a76024a1f90d0aba20bc113234d0d263dfb43970",
-          "title": "OpenRouter 推出新活动浏览器",
-          "url": "https://x.com/OpenRouter/status/2065110633360621860",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T16:35:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "a76024a1f90d0aba20bc113234d0d263dfb43970",
-          "title": "OpenRouter 推出新活动浏览器",
-          "url": "https://x.com/OpenRouter/status/2065110633360621860",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T16:35:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9865,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T16:35:17Z",
-      "latest_at": "2026-06-11T16:35:17Z",
-      "primary_item": {
-        "id": "a76024a1f90d0aba20bc113234d0d263dfb43970",
-        "title": "OpenRouter 推出新活动浏览器",
-        "url": "https://x.com/OpenRouter/status/2065110633360621860",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d08c5c9b3188",
-      "title": "Prometheus 融资120亿美元，估值410亿美元，定位\"人工通用工程师\"",
-      "url": "https://x.com/kimmonismus/status/2065097988859744503",
-      "primary_url": "https://x.com/kimmonismus/status/2065097988859744503",
-      "source": "X：Kim (@kimmonismus)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d66bc37b1c9b2e354d235b155b62b80a0b810e77",
-          "title": "Prometheus 融资120亿美元，估值410亿美元，定位\"人工通用工程师\"",
-          "url": "https://x.com/kimmonismus/status/2065097988859744503",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T15:45:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kim (@kimmonismus)"
-      ],
-      "items": [
-        {
-          "id": "d66bc37b1c9b2e354d235b155b62b80a0b810e77",
-          "title": "Prometheus 融资120亿美元，估值410亿美元，定位\"人工通用工程师\"",
-          "url": "https://x.com/kimmonismus/status/2065097988859744503",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T15:45:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9516,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T15:45:02Z",
-      "latest_at": "2026-06-11T15:45:02Z",
-      "primary_item": {
-        "id": "d66bc37b1c9b2e354d235b155b62b80a0b810e77",
-        "title": "Prometheus 融资120亿美元，估值410亿美元，定位\"人工通用工程师\"",
-        "url": "https://x.com/kimmonismus/status/2065097988859744503",
-        "source": "X：Kim (@kimmonismus)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2a3c443e836e",
-      "title": "OpenRouter 基准探索器：10项帕累托曲线",
-      "url": "https://x.com/OpenRouter/status/2065094780271329729",
-      "primary_url": "https://x.com/OpenRouter/status/2065094780271329729",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a11631bbee2b39afd418538f3eda4b8ce81e6895",
-          "title": "OpenRouter 基准探索器：10项帕累托曲线",
-          "url": "https://x.com/OpenRouter/status/2065094780271329729",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T15:32:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "a11631bbee2b39afd418538f3eda4b8ce81e6895",
-          "title": "OpenRouter 基准探索器：10项帕累托曲线",
-          "url": "https://x.com/OpenRouter/status/2065094780271329729",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T15:32:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9427,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T15:32:17Z",
-      "latest_at": "2026-06-11T15:32:17Z",
-      "primary_item": {
-        "id": "a11631bbee2b39afd418538f3eda4b8ce81e6895",
-        "title": "OpenRouter 基准探索器：10项帕累托曲线",
-        "url": "https://x.com/OpenRouter/status/2065094780271329729",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fafcf5b4d04a",
-      "title": "Codex Goal指令生成Skill发布：一句话需求转目标",
-      "url": "https://x.com/vista8/status/2065090494972174821",
-      "primary_url": "https://x.com/vista8/status/2065090494972174821",
-      "source": "X：Vista (@vista8)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d684b0a761f4f288b82278e9aca56f697e6bb58e",
-          "title": "Codex Goal指令生成Skill发布：一句话需求转目标",
-          "url": "https://x.com/vista8/status/2065090494972174821",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T15:15:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Vista (@vista8)"
-      ],
-      "items": [
-        {
-          "id": "d684b0a761f4f288b82278e9aca56f697e6bb58e",
-          "title": "Codex Goal指令生成Skill发布：一句话需求转目标",
-          "url": "https://x.com/vista8/status/2065090494972174821",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T15:15:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7982,
-      "importance": 0.7982,
-      "importance_score": 0.7982,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9309,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T15:15:16Z",
-      "latest_at": "2026-06-11T15:15:16Z",
-      "primary_item": {
-        "id": "d684b0a761f4f288b82278e9aca56f697e6bb58e",
-        "title": "Codex Goal指令生成Skill发布：一句话需求转目标",
-        "url": "https://x.com/vista8/status/2065090494972174821",
-        "source": "X：Vista (@vista8)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f7ca6b6ad18c",
-      "title": "Krea 2 推出生成式滑块控制图像属性",
-      "url": "https://x.com/krea_ai/status/2065086662166901114",
-      "primary_url": "https://x.com/krea_ai/status/2065086662166901114",
-      "source": "X：Krea AI (@krea_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8281485d44c4216c55c580506fc89dfe93c72a02",
-          "title": "Krea 2 推出生成式滑块控制图像属性",
-          "url": "https://x.com/krea_ai/status/2065086662166901114",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T15:00:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Krea AI (@krea_ai)"
-      ],
-      "items": [
-        {
-          "id": "8281485d44c4216c55c580506fc89dfe93c72a02",
-          "title": "Krea 2 推出生成式滑块控制图像属性",
-          "url": "https://x.com/krea_ai/status/2065086662166901114",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T15:00:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7961,
-      "importance": 0.7961,
-      "importance_score": 0.7961,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9203,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T15:00:02Z",
-      "latest_at": "2026-06-11T15:00:02Z",
-      "primary_item": {
-        "id": "8281485d44c4216c55c580506fc89dfe93c72a02",
-        "title": "Krea 2 推出生成式滑块控制图像属性",
-        "url": "https://x.com/krea_ai/status/2065086662166901114",
-        "source": "X：Krea AI (@krea_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_db8a5fa20164",
-      "title": "Claude Fable 5 一句话生成桌面台球游戏",
-      "url": "https://x.com/vista8/status/2065079656324407345",
-      "primary_url": "https://x.com/vista8/status/2065079656324407345",
-      "source": "X：Vista (@vista8)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d79233bf691c0ac8daef4ede0ec35388a1fea6bd",
-          "title": "Claude Fable 5 一句话生成桌面台球游戏",
-          "url": "https://x.com/vista8/status/2065079656324407345",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T14:32:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Vista (@vista8)"
-      ],
-      "items": [
-        {
-          "id": "d79233bf691c0ac8daef4ede0ec35388a1fea6bd",
-          "title": "Claude Fable 5 一句话生成桌面台球游戏",
-          "url": "https://x.com/vista8/status/2065079656324407345",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T14:32:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7922,
-      "importance": 0.7922,
-      "importance_score": 0.7922,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.901,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T14:32:12Z",
-      "latest_at": "2026-06-11T14:32:12Z",
-      "primary_item": {
-        "id": "d79233bf691c0ac8daef4ede0ec35388a1fea6bd",
-        "title": "Claude Fable 5 一句话生成桌面台球游戏",
-        "url": "https://x.com/vista8/status/2065079656324407345",
-        "source": "X：Vista (@vista8)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b507a55c19c8",
-      "title": "Runway与Lionsgate扩大战略合作",
-      "url": "https://runwayml.com/news/runway-and-lionsgate-expand-partnership",
-      "primary_url": "https://runwayml.com/news/runway-and-lionsgate-expand-partnership",
-      "source": "Runway：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "748072de3aaf78b2426e5325a9584a078ddcedc6",
-          "title": "Runway与Lionsgate扩大战略合作",
-          "url": "https://runwayml.com/news/runway-and-lionsgate-expand-partnership",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T14:31:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Runway：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "748072de3aaf78b2426e5325a9584a078ddcedc6",
-          "title": "Runway与Lionsgate扩大战略合作",
-          "url": "https://runwayml.com/news/runway-and-lionsgate-expand-partnership",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T14:31:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7922,
-      "importance": 0.7922,
-      "importance_score": 0.7922,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9008,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T14:31:51Z",
-      "latest_at": "2026-06-11T14:31:51Z",
-      "primary_item": {
-        "id": "748072de3aaf78b2426e5325a9584a078ddcedc6",
-        "title": "Runway与Lionsgate扩大战略合作",
-        "url": "https://runwayml.com/news/runway-and-lionsgate-expand-partnership",
-        "source": "Runway：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_37a82905764a",
-      "title": "OpenAI 正酝酿\"大幅\"降价，Gary Marcus 视其为示弱信号",
-      "url": "https://garymarcus.substack.com/p/breaking-openai-is-pondering-drastic",
-      "primary_url": "https://garymarcus.substack.com/p/breaking-openai-is-pondering-drastic",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "45e338cb1adacc992fbcbb05b92ba528ac98d529",
-          "title": "OpenAI 正酝酿\"大幅\"降价，Gary Marcus 视其为示弱信号",
-          "url": "https://garymarcus.substack.com/p/breaking-openai-is-pondering-drastic",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T13:34:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "45e338cb1adacc992fbcbb05b92ba528ac98d529",
-          "title": "OpenAI 正酝酿\"大幅\"降价，Gary Marcus 视其为示弱信号",
-          "url": "https://garymarcus.substack.com/p/breaking-openai-is-pondering-drastic",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T13:34:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8612,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T13:34:49Z",
-      "latest_at": "2026-06-11T13:34:49Z",
-      "primary_item": {
-        "id": "45e338cb1adacc992fbcbb05b92ba528ac98d529",
-        "title": "OpenAI 正酝酿\"大幅\"降价，Gary Marcus 视其为示弱信号",
-        "url": "https://garymarcus.substack.com/p/breaking-openai-is-pondering-drastic",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_79a4d087c763",
-      "title": "Windows 用户吐槽：Claude Desktop刚启动就霸占 1.8GB 内存",
-      "url": "https://www.aibase.com/news/28855",
-      "primary_url": "https://www.aibase.com/news/28855",
+      "story_id": "story_68870284b65b",
+      "title": "OpenAI开启Codex推广活动，邀请好友即可重置使用额度",
+      "url": "https://www.aibase.com/news/28874",
+      "primary_url": "https://www.aibase.com/news/28874",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "18fba93851fdc455201d7035d611e95d37ed51a9",
-          "title": "Windows 用户吐槽：Claude Desktop刚启动就霸占 1.8GB 内存",
-          "url": "https://www.aibase.com/news/28855",
+          "id": "15f8827a8c1fb25d6b296b91e3dbc868cdf605f1",
+          "title": "OpenAI开启Codex推广活动，邀请好友即可重置使用额度",
+          "url": "https://www.aibase.com/news/28874",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-11T11:52:57.530669Z"
+          "published_at": "2026-06-12T06:24:38.964697Z"
         }
       ],
       "source_count": 1,
@@ -690,518 +1304,37 @@
       ],
       "items": [
         {
-          "id": "18fba93851fdc455201d7035d611e95d37ed51a9",
-          "title": "Windows 用户吐槽：Claude Desktop刚启动就霸占 1.8GB 内存",
-          "url": "https://www.aibase.com/news/28855",
+          "id": "15f8827a8c1fb25d6b296b91e3dbc868cdf605f1",
+          "title": "OpenAI开启Codex推广活动，邀请好友即可重置使用额度",
+          "url": "https://www.aibase.com/news/28874",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-11T11:52:57.530669Z"
+          "published_at": "2026-06-12T06:24:38.964697Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7297,
+      "importance": 0.7297,
+      "importance_score": 0.7297,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7904,
+        "recency": 0.5887,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-11T11:52:57.530669Z",
-      "latest_at": "2026-06-11T11:52:57.530669Z",
+      "earliest_at": "2026-06-12T06:24:38.964697Z",
+      "latest_at": "2026-06-12T06:24:38.964697Z",
       "primary_item": {
-        "id": "18fba93851fdc455201d7035d611e95d37ed51a9",
-        "title": "Windows 用户吐槽：Claude Desktop刚启动就霸占 1.8GB 内存",
-        "url": "https://www.aibase.com/news/28855",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_58f090e84e02",
-      "title": "一键部署上线：阿里云发布秒悟 Meoo CLI 开源工具",
-      "url": "https://www.aibase.com/news/28859",
-      "primary_url": "https://www.aibase.com/news/28859",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4e35c616e5e7e6ed9a0fa7339c8d3c767ab02426",
-          "title": "一键部署上线：阿里云发布秒悟 Meoo CLI 开源工具",
-          "url": "https://www.aibase.com/news/28859",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-11T11:52:57.530669Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4e35c616e5e7e6ed9a0fa7339c8d3c767ab02426",
-          "title": "一键部署上线：阿里云发布秒悟 Meoo CLI 开源工具",
-          "url": "https://www.aibase.com/news/28859",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-11T11:52:57.530669Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7904,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T11:52:57.530669Z",
-      "latest_at": "2026-06-11T11:52:57.530669Z",
-      "primary_item": {
-        "id": "4e35c616e5e7e6ed9a0fa7339c8d3c767ab02426",
-        "title": "一键部署上线：阿里云发布秒悟 Meoo CLI 开源工具",
-        "url": "https://www.aibase.com/news/28859",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_883f5940b678",
-      "title": "万象有声上线「全自动 AI 多播有声书创作」，万字成本不到 8 元",
-      "url": "https://www.aibase.com/news/28853",
-      "primary_url": "https://www.aibase.com/news/28853",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3e0c1a1700dd9b6b583684d078a97b2aef3ce81c",
-          "title": "万象有声上线「全自动 AI 多播有声书创作」，万字成本不到 8 元",
-          "url": "https://www.aibase.com/news/28853",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-11T11:52:57.530669Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3e0c1a1700dd9b6b583684d078a97b2aef3ce81c",
-          "title": "万象有声上线「全自动 AI 多播有声书创作」，万字成本不到 8 元",
-          "url": "https://www.aibase.com/news/28853",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-11T11:52:57.530669Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7904,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T11:52:57.530669Z",
-      "latest_at": "2026-06-11T11:52:57.530669Z",
-      "primary_item": {
-        "id": "3e0c1a1700dd9b6b583684d078a97b2aef3ce81c",
-        "title": "万象有声上线「全自动 AI 多播有声书创作」，万字成本不到 8 元",
-        "url": "https://www.aibase.com/news/28853",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_12e680c750f0",
-      "title": "三成央企核心系统首选!OceanBase发布“央国企AI一体化数据解决方案”",
-      "url": "https://www.aibase.com/news/28852",
-      "primary_url": "https://www.aibase.com/news/28852",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a780bce5004c61ecf5b8b1b5905d54a839c41b1f",
-          "title": "三成央企核心系统首选!OceanBase发布“央国企AI一体化数据解决方案”",
-          "url": "https://www.aibase.com/news/28852",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-11T11:52:57.530669Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a780bce5004c61ecf5b8b1b5905d54a839c41b1f",
-          "title": "三成央企核心系统首选!OceanBase发布“央国企AI一体化数据解决方案”",
-          "url": "https://www.aibase.com/news/28852",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-11T11:52:57.530669Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7904,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T11:52:57.530669Z",
-      "latest_at": "2026-06-11T11:52:57.530669Z",
-      "primary_item": {
-        "id": "a780bce5004c61ecf5b8b1b5905d54a839c41b1f",
-        "title": "三成央企核心系统首选!OceanBase发布“央国企AI一体化数据解决方案”",
-        "url": "https://www.aibase.com/news/28852",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_679bb3538547",
-      "title": "保护青少年：加拿大拟立法禁止 16 岁以下未成年人使用社交媒体",
-      "url": "https://www.aibase.com/news/28857",
-      "primary_url": "https://www.aibase.com/news/28857",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e7d7372362f382ebcc583762fb732803bd359d48",
-          "title": "保护青少年：加拿大拟立法禁止 16 岁以下未成年人使用社交媒体",
-          "url": "https://www.aibase.com/news/28857",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-11T11:52:57.530669Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e7d7372362f382ebcc583762fb732803bd359d48",
-          "title": "保护青少年：加拿大拟立法禁止 16 岁以下未成年人使用社交媒体",
-          "url": "https://www.aibase.com/news/28857",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-11T11:52:57.530669Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7904,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T11:52:57.530669Z",
-      "latest_at": "2026-06-11T11:52:57.530669Z",
-      "primary_item": {
-        "id": "e7d7372362f382ebcc583762fb732803bd359d48",
-        "title": "保护青少年：加拿大拟立法禁止 16 岁以下未成年人使用社交媒体",
-        "url": "https://www.aibase.com/news/28857",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cd08f1912e65",
-      "title": "打通AI应用“最后一公里”：阿里云秒悟Meoo CLI正式开源",
-      "url": "https://www.aibase.com/news/28860",
-      "primary_url": "https://www.aibase.com/news/28860",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5eac6f70d67cf02675fa1b62150cbc0999c22ec6",
-          "title": "打通AI应用“最后一公里”：阿里云秒悟Meoo CLI正式开源",
-          "url": "https://www.aibase.com/news/28860",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-11T11:52:57.530669Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5eac6f70d67cf02675fa1b62150cbc0999c22ec6",
-          "title": "打通AI应用“最后一公里”：阿里云秒悟Meoo CLI正式开源",
-          "url": "https://www.aibase.com/news/28860",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-11T11:52:57.530669Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7904,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T11:52:57.530669Z",
-      "latest_at": "2026-06-11T11:52:57.530669Z",
-      "primary_item": {
-        "id": "5eac6f70d67cf02675fa1b62150cbc0999c22ec6",
-        "title": "打通AI应用“最后一公里”：阿里云秒悟Meoo CLI正式开源",
-        "url": "https://www.aibase.com/news/28860",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_319d35e9039c",
-      "title": "拥抱AI办公新范式：塔塔咨询为 5 万员工配备Claude",
-      "url": "https://www.aibase.com/news/28861",
-      "primary_url": "https://www.aibase.com/news/28861",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "90eeb92f50109d03f18c372c6583fff6f12d0da4",
-          "title": "拥抱AI办公新范式：塔塔咨询为 5 万员工配备Claude",
-          "url": "https://www.aibase.com/news/28861",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-11T11:52:57.530669Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "90eeb92f50109d03f18c372c6583fff6f12d0da4",
-          "title": "拥抱AI办公新范式：塔塔咨询为 5 万员工配备Claude",
-          "url": "https://www.aibase.com/news/28861",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-11T11:52:57.530669Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7904,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T11:52:57.530669Z",
-      "latest_at": "2026-06-11T11:52:57.530669Z",
-      "primary_item": {
-        "id": "90eeb92f50109d03f18c372c6583fff6f12d0da4",
-        "title": "拥抱AI办公新范式：塔塔咨询为 5 万员工配备Claude",
-        "url": "https://www.aibase.com/news/28861",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8ace4a132500",
-      "title": "汽车后市场数字化突围：彩虹无线发布“一修大模型”与边缘算力栈",
-      "url": "https://www.aibase.com/news/28854",
-      "primary_url": "https://www.aibase.com/news/28854",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "18e24f9513d4765494d975b76980089846fec1fb",
-          "title": "汽车后市场数字化突围：彩虹无线发布“一修大模型”与边缘算力栈",
-          "url": "https://www.aibase.com/news/28854",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-11T11:52:57.530669Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "18e24f9513d4765494d975b76980089846fec1fb",
-          "title": "汽车后市场数字化突围：彩虹无线发布“一修大模型”与边缘算力栈",
-          "url": "https://www.aibase.com/news/28854",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-11T11:52:57.530669Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7904,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T11:52:57.530669Z",
-      "latest_at": "2026-06-11T11:52:57.530669Z",
-      "primary_item": {
-        "id": "18e24f9513d4765494d975b76980089846fec1fb",
-        "title": "汽车后市场数字化突围：彩虹无线发布“一修大模型”与边缘算力栈",
-        "url": "https://www.aibase.com/news/28854",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_165b268fecee",
-      "title": "阿里云发布开源工具Meoo CLI:支持本地AI项目一键上线部署",
-      "url": "https://www.aibase.com/news/28858",
-      "primary_url": "https://www.aibase.com/news/28858",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b570dcd93135433126ecaaec6e7a79cd2223e8a9",
-          "title": "阿里云发布开源工具Meoo CLI:支持本地AI项目一键上线部署",
-          "url": "https://www.aibase.com/news/28858",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-11T11:52:57.530669Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b570dcd93135433126ecaaec6e7a79cd2223e8a9",
-          "title": "阿里云发布开源工具Meoo CLI:支持本地AI项目一键上线部署",
-          "url": "https://www.aibase.com/news/28858",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-11T11:52:57.530669Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7904,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T11:52:57.530669Z",
-      "latest_at": "2026-06-11T11:52:57.530669Z",
-      "primary_item": {
-        "id": "b570dcd93135433126ecaaec6e7a79cd2223e8a9",
-        "title": "阿里云发布开源工具Meoo CLI:支持本地AI项目一键上线部署",
-        "url": "https://www.aibase.com/news/28858",
+        "id": "15f8827a8c1fb25d6b296b91e3dbc868cdf605f1",
+        "title": "OpenAI开启Codex推广活动，邀请好友即可重置使用额度",
+        "url": "https://www.aibase.com/news/28874",
         "source": "AIbase",
         "source_name": "AIbase"
       }
