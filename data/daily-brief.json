@@ -1,8 +1,780 @@
 {
-  "generated_at": "2026-06-12T16:16:55.923651Z",
+  "generated_at": "2026-06-13T14:59:47.854363Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_93300d2f39e5",
+      "title": "Anthropic 秘密申请上市，估值 9650 亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+      "source": "Bloomberg：Technology（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cc5cbb86c3b68b5b35e4283f9eb5932a7ac22d0c",
+          "title": "Anthropic 秘密申请上市，估值 9650 亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+          "source": "Bloomberg：Technology（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T11:00:00Z"
+        },
+        {
+          "id": "11030a4673705e79f2e2cf3a118bfd0683669791",
+          "title": "全球资本主义将全部赌注押在人工智能的未来上，这令选民感到担忧",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T11:26:14.325000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Bloomberg：Technology（RSS）",
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "cc5cbb86c3b68b5b35e4283f9eb5932a7ac22d0c",
+          "title": "Anthropic 秘密申请上市，估值 9650 亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+          "source": "Bloomberg：Technology（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T11:00:00Z"
+        },
+        {
+          "id": "11030a4673705e79f2e2cf3a118bfd0683669791",
+          "title": "全球资本主义将全部赌注押在人工智能的未来上，这令选民感到担忧",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T11:26:14.325000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8335,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-13T11:00:00Z",
+      "latest_at": "2026-06-13T11:26:14.325000Z",
+      "primary_item": {
+        "id": "cc5cbb86c3b68b5b35e4283f9eb5932a7ac22d0c",
+        "title": "Anthropic 秘密申请上市，估值 9650 亿美元",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+        "source": "Bloomberg：Technology（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b0d10e8dabf2",
+      "title": "关于美国政府指令暂停访问Fable 5和Mythos 5的声明",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "primary_url": "https://www.anthropic.com/news/fable-mythos-access",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "86402a59e09ae75ecdd087feaf89810655d73cb3",
+          "title": "关于美国政府指令暂停访问Fable 5和Mythos 5的声明",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T01:15:57Z"
+        },
+        {
+          "id": "7c4d355b39318ffdb7b0a6fb16baa24d6f48f58a",
+          "title": "关于美国政府下令暂停访问《Fable 5》和《Mythos 5》的声明",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T04:00:13.444000Z"
+        },
+        {
+          "id": "1c0603713f60623822c547660603853fade64e1e",
+          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》 / Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T03:33:10Z"
+        },
+        {
+          "id": "db7f1a08eb0bdfe781f0f9ee59e31db1ee3af5d3",
+          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T01:04:02.471000Z"
+        },
+        {
+          "id": "077ff175ed6fe3054c604cffba4af2c8c11c940a",
+          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》 / Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-13T00:51:30Z"
+        },
+        {
+          "id": "98140d0071ebb5d3613c6579e01901f9146e603e",
+          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》 / US Government directive to suspend access to Fable 5 and Mythos 5",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-13T00:51:30Z"
+        }
+      ],
+      "source_count": 6,
+      "source_names": [
+        "Anthropic：Newsroom（网页）",
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "86402a59e09ae75ecdd087feaf89810655d73cb3",
+          "title": "关于美国政府指令暂停访问Fable 5和Mythos 5的声明",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T01:15:57Z"
+        },
+        {
+          "id": "7c4d355b39318ffdb7b0a6fb16baa24d6f48f58a",
+          "title": "关于美国政府下令暂停访问《Fable 5》和《Mythos 5》的声明",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T04:00:13.444000Z"
+        },
+        {
+          "id": "1c0603713f60623822c547660603853fade64e1e",
+          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》 / Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T03:33:10Z"
+        },
+        {
+          "id": "db7f1a08eb0bdfe781f0f9ee59e31db1ee3af5d3",
+          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T01:04:02.471000Z"
+        },
+        {
+          "id": "077ff175ed6fe3054c604cffba4af2c8c11c940a",
+          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》 / Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-13T00:51:30Z"
+        },
+        {
+          "id": "98140d0071ebb5d3613c6579e01901f9146e603e",
+          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》 / US Government directive to suspend access to Fable 5 and Mythos 5",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-13T00:51:30Z"
+        }
+      ],
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.4279,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-13T00:51:30Z",
+      "latest_at": "2026-06-13T04:00:13.444000Z",
+      "primary_item": {
+        "id": "86402a59e09ae75ecdd087feaf89810655d73cb3",
+        "title": "关于美国政府指令暂停访问Fable 5和Mythos 5的声明",
+        "url": "https://www.anthropic.com/news/fable-mythos-access",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4af57e709242",
+      "title": "谷歌Android安全负责人因反对军事AI合作辞职",
+      "url": "https://www.ithome.com/0/963/888.htm",
+      "primary_url": "https://www.ithome.com/0/963/888.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ae188b45cfb50818c809f1487bb72e0c040ffe9b",
+          "title": "谷歌Android安全负责人因反对军事AI合作辞职",
+          "url": "https://www.ithome.com/0/963/888.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T08:40:39Z"
+        },
+        {
+          "id": "9017bbd81965bd8af1950182879d2097f16069b1",
+          "title": "谷歌抛弃“不作恶”承诺：Android 安全主管因军事 AI 合作愤而辞职，控诉公司丧失道德底线",
+          "url": "https://www.ithome.com/0/963/888.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T08:40:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ae188b45cfb50818c809f1487bb72e0c040ffe9b",
+          "title": "谷歌Android安全负责人因反对军事AI合作辞职",
+          "url": "https://www.ithome.com/0/963/888.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T08:40:39Z"
+        },
+        {
+          "id": "9017bbd81965bd8af1950182879d2097f16069b1",
+          "title": "谷歌抛弃“不作恶”承诺：Android 安全主管因军事 AI 合作愤而辞职，控诉公司丧失道德底线",
+          "url": "https://www.ithome.com/0/963/888.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T08:40:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7367,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-13T08:40:39Z",
+      "latest_at": "2026-06-13T08:40:39Z",
+      "primary_item": {
+        "id": "ae188b45cfb50818c809f1487bb72e0c040ffe9b",
+        "title": "谷歌Android安全负责人因反对军事AI合作辞职",
+        "url": "https://www.ithome.com/0/963/888.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c20a87127ab9",
+      "title": "扎克伯格承认 Meta AI 转型\"脱轨\"：裁员 10%、转岗 7000 人后组织调整过快",
+      "url": "https://www.ithome.com/0/963/858.htm",
+      "primary_url": "https://www.ithome.com/0/963/858.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "459ba9e9f12bf9cbd10f2e5b9001e9021f03e925",
+          "title": "扎克伯格承认 Meta AI 转型\"脱轨\"：裁员 10%、转岗 7000 人后组织调整过快",
+          "url": "https://www.ithome.com/0/963/858.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T06:49:25Z"
+        },
+        {
+          "id": "1431cd1cdc2959a3e8ef090c5c9da8768ba88863",
+          "title": "Meta 裁员 10%、转岗约 7000 人后，扎克伯格坦言公司 AI 转型“脱轨”",
+          "url": "https://www.ithome.com/0/963/858.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T06:49:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "459ba9e9f12bf9cbd10f2e5b9001e9021f03e925",
+          "title": "扎克伯格承认 Meta AI 转型\"脱轨\"：裁员 10%、转岗 7000 人后组织调整过快",
+          "url": "https://www.ithome.com/0/963/858.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T06:49:25Z"
+        },
+        {
+          "id": "1431cd1cdc2959a3e8ef090c5c9da8768ba88863",
+          "title": "Meta 裁员 10%、转岗约 7000 人后，扎克伯格坦言公司 AI 转型“脱轨”",
+          "url": "https://www.ithome.com/0/963/858.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T06:49:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6595,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-13T06:49:25Z",
+      "latest_at": "2026-06-13T06:49:25Z",
+      "primary_item": {
+        "id": "459ba9e9f12bf9cbd10f2e5b9001e9021f03e925",
+        "title": "扎克伯格承认 Meta AI 转型\"脱轨\"：裁员 10%、转岗 7000 人后组织调整过快",
+        "url": "https://www.ithome.com/0/963/858.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b248f2db92ee",
+      "title": "智谱 GLM-5.2 旗舰模型发布：1M 上下文、下周开源",
+      "url": "https://x.com/Zai_org/status/2065704919299235870",
+      "primary_url": "https://x.com/Zai_org/status/2065704919299235870",
+      "source": "X：智谱 Z.ai (@Zai_org)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1fee1ca6cc7b34b09428e31b5aa5ce1d85274534",
+          "title": "智谱 GLM-5.2 旗舰模型发布：1M 上下文、下周开源",
+          "url": "https://x.com/Zai_org/status/2065704919299235870",
+          "source": "X：智谱 Z.ai (@Zai_org)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T07:56:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：智谱 Z.ai (@Zai_org)"
+      ],
+      "items": [
+        {
+          "id": "1fee1ca6cc7b34b09428e31b5aa5ce1d85274534",
+          "title": "智谱 GLM-5.2 旗舰模型发布：1M 上下文、下周开源",
+          "url": "https://x.com/Zai_org/status/2065704919299235870",
+          "source": "X：智谱 Z.ai (@Zai_org)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T07:56:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7062,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-13T07:56:46Z",
+      "latest_at": "2026-06-13T07:56:46Z",
+      "primary_item": {
+        "id": "1fee1ca6cc7b34b09428e31b5aa5ce1d85274534",
+        "title": "智谱 GLM-5.2 旗舰模型发布：1M 上下文、下周开源",
+        "url": "https://x.com/Zai_org/status/2065704919299235870",
+        "source": "X：智谱 Z.ai (@Zai_org)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6710017ae4e1",
+      "title": "智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
+      "url": "https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w",
+      "primary_url": "https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w",
+      "source": "公众号：智谱（GLM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c52f420110c76b1462d0251f4c10abed72f22ab4",
+          "title": "智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
+          "url": "https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T06:19:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：智谱（GLM）"
+      ],
+      "items": [
+        {
+          "id": "c52f420110c76b1462d0251f4c10abed72f22ab4",
+          "title": "智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
+          "url": "https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T06:19:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6388,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-13T06:19:36Z",
+      "latest_at": "2026-06-13T06:19:36Z",
+      "primary_item": {
+        "id": "c52f420110c76b1462d0251f4c10abed72f22ab4",
+        "title": "智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
+        "url": "https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w",
+        "source": "公众号：智谱（GLM）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_88eed83d28bd",
+      "title": "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量",
+      "url": "https://www.ithome.com/0/963/834.htm",
+      "primary_url": "https://www.ithome.com/0/963/834.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bc2bf3ede9ee80cc402b4650e2ba4f9742e018b6",
+          "title": "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量",
+          "url": "https://www.ithome.com/0/963/834.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T06:09:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "bc2bf3ede9ee80cc402b4650e2ba4f9742e018b6",
+          "title": "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量",
+          "url": "https://www.ithome.com/0/963/834.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T06:09:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6317,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-13T06:09:26Z",
+      "latest_at": "2026-06-13T06:09:26Z",
+      "primary_item": {
+        "id": "bc2bf3ede9ee80cc402b4650e2ba4f9742e018b6",
+        "title": "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量",
+        "url": "https://www.ithome.com/0/963/834.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c6069eed8b00",
+      "title": "我们如何使 GitHub Copilot CLI 对委派更具选择性 / How we made GitHub Copilot CLI more selective about delegation",
+      "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation",
+      "primary_url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "be0b202f755e718442d572da700da022d8e78bee",
+          "title": "我们如何使 GitHub Copilot CLI 对委派更具选择性 / How we made GitHub Copilot CLI more selective about delegation",
+          "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-12T22:26:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "be0b202f755e718442d572da700da022d8e78bee",
+          "title": "我们如何使 GitHub Copilot CLI 对委派更具选择性 / How we made GitHub Copilot CLI more selective about delegation",
+          "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-12T22:26:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.3101,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-12T22:26:23Z",
+      "latest_at": "2026-06-12T22:26:23Z",
+      "primary_item": {
+        "id": "be0b202f755e718442d572da700da022d8e78bee",
+        "title": "我们如何使 GitHub Copilot CLI 对委派更具选择性 / How we made GitHub Copilot CLI more selective about delegation",
+        "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_78be1495ac07",
+      "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
+      "primary_url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2122fbf932a51402286c9445c9d3483ad6bb9678",
+          "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI",
+          "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T02:26:30Z"
+        },
+        {
+          "id": "8e1d4e9d6d7ccf272a8f9a2fe9ba7821ea10924d",
+          "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI / Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+          "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-13T02:26:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "2122fbf932a51402286c9445c9d3483ad6bb9678",
+          "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI",
+          "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T02:26:30Z"
+        },
+        {
+          "id": "8e1d4e9d6d7ccf272a8f9a2fe9ba7821ea10924d",
+          "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI / Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+          "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-13T02:26:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.4769,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-13T02:26:30Z",
+      "latest_at": "2026-06-13T02:26:30Z",
+      "primary_item": {
+        "id": "2122fbf932a51402286c9445c9d3483ad6bb9678",
+        "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI",
+        "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3fe3bf526cee",
+      "title": "副驾驶代码审查：新的配置和控制 / Copilot code review: New configurations and controls",
+      "url": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
+      "primary_url": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c4aac80ecde24e684fec4bfb65b4f363c8b01e77",
+          "title": "副驾驶代码审查：新的配置和控制 / Copilot code review: New configurations and controls",
+          "url": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-12T21:37:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c4aac80ecde24e684fec4bfb65b4f363c8b01e77",
+          "title": "副驾驶代码审查：新的配置和控制 / Copilot code review: New configurations and controls",
+          "url": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-12T21:37:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.276,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-12T21:37:14Z",
+      "latest_at": "2026-06-12T21:37:14Z",
+      "primary_item": {
+        "id": "c4aac80ecde24e684fec4bfb65b4f363c8b01e77",
+        "title": "副驾驶代码审查：新的配置和控制 / Copilot code review: New configurations and controls",
+        "url": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_80b8efd89b1a",
       "title": "olmo-eval：面向模型开发循环的评估工作台 / olmo-eval: An evaluation workbench for the model development loop",
@@ -57,22 +829,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.9071,
-      "importance": 0.9071,
-      "importance_score": 0.9071,
+      "score": 0.7178,
+      "importance": 0.7178,
+      "importance_score": 0.7178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9856,
+        "recency": 0.0391,
         "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T15:56:10Z",
       "latest_at": "2026-06-12T15:56:10Z",
@@ -81,6 +852,204 @@
         "title": "olmo-eval：面向模型开发循环的评估工作台 / olmo-eval: An evaluation workbench for the model development loop",
         "url": "https://huggingface.co/blog/allenai/olmo-eval",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_207f4f6cdff0",
+      "title": "OpenAI 遭多州总检察长联合调查",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
+      "source": "Bloomberg：Technology（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "68dfdd5395ad760fed86d1ed75c23bcccd76c70c",
+          "title": "OpenAI 遭多州总检察长联合调查",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
+          "source": "Bloomberg：Technology（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T00:27:02Z"
+        },
+        {
+          "id": "33825ce5f8a37aedc2afe97bb3f0164d4906b7fb",
+          "title": "OpenAI 遭到各州总检察长联盟的调查",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T00:48:08.018000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Bloomberg：Technology（RSS）",
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "68dfdd5395ad760fed86d1ed75c23bcccd76c70c",
+          "title": "OpenAI 遭多州总检察长联合调查",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
+          "source": "Bloomberg：Technology（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T00:27:02Z"
+        },
+        {
+          "id": "33825ce5f8a37aedc2afe97bb3f0164d4906b7fb",
+          "title": "OpenAI 遭到各州总检察长联盟的调查",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T00:48:08.018000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7158,
+      "importance": 0.7158,
+      "importance_score": 0.7158,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.3939,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-13T00:27:02Z",
+      "latest_at": "2026-06-13T00:48:08.018000Z",
+      "primary_item": {
+        "id": "68dfdd5395ad760fed86d1ed75c23bcccd76c70c",
+        "title": "OpenAI 遭多州总检察长联合调查",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
+        "source": "Bloomberg：Technology（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d229fde8896f",
+      "title": "Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味",
+      "url": "https://x.com/oran_ge/status/2065566882774868125",
+      "primary_url": "https://x.com/oran_ge/status/2065566882774868125",
+      "source": "X：Oran Ge (@oran_ge)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "98c2334d65b190a44b4ac98b8eae9d47c485017a",
+          "title": "Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味",
+          "url": "https://x.com/oran_ge/status/2065566882774868125",
+          "source": "X：Oran Ge (@oran_ge)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T22:48:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Oran Ge (@oran_ge)"
+      ],
+      "items": [
+        {
+          "id": "98c2334d65b190a44b4ac98b8eae9d47c485017a",
+          "title": "Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味",
+          "url": "https://x.com/oran_ge/status/2065566882774868125",
+          "source": "X：Oran Ge (@oran_ge)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T22:48:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6771,
+      "importance": 0.6771,
+      "importance_score": 0.6771,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.3253,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-12T22:48:15Z",
+      "latest_at": "2026-06-12T22:48:15Z",
+      "primary_item": {
+        "id": "98c2334d65b190a44b4ac98b8eae9d47c485017a",
+        "title": "Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味",
+        "url": "https://x.com/oran_ge/status/2065566882774868125",
+        "source": "X：Oran Ge (@oran_ge)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3eb5a5a79b7b",
+      "title": "GitHub Actions：自托管运行程序的最低版本执行时间表 / GitHub Actions: Minimum version enforcement timeline for self-hosted runners",
+      "url": "https://github.blog/changelog/2026-06-12-github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners",
+      "primary_url": "https://github.blog/changelog/2026-06-12-github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a6ef4eb629d64ef64b74b60a8eccc99ec891234f",
+          "title": "GitHub Actions：自托管运行程序的最低版本执行时间表 / GitHub Actions: Minimum version enforcement timeline for self-hosted runners",
+          "url": "https://github.blog/changelog/2026-06-12-github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-12T16:04:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "a6ef4eb629d64ef64b74b60a8eccc99ec891234f",
+          "title": "GitHub Actions：自托管运行程序的最低版本执行时间表 / GitHub Actions: Minimum version enforcement timeline for self-hosted runners",
+          "url": "https://github.blog/changelog/2026-06-12-github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-12T16:04:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.67,
+      "importance": 0.67,
+      "importance_score": 0.67,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.0452,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-12T16:04:57Z",
+      "latest_at": "2026-06-12T16:04:57Z",
+      "primary_item": {
+        "id": "a6ef4eb629d64ef64b74b60a8eccc99ec891234f",
+        "title": "GitHub Actions：自托管运行程序的最低版本执行时间表 / GitHub Actions: Minimum version enforcement timeline for self-hosted runners",
+        "url": "https://github.blog/changelog/2026-06-12-github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -138,24 +1107,23 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
-      "importance_label": "行业动态",
+      "score": 0.6417,
+      "importance": 0.6417,
+      "importance_score": 0.6417,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9697,
+        "recency": 0.0233,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T15:33:19Z",
-      "latest_at": "2026-06-12T16:16:55.923651Z",
+      "latest_at": "2026-06-12T16:42:06.794846Z",
       "primary_item": {
         "id": "ea2633269bcbbc324357fa22538648bd6785737a",
         "title": "字节豆包上线\"任务模式\"：支持定时执行与文件生成，\"思考模式\"升级为\"专家模式\"",
@@ -165,1178 +1133,298 @@
       }
     },
     {
-      "story_id": "story_cf98f7794fe4",
-      "title": "MiniMax M3 开源权重模型发布，已上架 HuggingFace",
-      "url": "https://x.com/MiniMax_AI/status/2065436935188058208",
-      "primary_url": "https://x.com/MiniMax_AI/status/2065436935188058208",
-      "source": "X：MiniMax (@MiniMax_AI)",
+      "story_id": "story_23b315c3d191",
+      "title": "Anthropic首次公众调查：近半美国人盼AI治愈疾病，超六成担忧失业",
+      "url": "https://www.anthropic.com/news/anthropic-public-record",
+      "primary_url": "https://www.anthropic.com/news/anthropic-public-record",
+      "source": "Anthropic：Newsroom（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "99abc23a30c62899cfbe5ef76b9ff27f4946d00f",
-          "title": "MiniMax M3 开源权重模型发布，已上架 HuggingFace",
-          "url": "https://x.com/MiniMax_AI/status/2065436935188058208",
-          "source": "X：MiniMax (@MiniMax_AI)",
+          "id": "212dec8a1116446b11aecee3b5645473de2475a1",
+          "title": "Anthropic首次公众调查：近半美国人盼AI治愈疾病，超六成担忧失业",
+          "url": "https://www.anthropic.com/news/anthropic-public-record",
+          "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-12T14:11:53Z"
+          "published_at": "2026-06-12T16:14:59Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：MiniMax (@MiniMax_AI)"
+        "Anthropic：Newsroom（网页）"
       ],
       "items": [
         {
-          "id": "99abc23a30c62899cfbe5ef76b9ff27f4946d00f",
-          "title": "MiniMax M3 开源权重模型发布，已上架 HuggingFace",
-          "url": "https://x.com/MiniMax_AI/status/2065436935188058208",
-          "source": "X：MiniMax (@MiniMax_AI)",
+          "id": "212dec8a1116446b11aecee3b5645473de2475a1",
+          "title": "Anthropic首次公众调查：近半美国人盼AI治愈疾病，超六成担忧失业",
+          "url": "https://www.anthropic.com/news/anthropic-public-record",
+          "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-12T14:11:53Z"
+          "published_at": "2026-06-12T16:14:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7946,
-      "importance": 0.7946,
-      "importance_score": 0.7946,
-      "importance_label": "行业动态",
+      "score": 0.6224,
+      "importance": 0.6224,
+      "importance_score": 0.6224,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9132,
+        "recency": 0.0522,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-12T14:11:53Z",
-      "latest_at": "2026-06-12T14:11:53Z",
+      "earliest_at": "2026-06-12T16:14:59Z",
+      "latest_at": "2026-06-12T16:14:59Z",
       "primary_item": {
-        "id": "99abc23a30c62899cfbe5ef76b9ff27f4946d00f",
-        "title": "MiniMax M3 开源权重模型发布，已上架 HuggingFace",
-        "url": "https://x.com/MiniMax_AI/status/2065436935188058208",
-        "source": "X：MiniMax (@MiniMax_AI)",
+        "id": "212dec8a1116446b11aecee3b5645473de2475a1",
+        "title": "Anthropic首次公众调查：近半美国人盼AI治愈疾病，超六成担忧失业",
+        "url": "https://www.anthropic.com/news/anthropic-public-record",
+        "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_7448e1f4e364",
-      "title": "AI智能体“失控”边缘：Claude Fable5 的自主调试初体验",
-      "url": "https://www.aibase.com/news/28888",
-      "primary_url": "https://www.aibase.com/news/28888",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9c990d9b3c1d937fa751f3d5765ca44090ee6ecd",
-          "title": "AI智能体“失控”边缘：Claude Fable5 的自主调试初体验",
-          "url": "https://www.aibase.com/news/28888",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9c990d9b3c1d937fa751f3d5765ca44090ee6ecd",
-          "title": "AI智能体“失控”边缘：Claude Fable5 的自主调试初体验",
-          "url": "https://www.aibase.com/news/28888",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7701,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-12T10:45:53.151417Z",
-      "latest_at": "2026-06-12T10:45:53.151417Z",
-      "primary_item": {
-        "id": "9c990d9b3c1d937fa751f3d5765ca44090ee6ecd",
-        "title": "AI智能体“失控”边缘：Claude Fable5 的自主调试初体验",
-        "url": "https://www.aibase.com/news/28888",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2826833d7ea6",
-      "title": "​SK集团拟在日本新建AI工厂 计划两三年内投产运营",
-      "url": "https://www.aibase.com/news/28882",
-      "primary_url": "https://www.aibase.com/news/28882",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "da6c280333b6ef8729b6a073d53e01e709d935db",
-          "title": "​SK集团拟在日本新建AI工厂 计划两三年内投产运营",
-          "url": "https://www.aibase.com/news/28882",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "da6c280333b6ef8729b6a073d53e01e709d935db",
-          "title": "​SK集团拟在日本新建AI工厂 计划两三年内投产运营",
-          "url": "https://www.aibase.com/news/28882",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7701,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-12T10:45:53.151417Z",
-      "latest_at": "2026-06-12T10:45:53.151417Z",
-      "primary_item": {
-        "id": "da6c280333b6ef8729b6a073d53e01e709d935db",
-        "title": "​SK集团拟在日本新建AI工厂 计划两三年内投产运营",
-        "url": "https://www.aibase.com/news/28882",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a42e5937dbff",
-      "title": "​中央网信办开设AI乱象举报专区 明确 14 类受理举报问题",
-      "url": "https://www.aibase.com/news/28892",
-      "primary_url": "https://www.aibase.com/news/28892",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3dbcd1fba9d4be3c167688416baad7cf873c8de9",
-          "title": "​中央网信办开设AI乱象举报专区 明确 14 类受理举报问题",
-          "url": "https://www.aibase.com/news/28892",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3dbcd1fba9d4be3c167688416baad7cf873c8de9",
-          "title": "​中央网信办开设AI乱象举报专区 明确 14 类受理举报问题",
-          "url": "https://www.aibase.com/news/28892",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7701,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-12T10:45:53.151417Z",
-      "latest_at": "2026-06-12T10:45:53.151417Z",
-      "primary_item": {
-        "id": "3dbcd1fba9d4be3c167688416baad7cf873c8de9",
-        "title": "​中央网信办开设AI乱象举报专区 明确 14 类受理举报问题",
-        "url": "https://www.aibase.com/news/28892",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ae337f6f1aa3",
-      "title": "​联合研究揭示：AI Agent大幅变革知识工作模式 效率成本优势显著",
-      "url": "https://www.aibase.com/news/28890",
-      "primary_url": "https://www.aibase.com/news/28890",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0fcb29759b22a3b4600fff88738a4992bf67e65b",
-          "title": "​联合研究揭示：AI Agent大幅变革知识工作模式 效率成本优势显著",
-          "url": "https://www.aibase.com/news/28890",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0fcb29759b22a3b4600fff88738a4992bf67e65b",
-          "title": "​联合研究揭示：AI Agent大幅变革知识工作模式 效率成本优势显著",
-          "url": "https://www.aibase.com/news/28890",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7701,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-12T10:45:53.151417Z",
-      "latest_at": "2026-06-12T10:45:53.151417Z",
-      "primary_item": {
-        "id": "0fcb29759b22a3b4600fff88738a4992bf67e65b",
-        "title": "​联合研究揭示：AI Agent大幅变革知识工作模式 效率成本优势显著",
-        "url": "https://www.aibase.com/news/28890",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_555e228c89f6",
-      "title": "​高盛发布AI行业研报：市场低估AI需求2030 年Token消耗或将暴涨 24 倍",
-      "url": "https://www.aibase.com/news/28887",
-      "primary_url": "https://www.aibase.com/news/28887",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "58407978fabcbdb4935d1e497303121b6b12a5aa",
-          "title": "​高盛发布AI行业研报：市场低估AI需求2030 年Token消耗或将暴涨 24 倍",
-          "url": "https://www.aibase.com/news/28887",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "58407978fabcbdb4935d1e497303121b6b12a5aa",
-          "title": "​高盛发布AI行业研报：市场低估AI需求2030 年Token消耗或将暴涨 24 倍",
-          "url": "https://www.aibase.com/news/28887",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7701,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-12T10:45:53.151417Z",
-      "latest_at": "2026-06-12T10:45:53.151417Z",
-      "primary_item": {
-        "id": "58407978fabcbdb4935d1e497303121b6b12a5aa",
-        "title": "​高盛发布AI行业研报：市场低估AI需求2030 年Token消耗或将暴涨 24 倍",
-        "url": "https://www.aibase.com/news/28887",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_baaf5ca7e6fa",
-      "title": "余承东：大模型战场无第二，华为盘古全面进阶2.0",
-      "url": "https://www.aibase.com/news/28886",
-      "primary_url": "https://www.aibase.com/news/28886",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e290a01b8b0bf32fb2fe549f16189b2535c8507c",
-          "title": "余承东：大模型战场无第二，华为盘古全面进阶2.0",
-          "url": "https://www.aibase.com/news/28886",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e290a01b8b0bf32fb2fe549f16189b2535c8507c",
-          "title": "余承东：大模型战场无第二，华为盘古全面进阶2.0",
-          "url": "https://www.aibase.com/news/28886",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7701,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-12T10:45:53.151417Z",
-      "latest_at": "2026-06-12T10:45:53.151417Z",
-      "primary_item": {
-        "id": "e290a01b8b0bf32fb2fe549f16189b2535c8507c",
-        "title": "余承东：大模型战场无第二，华为盘古全面进阶2.0",
-        "url": "https://www.aibase.com/news/28886",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cc109d503548",
-      "title": "大众点评加码内容生态建设 强化AIGC虚假评价治理",
-      "url": "https://www.aibase.com/news/28883",
-      "primary_url": "https://www.aibase.com/news/28883",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "979ba1e4a83347f295a23eaae84c870dad90a1e7",
-          "title": "大众点评加码内容生态建设 强化AIGC虚假评价治理",
-          "url": "https://www.aibase.com/news/28883",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "979ba1e4a83347f295a23eaae84c870dad90a1e7",
-          "title": "大众点评加码内容生态建设 强化AIGC虚假评价治理",
-          "url": "https://www.aibase.com/news/28883",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7701,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-12T10:45:53.151417Z",
-      "latest_at": "2026-06-12T10:45:53.151417Z",
-      "primary_item": {
-        "id": "979ba1e4a83347f295a23eaae84c870dad90a1e7",
-        "title": "大众点评加码内容生态建设 强化AIGC虚假评价治理",
-        "url": "https://www.aibase.com/news/28883",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ec9ca77f4ef4",
-      "title": "月之暗面Kimi拟发行融合算力服务的AI原生信用卡",
-      "url": "https://www.aibase.com/news/28884",
-      "primary_url": "https://www.aibase.com/news/28884",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3b9be06d940364bdcee65122f0ce3ef9843dc433",
-          "title": "月之暗面Kimi拟发行融合算力服务的AI原生信用卡",
-          "url": "https://www.aibase.com/news/28884",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3b9be06d940364bdcee65122f0ce3ef9843dc433",
-          "title": "月之暗面Kimi拟发行融合算力服务的AI原生信用卡",
-          "url": "https://www.aibase.com/news/28884",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7701,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-12T10:45:53.151417Z",
-      "latest_at": "2026-06-12T10:45:53.151417Z",
-      "primary_item": {
-        "id": "3b9be06d940364bdcee65122f0ce3ef9843dc433",
-        "title": "月之暗面Kimi拟发行融合算力服务的AI原生信用卡",
-        "url": "https://www.aibase.com/news/28884",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0061bf37a21d",
-      "title": "苹果iOS27 健康应用重磅更新：智能营养识别与围绝经期追踪上线",
-      "url": "https://www.aibase.com/news/28885",
-      "primary_url": "https://www.aibase.com/news/28885",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "00adf3697b00eefd3b5108b502929e57d577aac8",
-          "title": "苹果iOS27 健康应用重磅更新：智能营养识别与围绝经期追踪上线",
-          "url": "https://www.aibase.com/news/28885",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "00adf3697b00eefd3b5108b502929e57d577aac8",
-          "title": "苹果iOS27 健康应用重磅更新：智能营养识别与围绝经期追踪上线",
-          "url": "https://www.aibase.com/news/28885",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7701,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-12T10:45:53.151417Z",
-      "latest_at": "2026-06-12T10:45:53.151417Z",
-      "primary_item": {
-        "id": "00adf3697b00eefd3b5108b502929e57d577aac8",
-        "title": "苹果iOS27 健康应用重磅更新：智能营养识别与围绝经期追踪上线",
-        "url": "https://www.aibase.com/news/28885",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_db46da724f40",
-      "title": "讯飞医疗正式发布星火医疗大模型V3.5",
-      "url": "https://www.aibase.com/news/28893",
-      "primary_url": "https://www.aibase.com/news/28893",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d859906b8949fdcaf167d7b6b45ceac395c4abe9",
-          "title": "讯飞医疗正式发布星火医疗大模型V3.5",
-          "url": "https://www.aibase.com/news/28893",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d859906b8949fdcaf167d7b6b45ceac395c4abe9",
-          "title": "讯飞医疗正式发布星火医疗大模型V3.5",
-          "url": "https://www.aibase.com/news/28893",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7701,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-12T10:45:53.151417Z",
-      "latest_at": "2026-06-12T10:45:53.151417Z",
-      "primary_item": {
-        "id": "d859906b8949fdcaf167d7b6b45ceac395c4abe9",
-        "title": "讯飞医疗正式发布星火医疗大模型V3.5",
-        "url": "https://www.aibase.com/news/28893",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6a8169c249bf",
-      "title": "通义千问上线足球预测AI助手 连红牌和绝杀都能算准?",
-      "url": "https://www.aibase.com/news/28891",
-      "primary_url": "https://www.aibase.com/news/28891",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d893b2450a4c3ddfd480e2cf85bb976a83cb00f8",
-          "title": "通义千问上线足球预测AI助手 连红牌和绝杀都能算准?",
-          "url": "https://www.aibase.com/news/28891",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d893b2450a4c3ddfd480e2cf85bb976a83cb00f8",
-          "title": "通义千问上线足球预测AI助手 连红牌和绝杀都能算准?",
-          "url": "https://www.aibase.com/news/28891",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T10:45:53.151417Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7701,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-12T10:45:53.151417Z",
-      "latest_at": "2026-06-12T10:45:53.151417Z",
-      "primary_item": {
-        "id": "d893b2450a4c3ddfd480e2cf85bb976a83cb00f8",
-        "title": "通义千问上线足球预测AI助手 连红牌和绝杀都能算准?",
-        "url": "https://www.aibase.com/news/28891",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_be2fde6aec8a",
-      "title": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code",
-      "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "story_id": "story_25973b8932a3",
+      "title": "Hermes Agent 在 OpenRouter 上的使用指南：设置、模型与路由",
+      "url": "https://openrouter.ai/blog/tutorials/hermes-agent",
+      "primary_url": "https://openrouter.ai/blog/tutorials/hermes-agent",
+      "source": "OpenRouter：Announcements（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1ba8e35ce216079ebc43e6a63c3b185889b42668",
-          "title": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code",
-          "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "id": "019b436f87802edcace5196223cbf531f906791e",
+          "title": "Hermes Agent 在 OpenRouter 上的使用指南：设置、模型与路由",
+          "url": "https://openrouter.ai/blog/tutorials/hermes-agent",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-12T10:16:02Z"
+          "published_at": "2026-06-12T16:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Kimi.ai (@Kimi_Moonshot)"
+        "OpenRouter：Announcements（RSS）"
       ],
       "items": [
         {
-          "id": "1ba8e35ce216079ebc43e6a63c3b185889b42668",
-          "title": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code",
-          "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "id": "019b436f87802edcace5196223cbf531f906791e",
+          "title": "Hermes Agent 在 OpenRouter 上的使用指南：设置、模型与路由",
+          "url": "https://openrouter.ai/blog/tutorials/hermes-agent",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-12T10:16:02Z"
+          "published_at": "2026-06-12T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
-      "importance_label": "行业动态",
+      "score": 0.6204,
+      "importance": 0.6204,
+      "importance_score": 0.6204,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7494,
+        "recency": 0.0418,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-12T10:16:02Z",
-      "latest_at": "2026-06-12T10:16:02Z",
+      "earliest_at": "2026-06-12T16:00:00Z",
+      "latest_at": "2026-06-12T16:00:00Z",
       "primary_item": {
-        "id": "1ba8e35ce216079ebc43e6a63c3b185889b42668",
-        "title": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code",
-        "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
-        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "id": "019b436f87802edcace5196223cbf531f906791e",
+        "title": "Hermes Agent 在 OpenRouter 上的使用指南：设置、模型与路由",
+        "url": "https://openrouter.ai/blog/tutorials/hermes-agent",
+        "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_4e47b9dbf572",
-      "title": "母亲起诉OpenAI：聊天机器人是否成为压垮女儿的“最后一根稻草”？",
-      "url": "https://www.aibase.com/news/28880",
-      "primary_url": "https://www.aibase.com/news/28880",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7788ee5c51680e69b9f656e465160cc87404fbf3",
-          "title": "母亲起诉OpenAI：聊天机器人是否成为压垮女儿的“最后一根稻草”？",
-          "url": "https://www.aibase.com/news/28880",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T06:24:38.964697Z"
-        },
-        {
-          "id": "2bf4ab5877bfc7236bdf25a06b8b1c3cef541217",
-          "title": "母亲起诉 OpenAI：聊天机器人是否成为压垮女儿的「最后一根稻草」？",
-          "url": "https://www.aibase.com/zh/news/28880",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "7788ee5c51680e69b9f656e465160cc87404fbf3",
-          "title": "母亲起诉OpenAI：聊天机器人是否成为压垮女儿的“最后一根稻草”？",
-          "url": "https://www.aibase.com/news/28880",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T06:24:38.964697Z"
-        },
-        {
-          "id": "2bf4ab5877bfc7236bdf25a06b8b1c3cef541217",
-          "title": "母亲起诉 OpenAI：聊天机器人是否成为压垮女儿的「最后一根稻草」？",
-          "url": "https://www.aibase.com/zh/news/28880",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5887,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-12T06:24:38.964697Z",
-      "latest_at": "2026-06-12T06:24:38.964697Z",
-      "primary_item": {
-        "id": "7788ee5c51680e69b9f656e465160cc87404fbf3",
-        "title": "母亲起诉OpenAI：聊天机器人是否成为压垮女儿的“最后一根稻草”？",
-        "url": "https://www.aibase.com/news/28880",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5c4df5cb6ee2",
-      "title": "腾讯AI棋局生变：从“元宝”到“WorkBuddy”，战略重心悄然转移",
-      "url": "https://www.aibase.com/news/28879",
-      "primary_url": "https://www.aibase.com/news/28879",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "96b76454c01e71be96c66b721d4e75215f3c34c2",
-          "title": "腾讯AI棋局生变：从“元宝”到“WorkBuddy”，战略重心悄然转移",
-          "url": "https://www.aibase.com/news/28879",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T06:24:38.964697Z"
-        },
-        {
-          "id": "dfd901826cb4a5108fe8fd88214199714acb45d3",
-          "title": "腾讯 AI 棋局生变：从「元宝」到「WorkBuddy」，战略重心悄然转移",
-          "url": "https://www.aibase.com/zh/news/28879",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "96b76454c01e71be96c66b721d4e75215f3c34c2",
-          "title": "腾讯AI棋局生变：从“元宝”到“WorkBuddy”，战略重心悄然转移",
-          "url": "https://www.aibase.com/news/28879",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T06:24:38.964697Z"
-        },
-        {
-          "id": "dfd901826cb4a5108fe8fd88214199714acb45d3",
-          "title": "腾讯 AI 棋局生变：从「元宝」到「WorkBuddy」，战略重心悄然转移",
-          "url": "https://www.aibase.com/zh/news/28879",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5887,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-12T06:24:38.964697Z",
-      "latest_at": "2026-06-12T06:24:38.964697Z",
-      "primary_item": {
-        "id": "96b76454c01e71be96c66b721d4e75215f3c34c2",
-        "title": "腾讯AI棋局生变：从“元宝”到“WorkBuddy”，战略重心悄然转移",
-        "url": "https://www.aibase.com/news/28879",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_397f7cdf88e0",
-      "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
-      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-      "primary_url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_a9b684fade30",
+      "title": "如何在OpenRouter上获得最低成本的LLM推理",
+      "url": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter",
+      "primary_url": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter",
+      "source": "OpenRouter：Announcements（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f477d3a9344bd037de644134f9ef815e5590d0c8",
-          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "d041510c11b726a400fc03f3b9f83a80494b4c8b",
+          "title": "如何在OpenRouter上获得最低成本的LLM推理",
+          "url": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-11T22:23:17Z"
-        },
-        {
-          "id": "7a0befc00623be120d658dbbea4fe5223b6ce434",
-          "title": "我们来玩个游戏吧？——在95%的模拟中，大型语言模型都会使用战术核武器",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "www.kennethpayne.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-11T22:23:17.154000Z"
-        },
-        {
-          "id": "a1e03371b6e48457831c4d57ca178ed9e7344d62",
-          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器 / Shall we play a game? My AI nuclear simulation",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-11T19:54:54Z"
-        },
-        {
-          "id": "dc27af65a8007267722a7b61bf2c8bbbff03b705",
-          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器 / Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-11T19:54:54Z"
+          "published_at": "2026-06-12T16:00:00Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.kennethpayne.uk"
+        "OpenRouter：Announcements（RSS）"
       ],
       "items": [
         {
-          "id": "f477d3a9344bd037de644134f9ef815e5590d0c8",
-          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "d041510c11b726a400fc03f3b9f83a80494b4c8b",
+          "title": "如何在OpenRouter上获得最低成本的LLM推理",
+          "url": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-11T22:23:17Z"
-        },
-        {
-          "id": "7a0befc00623be120d658dbbea4fe5223b6ce434",
-          "title": "我们来玩个游戏吧？——在95%的模拟中，大型语言模型都会使用战术核武器",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "www.kennethpayne.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-11T22:23:17.154000Z"
-        },
-        {
-          "id": "a1e03371b6e48457831c4d57ca178ed9e7344d62",
-          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器 / Shall we play a game? My AI nuclear simulation",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-11T19:54:54Z"
-        },
-        {
-          "id": "dc27af65a8007267722a7b61bf2c8bbbff03b705",
-          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器 / Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
-          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-11T19:54:54Z"
+          "published_at": "2026-06-12T16:00:00Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6204,
+      "importance": 0.6204,
+      "importance_score": 0.6204,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2544,
-        "story_heat": 0.75
+        "recency": 0.0418,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-11T19:54:54Z",
-      "latest_at": "2026-06-11T22:23:17.154000Z",
+      "earliest_at": "2026-06-12T16:00:00Z",
+      "latest_at": "2026-06-12T16:00:00Z",
       "primary_item": {
-        "id": "f477d3a9344bd037de644134f9ef815e5590d0c8",
-        "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
-        "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "d041510c11b726a400fc03f3b9f83a80494b4c8b",
+        "title": "如何在OpenRouter上获得最低成本的LLM推理",
+        "url": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter",
+        "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_dcc2fd07a9e8",
-      "title": "Preply 如何结合人工智能和真人导师来实现个性化学习 / How Preply combines AI and human tutors to personalize learning",
-      "url": "https://openai.com/index/preply",
-      "primary_url": "https://openai.com/index/preply",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_137e41b45469",
+      "title": "每天都有很多人、朋友、熟人、追随者、初创公司要求我尝试他们的新人工智能产品，就像我每天至少收到 3 个这样的请求，如果我尝试所有这些产品，我就没有时间...... / There are SO many people, friends, acquaintances, followers, startups, asking me to try their new AI products every day Like I get at least 3 such requests per day If I tried all of these products I wouldn’t have time...",
+      "url": "https://x.com/zarazhangrui/status/2065696088519270402",
+      "primary_url": "https://x.com/zarazhangrui/status/2065696088519270402",
+      "source": "Follow Builders · X · Zara Zhang",
+      "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "f5abe9304398407ef22b6b4fa1701010c32c2102",
-          "title": "Preply 如何结合人工智能和真人导师来实现个性化学习 / How Preply combines AI and human tutors to personalize learning",
-          "url": "https://openai.com/index/preply",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-12T00:00:00Z"
+          "id": "1279c2fe0f6767e4e9aa96f07da60681a4e6999c",
+          "title": "每天都有很多人、朋友、熟人、追随者、初创公司要求我尝试他们的新人工智能产品，就像我每天至少收到 3 个这样的请求，如果我尝试所有这些产品，我就没有时间...... / There are SO many people, friends, acquaintances, followers, startups, asking me to try their new AI products every day Like I get at least 3 such requests per day If I tried all of these products I wouldn’t have time...",
+          "url": "https://x.com/zarazhangrui/status/2065696088519270402",
+          "source": "Follow Builders · X · Zara Zhang",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-06-13T07:21:40Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "Follow Builders · X · Zara Zhang"
       ],
       "items": [
         {
-          "id": "f5abe9304398407ef22b6b4fa1701010c32c2102",
-          "title": "Preply 如何结合人工智能和真人导师来实现个性化学习 / How Preply combines AI and human tutors to personalize learning",
-          "url": "https://openai.com/index/preply",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-12T00:00:00Z"
+          "id": "1279c2fe0f6767e4e9aa96f07da60681a4e6999c",
+          "title": "每天都有很多人、朋友、熟人、追随者、初创公司要求我尝试他们的新人工智能产品，就像我每天至少收到 3 个这样的请求，如果我尝试所有这些产品，我就没有时间...... / There are SO many people, friends, acquaintances, followers, startups, asking me to try their new AI products every day Like I get at least 3 such requests per day If I tried all of these products I wouldn’t have time...",
+          "url": "https://x.com/zarazhangrui/status/2065696088519270402",
+          "source": "Follow Builders · X · Zara Zhang",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-06-13T07:21:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
-      "importance_label": "官方更新",
+      "score": 0.6154,
+      "importance": 0.6154,
+      "importance_score": 0.6154,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.3216,
+        "source_tier": 0.62,
+        "ai_relevance": 0.77,
+        "recency": 0.6819,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "watch",
       "reasons": [
-        "official_source",
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-06-12T00:00:00Z",
-      "latest_at": "2026-06-12T00:00:00Z",
+      "earliest_at": "2026-06-13T07:21:40Z",
+      "latest_at": "2026-06-13T07:21:40Z",
       "primary_item": {
-        "id": "f5abe9304398407ef22b6b4fa1701010c32c2102",
-        "title": "Preply 如何结合人工智能和真人导师来实现个性化学习 / How Preply combines AI and human tutors to personalize learning",
-        "url": "https://openai.com/index/preply",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "1279c2fe0f6767e4e9aa96f07da60681a4e6999c",
+        "title": "每天都有很多人、朋友、熟人、追随者、初创公司要求我尝试他们的新人工智能产品，就像我每天至少收到 3 个这样的请求，如果我尝试所有这些产品，我就没有时间...... / There are SO many people, friends, acquaintances, followers, startups, asking me to try their new AI products every day Like I get at least 3 such requests per day If I tried all of these products I wouldn’t have time...",
+        "url": "https://x.com/zarazhangrui/status/2065696088519270402",
+        "source": "Follow Builders · X · Zara Zhang",
+        "source_name": "Follow Builders"
       }
     },
     {
-      "story_id": "story_68870284b65b",
-      "title": "OpenAI开启Codex推广活动，邀请好友即可重置使用额度",
-      "url": "https://www.aibase.com/news/28874",
-      "primary_url": "https://www.aibase.com/news/28874",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_063dcfdcb553",
+      "title": "我几乎无法跟上实施/测试/登陆人们提交给 https://t.co/qUxn0LF7Ct 的所有问题/PRs Codex 在构建crabbox 时在内部crabbox 中运行。这对我的工作来说变得至关重要。丙... / I can barely keep up with implementing/testing/landing all the Issues/PRs folks submit to https://t.co/qUxn0LF7Ct Codex runs INSIDE crabbox while it is building crabbox. This is becoming essential infra for my work. C...",
+      "url": "https://x.com/steipete/status/2065650561484267540",
+      "primary_url": "https://x.com/steipete/status/2065650561484267540",
+      "source": "Follow Builders · X · Peter Steinberger",
+      "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "15f8827a8c1fb25d6b296b91e3dbc868cdf605f1",
-          "title": "OpenAI开启Codex推广活动，邀请好友即可重置使用额度",
-          "url": "https://www.aibase.com/news/28874",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T06:24:38.964697Z"
+          "id": "7b0419b940b3bf71c0ed898fa11f86fab60a6db5",
+          "title": "我几乎无法跟上实施/测试/登陆人们提交给 https://t.co/qUxn0LF7Ct 的所有问题/PRs Codex 在构建crabbox 时在内部crabbox 中运行。这对我的工作来说变得至关重要。丙... / I can barely keep up with implementing/testing/landing all the Issues/PRs folks submit to https://t.co/qUxn0LF7Ct Codex runs INSIDE crabbox while it is building crabbox. This is becoming essential infra for my work. C...",
+          "url": "https://x.com/steipete/status/2065650561484267540",
+          "source": "Follow Builders · X · Peter Steinberger",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-06-13T04:20:46Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Follow Builders · X · Peter Steinberger"
       ],
       "items": [
         {
-          "id": "15f8827a8c1fb25d6b296b91e3dbc868cdf605f1",
-          "title": "OpenAI开启Codex推广活动，邀请好友即可重置使用额度",
-          "url": "https://www.aibase.com/news/28874",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T06:24:38.964697Z"
+          "id": "7b0419b940b3bf71c0ed898fa11f86fab60a6db5",
+          "title": "我几乎无法跟上实施/测试/登陆人们提交给 https://t.co/qUxn0LF7Ct 的所有问题/PRs Codex 在构建crabbox 时在内部crabbox 中运行。这对我的工作来说变得至关重要。丙... / I can barely keep up with implementing/testing/landing all the Issues/PRs folks submit to https://t.co/qUxn0LF7Ct Codex runs INSIDE crabbox while it is building crabbox. This is becoming essential infra for my work. C...",
+          "url": "https://x.com/steipete/status/2065650561484267540",
+          "source": "Follow Builders · X · Peter Steinberger",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-06-13T04:20:46Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7297,
-      "importance": 0.7297,
-      "importance_score": 0.7297,
-      "importance_label": "行业动态",
+      "score": 0.6022,
+      "importance": 0.6022,
+      "importance_score": 0.6022,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5887,
+        "source_tier": 0.62,
+        "ai_relevance": 0.81,
+        "recency": 0.5562,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-12T06:24:38.964697Z",
-      "latest_at": "2026-06-12T06:24:38.964697Z",
+      "earliest_at": "2026-06-13T04:20:46Z",
+      "latest_at": "2026-06-13T04:20:46Z",
       "primary_item": {
-        "id": "15f8827a8c1fb25d6b296b91e3dbc868cdf605f1",
-        "title": "OpenAI开启Codex推广活动，邀请好友即可重置使用额度",
-        "url": "https://www.aibase.com/news/28874",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "7b0419b940b3bf71c0ed898fa11f86fab60a6db5",
+        "title": "我几乎无法跟上实施/测试/登陆人们提交给 https://t.co/qUxn0LF7Ct 的所有问题/PRs Codex 在构建crabbox 时在内部crabbox 中运行。这对我的工作来说变得至关重要。丙... / I can barely keep up with implementing/testing/landing all the Issues/PRs folks submit to https://t.co/qUxn0LF7Ct Codex runs INSIDE crabbox while it is building crabbox. This is becoming essential infra for my work. C...",
+        "url": "https://x.com/steipete/status/2065650561484267540",
+        "source": "Follow Builders · X · Peter Steinberger",
+        "source_name": "Follow Builders"
       }
     }
   ]
