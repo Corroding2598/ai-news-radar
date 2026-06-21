@@ -1,84 +1,283 @@
 {
-  "generated_at": "2026-06-20T15:02:53.590299Z",
+  "generated_at": "2026-06-21T15:10:39.922747Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_767c73782c59",
-      "title": "开源教程《Deep Agents 实战》发布",
-      "url": "https://x.com/shao__meng/status/2068306942184034471",
-      "primary_url": "https://x.com/shao__meng/status/2068306942184034471",
-      "source": "X：邵猛 (@shao__meng)",
-      "source_name": "AI HOT",
+      "story_id": "story_0c55289d534f",
+      "title": "点击这里进入 / Click here to enter",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260622-0111-13a1-ae9e-940c0800d7c5&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260622-0111-13a1-ae9e-940c0800d7c5&fp=-3",
+      "source": "Page Fallback",
+      "source_name": "AI HubToday",
       "sources": [
         {
-          "id": "70c44c96db3c855eac9ceadd458bd02b754774dd",
-          "title": "开源教程《Deep Agents 实战》发布",
-          "url": "https://x.com/shao__meng/status/2068306942184034471",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-20T12:16:16Z"
+          "id": "4848a1f18a5fadc148e498b19ce9ab829b1f476e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260622-0111-13a1-ae9e-940c0800d7c5&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "a7a482967075056bc3d4ce5c0b1658d09b0b2815",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260622-0038-3127-8da4-3bf54dbf4f77&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "f7b3485f6b5892d837a3efe944df9eb678b94721",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-2223-23b7-b315-24fbf82ef8cf&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "f88210e8d2be00bfcd4f76ac6d9f912b8edf4dbd",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-2025-048d-b3bd-0f28feee1aa3&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "8cc8dea114c0a92db4c8d9ff49117a8270bf9b8c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1642-4295-b7f8-cd15b854ebc3&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "81b2f58909daf0537e18195383c7f2f0fd0020d4",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1145-0445-8208-5d79464d049b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "aa95e496616c0c2c173ed011bd6bb653c77e5f2e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0907-15f6-a5be-2e8fb66e63e2&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "a3f697dfa9cf0e436d4a21c3c06648948be5f271",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0758-57bd-bfa0-dfef04b4470a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "db00554dcf8aa77aa24e16523f3ee0521cc6c262",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0646-5111-bd3b-8d2aad226337&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "ec5e229efa263e32763eae89fdea9bc61040fbe9",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0508-1578-83dc-5bef7adc0ba7&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "a3704e74c8324ea3124b6a09a2416dc283240b92",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0352-0205-86b9-8e829c4b5abc&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "7baaeb19ccd2ff9d7700ec8202ad338e57a91261",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0211-21ff-a693-61085700238d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 12,
       "source_names": [
-        "X：邵猛 (@shao__meng)"
+        "Page Fallback"
       ],
       "items": [
         {
-          "id": "70c44c96db3c855eac9ceadd458bd02b754774dd",
-          "title": "开源教程《Deep Agents 实战》发布",
-          "url": "https://x.com/shao__meng/status/2068306942184034471",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-20T12:16:16Z"
+          "id": "4848a1f18a5fadc148e498b19ce9ab829b1f476e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260622-0111-13a1-ae9e-940c0800d7c5&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "a7a482967075056bc3d4ce5c0b1658d09b0b2815",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260622-0038-3127-8da4-3bf54dbf4f77&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "f7b3485f6b5892d837a3efe944df9eb678b94721",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-2223-23b7-b315-24fbf82ef8cf&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "f88210e8d2be00bfcd4f76ac6d9f912b8edf4dbd",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-2025-048d-b3bd-0f28feee1aa3&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "8cc8dea114c0a92db4c8d9ff49117a8270bf9b8c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1642-4295-b7f8-cd15b854ebc3&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "81b2f58909daf0537e18195383c7f2f0fd0020d4",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1145-0445-8208-5d79464d049b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "aa95e496616c0c2c173ed011bd6bb653c77e5f2e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0907-15f6-a5be-2e8fb66e63e2&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "a3f697dfa9cf0e436d4a21c3c06648948be5f271",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0758-57bd-bfa0-dfef04b4470a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "db00554dcf8aa77aa24e16523f3ee0521cc6c262",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0646-5111-bd3b-8d2aad226337&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "ec5e229efa263e32763eae89fdea9bc61040fbe9",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0508-1578-83dc-5bef7adc0ba7&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "a3704e74c8324ea3124b6a09a2416dc283240b92",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0352-0205-86b9-8e829c4b5abc&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "7baaeb19ccd2ff9d7700ec8202ad338e57a91261",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0211-21ff-a693-61085700238d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7889,
-      "importance": 0.7889,
-      "importance_score": 0.7889,
-      "importance_label": "行业动态",
+      "item_count": 12,
+      "duplicate_count": 12,
+      "score": 0.912,
+      "importance": 0.912,
+      "importance_score": 0.912,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8843,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-20T12:16:16Z",
-      "latest_at": "2026-06-20T12:16:16Z",
+      "earliest_at": "2026-06-20T16:10:52.934952Z",
+      "latest_at": "2026-06-21T15:10:39.922747Z",
       "primary_item": {
-        "id": "70c44c96db3c855eac9ceadd458bd02b754774dd",
-        "title": "开源教程《Deep Agents 实战》发布",
-        "url": "https://x.com/shao__meng/status/2068306942184034471",
-        "source": "X：邵猛 (@shao__meng)",
-        "source_name": "AI HOT"
+        "id": "4848a1f18a5fadc148e498b19ce9ab829b1f476e",
+        "title": "点击这里进入 / Click here to enter",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260622-0111-13a1-ae9e-940c0800d7c5&fp=-3",
+        "source": "Page Fallback",
+        "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_a76b50900a60",
-      "title": "微软双向转售GPT与DeepSeek成全球最大AI中间商",
-      "url": "https://x.com/AYi_AInotes/status/2068218661710512231",
-      "primary_url": "https://x.com/AYi_AInotes/status/2068218661710512231",
+      "story_id": "story_40cc88f342f0",
+      "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
+      "url": "https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1",
+      "primary_url": "https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1",
       "source": "X：阿易 AI Notes (@AYi_AInotes)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "83a8f8ada6d53fb653645f5a5cb66bd04363b947",
-          "title": "微软双向转售GPT与DeepSeek成全球最大AI中间商",
-          "url": "https://x.com/AYi_AInotes/status/2068218661710512231",
+          "id": "3e6f40c97b7d129462145d3829d3e6a25289fb81",
+          "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
+          "url": "https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1",
           "source": "X：阿易 AI Notes (@AYi_AInotes)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-20T06:25:29Z"
+          "published_at": "2026-06-21T10:11:21Z"
         }
       ],
       "source_count": 1,
@@ -87,669 +286,235 @@
       ],
       "items": [
         {
-          "id": "83a8f8ada6d53fb653645f5a5cb66bd04363b947",
-          "title": "微软双向转售GPT与DeepSeek成全球最大AI中间商",
-          "url": "https://x.com/AYi_AInotes/status/2068218661710512231",
+          "id": "3e6f40c97b7d129462145d3829d3e6a25289fb81",
+          "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
+          "url": "https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1",
           "source": "X：阿易 AI Notes (@AYi_AInotes)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-20T06:25:29Z"
+          "published_at": "2026-06-21T10:11:21Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6407,
+        "recency": 0.7921,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-21T10:11:21Z",
+      "latest_at": "2026-06-21T10:11:21Z",
+      "primary_item": {
+        "id": "3e6f40c97b7d129462145d3829d3e6a25289fb81",
+        "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
+        "url": "https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_30d3fa99c89f",
+      "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
+      "url": "https://aihot.virxact.com/items/cmqnbj6i202ndsl8hb9fghqqf",
+      "primary_url": "https://aihot.virxact.com/items/cmqnbj6i202ndsl8hb9fghqqf",
+      "source": "公众号：腾讯元宝",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5b128f99e88c99ecf773f727adbefb8c672c2e42",
+          "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
+          "url": "https://aihot.virxact.com/items/cmqnbj6i202ndsl8hb9fghqqf",
+          "source": "公众号：腾讯元宝",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-21T04:51:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：腾讯元宝"
+      ],
+      "items": [
+        {
+          "id": "5b128f99e88c99ecf773f727adbefb8c672c2e42",
+          "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
+          "url": "https://aihot.virxact.com/items/cmqnbj6i202ndsl8hb9fghqqf",
+          "source": "公众号：腾讯元宝",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-21T04:51:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5698,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-20T06:25:29Z",
-      "latest_at": "2026-06-20T06:25:29Z",
+      "earliest_at": "2026-06-21T04:51:10Z",
+      "latest_at": "2026-06-21T04:51:10Z",
       "primary_item": {
-        "id": "83a8f8ada6d53fb653645f5a5cb66bd04363b947",
-        "title": "微软双向转售GPT与DeepSeek成全球最大AI中间商",
-        "url": "https://x.com/AYi_AInotes/status/2068218661710512231",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "id": "5b128f99e88c99ecf773f727adbefb8c672c2e42",
+        "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
+        "url": "https://aihot.virxact.com/items/cmqnbj6i202ndsl8hb9fghqqf",
+        "source": "公众号：腾讯元宝",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_da05cbe54c36",
-      "title": "现在 Copilot 使用指标 API 中每个用户消耗的 AI 积分 / AI credits consumed per user now in the Copilot usage metrics API",
-      "url": "https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api",
-      "primary_url": "https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b1857958c8cdde1f70adb47808fb576affed8371",
-          "title": "现在 Copilot 使用指标 API 中每个用户消耗的 AI 积分 / AI credits consumed per user now in the Copilot usage metrics API",
-          "url": "https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-19T16:23:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b1857958c8cdde1f70adb47808fb576affed8371",
-          "title": "现在 Copilot 使用指标 API 中每个用户消耗的 AI 积分 / AI credits consumed per user now in the Copilot usage metrics API",
-          "url": "https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-19T16:23:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6842,
-      "importance": 0.6842,
-      "importance_score": 0.6842,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.056,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-19T16:23:29Z",
-      "latest_at": "2026-06-19T16:23:29Z",
-      "primary_item": {
-        "id": "b1857958c8cdde1f70adb47808fb576affed8371",
-        "title": "现在 Copilot 使用指标 API 中每个用户消耗的 AI 积分 / AI credits consumed per user now in the Copilot usage metrics API",
-        "url": "https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_19742b2bd1c2",
-      "title": "我们如何构建内部数据分析代理 / How we built an internal data analytics agent",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6ac6fb36df986d1670f9dd5793598eb9d0b7d89d",
-          "title": "我们如何构建内部数据分析代理 / How we built an internal data analytics agent",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-19T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "6ac6fb36df986d1670f9dd5793598eb9d0b7d89d",
-          "title": "我们如何构建内部数据分析代理 / How we built an internal data analytics agent",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-19T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6809,
-      "importance": 0.6809,
-      "importance_score": 0.6809,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.0397,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-19T16:00:00Z",
-      "latest_at": "2026-06-19T16:00:00Z",
-      "primary_item": {
-        "id": "6ac6fb36df986d1670f9dd5793598eb9d0b7d89d",
-        "title": "我们如何构建内部数据分析代理 / How we built an internal data analytics agent",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a2c721be533d",
-      "title": "NVIDIA Research 发布 SpatialClaw：免训练空间推理框架",
-      "url": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning",
-      "primary_url": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning",
-      "source": "MarkTechPost（RSS）",
+      "story_id": "story_7c9eee920092",
+      "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
+      "url": "https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ",
+      "primary_url": "https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ",
+      "source": "公众号：腾讯元宝",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c8b8bb056819dc2aa81ba9b849b672539bd41a4a",
-          "title": "NVIDIA Research 发布 SpatialClaw：免训练空间推理框架",
-          "url": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning",
-          "source": "MarkTechPost（RSS）",
+          "id": "37ae2396ad2e84d4e66c1d7c48b469fa348cd404",
+          "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
+          "url": "https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ",
+          "source": "公众号：腾讯元宝",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-19T22:51:59Z"
+          "published_at": "2026-06-21T04:51:10Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "MarkTechPost（RSS）"
+        "公众号：腾讯元宝"
       ],
       "items": [
         {
-          "id": "c8b8bb056819dc2aa81ba9b849b672539bd41a4a",
-          "title": "NVIDIA Research 发布 SpatialClaw：免训练空间推理框架",
-          "url": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning",
-          "source": "MarkTechPost（RSS）",
+          "id": "37ae2396ad2e84d4e66c1d7c48b469fa348cd404",
+          "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
+          "url": "https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ",
+          "source": "公众号：腾讯元宝",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-19T22:51:59Z"
+          "published_at": "2026-06-21T04:51:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6772,
-      "importance": 0.6772,
-      "importance_score": 0.6772,
-      "importance_label": "值得关注",
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3258,
+        "recency": 0.5698,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-19T22:51:59Z",
-      "latest_at": "2026-06-19T22:51:59Z",
+      "earliest_at": "2026-06-21T04:51:10Z",
+      "latest_at": "2026-06-21T04:51:10Z",
       "primary_item": {
-        "id": "c8b8bb056819dc2aa81ba9b849b672539bd41a4a",
-        "title": "NVIDIA Research 发布 SpatialClaw：免训练空间推理框架",
-        "url": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning",
-        "source": "MarkTechPost（RSS）",
+        "id": "37ae2396ad2e84d4e66c1d7c48b469fa348cd404",
+        "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
+        "url": "https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ",
+        "source": "公众号：腾讯元宝",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_de9f81005e38",
-      "title": "JAWBONE Act：一项打击政府为压制合法网络言论而施压的新法案",
-      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-      "primary_url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2e15452980a9f6b16b7cb8fbb00b4c2759307c3f",
-          "title": "JAWBONE Act：一项打击政府为压制合法网络言论而施压的新法案",
-          "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-19T19:41:30Z"
-        },
-        {
-          "id": "fb49785e826eec270896f7c0a7bca1c9152206e0",
-          "title": "JAWBONE Act：一项打击政府为压制合法网络言论而施压的新法案 / A new bill takes aim at government pressure to silence lawful online speech",
-          "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-19T17:34:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "2e15452980a9f6b16b7cb8fbb00b4c2759307c3f",
-          "title": "JAWBONE Act：一项打击政府为压制合法网络言论而施压的新法案",
-          "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-19T19:41:30Z"
-        },
-        {
-          "id": "fb49785e826eec270896f7c0a7bca1c9152206e0",
-          "title": "JAWBONE Act：一项打击政府为压制合法网络言论而施压的新法案 / A new bill takes aim at government pressure to silence lawful online speech",
-          "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-19T17:34:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6757,
-      "importance": 0.6757,
-      "importance_score": 0.6757,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.1935,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-19T17:34:28Z",
-      "latest_at": "2026-06-19T19:41:30Z",
-      "primary_item": {
-        "id": "2e15452980a9f6b16b7cb8fbb00b4c2759307c3f",
-        "title": "JAWBONE Act：一项打击政府为压制合法网络言论而施压的新法案",
-        "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4aad406cdc9b",
-      "title": "Figure机器人数首超人类员工",
-      "url": "https://x.com/rohanpaul_ai/status/2068089038213693800",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2068089038213693800",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "559358974e655c714c8615b6b8f22d38e2670c53",
-          "title": "Figure机器人数首超人类员工",
-          "url": "https://x.com/rohanpaul_ai/status/2068089038213693800",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-19T21:50:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "559358974e655c714c8615b6b8f22d38e2670c53",
-          "title": "Figure机器人数首超人类员工",
-          "url": "https://x.com/rohanpaul_ai/status/2068089038213693800",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-19T21:50:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6686,
-      "importance": 0.6686,
-      "importance_score": 0.6686,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.283,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-19T21:50:24Z",
-      "latest_at": "2026-06-19T21:50:24Z",
-      "primary_item": {
-        "id": "559358974e655c714c8615b6b8f22d38e2670c53",
-        "title": "Figure机器人数首超人类员工",
-        "url": "https://x.com/rohanpaul_ai/status/2068089038213693800",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1674bedae045",
-      "title": "OpenRouter vs Portkey：你的团队该选哪个LLM网关？",
-      "url": "https://openrouter.ai/blog/insights/openrouter-vs-portkey",
-      "primary_url": "https://openrouter.ai/blog/insights/openrouter-vs-portkey",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "29d3b6d13b5077c8ca88bddaeebf2d27596c353d",
-          "title": "OpenRouter vs Portkey：你的团队该选哪个LLM网关？",
-          "url": "https://openrouter.ai/blog/insights/openrouter-vs-portkey",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-19T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "29d3b6d13b5077c8ca88bddaeebf2d27596c353d",
-          "title": "OpenRouter vs Portkey：你的团队该选哪个LLM网关？",
-          "url": "https://openrouter.ai/blog/insights/openrouter-vs-portkey",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-19T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6449,
-      "importance": 0.6449,
-      "importance_score": 0.6449,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.1647,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-19T19:00:00Z",
-      "latest_at": "2026-06-19T19:00:00Z",
-      "primary_item": {
-        "id": "29d3b6d13b5077c8ca88bddaeebf2d27596c353d",
-        "title": "OpenRouter vs Portkey：你的团队该选哪个LLM网关？",
-        "url": "https://openrouter.ai/blog/insights/openrouter-vs-portkey",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e44d6b51ecd0",
-      "title": "baoyu-design Skill迭代：修复导出样式与渐变丢失问题，支持AI配图导出PPTX",
-      "url": "https://x.com/dotey/status/2068042001895809420",
-      "primary_url": "https://x.com/dotey/status/2068042001895809420",
-      "source": "X：宝玉 (@dotey)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "da95674991774ad868431c3b8238fa6f8a200496",
-          "title": "baoyu-design Skill迭代：修复导出样式与渐变丢失问题，支持AI配图导出PPTX",
-          "url": "https://x.com/dotey/status/2068042001895809420",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-19T18:43:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：宝玉 (@dotey)"
-      ],
-      "items": [
-        {
-          "id": "da95674991774ad868431c3b8238fa6f8a200496",
-          "title": "baoyu-design Skill迭代：修复导出样式与渐变丢失问题，支持AI配图导出PPTX",
-          "url": "https://x.com/dotey/status/2068042001895809420",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-19T18:43:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6426,
-      "importance": 0.6426,
-      "importance_score": 0.6426,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.1532,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-19T18:43:30Z",
-      "latest_at": "2026-06-19T18:43:30Z",
-      "primary_item": {
-        "id": "da95674991774ad868431c3b8238fa6f8a200496",
-        "title": "baoyu-design Skill迭代：修复导出样式与渐变丢失问题，支持AI配图导出PPTX",
-        "url": "https://x.com/dotey/status/2068042001895809420",
-        "source": "X：宝玉 (@dotey)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a6b7652b98d1",
-      "title": "AI中心的数据黑洞",
-      "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2",
-      "primary_url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9f677a2914c584850595e7bf1dd208a62b6b7a66",
-          "title": "AI中心的数据黑洞",
-          "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-19T16:45:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9f677a2914c584850595e7bf1dd208a62b6b7a66",
-          "title": "AI中心的数据黑洞",
-          "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-19T16:45:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6262,
-      "importance": 0.6262,
-      "importance_score": 0.6262,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0709,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-19T16:45:03Z",
-      "latest_at": "2026-06-19T16:45:03Z",
-      "primary_item": {
-        "id": "9f677a2914c584850595e7bf1dd208a62b6b7a66",
-        "title": "AI中心的数据黑洞",
-        "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_889e24629103",
-      "title": "AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic",
-      "url": "https://x.com/demishassabis/status/2068002732250640603",
-      "primary_url": "https://x.com/demishassabis/status/2068002732250640603",
-      "source": "X：Demis Hassabis (@demishassabis)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c0c8f038c23f8ee7b46bdb8c3ffbba50cbb96dee",
-          "title": "AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic",
-          "url": "https://x.com/demishassabis/status/2068002732250640603",
-          "source": "X：Demis Hassabis (@demishassabis)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-19T16:07:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Demis Hassabis (@demishassabis)"
-      ],
-      "items": [
-        {
-          "id": "c0c8f038c23f8ee7b46bdb8c3ffbba50cbb96dee",
-          "title": "AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic",
-          "url": "https://x.com/demishassabis/status/2068002732250640603",
-          "source": "X：Demis Hassabis (@demishassabis)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-19T16:07:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.621,
-      "importance": 0.621,
-      "importance_score": 0.621,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0448,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-19T16:07:27Z",
-      "latest_at": "2026-06-19T16:07:27Z",
-      "primary_item": {
-        "id": "c0c8f038c23f8ee7b46bdb8c3ffbba50cbb96dee",
-        "title": "AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic",
-        "url": "https://x.com/demishassabis/status/2068002732250640603",
-        "source": "X：Demis Hassabis (@demishassabis)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_733334b5bbfd",
-      "title": "我曾经是克劳德代码的铁杆用户。 Codex 赢得了我的青睐，因为： → GPT-5.5 非常出色 → 快速模式 + 慷慨的限制 = 更多次数 → 一些小细节，如转向、手机自动远程控制等 但大多数... / I used to be a die-hard Claude Code user. Codex has won me over because: → GPT-5.5 is excellent → Fast mode + generous limits = more reps → Little touches like steering, auto remote control on phone, etc But most of a...",
-      "url": "https://x.com/petergyang/status/2068175172960690266",
-      "primary_url": "https://x.com/petergyang/status/2068175172960690266",
-      "source": "Follow Builders · X · Peter Yang",
+      "story_id": "story_8402ffb186be",
+      "title": "我们发帖二十年了，以为我们是在互相交谈。然后变压器上线，网络读取我们写的内容，然后变成它自己。 / We posted for twenty years, thinking we were talking to each other. Then the transformer came online, and the network read what we’d written, and became itself.",
+      "url": "https://x.com/amasad/status/2068589860097790449",
+      "primary_url": "https://x.com/amasad/status/2068589860097790449",
+      "source": "Follow Builders · X · Amjad Masad",
       "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "39e8b5bee38dabadd69bf0e6a47c7308beb303b6",
-          "title": "我曾经是克劳德代码的铁杆用户。 Codex 赢得了我的青睐，因为： → GPT-5.5 非常出色 → 快速模式 + 慷慨的限制 = 更多次数 → 一些小细节，如转向、手机自动远程控制等 但大多数... / I used to be a die-hard Claude Code user. Codex has won me over because: → GPT-5.5 is excellent → Fast mode + generous limits = more reps → Little touches like steering, auto remote control on phone, etc But most of a...",
-          "url": "https://x.com/petergyang/status/2068175172960690266",
-          "source": "Follow Builders · X · Peter Yang",
+          "id": "337af4796f0d5bf3a8d41d34ff7432ce2cd57340",
+          "title": "我们发帖二十年了，以为我们是在互相交谈。然后变压器上线，网络读取我们写的内容，然后变成它自己。 / We posted for twenty years, thinking we were talking to each other. Then the transformer came online, and the network read what we’d written, and became itself.",
+          "url": "https://x.com/amasad/status/2068589860097790449",
+          "source": "Follow Builders · X · Amjad Masad",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-06-20T03:32:40Z"
+          "published_at": "2026-06-21T07:00:29Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Peter Yang"
+        "Follow Builders · X · Amjad Masad"
       ],
       "items": [
         {
-          "id": "39e8b5bee38dabadd69bf0e6a47c7308beb303b6",
-          "title": "我曾经是克劳德代码的铁杆用户。 Codex 赢得了我的青睐，因为： → GPT-5.5 非常出色 → 快速模式 + 慷慨的限制 = 更多次数 → 一些小细节，如转向、手机自动远程控制等 但大多数... / I used to be a die-hard Claude Code user. Codex has won me over because: → GPT-5.5 is excellent → Fast mode + generous limits = more reps → Little touches like steering, auto remote control on phone, etc But most of a...",
-          "url": "https://x.com/petergyang/status/2068175172960690266",
-          "source": "Follow Builders · X · Peter Yang",
+          "id": "337af4796f0d5bf3a8d41d34ff7432ce2cd57340",
+          "title": "我们发帖二十年了，以为我们是在互相交谈。然后变压器上线，网络读取我们写的内容，然后变成它自己。 / We posted for twenty years, thinking we were talking to each other. Then the transformer came online, and the network read what we’d written, and became itself.",
+          "url": "https://x.com/amasad/status/2068589860097790449",
+          "source": "Follow Builders · X · Amjad Masad",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-06-20T03:32:40Z"
+          "published_at": "2026-06-21T07:00:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6191,
-      "importance": 0.6191,
-      "importance_score": 0.6191,
+      "score": 0.6229,
+      "importance": 0.6229,
+      "importance_score": 0.6229,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
-        "ai_relevance": 0.89,
-        "recency": 0.5207,
+        "ai_relevance": 0.81,
+        "recency": 0.6596,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-20T03:32:40Z",
-      "latest_at": "2026-06-20T03:32:40Z",
+      "earliest_at": "2026-06-21T07:00:29Z",
+      "latest_at": "2026-06-21T07:00:29Z",
       "primary_item": {
-        "id": "39e8b5bee38dabadd69bf0e6a47c7308beb303b6",
-        "title": "我曾经是克劳德代码的铁杆用户。 Codex 赢得了我的青睐，因为： → GPT-5.5 非常出色 → 快速模式 + 慷慨的限制 = 更多次数 → 一些小细节，如转向、手机自动远程控制等 但大多数... / I used to be a die-hard Claude Code user. Codex has won me over because: → GPT-5.5 is excellent → Fast mode + generous limits = more reps → Little touches like steering, auto remote control on phone, etc But most of a...",
-        "url": "https://x.com/petergyang/status/2068175172960690266",
-        "source": "Follow Builders · X · Peter Yang",
+        "id": "337af4796f0d5bf3a8d41d34ff7432ce2cd57340",
+        "title": "我们发帖二十年了，以为我们是在互相交谈。然后变压器上线，网络读取我们写的内容，然后变成它自己。 / We posted for twenty years, thinking we were talking to each other. Then the transformer came online, and the network read what we’d written, and became itself.",
+        "url": "https://x.com/amasad/status/2068589860097790449",
+        "source": "Follow Builders · X · Amjad Masad",
         "source_name": "Follow Builders"
       }
     },
     {
-      "story_id": "story_bccc53042dba",
-      "title": "这一篇已经晚了，但请关注 @danshipper 了解 S 层法典技巧。这些天我在 Codex 应用上花费的时间比 Mac 上所有其他应用的时间总和还多。 https://t.co/fVTA5vLGy3 / Late to this one, but follow @danshipper for S-tier codex tips. These days I spend more time in the codex app than all other apps combined on my Mac. https://t.co/fVTA5vLGy3",
-      "url": "https://x.com/thsottiaux/status/2068144722460475527",
-      "primary_url": "https://x.com/thsottiaux/status/2068144722460475527",
+      "story_id": "story_d6654311dab4",
+      "title": "我们使用前端还不错的模型构建了 Codex 应用程序。等着瞧，当我们最终显着提高模型的前端能力时，我们能做些什么。那天将会有一些事情。 / We built the Codex App with models that were okayish at front-end. Wait to see what we can do when we finally improve front-end capabilities significantly in our models. That day will be something.",
+      "url": "https://x.com/thsottiaux/status/2068568650924409260",
+      "primary_url": "https://x.com/thsottiaux/status/2068568650924409260",
       "source": "Follow Builders · X · Thibault Sottiaux",
       "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "fe707eeb786dfbb96646322f5233059648648947",
-          "title": "这一篇已经晚了，但请关注 @danshipper 了解 S 层法典技巧。这些天我在 Codex 应用上花费的时间比 Mac 上所有其他应用的时间总和还多。 https://t.co/fVTA5vLGy3 / Late to this one, but follow @danshipper for S-tier codex tips. These days I spend more time in the codex app than all other apps combined on my Mac. https://t.co/fVTA5vLGy3",
-          "url": "https://x.com/thsottiaux/status/2068144722460475527",
+          "id": "e2442852a84ccdd94b6729478dbe3f0d36ca50ca",
+          "title": "我们使用前端还不错的模型构建了 Codex 应用程序。等着瞧，当我们最终显着提高模型的前端能力时，我们能做些什么。那天将会有一些事情。 / We built the Codex App with models that were okayish at front-end. Wait to see what we can do when we finally improve front-end capabilities significantly in our models. That day will be something.",
+          "url": "https://x.com/thsottiaux/status/2068568650924409260",
           "source": "Follow Builders · X · Thibault Sottiaux",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-06-20T01:31:40Z"
+          "published_at": "2026-06-21T05:36:13Z"
         }
       ],
       "source_count": 1,
@@ -758,57 +523,175 @@
       ],
       "items": [
         {
-          "id": "fe707eeb786dfbb96646322f5233059648648947",
-          "title": "这一篇已经晚了，但请关注 @danshipper 了解 S 层法典技巧。这些天我在 Codex 应用上花费的时间比 Mac 上所有其他应用的时间总和还多。 https://t.co/fVTA5vLGy3 / Late to this one, but follow @danshipper for S-tier codex tips. These days I spend more time in the codex app than all other apps combined on my Mac. https://t.co/fVTA5vLGy3",
-          "url": "https://x.com/thsottiaux/status/2068144722460475527",
+          "id": "e2442852a84ccdd94b6729478dbe3f0d36ca50ca",
+          "title": "我们使用前端还不错的模型构建了 Codex 应用程序。等着瞧，当我们最终显着提高模型的前端能力时，我们能做些什么。那天将会有一些事情。 / We built the Codex App with models that were okayish at front-end. Wait to see what we can do when we finally improve front-end capabilities significantly in our models. That day will be something.",
+          "url": "https://x.com/thsottiaux/status/2068568650924409260",
           "source": "Follow Builders · X · Thibault Sottiaux",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-06-20T01:31:40Z"
+          "published_at": "2026-06-21T05:36:13Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5783,
-      "importance": 0.5783,
-      "importance_score": 0.5783,
+      "score": 0.6112,
+      "importance": 0.6112,
+      "importance_score": 0.6112,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
         "ai_relevance": 0.81,
-        "recency": 0.4366,
+        "recency": 0.6011,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-20T01:31:40Z",
-      "latest_at": "2026-06-20T01:31:40Z",
+      "earliest_at": "2026-06-21T05:36:13Z",
+      "latest_at": "2026-06-21T05:36:13Z",
       "primary_item": {
-        "id": "fe707eeb786dfbb96646322f5233059648648947",
-        "title": "这一篇已经晚了，但请关注 @danshipper 了解 S 层法典技巧。这些天我在 Codex 应用上花费的时间比 Mac 上所有其他应用的时间总和还多。 https://t.co/fVTA5vLGy3 / Late to this one, but follow @danshipper for S-tier codex tips. These days I spend more time in the codex app than all other apps combined on my Mac. https://t.co/fVTA5vLGy3",
-        "url": "https://x.com/thsottiaux/status/2068144722460475527",
+        "id": "e2442852a84ccdd94b6729478dbe3f0d36ca50ca",
+        "title": "我们使用前端还不错的模型构建了 Codex 应用程序。等着瞧，当我们最终显着提高模型的前端能力时，我们能做些什么。那天将会有一些事情。 / We built the Codex App with models that were okayish at front-end. Wait to see what we can do when we finally improve front-end capabilities significantly in our models. That day will be something.",
+        "url": "https://x.com/thsottiaux/status/2068568650924409260",
         "source": "Follow Builders · X · Thibault Sottiaux",
         "source_name": "Follow Builders"
       }
     },
     {
-      "story_id": "story_8866a7fd62bf",
-      "title": "AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
-      "url": "https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p",
-      "primary_url": "https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p",
+      "story_id": "story_5f68865ce730",
+      "title": "将 ChatGPT 提示提升到新水平的 28 个技巧 / 28 Tips to Take Your ChatGPT Prompts to the Next Level",
+      "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level",
+      "primary_url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level",
+      "source": "Wired AI",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "eddecd18ed59d23bb29268298257eb7922a07ff5",
+          "title": "将 ChatGPT 提示提升到新水平的 28 个技巧 / 28 Tips to Take Your ChatGPT Prompts to the Next Level",
+          "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level",
+          "source": "Wired AI",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-06-21T10:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Wired AI"
+      ],
+      "items": [
+        {
+          "id": "eddecd18ed59d23bb29268298257eb7922a07ff5",
+          "title": "将 ChatGPT 提示提升到新水平的 28 个技巧 / 28 Tips to Take Your ChatGPT Prompts to the Next Level",
+          "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level",
+          "source": "Wired AI",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-06-21T10:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.586,
+      "importance": 0.586,
+      "importance_score": 0.586,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.8051,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-06-21T10:30:00Z",
+      "latest_at": "2026-06-21T10:30:00Z",
+      "primary_item": {
+        "id": "eddecd18ed59d23bb29268298257eb7922a07ff5",
+        "title": "将 ChatGPT 提示提升到新水平的 28 个技巧 / 28 Tips to Take Your ChatGPT Prompts to the Next Level",
+        "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level",
+        "source": "Wired AI",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_3264158cb423",
+      "title": "@aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely 这张照片看起来他妈的 chatgpt 生成 https://t.co/0ZAA5SVcHy / @aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely this photo looks fucking chatgpt generated https://t.co/0ZAA5SVcHy",
+      "url": "https://x.com/swyx/status/2068517953285619715",
+      "primary_url": "https://x.com/swyx/status/2068517953285619715",
+      "source": "Follow Builders · X · Swyx",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "837a3a9125c4240543131a624e71f87a021de673",
+          "title": "@aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely 这张照片看起来他妈的 chatgpt 生成 https://t.co/0ZAA5SVcHy / @aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely this photo looks fucking chatgpt generated https://t.co/0ZAA5SVcHy",
+          "url": "https://x.com/swyx/status/2068517953285619715",
+          "source": "Follow Builders · X · Swyx",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-06-21T02:14:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Swyx"
+      ],
+      "items": [
+        {
+          "id": "837a3a9125c4240543131a624e71f87a021de673",
+          "title": "@aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely 这张照片看起来他妈的 chatgpt 生成 https://t.co/0ZAA5SVcHy / @aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely this photo looks fucking chatgpt generated https://t.co/0ZAA5SVcHy",
+          "url": "https://x.com/swyx/status/2068517953285619715",
+          "source": "Follow Builders · X · Swyx",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-06-21T02:14:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5832,
+      "importance": 0.5832,
+      "importance_score": 0.5832,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.81,
+        "recency": 0.4612,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-21T02:14:45Z",
+      "latest_at": "2026-06-21T02:14:45Z",
+      "primary_item": {
+        "id": "837a3a9125c4240543131a624e71f87a021de673",
+        "title": "@aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely 这张照片看起来他妈的 chatgpt 生成 https://t.co/0ZAA5SVcHy / @aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely this photo looks fucking chatgpt generated https://t.co/0ZAA5SVcHy",
+        "url": "https://x.com/swyx/status/2068517953285619715",
+        "source": "Follow Builders · X · Swyx",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_fbd953b0855a",
+      "title": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+      "url": "https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb",
+      "primary_url": "https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb",
       "source": "InfoQ CN",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "1e95789200d537e19cf7271fccfad2146f2911fb",
-          "title": "AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
-          "url": "https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p",
+          "id": "4474f9d4b7f3efddca5f84c85b6ed98f9153067d",
+          "title": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+          "url": "https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb",
           "source": "InfoQ CN",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-06-20T10:00:00Z"
+          "published_at": "2026-06-21T10:00:00Z"
         }
       ],
       "source_count": 1,
@@ -817,57 +700,116 @@
       ],
       "items": [
         {
-          "id": "1e95789200d537e19cf7271fccfad2146f2911fb",
-          "title": "AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
-          "url": "https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p",
+          "id": "4474f9d4b7f3efddca5f84c85b6ed98f9153067d",
+          "title": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+          "url": "https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb",
           "source": "InfoQ CN",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-06-20T10:00:00Z"
+          "published_at": "2026-06-21T10:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5709,
-      "importance": 0.5709,
-      "importance_score": 0.5709,
+      "score": 0.5699,
+      "importance": 0.5699,
+      "importance_score": 0.5699,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7897,
+        "recency": 0.7843,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "recent_ai_signal"
       ],
-      "earliest_at": "2026-06-20T10:00:00Z",
-      "latest_at": "2026-06-20T10:00:00Z",
+      "earliest_at": "2026-06-21T10:00:00Z",
+      "latest_at": "2026-06-21T10:00:00Z",
       "primary_item": {
-        "id": "1e95789200d537e19cf7271fccfad2146f2911fb",
-        "title": "AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
-        "url": "https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p",
+        "id": "4474f9d4b7f3efddca5f84c85b6ed98f9153067d",
+        "title": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+        "url": "https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb",
         "source": "InfoQ CN",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_f11699378587",
-      "title": "Codex 中的远程/本地切换！一次一个地消除界限。当您让模型处于主导地位时，您实际上需要的基础设施会更少。 https://t.co/sfFYixfXPl / Remote / local handoff in Codex! Removing boundaries one at a time. When you let the model be in the driver seat, you actually need less infrastructure. https://t.co/sfFYixfXPl",
-      "url": "https://x.com/thsottiaux/status/2068120572673077274",
-      "primary_url": "https://x.com/thsottiaux/status/2068120572673077274",
+      "story_id": "story_e62c3d2e1f12",
+      "title": "@aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely 这是弄清楚 https://t.co/vReYFcB0sl 顺便说一句 @GeminiApp 是一个非常好的运动障碍者的关键（感谢 @OfficialLoganK ）。需要从很多东西中汲取... / @aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely this was key thing to figure out https://t.co/vReYFcB0sl btw @GeminiApp is a VERY good sports handicapper (thanks @OfficialLoganK ). need to draw from a lot...",
+      "url": "https://x.com/swyx/status/2068477933048725732",
+      "primary_url": "https://x.com/swyx/status/2068477933048725732",
+      "source": "Follow Builders · X · Swyx",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "c0fa0d4bcd09ef7adc8b1be7995b12706efa291c",
+          "title": "@aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely 这是弄清楚 https://t.co/vReYFcB0sl 顺便说一句 @GeminiApp 是一个非常好的运动障碍者的关键（感谢 @OfficialLoganK ）。需要从很多东西中汲取... / @aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely this was key thing to figure out https://t.co/vReYFcB0sl btw @GeminiApp is a VERY good sports handicapper (thanks @OfficialLoganK ). need to draw from a lot...",
+          "url": "https://x.com/swyx/status/2068477933048725732",
+          "source": "Follow Builders · X · Swyx",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-06-20T23:35:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Swyx"
+      ],
+      "items": [
+        {
+          "id": "c0fa0d4bcd09ef7adc8b1be7995b12706efa291c",
+          "title": "@aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely 这是弄清楚 https://t.co/vReYFcB0sl 顺便说一句 @GeminiApp 是一个非常好的运动障碍者的关键（感谢 @OfficialLoganK ）。需要从很多东西中汲取... / @aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely this was key thing to figure out https://t.co/vReYFcB0sl btw @GeminiApp is a VERY good sports handicapper (thanks @OfficialLoganK ). need to draw from a lot...",
+          "url": "https://x.com/swyx/status/2068477933048725732",
+          "source": "Follow Builders · X · Swyx",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-06-20T23:35:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5611,
+      "importance": 0.5611,
+      "importance_score": 0.5611,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.81,
+        "recency": 0.3507,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-20T23:35:44Z",
+      "latest_at": "2026-06-20T23:35:44Z",
+      "primary_item": {
+        "id": "c0fa0d4bcd09ef7adc8b1be7995b12706efa291c",
+        "title": "@aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely 这是弄清楚 https://t.co/vReYFcB0sl 顺便说一句 @GeminiApp 是一个非常好的运动障碍者的关键（感谢 @OfficialLoganK ）。需要从很多东西中汲取... / @aiDotEngineer @brendanhunting @TedLasso @USMNT @philipkiely this was key thing to figure out https://t.co/vReYFcB0sl btw @GeminiApp is a VERY good sports handicapper (thanks @OfficialLoganK ). need to draw from a lot...",
+        "url": "https://x.com/swyx/status/2068477933048725732",
+        "source": "Follow Builders · X · Swyx",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_fb2918c75478",
+      "title": "有些代币比其他代币更努力。一些最有价值的内容可以在 Codex 应用程序中找到。 / Some tokens work harder than others. Some of the most valuable ones are found in the Codex app.",
+      "url": "https://x.com/thsottiaux/status/2068443037907522002",
+      "primary_url": "https://x.com/thsottiaux/status/2068443037907522002",
       "source": "Follow Builders · X · Thibault Sottiaux",
       "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "ee12d79b16b5d45eebae546e28a5c68a9cdec09a",
-          "title": "Codex 中的远程/本地切换！一次一个地消除界限。当您让模型处于主导地位时，您实际上需要的基础设施会更少。 https://t.co/sfFYixfXPl / Remote / local handoff in Codex! Removing boundaries one at a time. When you let the model be in the driver seat, you actually need less infrastructure. https://t.co/sfFYixfXPl",
-          "url": "https://x.com/thsottiaux/status/2068120572673077274",
+          "id": "0d0215531ad540858d61919cbb9bbc1ebe9de4c8",
+          "title": "有些代币比其他代币更努力。一些最有价值的内容可以在 Codex 应用程序中找到。 / Some tokens work harder than others. Some of the most valuable ones are found in the Codex app.",
+          "url": "https://x.com/thsottiaux/status/2068443037907522002",
           "source": "Follow Builders · X · Thibault Sottiaux",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-06-19T23:55:43Z"
+          "published_at": "2026-06-20T21:17:04Z"
         }
       ],
       "source_count": 1,
@@ -876,125 +818,66 @@
       ],
       "items": [
         {
-          "id": "ee12d79b16b5d45eebae546e28a5c68a9cdec09a",
-          "title": "Codex 中的远程/本地切换！一次一个地消除界限。当您让模型处于主导地位时，您实际上需要的基础设施会更少。 https://t.co/sfFYixfXPl / Remote / local handoff in Codex! Removing boundaries one at a time. When you let the model be in the driver seat, you actually need less infrastructure. https://t.co/sfFYixfXPl",
-          "url": "https://x.com/thsottiaux/status/2068120572673077274",
+          "id": "0d0215531ad540858d61919cbb9bbc1ebe9de4c8",
+          "title": "有些代币比其他代币更努力。一些最有价值的内容可以在 Codex 应用程序中找到。 / Some tokens work harder than others. Some of the most valuable ones are found in the Codex app.",
+          "url": "https://x.com/thsottiaux/status/2068443037907522002",
           "source": "Follow Builders · X · Thibault Sottiaux",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-06-19T23:55:43Z"
+          "published_at": "2026-06-20T21:17:04Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.565,
-      "importance": 0.565,
-      "importance_score": 0.565,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
         "ai_relevance": 0.81,
-        "recency": 0.37,
+        "recency": 0.2544,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-19T23:55:43Z",
-      "latest_at": "2026-06-19T23:55:43Z",
+      "earliest_at": "2026-06-20T21:17:04Z",
+      "latest_at": "2026-06-20T21:17:04Z",
       "primary_item": {
-        "id": "ee12d79b16b5d45eebae546e28a5c68a9cdec09a",
-        "title": "Codex 中的远程/本地切换！一次一个地消除界限。当您让模型处于主导地位时，您实际上需要的基础设施会更少。 https://t.co/sfFYixfXPl / Remote / local handoff in Codex! Removing boundaries one at a time. When you let the model be in the driver seat, you actually need less infrastructure. https://t.co/sfFYixfXPl",
-        "url": "https://x.com/thsottiaux/status/2068120572673077274",
+        "id": "0d0215531ad540858d61919cbb9bbc1ebe9de4c8",
+        "title": "有些代币比其他代币更努力。一些最有价值的内容可以在 Codex 应用程序中找到。 / Some tokens work harder than others. Some of the most valuable ones are found in the Codex app.",
+        "url": "https://x.com/thsottiaux/status/2068443037907522002",
         "source": "Follow Builders · X · Thibault Sottiaux",
         "source_name": "Follow Builders"
       }
     },
     {
-      "story_id": "story_d91486083944",
-      "title": "Hannes 会说开发商和代理商的语言。很幸运有他加入团队！ https://t.co/bTrqd3V3dn / Hannes speaks both developer and agents. Blessed to have him on the team! https://t.co/bTrqd3V3dn",
-      "url": "https://x.com/steipete/status/2068199277277401419",
-      "primary_url": "https://x.com/steipete/status/2068199277277401419",
-      "source": "Follow Builders · X · Peter Steinberger",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "791e05fd9cc6c81831343ef3416551937886a3ec",
-          "title": "Hannes 会说开发商和代理商的语言。很幸运有他加入团队！ https://t.co/bTrqd3V3dn / Hannes speaks both developer and agents. Blessed to have him on the team! https://t.co/bTrqd3V3dn",
-          "url": "https://x.com/steipete/status/2068199277277401419",
-          "source": "Follow Builders · X · Peter Steinberger",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-06-20T05:08:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Peter Steinberger"
-      ],
-      "items": [
-        {
-          "id": "791e05fd9cc6c81831343ef3416551937886a3ec",
-          "title": "Hannes 会说开发商和代理商的语言。很幸运有他加入团队！ https://t.co/bTrqd3V3dn / Hannes speaks both developer and agents. Blessed to have him on the team! https://t.co/bTrqd3V3dn",
-          "url": "https://x.com/steipete/status/2068199277277401419",
-          "source": "Follow Builders · X · Peter Steinberger",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-06-20T05:08:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.5604,
-      "importance": 0.5604,
-      "importance_score": 0.5604,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.65,
-        "recency": 0.5872,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-06-20T05:08:27Z",
-      "latest_at": "2026-06-20T05:08:27Z",
-      "primary_item": {
-        "id": "791e05fd9cc6c81831343ef3416551937886a3ec",
-        "title": "Hannes 会说开发商和代理商的语言。很幸运有他加入团队！ https://t.co/bTrqd3V3dn / Hannes speaks both developer and agents. Blessed to have him on the team! https://t.co/bTrqd3V3dn",
-        "url": "https://x.com/steipete/status/2068199277277401419",
-        "source": "Follow Builders · X · Peter Steinberger",
-        "source_name": "Follow Builders"
-      }
-    },
-    {
-      "story_id": "story_fd6b244d6a5f",
-      "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
-      "url": "https://news.ycombinator.com/item?id=48608394",
-      "primary_url": "https://news.ycombinator.com/item?id=48608394",
+      "story_id": "story_f70dd6e6ec8e",
+      "title": "特朗普控制下的人工智能：法国还能避免数字依赖吗？ / AI Under Trump's Control: Can France Still Avoid Digital Dependence?",
+      "url": "https://news.ycombinator.com/item?id=48619005",
+      "primary_url": "https://news.ycombinator.com/item?id=48619005",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
-          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
-          "url": "https://news.ycombinator.com/item?id=48608394",
+          "id": "b2e561d36d2da83b5478a0e17cd1dc7094f21a2f",
+          "title": "特朗普控制下的人工智能：法国还能避免数字依赖吗？ / AI Under Trump's Control: Can France Still Avoid Digital Dependence?",
+          "url": "https://news.ycombinator.com/item?id=48619005",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-06-20T14:50:25.866000Z"
+          "published_at": "2026-06-21T14:25:20.562000Z"
         },
         {
-          "id": "a1a87e6ee558095aa56dacea3fc7db142f61a6e0",
-          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
-          "url": "https://blog.cloudflare.com/temporary-accounts",
+          "id": "ee96565dfcb5a2fa4495a2ae354b396179769927",
+          "title": "特朗普控制下的人工智能：法国还能避免数字依赖吗？ / AI Under Trump's Control: Can France Still Avoid Digital Dependence?",
+          "url": "https://thenewassociationwebmasters.blogspot.com/2026/06/ai-under-american-control-can-france.html",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-20T11:19:05Z"
+          "published_at": "2026-06-21T13:51:31Z"
         }
       ],
       "source_count": 2,
@@ -1004,131 +887,521 @@
       ],
       "items": [
         {
-          "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
-          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
-          "url": "https://news.ycombinator.com/item?id=48608394",
+          "id": "b2e561d36d2da83b5478a0e17cd1dc7094f21a2f",
+          "title": "特朗普控制下的人工智能：法国还能避免数字依赖吗？ / AI Under Trump's Control: Can France Still Avoid Digital Dependence?",
+          "url": "https://news.ycombinator.com/item?id=48619005",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-06-20T14:50:25.866000Z"
+          "published_at": "2026-06-21T14:25:20.562000Z"
         },
         {
-          "id": "a1a87e6ee558095aa56dacea3fc7db142f61a6e0",
-          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
-          "url": "https://blog.cloudflare.com/temporary-accounts",
+          "id": "ee96565dfcb5a2fa4495a2ae354b396179769927",
+          "title": "特朗普控制下的人工智能：法国还能避免数字依赖吗？ / AI Under Trump's Control: Can France Still Avoid Digital Dependence?",
+          "url": "https://thenewassociationwebmasters.blogspot.com/2026/06/ai-under-american-control-can-france.html",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-20T11:19:05Z"
+          "published_at": "2026-06-21T13:51:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5463,
-      "importance": 0.5463,
-      "importance_score": 0.5463,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9913,
+        "recency": 0.9685,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-20T11:19:05Z",
-      "latest_at": "2026-06-20T14:50:25.866000Z",
+      "earliest_at": "2026-06-21T13:51:31Z",
+      "latest_at": "2026-06-21T14:25:20.562000Z",
       "primary_item": {
-        "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
-        "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
-        "url": "https://news.ycombinator.com/item?id=48608394",
+        "id": "b2e561d36d2da83b5478a0e17cd1dc7094f21a2f",
+        "title": "特朗普控制下的人工智能：法国还能避免数字依赖吗？ / AI Under Trump's Control: Can France Still Avoid Digital Dependence?",
+        "url": "https://news.ycombinator.com/item?id=48619005",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_09d8f97f2cb9",
-      "title": "Anthropic 将以 2T 美元的价格进行 IPO https://t.co/SHYMaH3v9q / Anthropic is going to IPO at $2T https://t.co/SHYMaH3v9q",
-      "url": "https://x.com/swyx/status/2068084391260426345",
-      "primary_url": "https://x.com/swyx/status/2068084391260426345",
-      "source": "Follow Builders · X · Swyx",
+      "story_id": "story_6d0cd62ad09e",
+      "title": "Anthropic将于7月8日起对部分功能实施身份验证要求",
+      "url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity",
+      "primary_url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity",
+      "source": "old.reddit.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "37636cf871f3aa06b34466700bfa515d9b3b6f4c",
+          "title": "Anthropic将于7月8日起对部分功能实施身份验证要求",
+          "url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T14:21:24.353000Z"
+        },
+        {
+          "id": "98c4126f68fee956c8a8d24608e819209ed90f64",
+          "title": "Anthropic将于7月8日起对部分功能实施身份验证要求 / Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
+          "url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-21T12:44:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "old.reddit.com"
+      ],
+      "items": [
+        {
+          "id": "37636cf871f3aa06b34466700bfa515d9b3b6f4c",
+          "title": "Anthropic将于7月8日起对部分功能实施身份验证要求",
+          "url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T14:21:24.353000Z"
+        },
+        {
+          "id": "98c4126f68fee956c8a8d24608e819209ed90f64",
+          "title": "Anthropic将于7月8日起对部分功能实施身份验证要求 / Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
+          "url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-21T12:44:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9658,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-21T12:44:13Z",
+      "latest_at": "2026-06-21T14:21:24.353000Z",
+      "primary_item": {
+        "id": "37636cf871f3aa06b34466700bfa515d9b3b6f4c",
+        "title": "Anthropic将于7月8日起对部分功能实施身份验证要求",
+        "url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity",
+        "source": "old.reddit.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b6da2c29dfaf",
+      "title": "我会反其道而行之，说我几乎无法用完我的 Codex 和 Claude 200 美元订阅，所以我不认为尝试本地模型有什么意义……另外，要在本地尝试最新的 glm 需要 512 mb，这相当于 10K 美元的 M …… / I will go against the grain and say I can barely use up my Codex and Claude $200 subscriptions so I don’t see the point of trying local models… Also to try the latest glm locally requires 512 mb which is like a $10K M...",
+      "url": "https://x.com/petergyang/status/2068411894185295969",
+      "primary_url": "https://x.com/petergyang/status/2068411894185295969",
+      "source": "Follow Builders · X · Peter Yang",
       "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "37b39961d0ac4d083834b488796c45561ea6fba5",
-          "title": "Anthropic 将以 2T 美元的价格进行 IPO https://t.co/SHYMaH3v9q / Anthropic is going to IPO at $2T https://t.co/SHYMaH3v9q",
-          "url": "https://x.com/swyx/status/2068084391260426345",
-          "source": "Follow Builders · X · Swyx",
+          "id": "d06308e4202674b14b0ab0037b89ee8feaea1c7d",
+          "title": "我会反其道而行之，说我几乎无法用完我的 Codex 和 Claude 200 美元订阅，所以我不认为尝试本地模型有什么意义……另外，要在本地尝试最新的 glm 需要 512 mb，这相当于 10K 美元的 M …… / I will go against the grain and say I can barely use up my Codex and Claude $200 subscriptions so I don’t see the point of trying local models… Also to try the latest glm locally requires 512 mb which is like a $10K M...",
+          "url": "https://x.com/petergyang/status/2068411894185295969",
+          "source": "Follow Builders · X · Peter Yang",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-06-19T21:31:56Z"
+          "published_at": "2026-06-20T19:13:19Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Swyx"
+        "Follow Builders · X · Peter Yang"
       ],
       "items": [
         {
-          "id": "37b39961d0ac4d083834b488796c45561ea6fba5",
-          "title": "Anthropic 将以 2T 美元的价格进行 IPO https://t.co/SHYMaH3v9q / Anthropic is going to IPO at $2T https://t.co/SHYMaH3v9q",
-          "url": "https://x.com/swyx/status/2068084391260426345",
-          "source": "Follow Builders · X · Swyx",
+          "id": "d06308e4202674b14b0ab0037b89ee8feaea1c7d",
+          "title": "我会反其道而行之，说我几乎无法用完我的 Codex 和 Claude 200 美元订阅，所以我不认为尝试本地模型有什么意义……另外，要在本地尝试最新的 glm 需要 512 mb，这相当于 10K 美元的 M …… / I will go against the grain and say I can barely use up my Codex and Claude $200 subscriptions so I don’t see the point of trying local models… Also to try the latest glm locally requires 512 mb which is like a $10K M...",
+          "url": "https://x.com/petergyang/status/2068411894185295969",
+          "source": "Follow Builders · X · Peter Yang",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-06-19T21:31:56Z"
+          "published_at": "2026-06-20T19:13:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
-        "ai_relevance": 0.81,
-        "recency": 0.2702,
+        "ai_relevance": 0.85,
+        "recency": 0.1685,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-19T21:31:56Z",
-      "latest_at": "2026-06-19T21:31:56Z",
+      "earliest_at": "2026-06-20T19:13:19Z",
+      "latest_at": "2026-06-20T19:13:19Z",
       "primary_item": {
-        "id": "37b39961d0ac4d083834b488796c45561ea6fba5",
-        "title": "Anthropic 将以 2T 美元的价格进行 IPO https://t.co/SHYMaH3v9q / Anthropic is going to IPO at $2T https://t.co/SHYMaH3v9q",
-        "url": "https://x.com/swyx/status/2068084391260426345",
-        "source": "Follow Builders · X · Swyx",
+        "id": "d06308e4202674b14b0ab0037b89ee8feaea1c7d",
+        "title": "我会反其道而行之，说我几乎无法用完我的 Codex 和 Claude 200 美元订阅，所以我不认为尝试本地模型有什么意义……另外，要在本地尝试最新的 glm 需要 512 mb，这相当于 10K 美元的 M …… / I will go against the grain and say I can barely use up my Codex and Claude $200 subscriptions so I don’t see the point of trying local models… Also to try the latest glm locally requires 512 mb which is like a $10K M...",
+        "url": "https://x.com/petergyang/status/2068411894185295969",
+        "source": "Follow Builders · X · Peter Yang",
         "source_name": "Follow Builders"
       }
     },
     {
-      "story_id": "story_f1c9c265920d",
-      "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
-      "url": "https://www.qbitai.com/2026/06/437023.html",
-      "primary_url": "https://www.qbitai.com/2026/06/437023.html",
-      "source": "量子位 · 每日最新",
+      "story_id": "story_e51ee7d97a6a",
+      "title": "我十几岁的儿子正在用人工智能完成数学作业。我现在正在协助他的学校起草首份人工智能政策。",
+      "url": "https://www.businessinsider.com/teenager-uses-ai-homework-mom-helped-school-write-ai-policy-2026-6",
+      "primary_url": "https://www.businessinsider.com/teenager-uses-ai-homework-mom-helped-school-write-ai-policy-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "65a438dc6b40a7a45e1dce02ee8d6c75320cc0b8",
+          "title": "我十几岁的儿子正在用人工智能完成数学作业。我现在正在协助他的学校起草首份人工智能政策。",
+          "url": "https://www.businessinsider.com/teenager-uses-ai-homework-mom-helped-school-write-ai-policy-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T13:33:07.152000Z"
+        },
+        {
+          "id": "cacb464a8480ecc58f75868b9495d8ff7606f567",
+          "title": "我十几岁的儿子正在用人工智能完成数学作业。我现在正在协助他的学校起草首份人工智能政策。 / My teenage son is using AI to do his math homework. I'm now helping his school write its first AI policy.",
+          "url": "https://www.businessinsider.com/teenager-uses-ai-homework-mom-helped-school-write-ai-policy-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-21T13:27:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "65a438dc6b40a7a45e1dce02ee8d6c75320cc0b8",
+          "title": "我十几岁的儿子正在用人工智能完成数学作业。我现在正在协助他的学校起草首份人工智能政策。",
+          "url": "https://www.businessinsider.com/teenager-uses-ai-homework-mom-helped-school-write-ai-policy-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T13:33:07.152000Z"
+        },
+        {
+          "id": "cacb464a8480ecc58f75868b9495d8ff7606f567",
+          "title": "我十几岁的儿子正在用人工智能完成数学作业。我现在正在协助他的学校起草首份人工智能政策。 / My teenage son is using AI to do his math homework. I'm now helping his school write its first AI policy.",
+          "url": "https://www.businessinsider.com/teenager-uses-ai-homework-mom-helped-school-write-ai-policy-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-21T13:27:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9323,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-21T13:27:01Z",
+      "latest_at": "2026-06-21T13:33:07.152000Z",
+      "primary_item": {
+        "id": "65a438dc6b40a7a45e1dce02ee8d6c75320cc0b8",
+        "title": "我十几岁的儿子正在用人工智能完成数学作业。我现在正在协助他的学校起草首份人工智能政策。",
+        "url": "https://www.businessinsider.com/teenager-uses-ai-homework-mom-helped-school-write-ai-policy-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_85540405bd5a",
+      "title": "凯文·奥利里表示，他投资的公司正在摒弃咨询顾问，直接转向人工智能",
+      "url": "https://www.businessinsider.com/kevin-oleary-consulting-industry-ai-mckinsey-bcg-accenture-2026-6",
+      "primary_url": "https://www.businessinsider.com/kevin-oleary-consulting-industry-ai-mckinsey-bcg-accenture-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "32d10793476331074e8124bb566b644286221411",
+          "title": "凯文·奥利里表示，他投资的公司正在摒弃咨询顾问，直接转向人工智能",
+          "url": "https://www.businessinsider.com/kevin-oleary-consulting-industry-ai-mckinsey-bcg-accenture-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T13:17:02.536000Z"
+        },
+        {
+          "id": "06a606fa9ccc8331fe7543ca9a07461b097f8f9d",
+          "title": "凯文·奥利里表示，他投资的公司正在摒弃咨询顾问，直接转向人工智能 / 'Shark Tank' investor Kevin O'Leary says the companies he backs are skipping consultants and going straight to AI",
+          "url": "https://www.businessinsider.com/kevin-oleary-consulting-industry-ai-mckinsey-bcg-accenture-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-21T13:05:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "32d10793476331074e8124bb566b644286221411",
+          "title": "凯文·奥利里表示，他投资的公司正在摒弃咨询顾问，直接转向人工智能",
+          "url": "https://www.businessinsider.com/kevin-oleary-consulting-industry-ai-mckinsey-bcg-accenture-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T13:17:02.536000Z"
+        },
+        {
+          "id": "06a606fa9ccc8331fe7543ca9a07461b097f8f9d",
+          "title": "凯文·奥利里表示，他投资的公司正在摒弃咨询顾问，直接转向人工智能 / 'Shark Tank' investor Kevin O'Leary says the companies he backs are skipping consultants and going straight to AI",
+          "url": "https://www.businessinsider.com/kevin-oleary-consulting-industry-ai-mckinsey-bcg-accenture-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-21T13:05:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9211,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-21T13:05:59Z",
+      "latest_at": "2026-06-21T13:17:02.536000Z",
+      "primary_item": {
+        "id": "32d10793476331074e8124bb566b644286221411",
+        "title": "凯文·奥利里表示，他投资的公司正在摒弃咨询顾问，直接转向人工智能",
+        "url": "https://www.businessinsider.com/kevin-oleary-consulting-industry-ai-mckinsey-bcg-accenture-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_adb703e42fd4",
+      "title": "构建可靠的代理式人工智能系统",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "primary_url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "source": "martinfowler.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "db20149076b392dacf05ff088d49d1e741446c41",
+          "title": "构建可靠的代理式人工智能系统",
+          "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+          "source": "martinfowler.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T09:49:12.872000Z"
+        },
+        {
+          "id": "4a2b347226b60ae7491e3155dd530269f351b968",
+          "title": "构建可靠的代理人工智能系统 / Building reliable agentic AI systems",
+          "url": "https://news.ycombinator.com/item?id=48615680",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-21T06:24:00.599000Z"
+        },
+        {
+          "id": "5b65f1c550cd0d81fc82e777faf01951bb72ab16",
+          "title": "构建可靠的代理式人工智能系统 / Building reliable agentic AI systems",
+          "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-21T04:28:39Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "martinfowler.com"
+      ],
+      "items": [
+        {
+          "id": "db20149076b392dacf05ff088d49d1e741446c41",
+          "title": "构建可靠的代理式人工智能系统",
+          "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+          "source": "martinfowler.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T09:49:12.872000Z"
+        },
+        {
+          "id": "4a2b347226b60ae7491e3155dd530269f351b968",
+          "title": "构建可靠的代理人工智能系统 / Building reliable agentic AI systems",
+          "url": "https://news.ycombinator.com/item?id=48615680",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-21T06:24:00.599000Z"
+        },
+        {
+          "id": "5b65f1c550cd0d81fc82e777faf01951bb72ab16",
+          "title": "构建可靠的代理式人工智能系统 / Building reliable agentic AI systems",
+          "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-21T04:28:39Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7768,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-21T04:28:39Z",
+      "latest_at": "2026-06-21T09:49:12.872000Z",
+      "primary_item": {
+        "id": "db20149076b392dacf05ff088d49d1e741446c41",
+        "title": "构建可靠的代理式人工智能系统",
+        "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+        "source": "martinfowler.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d7c4d75adcc2",
+      "title": "目前开放权重人工智能所发生的事情非常引人注目。我们看到模型在特定任务上取得了 SOTA 结果，并且在某些编码领域和其他领域接近前沿。开的越多... / Pretty remarkable what’s happening with open weights AI right now. We’re seeing models achieve SOTA results on specific tasks, and getting close to frontier on some areas of coding and other domains. The more that ope...",
+      "url": "https://x.com/levie/status/2068434042148782515",
+      "primary_url": "https://x.com/levie/status/2068434042148782515",
+      "source": "Follow Builders · X · Aaron Levie",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "5e3e4b9fe58c448c47eb6d81dbfd4d9d348e15ff",
+          "title": "目前开放权重人工智能所发生的事情非常引人注目。我们看到模型在特定任务上取得了 SOTA 结果，并且在某些编码领域和其他领域接近前沿。开的越多... / Pretty remarkable what’s happening with open weights AI right now. We’re seeing models achieve SOTA results on specific tasks, and getting close to frontier on some areas of coding and other domains. The more that ope...",
+          "url": "https://x.com/levie/status/2068434042148782515",
+          "source": "Follow Builders · X · Aaron Levie",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-06-20T20:41:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Aaron Levie"
+      ],
+      "items": [
+        {
+          "id": "5e3e4b9fe58c448c47eb6d81dbfd4d9d348e15ff",
+          "title": "目前开放权重人工智能所发生的事情非常引人注目。我们看到模型在特定任务上取得了 SOTA 结果，并且在某些编码领域和其他领域接近前沿。开的越多... / Pretty remarkable what’s happening with open weights AI right now. We’re seeing models achieve SOTA results on specific tasks, and getting close to frontier on some areas of coding and other domains. The more that ope...",
+          "url": "https://x.com/levie/status/2068434042148782515",
+          "source": "Follow Builders · X · Aaron Levie",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-06-20T20:41:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.77,
+        "recency": 0.2296,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-06-20T20:41:19Z",
+      "latest_at": "2026-06-20T20:41:19Z",
+      "primary_item": {
+        "id": "5e3e4b9fe58c448c47eb6d81dbfd4d9d348e15ff",
+        "title": "目前开放权重人工智能所发生的事情非常引人注目。我们看到模型在特定任务上取得了 SOTA 结果，并且在某些编码领域和其他领域接近前沿。开的越多... / Pretty remarkable what’s happening with open weights AI right now. We’re seeing models achieve SOTA results on specific tasks, and getting close to frontier on some areas of coding and other domains. The more that ope...",
+        "url": "https://x.com/levie/status/2068434042148782515",
+        "source": "Follow Builders · X · Aaron Levie",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_d82e045582a9",
+      "title": "OSCHINA-开源 × AI・开发者生态社区",
+      "url": "https://www.oschina.net/news/464507",
+      "primary_url": "https://www.oschina.net/news/464507",
+      "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "34ce05a187527eaa0cd72ee3be0ff0b3bf4b73f2",
-          "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
-          "url": "https://www.qbitai.com/2026/06/437023.html",
-          "source": "量子位 · 每日最新",
+          "id": "bc7f5cf5cfa7da1277f7802bf870009d25e93234",
+          "title": "OSCHINA-开源 × AI・开发者生态社区",
+          "url": "https://www.oschina.net/news/464507",
+          "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f40570cfa61262813b8214a638a7f16d1b7360e3",
-          "title": "陶哲轩 12 年前的预言，现在 AI 帮他兑现了",
-          "url": "https://www.qbitai.com/2026/06/437023.html",
-          "source": "Readhub · AI",
+          "id": "914cc444147372c0adbe805f137e85e06665b16c",
+          "title": "VibeCoding v0.1.46 已经发布，单文件的code agent工具",
+          "url": "https://www.oschina.net/news/464507",
+          "source": "开源中国 · 热门资讯",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
@@ -1137,23 +1410,23 @@
       "source_count": 2,
       "source_names": [
         "Readhub · AI",
-        "量子位 · 每日最新"
+        "开源中国 · 热门资讯"
       ],
       "items": [
         {
-          "id": "34ce05a187527eaa0cd72ee3be0ff0b3bf4b73f2",
-          "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
-          "url": "https://www.qbitai.com/2026/06/437023.html",
-          "source": "量子位 · 每日最新",
+          "id": "bc7f5cf5cfa7da1277f7802bf870009d25e93234",
+          "title": "OSCHINA-开源 × AI・开发者生态社区",
+          "url": "https://www.oschina.net/news/464507",
+          "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f40570cfa61262813b8214a638a7f16d1b7360e3",
-          "title": "陶哲轩 12 年前的预言，现在 AI 帮他兑现了",
-          "url": "https://www.qbitai.com/2026/06/437023.html",
-          "source": "Readhub · AI",
+          "id": "914cc444147372c0adbe805f137e85e06665b16c",
+          "title": "VibeCoding v0.1.46 已经发布，单文件的code agent工具",
+          "url": "https://www.oschina.net/news/464507",
+          "source": "开源中国 · 热门资讯",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
@@ -1161,87 +1434,106 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5445,
-      "importance": 0.5445,
-      "importance_score": 0.5445,
+      "score": 0.5247,
+      "importance": 0.5247,
+      "importance_score": 0.5247,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9825,
+        "recency": 0.8835,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-20T12:13:40.969865Z",
-      "latest_at": "2026-06-20T14:37:44.565252Z",
+      "earliest_at": "2026-06-21T12:22:57.833972Z",
+      "latest_at": "2026-06-21T12:22:57.833972Z",
       "primary_item": {
-        "id": "34ce05a187527eaa0cd72ee3be0ff0b3bf4b73f2",
-        "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
-        "url": "https://www.qbitai.com/2026/06/437023.html",
-        "source": "量子位 · 每日最新",
+        "id": "bc7f5cf5cfa7da1277f7802bf870009d25e93234",
+        "title": "OSCHINA-开源 × AI・开发者生态社区",
+        "url": "https://www.oschina.net/news/464507",
+        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_8f659965c21b",
-      "title": "在人工智能时代，让一个人脱颖而出的最重要的三件事： - 代理 - 品味 - 分销 / The 3 most important things that set someone apart in the AI age: - Agency - Taste - Distribution",
-      "url": "https://x.com/zarazhangrui/status/2068094591220531583",
-      "primary_url": "https://x.com/zarazhangrui/status/2068094591220531583",
-      "source": "Follow Builders · X · Zara Zhang",
-      "source_name": "Follow Builders",
+      "story_id": "story_a699cca17620",
+      "title": "asgeirtj / system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "primary_url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "832ea159c3b1e7ac4ba898b86e81bd78115cd97c",
-          "title": "在人工智能时代，让一个人脱颖而出的最重要的三件事： - 代理 - 品味 - 分销 / The 3 most important things that set someone apart in the AI age: - Agency - Taste - Distribution",
-          "url": "https://x.com/zarazhangrui/status/2068094591220531583",
-          "source": "Follow Builders · X · Zara Zhang",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-06-19T22:12:28Z"
+          "id": "2fa4d188d72c83942d8eda61541a4bf7f9cd6c7d",
+          "title": "asgeirtj / system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "baa9d03b16ed38aed33577d7ed876031205e6795",
+          "title": "asgeirtj /      system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-21T11:52:41.834000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Follow Builders · X · Zara Zhang"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "832ea159c3b1e7ac4ba898b86e81bd78115cd97c",
-          "title": "在人工智能时代，让一个人脱颖而出的最重要的三件事： - 代理 - 品味 - 分销 / The 3 most important things that set someone apart in the AI age: - Agency - Taste - Distribution",
-          "url": "https://x.com/zarazhangrui/status/2068094591220531583",
-          "source": "Follow Builders · X · Zara Zhang",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-06-19T22:12:28Z"
+          "id": "2fa4d188d72c83942d8eda61541a4bf7f9cd6c7d",
+          "title": "asgeirtj / system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "baa9d03b16ed38aed33577d7ed876031205e6795",
+          "title": "asgeirtj /      system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-21T11:52:41.834000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.5387,
-      "importance": 0.5387,
-      "importance_score": 0.5387,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5247,
+      "importance": 0.5247,
+      "importance_score": 0.5247,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.77,
-        "recency": 0.2983,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8835,
+        "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "recent_ai_signal"
+        "multi_source"
       ],
-      "earliest_at": "2026-06-19T22:12:28Z",
-      "latest_at": "2026-06-19T22:12:28Z",
+      "earliest_at": "2026-06-21T11:52:41.834000Z",
+      "latest_at": "2026-06-21T12:22:57.833972Z",
       "primary_item": {
-        "id": "832ea159c3b1e7ac4ba898b86e81bd78115cd97c",
-        "title": "在人工智能时代，让一个人脱颖而出的最重要的三件事： - 代理 - 品味 - 分销 / The 3 most important things that set someone apart in the AI age: - Agency - Taste - Distribution",
-        "url": "https://x.com/zarazhangrui/status/2068094591220531583",
-        "source": "Follow Builders · X · Zara Zhang",
-        "source_name": "Follow Builders"
+        "id": "2fa4d188d72c83942d8eda61541a4bf7f9cd6c7d",
+        "title": "asgeirtj / system_prompts_leaks",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     }
   ]
