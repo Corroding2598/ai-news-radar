@@ -1,277 +1,295 @@
 {
-  "generated_at": "2026-07-04T14:28:14.944504Z",
+  "generated_at": "2026-07-05T14:42:18.646568Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0028-421d-9747-6fd8f0ac2303&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260705-0028-421d-9747-6fd8f0ac2303&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0042-38ef-bcd9-1d03b0597777&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260706-0042-38ef-bcd9-1d03b0597777&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
         {
-          "id": "f317e33c892d35f54c42d80f19eb546f73398180",
+          "id": "e3da8984aba642bfdfe10b9654be241dc1e6b569",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0028-421d-9747-6fd8f0ac2303&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0042-38ef-bcd9-1d03b0597777&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "e2b9d27e4226c7bc846899d0070ad71e2d4d4911",
+          "id": "dfd924213e1db63d1ba4c99de6ce684ab5533c6d",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0006-22ae-90f5-c9b5e6bdf57c&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0014-4681-89cd-3d823e2c7aad&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "2124a622744b0d87ce14ea947ef7b499e4fa696d",
+          "id": "9ff384d31af7e359ecf149e1b0c06774b7d7ebfe",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-2201-2358-ac7c-1ae5b2ba541e&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-2208-598f-873a-8c056f2bdf40&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "b53334e23311a9e2a0eb164d0b081e28212bfdac",
+          "id": "2778f0cb4c5a54d8aeba10a3dfe64d4c37cb4fd4",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-2033-1095-90e0-b28802c8617b&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-2034-1982-ae0b-a4fe8171ea80&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "29d9199ae1f6c33a56e4461549a15866e27d4283",
+          "id": "d70062a6324806ddf38ea86ebbbabb38dbf21641",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1829-4214-9f10-ead2c7fae525&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-1824-47a6-9374-39ec87c3949d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "1ed514526ba13806d1d18056cc072061b8fdd43a",
+          "id": "dc7d83551ac75dad62a1432452775ef90a0a9976",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1557-3871-95af-b449ab16aa48&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-1527-573d-8d9e-0cfe618d9650&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "d91059df957bd67f800b730e222f7c72aec80d59",
+          "id": "a25307eb97c744b4af16110a3f373df9cc1e3392",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1201-5307-aecb-0ad4b74c0f6b&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-1114-1694-b0c3-6c5237145dbf&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "fd435474cd5e9a22c6c38b09a01753f00fb951cd",
+          "id": "49dfbeb6895e1c59e22738b8e7d52b2f5605e9df",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0956-3675-a582-01f0d72012a9&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0928-378d-b7ec-f7a68a2bde14&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "7f3168a242e252c82ff013630529471997ea267a",
+          "id": "e39f87e78d6c07be1dadc481ddce2a70e5ab927a",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0854-2394-83f0-21ed9384426e&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0825-32e2-a98e-bcc3087fc261&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "65610642a1c02f4bbc982ed415cf7d415352c0a9",
+          "id": "78df29f005e4873bb1b7f2ecda458ceed60e1d9a",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0737-50ba-9c78-aa55157364b4&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0725-36da-8327-1d2895ad0b85&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "77d106ff3e17bb78f1cd81fd98412683bcad1cca",
+          "id": "ea340e0abdf626695839e570338d39053e941b38",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0609-4335-ac88-a16338a3de3e&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0604-203e-ae79-00a7f68022d3&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "22aae572b77d1d316aa992876132cf420d4dc9fb",
+          "id": "f4d6edcc5c7e1e47896f1ce1999f371a80d9b475",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0444-21c2-b5ef-ac03cfcf16f3&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0455-1184-bdf4-fc4dbae005b8&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "f19d617f945e66ee90739b8c1e4f7142c562d56f",
+          "id": "2e455a0a39d833e98be07ae282309ea09c4cd4c0",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0312-00a3-96cd-267b5084d8c3&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0355-30ca-be26-a16de998c90b&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "7bc7ad43b8728ab68ab80ccaeeb8342e91cfceb9",
+          "id": "ab6d0fa0ed579e95e95a821306a9c18c582f0226",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0132-41dc-b98c-22f84212dcfa&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0251-43d2-8340-bd3354a0a410&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "511946167b8ebdb46c09938ca7a155a5607a0a60",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0138-58c5-88fc-9950cbeaf314&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         }
       ],
-      "source_count": 14,
+      "source_count": 15,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
-          "id": "f317e33c892d35f54c42d80f19eb546f73398180",
+          "id": "e3da8984aba642bfdfe10b9654be241dc1e6b569",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0028-421d-9747-6fd8f0ac2303&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0042-38ef-bcd9-1d03b0597777&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "e2b9d27e4226c7bc846899d0070ad71e2d4d4911",
+          "id": "dfd924213e1db63d1ba4c99de6ce684ab5533c6d",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0006-22ae-90f5-c9b5e6bdf57c&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0014-4681-89cd-3d823e2c7aad&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "2124a622744b0d87ce14ea947ef7b499e4fa696d",
+          "id": "9ff384d31af7e359ecf149e1b0c06774b7d7ebfe",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-2201-2358-ac7c-1ae5b2ba541e&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-2208-598f-873a-8c056f2bdf40&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "b53334e23311a9e2a0eb164d0b081e28212bfdac",
+          "id": "2778f0cb4c5a54d8aeba10a3dfe64d4c37cb4fd4",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-2033-1095-90e0-b28802c8617b&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-2034-1982-ae0b-a4fe8171ea80&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "29d9199ae1f6c33a56e4461549a15866e27d4283",
+          "id": "d70062a6324806ddf38ea86ebbbabb38dbf21641",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1829-4214-9f10-ead2c7fae525&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-1824-47a6-9374-39ec87c3949d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "1ed514526ba13806d1d18056cc072061b8fdd43a",
+          "id": "dc7d83551ac75dad62a1432452775ef90a0a9976",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1557-3871-95af-b449ab16aa48&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-1527-573d-8d9e-0cfe618d9650&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "d91059df957bd67f800b730e222f7c72aec80d59",
+          "id": "a25307eb97c744b4af16110a3f373df9cc1e3392",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1201-5307-aecb-0ad4b74c0f6b&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-1114-1694-b0c3-6c5237145dbf&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "fd435474cd5e9a22c6c38b09a01753f00fb951cd",
+          "id": "49dfbeb6895e1c59e22738b8e7d52b2f5605e9df",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0956-3675-a582-01f0d72012a9&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0928-378d-b7ec-f7a68a2bde14&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "7f3168a242e252c82ff013630529471997ea267a",
+          "id": "e39f87e78d6c07be1dadc481ddce2a70e5ab927a",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0854-2394-83f0-21ed9384426e&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0825-32e2-a98e-bcc3087fc261&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "65610642a1c02f4bbc982ed415cf7d415352c0a9",
+          "id": "78df29f005e4873bb1b7f2ecda458ceed60e1d9a",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0737-50ba-9c78-aa55157364b4&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0725-36da-8327-1d2895ad0b85&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "77d106ff3e17bb78f1cd81fd98412683bcad1cca",
+          "id": "ea340e0abdf626695839e570338d39053e941b38",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0609-4335-ac88-a16338a3de3e&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0604-203e-ae79-00a7f68022d3&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "22aae572b77d1d316aa992876132cf420d4dc9fb",
+          "id": "f4d6edcc5c7e1e47896f1ce1999f371a80d9b475",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0444-21c2-b5ef-ac03cfcf16f3&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0455-1184-bdf4-fc4dbae005b8&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "f19d617f945e66ee90739b8c1e4f7142c562d56f",
+          "id": "2e455a0a39d833e98be07ae282309ea09c4cd4c0",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0312-00a3-96cd-267b5084d8c3&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0355-30ca-be26-a16de998c90b&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "7bc7ad43b8728ab68ab80ccaeeb8342e91cfceb9",
+          "id": "ab6d0fa0ed579e95e95a821306a9c18c582f0226",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0132-41dc-b98c-22f84212dcfa&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0251-43d2-8340-bd3354a0a410&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "511946167b8ebdb46c09938ca7a155a5607a0a60",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0138-58c5-88fc-9950cbeaf314&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         }
       ],
-      "item_count": 14,
-      "duplicate_count": 14,
+      "item_count": 15,
+      "duplicate_count": 15,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -288,92 +306,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-03T15:32:12.574649Z",
-      "latest_at": "2026-07-04T14:28:14.944504Z",
+      "earliest_at": "2026-07-04T15:38:31.838573Z",
+      "latest_at": "2026-07-05T14:42:18.646568Z",
       "primary_item": {
-        "id": "f317e33c892d35f54c42d80f19eb546f73398180",
+        "id": "e3da8984aba642bfdfe10b9654be241dc1e6b569",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0028-421d-9747-6fd8f0ac2303&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0042-38ef-bcd9-1d03b0597777&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_b4c457344c84",
-      "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
-      "url": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c",
-      "primary_url": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8db562233cdd62b87251df755c323271a3ff4ed3",
-          "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
-          "url": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-04T09:08:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8db562233cdd62b87251df755c323271a3ff4ed3",
-          "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
-          "url": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-04T09:08:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7781,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-04T09:08:41Z",
-      "latest_at": "2026-07-04T09:08:41Z",
-      "primary_item": {
-        "id": "8db562233cdd62b87251df755c323271a3ff4ed3",
-        "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
-        "url": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d472d2e88175",
-      "title": "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
-      "url": "https://aihot.virxact.com/items/cmr5zuihg0739slc7nv4mlc5r",
-      "primary_url": "https://aihot.virxact.com/items/cmr5zuihg0739slc7nv4mlc5r",
+      "story_id": "story_0b64a3f633dc",
+      "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
+      "url": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0",
+      "primary_url": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0",
       "source": "MarkTechPost（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6b3e3bd529f0080fb0c6c6e717db55457bad1007",
-          "title": "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
-          "url": "https://aihot.virxact.com/items/cmr5zuihg0739slc7nv4mlc5r",
+          "id": "276ec98aec3247ced1a889b0d0a819a5f74e9cea",
+          "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
+          "url": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0",
           "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-04T06:32:47Z"
+          "published_at": "2026-07-05T07:50:19Z"
         }
       ],
       "source_count": 1,
@@ -382,833 +340,230 @@
       ],
       "items": [
         {
-          "id": "6b3e3bd529f0080fb0c6c6e717db55457bad1007",
-          "title": "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
-          "url": "https://aihot.virxact.com/items/cmr5zuihg0739slc7nv4mlc5r",
+          "id": "276ec98aec3247ced1a889b0d0a819a5f74e9cea",
+          "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
+          "url": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0",
           "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-04T06:32:47Z"
+          "published_at": "2026-07-05T07:50:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6698,
+        "recency": 0.7139,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-04T06:32:47Z",
-      "latest_at": "2026-07-04T06:32:47Z",
+      "earliest_at": "2026-07-05T07:50:19Z",
+      "latest_at": "2026-07-05T07:50:19Z",
       "primary_item": {
-        "id": "6b3e3bd529f0080fb0c6c6e717db55457bad1007",
-        "title": "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
-        "url": "https://aihot.virxact.com/items/cmr5zuihg0739slc7nv4mlc5r",
+        "id": "276ec98aec3247ced1a889b0d0a819a5f74e9cea",
+        "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
+        "url": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_9c109395d2b1",
-      "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-      "url": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y",
-      "primary_url": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_47e4c3ddb9eb",
+      "title": "哟天，我们听说你喜欢 ChatGPT 中的 Codex https://t.co/hJZCbrpNbZ / Yo dawg we heard you like Codex in ChatGPT https://t.co/hJZCbrpNbZ",
+      "url": "https://x.com/danshipper/status/2073586548545638459",
+      "primary_url": "https://x.com/danshipper/status/2073586548545638459",
+      "source": "Follow Builders · X · Dan Shipper",
+      "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "b283599ce4a606d523943c87ff8ca447fe3b0f78",
-          "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-          "url": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-04T05:01:02Z"
+          "id": "de2430254b119aa4c06748d30df873088456b4e0",
+          "title": "哟天，我们听说你喜欢 ChatGPT 中的 Codex https://t.co/hJZCbrpNbZ / Yo dawg we heard you like Codex in ChatGPT https://t.co/hJZCbrpNbZ",
+          "url": "https://x.com/danshipper/status/2073586548545638459",
+          "source": "Follow Builders · X · Dan Shipper",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-05T01:55:33Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "Follow Builders · X · Dan Shipper"
       ],
       "items": [
         {
-          "id": "b283599ce4a606d523943c87ff8ca447fe3b0f78",
-          "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-          "url": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-04T05:01:02Z"
+          "id": "de2430254b119aa4c06748d30df873088456b4e0",
+          "title": "哟天，我们听说你喜欢 ChatGPT 中的 Codex https://t.co/hJZCbrpNbZ / Yo dawg we heard you like Codex in ChatGPT https://t.co/hJZCbrpNbZ",
+          "url": "https://x.com/danshipper/status/2073586548545638459",
+          "source": "Follow Builders · X · Dan Shipper",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-05T01:55:33Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6061,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-04T05:01:02Z",
-      "latest_at": "2026-07-04T05:01:02Z",
-      "primary_item": {
-        "id": "b283599ce4a606d523943c87ff8ca447fe3b0f78",
-        "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-        "url": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_85eb953de08d",
-      "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
-      "url": "https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6",
-      "primary_url": "https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c350838b6681b68bb7f63e4d329578ba4f7ec35b",
-          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
-          "url": "https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T19:19:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "c350838b6681b68bb7f63e4d329578ba4f7ec35b",
-          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
-          "url": "https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T19:19:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6525,
-      "importance": 0.6525,
-      "importance_score": 0.6525,
+      "score": 0.5965,
+      "importance": 0.5965,
+      "importance_score": 0.5965,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.2024,
+        "source_tier": 0.62,
+        "ai_relevance": 0.85,
+        "recency": 0.4675,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-03T19:19:45Z",
-      "latest_at": "2026-07-03T19:19:45Z",
+      "earliest_at": "2026-07-05T01:55:33Z",
+      "latest_at": "2026-07-05T01:55:33Z",
       "primary_item": {
-        "id": "c350838b6681b68bb7f63e4d329578ba4f7ec35b",
-        "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
-        "url": "https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "de2430254b119aa4c06748d30df873088456b4e0",
+        "title": "哟天，我们听说你喜欢 ChatGPT 中的 Codex https://t.co/hJZCbrpNbZ / Yo dawg we heard you like Codex in ChatGPT https://t.co/hJZCbrpNbZ",
+        "url": "https://x.com/danshipper/status/2073586548545638459",
+        "source": "Follow Builders · X · Dan Shipper",
+        "source_name": "Follow Builders"
       }
     },
     {
-      "story_id": "story_eeacd3fe36d9",
-      "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
-      "url": "https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam",
-      "primary_url": "https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "15855f515ec926ca077f3163288eaef32615c647",
-          "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
-          "url": "https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T18:51:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "15855f515ec926ca077f3163288eaef32615c647",
-          "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
-          "url": "https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T18:51:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6485,
-      "importance": 0.6485,
-      "importance_score": 0.6485,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.1825,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T18:51:06Z",
-      "latest_at": "2026-07-03T18:51:06Z",
-      "primary_item": {
-        "id": "15855f515ec926ca077f3163288eaef32615c647",
-        "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
-        "url": "https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_96aeaf10e3fa",
-      "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-      "url": "https://finance.sina.com.cn/stock/t/2026-07-04/doc-inifscxt9942135.shtml",
-      "primary_url": "https://finance.sina.com.cn/stock/t/2026-07-04/doc-inifscxt9942135.shtml",
+      "story_id": "story_5757dee16a1e",
+      "title": "2026 中国 (南京) 具身智能机器人产业展将于 7 月 10-12 日举行",
+      "url": "https://www.gelonghui.com/live/2537337",
+      "primary_url": "https://www.gelonghui.com/live/2537337",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "ad54a5acd28031e513c75010c1182b97ed3639da",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/t/2026-07-04/doc-inifscxt9942135.shtml",
+          "id": "597b59b9143974614237066cd83eda8d8be04183",
+          "title": "2026 中国 (南京) 具身智能机器人产业展将于 7 月 10-12 日举行",
+          "url": "https://www.gelonghui.com/live/2537337",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "9df8bcd2ebaf4abd686cca72f861dcf558ebc2a1",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+          "id": "9697b927368d3eb491c724693e95bbeaf2c34e9b",
+          "title": "2026 中国（南京）具身智能机器人产业展将于 7 月 10-12 日举行",
+          "url": "https://finance.sina.com.cn/roll/2026-07-05/doc-inifuhws2481452.shtml",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "1ee90b4abc58b3c409ac83155ec9c4fd5fbe22ac",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-04/doc-inifscxt9916691.shtml",
+          "id": "118d4e8b556c206c1e974789526e463cab572a46",
+          "title": "2026 中国（南京）具身智能机器人产业展将于 7 月 10-12 日举行",
+          "url": "https://wallstreetcn.com/livenews/3129014",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "64fd202cf72a2634173c38fd9aedca47b22b6355",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxw9247353.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0b1583ed003948d4088d6143930d57e75e5f863c",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://www.gelonghui.com/live/2536873",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
-          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
+          "id": "66f2fa8905a6f1b65d5631627b3e573a2bcc01bb",
+          "title": "2026 中国（南京）具身智能机器人产业展将于 7 月 10-12 日举行",
+          "url": "https://api3.cls.cn/share/article/2417385?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         }
       ],
-      "source_count": 7,
+      "source_count": 4,
       "source_names": [
         "Readhub · AI"
       ],
       "items": [
         {
-          "id": "ad54a5acd28031e513c75010c1182b97ed3639da",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/t/2026-07-04/doc-inifscxt9942135.shtml",
+          "id": "597b59b9143974614237066cd83eda8d8be04183",
+          "title": "2026 中国 (南京) 具身智能机器人产业展将于 7 月 10-12 日举行",
+          "url": "https://www.gelonghui.com/live/2537337",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "9df8bcd2ebaf4abd686cca72f861dcf558ebc2a1",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
+          "id": "9697b927368d3eb491c724693e95bbeaf2c34e9b",
+          "title": "2026 中国（南京）具身智能机器人产业展将于 7 月 10-12 日举行",
+          "url": "https://finance.sina.com.cn/roll/2026-07-05/doc-inifuhws2481452.shtml",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "1ee90b4abc58b3c409ac83155ec9c4fd5fbe22ac",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-04/doc-inifscxt9916691.shtml",
+          "id": "118d4e8b556c206c1e974789526e463cab572a46",
+          "title": "2026 中国（南京）具身智能机器人产业展将于 7 月 10-12 日举行",
+          "url": "https://wallstreetcn.com/livenews/3129014",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "64fd202cf72a2634173c38fd9aedca47b22b6355",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxw9247353.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0b1583ed003948d4088d6143930d57e75e5f863c",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://www.gelonghui.com/live/2536873",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "fdfa964b17448b2d73341a7eb1252eccdd6e98ef",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
-          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
+          "id": "66f2fa8905a6f1b65d5631627b3e573a2bcc01bb",
+          "title": "2026 中国（南京）具身智能机器人产业展将于 7 月 10-12 日举行",
+          "url": "https://api3.cls.cn/share/article/2417385?os=web&sv=8.4.6&app=CailianpressWeb",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         }
       ],
-      "item_count": 7,
-      "duplicate_count": 7,
-      "score": 0.623,
-      "importance": 0.623,
-      "importance_score": 0.623,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
+        "recency": 0.9806,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T12:00:54.032273Z",
-      "latest_at": "2026-07-04T14:28:14.944504Z",
+      "earliest_at": "2026-07-05T14:14:18.276472Z",
+      "latest_at": "2026-07-05T14:14:18.276472Z",
       "primary_item": {
-        "id": "ad54a5acd28031e513c75010c1182b97ed3639da",
-        "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-        "url": "https://finance.sina.com.cn/stock/t/2026-07-04/doc-inifscxt9942135.shtml",
+        "id": "597b59b9143974614237066cd83eda8d8be04183",
+        "title": "2026 中国 (南京) 具身智能机器人产业展将于 7 月 10-12 日举行",
+        "url": "https://www.gelonghui.com/live/2537337",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_94916d673c4a",
-      "title": "Leanstral 1.5：人人可用的证明丰富性",
-      "url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-      "primary_url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-      "source": "Mistral AI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e3334b54fe4fe95e1021b3549a986954cdb73084",
-          "title": "Leanstral 1.5：人人可用的证明丰富性",
-          "url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T15:19:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Mistral AI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "e3334b54fe4fe95e1021b3549a986954cdb73084",
-          "title": "Leanstral 1.5：人人可用的证明丰富性",
-          "url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T15:19:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6192,
-      "importance": 0.6192,
-      "importance_score": 0.6192,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0358,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T15:19:52Z",
-      "latest_at": "2026-07-03T15:19:52Z",
-      "primary_item": {
-        "id": "e3334b54fe4fe95e1021b3549a986954cdb73084",
-        "title": "Leanstral 1.5：人人可用的证明丰富性",
-        "url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-        "source": "Mistral AI：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4c2636eddbf0",
-      "title": "如果您认为 Codex 的设计很糟糕，请尝试“使用 imagegen 重新想象这个设计并实现它”。 / If you think codex sucks at design, try \"use imagegen to re-imagine this design and implement that\".",
-      "url": "https://x.com/steipete/status/2073277317464682723",
-      "primary_url": "https://x.com/steipete/status/2073277317464682723",
-      "source": "Follow Builders · X · Peter Steinberger",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "68461f22c5556893e7e7fbebe4e16585d4bedc1f",
-          "title": "如果您认为 Codex 的设计很糟糕，请尝试“使用 imagegen 重新想象这个设计并实现它”。 / If you think codex sucks at design, try \"use imagegen to re-imagine this design and implement that\".",
-          "url": "https://x.com/steipete/status/2073277317464682723",
-          "source": "Follow Builders · X · Peter Steinberger",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-04T05:26:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Peter Steinberger"
-      ],
-      "items": [
-        {
-          "id": "68461f22c5556893e7e7fbebe4e16585d4bedc1f",
-          "title": "如果您认为 Codex 的设计很糟糕，请尝试“使用 imagegen 重新想象这个设计并实现它”。 / If you think codex sucks at design, try \"use imagegen to re-imagine this design and implement that\".",
-          "url": "https://x.com/steipete/status/2073277317464682723",
-          "source": "Follow Builders · X · Peter Steinberger",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-04T05:26:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6158,
-      "importance": 0.6158,
-      "importance_score": 0.6158,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.81,
-        "recency": 0.624,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-04T05:26:46Z",
-      "latest_at": "2026-07-04T05:26:46Z",
-      "primary_item": {
-        "id": "68461f22c5556893e7e7fbebe4e16585d4bedc1f",
-        "title": "如果您认为 Codex 的设计很糟糕，请尝试“使用 imagegen 重新想象这个设计并实现它”。 / If you think codex sucks at design, try \"use imagegen to re-imagine this design and implement that\".",
-        "url": "https://x.com/steipete/status/2073277317464682723",
-        "source": "Follow Builders · X · Peter Steinberger",
-        "source_name": "Follow Builders"
-      }
-    },
-    {
-      "story_id": "story_20db5f506b45",
-      "title": "如果您喜欢这个，请免费注册我的时事通讯，以获得我最好的人工智能和产品指南。在此加入 110,000 多名订阅者：https://t.co/yz9xcsfrhF / If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides. Join 110,000+ subscribers here: https://t.co/yz9xcsfrhF",
-      "url": "https://x.com/petergyang/status/2073285979465822423",
-      "primary_url": "https://x.com/petergyang/status/2073285979465822423",
-      "source": "Follow Builders · X · Peter Yang",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "d1de273c909bdb57a0f7dcf3c056340147af8757",
-          "title": "如果您喜欢这个，请免费注册我的时事通讯，以获得我最好的人工智能和产品指南。在此加入 110,000 多名订阅者：https://t.co/yz9xcsfrhF / If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides. Join 110,000+ subscribers here: https://t.co/yz9xcsfrhF",
-          "url": "https://x.com/petergyang/status/2073285979465822423",
-          "source": "Follow Builders · X · Peter Yang",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-04T06:01:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Peter Yang"
-      ],
-      "items": [
-        {
-          "id": "d1de273c909bdb57a0f7dcf3c056340147af8757",
-          "title": "如果您喜欢这个，请免费注册我的时事通讯，以获得我最好的人工智能和产品指南。在此加入 110,000 多名订阅者：https://t.co/yz9xcsfrhF / If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides. Join 110,000+ subscribers here: https://t.co/yz9xcsfrhF",
-          "url": "https://x.com/petergyang/status/2073285979465822423",
-          "source": "Follow Builders · X · Peter Yang",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-04T06:01:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6086,
-      "importance": 0.6086,
-      "importance_score": 0.6086,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.77,
-        "recency": 0.6479,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-07-04T06:01:11Z",
-      "latest_at": "2026-07-04T06:01:11Z",
-      "primary_item": {
-        "id": "d1de273c909bdb57a0f7dcf3c056340147af8757",
-        "title": "如果您喜欢这个，请免费注册我的时事通讯，以获得我最好的人工智能和产品指南。在此加入 110,000 多名订阅者：https://t.co/yz9xcsfrhF / If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides. Join 110,000+ subscribers here: https://t.co/yz9xcsfrhF",
-        "url": "https://x.com/petergyang/status/2073285979465822423",
-        "source": "Follow Builders · X · Peter Yang",
-        "source_name": "Follow Builders"
-      }
-    },
-    {
-      "story_id": "story_4167ee5e8aa7",
-      "title": "我是 Gemini 及其产品体验最直言不讳的批评者之一，但它仍然是唯一一个使用单个 API 密钥就可以真正做到这一切的地方。 > Flash - 用于快速廉价的长上下文结构化任务 > Na... / I’m one of the more vocal critics of Gemini and their product experience but it’s still the only place where with a single API key you can really do it all.. > Flash - for fast cheap long context structured tasks > Na...",
-      "url": "https://x.com/nikunj/status/2073151491557478883",
-      "primary_url": "https://x.com/nikunj/status/2073151491557478883",
-      "source": "Follow Builders · X · Nikunj Kothari",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "f3271d75f719a08857903a65211fbb21b9604200",
-          "title": "我是 Gemini 及其产品体验最直言不讳的批评者之一，但它仍然是唯一一个使用单个 API 密钥就可以真正做到这一切的地方。 > Flash - 用于快速廉价的长上下文结构化任务 > Na... / I’m one of the more vocal critics of Gemini and their product experience but it’s still the only place where with a single API key you can really do it all.. > Flash - for fast cheap long context structured tasks > Na...",
-          "url": "https://x.com/nikunj/status/2073151491557478883",
-          "source": "Follow Builders · X · Nikunj Kothari",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-03T21:06:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Nikunj Kothari"
-      ],
-      "items": [
-        {
-          "id": "f3271d75f719a08857903a65211fbb21b9604200",
-          "title": "我是 Gemini 及其产品体验最直言不讳的批评者之一，但它仍然是唯一一个使用单个 API 密钥就可以真正做到这一切的地方。 > Flash - 用于快速廉价的长上下文结构化任务 > Na... / I’m one of the more vocal critics of Gemini and their product experience but it’s still the only place where with a single API key you can really do it all.. > Flash - for fast cheap long context structured tasks > Na...",
-          "url": "https://x.com/nikunj/status/2073151491557478883",
-          "source": "Follow Builders · X · Nikunj Kothari",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-03T21:06:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.5554,
-      "importance": 0.5554,
-      "importance_score": 0.5554,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.84,
-        "recency": 0.2768,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T21:06:47Z",
-      "latest_at": "2026-07-03T21:06:47Z",
-      "primary_item": {
-        "id": "f3271d75f719a08857903a65211fbb21b9604200",
-        "title": "我是 Gemini 及其产品体验最直言不讳的批评者之一，但它仍然是唯一一个使用单个 API 密钥就可以真正做到这一切的地方。 > Flash - 用于快速廉价的长上下文结构化任务 > Na... / I’m one of the more vocal critics of Gemini and their product experience but it’s still the only place where with a single API key you can really do it all.. > Flash - for fast cheap long context structured tasks > Na...",
-        "url": "https://x.com/nikunj/status/2073151491557478883",
-        "source": "Follow Builders · X · Nikunj Kothari",
-        "source_name": "Follow Builders"
-      }
-    },
-    {
-      "story_id": "story_e1349d8af55d",
-      "title": "DeepSeek 新技术移植苹果芯片！Mac 本地大模型加速 60%",
-      "url": "https://hub.baai.ac.cn/view/56084",
-      "primary_url": "https://hub.baai.ac.cn/view/56084",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "febe445b46a62c3fe1ba4f435b19ca75aa1344b3",
-          "title": "DeepSeek 新技术移植苹果芯片！Mac 本地大模型加速 60%",
-          "url": "https://hub.baai.ac.cn/view/56084",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0d1ddcd275d4f9e3c9aa381c59867fe927c81cff",
-          "title": "DeepSeek新技术移植苹果芯片，Mac本地大模型加速60%",
-          "url": "https://www.36kr.com/p/3879842615308547",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 · 24小时热榜",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "febe445b46a62c3fe1ba4f435b19ca75aa1344b3",
-          "title": "DeepSeek 新技术移植苹果芯片！Mac 本地大模型加速 60%",
-          "url": "https://hub.baai.ac.cn/view/56084",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0d1ddcd275d4f9e3c9aa381c59867fe927c81cff",
-          "title": "DeepSeek新技术移植苹果芯片，Mac本地大模型加速60%",
-          "url": "https://www.36kr.com/p/3879842615308547",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5479,
-      "importance": 0.5479,
-      "importance_score": 0.5479,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.66,
-        "recency": 0.9845,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T14:05:57.301218Z",
-      "latest_at": "2026-07-04T14:05:57.301218Z",
-      "primary_item": {
-        "id": "febe445b46a62c3fe1ba4f435b19ca75aa1344b3",
-        "title": "DeepSeek 新技术移植苹果芯片！Mac 本地大模型加速 60%",
-        "url": "https://hub.baai.ac.cn/view/56084",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_ad9eb889f75e",
-      "title": "小提示：您可以使用Claude Code与计算机一起使用来设置Claude Tag。只需将其指向 Claude Tag 文档，它就会为您连接您团队的 GitHub 存储库、数据仓库、Google Drive 和其他数据源！ / Small tip: You can use Claude Code with computer use to set up Claude Tag. Just point it to the Claude Tag docs and it will connect your team’s GitHub repo, data warehouse, google drive, and other data sources for you!",
-      "url": "https://x.com/_catwu/status/2073149354412822738",
-      "primary_url": "https://x.com/_catwu/status/2073149354412822738",
-      "source": "Follow Builders · X · Cat Wu",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "6e607e16dda61a1ea0eab8a315e5349c6f194dc1",
-          "title": "小提示：您可以使用Claude Code与计算机一起使用来设置Claude Tag。只需将其指向 Claude Tag 文档，它就会为您连接您团队的 GitHub 存储库、数据仓库、Google Drive 和其他数据源！ / Small tip: You can use Claude Code with computer use to set up Claude Tag. Just point it to the Claude Tag docs and it will connect your team’s GitHub repo, data warehouse, google drive, and other data sources for you!",
-          "url": "https://x.com/_catwu/status/2073149354412822738",
-          "source": "Follow Builders · X · Cat Wu",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-03T20:58:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Cat Wu"
-      ],
-      "items": [
-        {
-          "id": "6e607e16dda61a1ea0eab8a315e5349c6f194dc1",
-          "title": "小提示：您可以使用Claude Code与计算机一起使用来设置Claude Tag。只需将其指向 Claude Tag 文档，它就会为您连接您团队的 GitHub 存储库、数据仓库、Google Drive 和其他数据源！ / Small tip: You can use Claude Code with computer use to set up Claude Tag. Just point it to the Claude Tag docs and it will connect your team’s GitHub repo, data warehouse, google drive, and other data sources for you!",
-          "url": "https://x.com/_catwu/status/2073149354412822738",
-          "source": "Follow Builders · X · Cat Wu",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-03T20:58:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.81,
-        "recency": 0.2709,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T20:58:18Z",
-      "latest_at": "2026-07-03T20:58:18Z",
-      "primary_item": {
-        "id": "6e607e16dda61a1ea0eab8a315e5349c6f194dc1",
-        "title": "小提示：您可以使用Claude Code与计算机一起使用来设置Claude Tag。只需将其指向 Claude Tag 文档，它就会为您连接您团队的 GitHub 存储库、数据仓库、Google Drive 和其他数据源！ / Small tip: You can use Claude Code with computer use to set up Claude Tag. Just point it to the Claude Tag docs and it will connect your team’s GitHub repo, data warehouse, google drive, and other data sources for you!",
-        "url": "https://x.com/_catwu/status/2073149354412822738",
-        "source": "Follow Builders · X · Cat Wu",
-        "source_name": "Follow Builders"
-      }
-    },
-    {
-      "story_id": "story_83c12f432610",
-      "title": "人工智能之战正在演变为一场背景之战。人工智能的一切都是为了确保代理尽可能有效。这种有效性取决于代理是否拥有正确的领域专业知识...... / The battle in AI is shaping up to be a battle for context. Everything in AI is about making sure that agents are effective as possible. That effectiveness comes down to whether the agent has the right domain expertise...",
-      "url": "https://x.com/levie/status/2073138135014502777",
-      "primary_url": "https://x.com/levie/status/2073138135014502777",
-      "source": "Follow Builders · X · Aaron Levie",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "3fc485d9d4addadfcdec1c93ea6040ee883eedab",
-          "title": "人工智能之战正在演变为一场背景之战。人工智能的一切都是为了确保代理尽可能有效。这种有效性取决于代理是否拥有正确的领域专业知识...... / The battle in AI is shaping up to be a battle for context. Everything in AI is about making sure that agents are effective as possible. That effectiveness comes down to whether the agent has the right domain expertise...",
-          "url": "https://x.com/levie/status/2073138135014502777",
-          "source": "Follow Builders · X · Aaron Levie",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-03T20:13:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Aaron Levie"
-      ],
-      "items": [
-        {
-          "id": "3fc485d9d4addadfcdec1c93ea6040ee883eedab",
-          "title": "人工智能之战正在演变为一场背景之战。人工智能的一切都是为了确保代理尽可能有效。这种有效性取决于代理是否拥有正确的领域专业知识...... / The battle in AI is shaping up to be a battle for context. Everything in AI is about making sure that agents are effective as possible. That effectiveness comes down to whether the agent has the right domain expertise...",
-          "url": "https://x.com/levie/status/2073138135014502777",
-          "source": "Follow Builders · X · Aaron Levie",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-03T20:13:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.536,
-      "importance": 0.536,
-      "importance_score": 0.536,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.8,
-        "recency": 0.2399,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T20:13:43Z",
-      "latest_at": "2026-07-03T20:13:43Z",
-      "primary_item": {
-        "id": "3fc485d9d4addadfcdec1c93ea6040ee883eedab",
-        "title": "人工智能之战正在演变为一场背景之战。人工智能的一切都是为了确保代理尽可能有效。这种有效性取决于代理是否拥有正确的领域专业知识...... / The battle in AI is shaping up to be a battle for context. Everything in AI is about making sure that agents are effective as possible. That effectiveness comes down to whether the agent has the right domain expertise...",
-        "url": "https://x.com/levie/status/2073138135014502777",
-        "source": "Follow Builders · X · Aaron Levie",
-        "source_name": "Follow Builders"
-      }
-    },
-    {
-      "story_id": "story_82d97b979e90",
-      "title": "代理自我完善。让您的代理能够反思其过去的运行，发现效率低下、错误、冗余工具调用，并产生新的提示和技能。这就是为什么代理可观察性是内置的，当...... / Agentic self-improvement. Give your agent the ability to introspect its past runs, spot inefficiencies, errors, redundant tool calls, and produce new prompts and skills. That’s why agent observability is built-in when...",
-      "url": "https://x.com/rauchg/status/2073132174958841887",
-      "primary_url": "https://x.com/rauchg/status/2073132174958841887",
+      "story_id": "story_8ea7243c6f02",
+      "title": "🏁 我动画化了代币💰 支出竞赛，来自 Vercel AI Gateway 的终生使用，该网关每月聚合来自数百万开发者的数万亿代币。令人着迷的是看到实验室之间的波动，Anthropic 确实...... / 🏁 I animated the token 💰 spend race, from ~lifetime Vercel AI Gateway usage, which aggregates trillions of tokens from millions of developers a month. Fascinating to see the fluctuations among the labs, Anthropic's do...",
+      "url": "https://x.com/rauchg/status/2073563586270781674",
+      "primary_url": "https://x.com/rauchg/status/2073563586270781674",
       "source": "Follow Builders · X · Guillermo Rauch",
       "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "e36757d62bcd4dda4fb85ca6003fb70412ca0482",
-          "title": "代理自我完善。让您的代理能够反思其过去的运行，发现效率低下、错误、冗余工具调用，并产生新的提示和技能。这就是为什么代理可观察性是内置的，当...... / Agentic self-improvement. Give your agent the ability to introspect its past runs, spot inefficiencies, errors, redundant tool calls, and produce new prompts and skills. That’s why agent observability is built-in when...",
-          "url": "https://x.com/rauchg/status/2073132174958841887",
+          "id": "0cc45048704f4ee0d1dd306ed0aff09d37de8696",
+          "title": "🏁 我动画化了代币💰 支出竞赛，来自 Vercel AI Gateway 的终生使用，该网关每月聚合来自数百万开发者的数万亿代币。令人着迷的是看到实验室之间的波动，Anthropic 确实...... / 🏁 I animated the token 💰 spend race, from ~lifetime Vercel AI Gateway usage, which aggregates trillions of tokens from millions of developers a month. Fascinating to see the fluctuations among the labs, Anthropic's do...",
+          "url": "https://x.com/rauchg/status/2073563586270781674",
           "source": "Follow Builders · X · Guillermo Rauch",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-07-03T19:50:02Z"
+          "published_at": "2026-07-05T00:24:18Z"
         }
       ],
       "source_count": 1,
@@ -1217,397 +572,692 @@
       ],
       "items": [
         {
-          "id": "e36757d62bcd4dda4fb85ca6003fb70412ca0482",
-          "title": "代理自我完善。让您的代理能够反思其过去的运行，发现效率低下、错误、冗余工具调用，并产生新的提示和技能。这就是为什么代理可观察性是内置的，当...... / Agentic self-improvement. Give your agent the ability to introspect its past runs, spot inefficiencies, errors, redundant tool calls, and produce new prompts and skills. That’s why agent observability is built-in when...",
-          "url": "https://x.com/rauchg/status/2073132174958841887",
+          "id": "0cc45048704f4ee0d1dd306ed0aff09d37de8696",
+          "title": "🏁 我动画化了代币💰 支出竞赛，来自 Vercel AI Gateway 的终生使用，该网关每月聚合来自数百万开发者的数万亿代币。令人着迷的是看到实验室之间的波动，Anthropic 确实...... / 🏁 I animated the token 💰 spend race, from ~lifetime Vercel AI Gateway usage, which aggregates trillions of tokens from millions of developers a month. Fascinating to see the fluctuations among the labs, Anthropic's do...",
+          "url": "https://x.com/rauchg/status/2073563586270781674",
           "source": "Follow Builders · X · Guillermo Rauch",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-07-03T19:50:02Z"
+          "published_at": "2026-07-05T00:24:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.5808,
+      "importance": 0.5808,
+      "importance_score": 0.5808,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
-        "ai_relevance": 0.81,
-        "recency": 0.2235,
+        "ai_relevance": 0.84,
+        "recency": 0.4042,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-03T19:50:02Z",
-      "latest_at": "2026-07-03T19:50:02Z",
+      "earliest_at": "2026-07-05T00:24:18Z",
+      "latest_at": "2026-07-05T00:24:18Z",
       "primary_item": {
-        "id": "e36757d62bcd4dda4fb85ca6003fb70412ca0482",
-        "title": "代理自我完善。让您的代理能够反思其过去的运行，发现效率低下、错误、冗余工具调用，并产生新的提示和技能。这就是为什么代理可观察性是内置的，当...... / Agentic self-improvement. Give your agent the ability to introspect its past runs, spot inefficiencies, errors, redundant tool calls, and produce new prompts and skills. That’s why agent observability is built-in when...",
-        "url": "https://x.com/rauchg/status/2073132174958841887",
+        "id": "0cc45048704f4ee0d1dd306ed0aff09d37de8696",
+        "title": "🏁 我动画化了代币💰 支出竞赛，来自 Vercel AI Gateway 的终生使用，该网关每月聚合来自数百万开发者的数万亿代币。令人着迷的是看到实验室之间的波动，Anthropic 确实...... / 🏁 I animated the token 💰 spend race, from ~lifetime Vercel AI Gateway usage, which aggregates trillions of tokens from millions of developers a month. Fascinating to see the fluctuations among the labs, Anthropic's do...",
+        "url": "https://x.com/rauchg/status/2073563586270781674",
         "source": "Follow Builders · X · Guillermo Rauch",
         "source_name": "Follow Builders"
       }
     },
     {
-      "story_id": "story_616f8e70b9f8",
-      "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-      "url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "primary_url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "source": "epoch.ai",
-      "source_name": "Buzzing",
+      "story_id": "story_c5f69a55a108",
+      "title": "Codex 仍然做得不好而我们早就该做对的事情让您感到惊讶的是什么？ / What is something that you feel is surprising that Codex still can't do well and we should have gotten right a while ago?",
+      "url": "https://x.com/thsottiaux/status/2073551549494596079",
+      "primary_url": "https://x.com/thsottiaux/status/2073551549494596079",
+      "source": "Follow Builders · X · Thibault Sottiaux",
+      "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "epoch.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T09:11:45.212000Z"
+          "id": "73b994bb195eb3f0110eb2618da069098dc6020b",
+          "title": "Codex 仍然做得不好而我们早就该做对的事情让您感到惊讶的是什么？ / What is something that you feel is surprising that Codex still can't do well and we should have gotten right a while ago?",
+          "url": "https://x.com/thsottiaux/status/2073551549494596079",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-04T23:36:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux"
+      ],
+      "items": [
+        {
+          "id": "73b994bb195eb3f0110eb2618da069098dc6020b",
+          "title": "Codex 仍然做得不好而我们早就该做对的事情让您感到惊讶的是什么？ / What is something that you feel is surprising that Codex still can't do well and we should have gotten right a while ago?",
+          "url": "https://x.com/thsottiaux/status/2073551549494596079",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-04T23:36:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5652,
+      "importance": 0.5652,
+      "importance_score": 0.5652,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.81,
+        "recency": 0.3709,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-04T23:36:28Z",
+      "latest_at": "2026-07-04T23:36:28Z",
+      "primary_item": {
+        "id": "73b994bb195eb3f0110eb2618da069098dc6020b",
+        "title": "Codex 仍然做得不好而我们早就该做对的事情让您感到惊讶的是什么？ / What is something that you feel is surprising that Codex still can't do well and we should have gotten right a while ago?",
+        "url": "https://x.com/thsottiaux/status/2073551549494596079",
+        "source": "Follow Builders · X · Thibault Sottiaux",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_eb867b414ad7",
+      "title": "AGI 第一股暴跌 90%，AI 泡沫终于要破了？",
+      "url": "https://www.huxiu.com/article/4872781.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872781.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "658671106c2118b3951a4469a005dfd1ee1cb3f6",
+          "title": "AGI 第一股暴跌 90%，AI 泡沫终于要破了？",
+          "url": "https://www.huxiu.com/article/4872781.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://news.ycombinator.com/item?id=48780056",
+          "id": "db40f41a19ac8895c47f373edab5b586e79c1871",
+          "title": "AGI第一股暴跌90%，AI泡沫终于要破了？",
+          "url": "https://www.huxiu.com/article/4872781.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T13:17:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "658671106c2118b3951a4469a005dfd1ee1cb3f6",
+          "title": "AGI 第一股暴跌 90%，AI 泡沫终于要破了？",
+          "url": "https://www.huxiu.com/article/4872781.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "db40f41a19ac8895c47f373edab5b586e79c1871",
+          "title": "AGI第一股暴跌90%，AI泡沫终于要破了？",
+          "url": "https://www.huxiu.com/article/4872781.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T13:17:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5441,
+      "importance": 0.5441,
+      "importance_score": 0.5441,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9806,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T13:17:52Z",
+      "latest_at": "2026-07-05T14:14:18.276472Z",
+      "primary_item": {
+        "id": "658671106c2118b3951a4469a005dfd1ee1cb3f6",
+        "title": "AGI 第一股暴跌 90%，AI 泡沫终于要破了？",
+        "url": "https://www.huxiu.com/article/4872781.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_e12374b34600",
+      "title": "OpenAI，IPO 大消息",
+      "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872764.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
+          "title": "OpenAI，IPO 大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "58ff0b5aedb9e839fe395f9ea222b3333d5b9848",
+          "title": "OpenAI，IPO大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T10:54:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
+          "title": "OpenAI，IPO 大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "58ff0b5aedb9e839fe395f9ea222b3333d5b9848",
+          "title": "OpenAI，IPO大消息",
+          "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T10:54:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5266,
+      "importance": 0.5266,
+      "importance_score": 0.5266,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8932,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T10:54:30Z",
+      "latest_at": "2026-07-05T12:08:27.789245Z",
+      "primary_item": {
+        "id": "c7c6699adf30cb3bcd487030ed92008e2ad89d5b",
+        "title": "OpenAI，IPO 大消息",
+        "url": "https://www.huxiu.com/article/4872764.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_c7f7e9fbc46c",
+      "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim / awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "primary_url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7770b97852277f60e1ae13c84d3585b4af8e0c0d",
+          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim / awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4d34e46dee5f51410fd8433258ffd0e5392dbb01",
+          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T11:55:33.703000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "7770b97852277f60e1ae13c84d3585b4af8e0c0d",
+          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim / awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4d34e46dee5f51410fd8433258ffd0e5392dbb01",
+          "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T11:55:33.703000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5266,
+      "importance": 0.5266,
+      "importance_score": 0.5266,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8932,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T11:55:33.703000Z",
+      "latest_at": "2026-07-05T12:08:27.789245Z",
+      "primary_item": {
+        "id": "7770b97852277f60e1ae13c84d3585b4af8e0c0d",
+        "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim / awesome-claude-code",
+        "url": "https://github.com/hesreallyhim/awesome-claude-code",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_fa6538e9d176",
+      "title": "斯泰皮特 / CodexBar / steipete / CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "primary_url": "https://github.com/steipete/CodexBar",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "d3a16d4e2417b53d3e377f4664a9bf06c86ad32b",
+          "title": "斯泰皮特 / CodexBar / steipete / CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "450b5e0095953d8f790bcc62ba0a0aa23c162787",
+          "title": "斯泰皮特 / CodexBar / steipete /      CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T11:55:33.703000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "d3a16d4e2417b53d3e377f4664a9bf06c86ad32b",
+          "title": "斯泰皮特 / CodexBar / steipete / CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "450b5e0095953d8f790bcc62ba0a0aa23c162787",
+          "title": "斯泰皮特 / CodexBar / steipete /      CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T11:55:33.703000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5266,
+      "importance": 0.5266,
+      "importance_score": 0.5266,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8932,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T11:55:33.703000Z",
+      "latest_at": "2026-07-05T12:08:27.789245Z",
+      "primary_item": {
+        "id": "d3a16d4e2417b53d3e377f4664a9bf06c86ad32b",
+        "title": "斯泰皮特 / CodexBar / steipete / CodexBar",
+        "url": "https://github.com/steipete/CodexBar",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_44de5f528adc",
+      "title": "克劳德设计系统提示 / Claude Design System Prompt",
+      "url": "https://news.ycombinator.com/item?id=48792399",
+      "primary_url": "https://news.ycombinator.com/item?id=48792399",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://news.ycombinator.com/item?id=48792399",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-03T22:26:53.079000Z"
+          "published_at": "2026-07-05T11:45:00.018000Z"
         },
         {
-          "id": "b8ad25ecb85d7d27d79b8b2b6cc61cf5a704bb72",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:16:16Z"
+          "id": "f87a36d546cd99be1223bb000e95ea2562d07032",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T08:43:37Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "epoch.ai",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "epoch.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T09:11:45.212000Z"
-        },
-        {
-          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://news.ycombinator.com/item?id=48780056",
+          "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://news.ycombinator.com/item?id=48792399",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-03T22:26:53.079000Z"
+          "published_at": "2026-07-05T11:45:00.018000Z"
         },
         {
-          "id": "b8ad25ecb85d7d27d79b8b2b6cc61cf5a704bb72",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:16:16Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7802,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T21:16:16Z",
-      "latest_at": "2026-07-04T09:11:45.212000Z",
-      "primary_item": {
-        "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
-        "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-        "url": "https://epoch.ai/data-insights/cve-severity-spike",
-        "source": "epoch.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6010bac3beb7",
-      "title": "CoplayDev / unity-mcp",
-      "url": "https://github.com/CoplayDev/unity-mcp",
-      "primary_url": "https://github.com/CoplayDev/unity-mcp",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "7334a7a89e6192d9ae798d3dd94f7716d325fd78",
-          "title": "CoplayDev / unity-mcp",
-          "url": "https://github.com/CoplayDev/unity-mcp",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c7034b7c05b248881c674e92dc93b8b8ef943174",
-          "title": "CoplayDev /      unity-mcp",
-          "url": "https://github.com/CoplayDev/unity-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T11:46:57.616000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "7334a7a89e6192d9ae798d3dd94f7716d325fd78",
-          "title": "CoplayDev / unity-mcp",
-          "url": "https://github.com/CoplayDev/unity-mcp",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c7034b7c05b248881c674e92dc93b8b8ef943174",
-          "title": "CoplayDev /      unity-mcp",
-          "url": "https://github.com/CoplayDev/unity-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T11:46:57.616000Z"
+          "id": "f87a36d546cd99be1223bb000e95ea2562d07032",
+          "title": "克劳德设计系统提示 / Claude Design System Prompt",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T08:43:37Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8977,
+        "recency": 0.8769,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T11:46:57.616000Z",
-      "latest_at": "2026-07-04T12:00:54.032273Z",
+      "earliest_at": "2026-07-05T08:43:37Z",
+      "latest_at": "2026-07-05T11:45:00.018000Z",
       "primary_item": {
-        "id": "7334a7a89e6192d9ae798d3dd94f7716d325fd78",
-        "title": "CoplayDev / unity-mcp",
-        "url": "https://github.com/CoplayDev/unity-mcp",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
+        "id": "fcf645aa0c889b567ca58d551d3a8bc4dac81a97",
+        "title": "克劳德设计系统提示 / Claude Design System Prompt",
+        "url": "https://news.ycombinator.com/item?id=48792399",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_157847605492",
-      "title": "alirezarezvani / 克劳德技能 / alirezarezvani / claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "primary_url": "https://github.com/alirezarezvani/claude-skills",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
+      "story_id": "story_91259363f24e",
+      "title": "AI Loop 自动化工程实践，放弃手工调 Prompt，循环才是标准答案！",
+      "url": "https://juejin.cn/post/7658596342126788618",
+      "primary_url": "https://juejin.cn/post/7658596342126788618",
+      "source": "juejin",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "e8e1cc09286cc549500d8a047115e31456eb37f1",
-          "title": "alirezarezvani / 克劳德技能 / alirezarezvani / claude-skills",
-          "url": "https://github.com/alirezarezvani/claude-skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "76e3ae2425d8b670625f78af8e44c000b98585bc",
-          "title": "alirezarezvani / 克劳德技能 / alirezarezvani /      claude-skills",
-          "url": "https://github.com/alirezarezvani/claude-skills",
-          "source": "github",
+          "id": "f95069f2370307349ca1d12f7e42bd8eabce9620",
+          "title": "AI Loop 自动化工程实践，放弃手工调 Prompt，循环才是标准答案！",
+          "url": "https://juejin.cn/post/7658596342126788618",
+          "source": "juejin",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-04T11:46:57.616000Z"
+          "published_at": "2026-07-05T14:42:41.582000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "GitHub · Trending Today",
-        "github"
+        "juejin"
       ],
       "items": [
         {
-          "id": "e8e1cc09286cc549500d8a047115e31456eb37f1",
-          "title": "alirezarezvani / 克劳德技能 / alirezarezvani / claude-skills",
-          "url": "https://github.com/alirezarezvani/claude-skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "76e3ae2425d8b670625f78af8e44c000b98585bc",
-          "title": "alirezarezvani / 克劳德技能 / alirezarezvani /      claude-skills",
-          "url": "https://github.com/alirezarezvani/claude-skills",
-          "source": "github",
+          "id": "f95069f2370307349ca1d12f7e42bd8eabce9620",
+          "title": "AI Loop 自动化工程实践，放弃手工调 Prompt，循环才是标准答案！",
+          "url": "https://juejin.cn/post/7658596342126788618",
+          "source": "juejin",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-04T11:46:57.616000Z"
+          "published_at": "2026-07-05T14:42:41.582000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8977,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "multi_source"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-07-04T11:46:57.616000Z",
-      "latest_at": "2026-07-04T12:00:54.032273Z",
+      "earliest_at": "2026-07-05T14:42:41.582000Z",
+      "latest_at": "2026-07-05T14:42:41.582000Z",
       "primary_item": {
-        "id": "e8e1cc09286cc549500d8a047115e31456eb37f1",
-        "title": "alirezarezvani / 克劳德技能 / alirezarezvani / claude-skills",
-        "url": "https://github.com/alirezarezvani/claude-skills",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
+        "id": "f95069f2370307349ca1d12f7e42bd8eabce9620",
+        "title": "AI Loop 自动化工程实践，放弃手工调 Prompt，循环才是标准答案！",
+        "url": "https://juejin.cn/post/7658596342126788618",
+        "source": "juejin",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_2bf550ae2d7d",
-      "title": "crynta / terax-ai",
-      "url": "https://github.com/crynta/terax-ai",
-      "primary_url": "https://github.com/crynta/terax-ai",
-      "source": "GitHub · Trending Today",
+      "story_id": "story_4ee752672ffc",
+      "title": "别争了！香农老婆，才是世界上第一个大语言模型",
+      "url": "https://www.qbitai.com/2026/07/443241.html",
+      "primary_url": "https://www.qbitai.com/2026/07/443241.html",
+      "source": "量子位 · 每日最新",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "8332e98da8be230e184e0c6227dc035e0d330367",
-          "title": "crynta / terax-ai",
-          "url": "https://github.com/crynta/terax-ai",
-          "source": "GitHub · Trending Today",
+          "id": "cfe3e9e9e99df5caef0588a2c28e59c9e6304119",
+          "title": "别争了！香农老婆，才是世界上第一个大语言模型",
+          "url": "https://www.qbitai.com/2026/07/443241.html",
+          "source": "量子位 · 每日最新",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
-        },
-        {
-          "id": "56becdfdfdbf6893e797561284c64f592dff735d",
-          "title": "crynta /      terax-ai",
-          "url": "https://github.com/crynta/terax-ai",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T11:46:57.616000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "GitHub · Trending Today",
-        "github"
+        "量子位 · 每日最新"
       ],
       "items": [
         {
-          "id": "8332e98da8be230e184e0c6227dc035e0d330367",
-          "title": "crynta / terax-ai",
-          "url": "https://github.com/crynta/terax-ai",
-          "source": "GitHub · Trending Today",
+          "id": "cfe3e9e9e99df5caef0588a2c28e59c9e6304119",
+          "title": "别争了！香农老婆，才是世界上第一个大语言模型",
+          "url": "https://www.qbitai.com/2026/07/443241.html",
+          "source": "量子位 · 每日最新",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
-        },
-        {
-          "id": "56becdfdfdbf6893e797561284c64f592dff735d",
-          "title": "crynta /      terax-ai",
-          "url": "https://github.com/crynta/terax-ai",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T11:46:57.616000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8977,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "multi_source"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-07-04T11:46:57.616000Z",
-      "latest_at": "2026-07-04T12:00:54.032273Z",
+      "earliest_at": "2026-07-05T14:42:18.646568Z",
+      "latest_at": "2026-07-05T14:42:18.646568Z",
       "primary_item": {
-        "id": "8332e98da8be230e184e0c6227dc035e0d330367",
-        "title": "crynta / terax-ai",
-        "url": "https://github.com/crynta/terax-ai",
-        "source": "GitHub · Trending Today",
+        "id": "cfe3e9e9e99df5caef0588a2c28e59c9e6304119",
+        "title": "别争了！香农老婆，才是世界上第一个大语言模型",
+        "url": "https://www.qbitai.com/2026/07/443241.html",
+        "source": "量子位 · 每日最新",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_88e7cdc5e54f",
-      "title": "我20多岁时加入了中情局，30多岁时加入了谷歌，40多岁时成为了一名企业家。我的座右铭是什么？“当然，我试试看。”",
-      "url": "https://www.businessinsider.com/cia-google-employee-quit-ai-tech-business-entrepreneur-career-advice-2026-7",
-      "primary_url": "https://www.businessinsider.com/cia-google-employee-quit-ai-tech-business-entrepreneur-career-advice-2026-7",
+      "story_id": "story_f724392c6d87",
+      "title": "哇 AI 同意我的观点🤣 https://t.co/yCfCAupLMF / Wow AI agrees with me 🤣 https://t.co/yCfCAupLMF",
+      "url": "https://x.com/petergyang/status/2073492785991438426",
+      "primary_url": "https://x.com/petergyang/status/2073492785991438426",
+      "source": "Follow Builders · X · Peter Yang",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "5de6896bafa4d708c98ecb4b55baa16c3b336c56",
+          "title": "哇 AI 同意我的观点🤣 https://t.co/yCfCAupLMF / Wow AI agrees with me 🤣 https://t.co/yCfCAupLMF",
+          "url": "https://x.com/petergyang/status/2073492785991438426",
+          "source": "Follow Builders · X · Peter Yang",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-04T19:42:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Peter Yang"
+      ],
+      "items": [
+        {
+          "id": "5de6896bafa4d708c98ecb4b55baa16c3b336c56",
+          "title": "哇 AI 同意我的观点🤣 https://t.co/yCfCAupLMF / Wow AI agrees with me 🤣 https://t.co/yCfCAupLMF",
+          "url": "https://x.com/petergyang/status/2073492785991438426",
+          "source": "Follow Builders · X · Peter Yang",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-04T19:42:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5208,
+      "importance": 0.5208,
+      "importance_score": 0.5208,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.77,
+        "recency": 0.2088,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-04T19:42:58Z",
+      "latest_at": "2026-07-04T19:42:58Z",
+      "primary_item": {
+        "id": "5de6896bafa4d708c98ecb4b55baa16c3b336c56",
+        "title": "哇 AI 同意我的观点🤣 https://t.co/yCfCAupLMF / Wow AI agrees with me 🤣 https://t.co/yCfCAupLMF",
+        "url": "https://x.com/petergyang/status/2073492785991438426",
+        "source": "Follow Builders · X · Peter Yang",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_86b22559dc84",
+      "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+      "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+      "primary_url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "83c882fb76ebb4a7790d4d978eafbe57dd87ee96",
-          "title": "我20多岁时加入了中情局，30多岁时加入了谷歌，40多岁时成为了一名企业家。我的座右铭是什么？“当然，我试试看。”",
-          "url": "https://www.businessinsider.com/cia-google-employee-quit-ai-tech-business-entrepreneur-career-advice-2026-7",
+          "id": "c9394fa856aed24e10debffb50f237b97632c66b",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-04T11:35:42.295000Z"
+          "published_at": "2026-07-05T11:19:41.901000Z"
         },
         {
-          "id": "6cdb07d930c0fc9c7b29e95a7f767acc5aa805d4",
-          "title": "我20多岁时加入了中情局，30多岁时加入了谷歌，40多岁时成为了一名企业家。我的座右铭是什么？“当然，我试试看。” / I joined the CIA in my 20s, Google in my 30s, and became an entrepreneur in my 40s. My mantra? 'Sure, I'll try it.'",
-          "url": "https://www.businessinsider.com/cia-google-employee-quit-ai-tech-business-entrepreneur-career-advice-2026-7",
+          "id": "db49aa386974ea8d478b6d2055abd8b58d4e87f1",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁 / My 11-year-old son used AI to build his own video game — I see it as a creativity boost, not a threat",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-04T11:12:01Z"
+          "published_at": "2026-07-05T11:06:01Z"
         }
       ],
       "source_count": 2,
@@ -1617,48 +1267,343 @@
       ],
       "items": [
         {
-          "id": "83c882fb76ebb4a7790d4d978eafbe57dd87ee96",
-          "title": "我20多岁时加入了中情局，30多岁时加入了谷歌，40多岁时成为了一名企业家。我的座右铭是什么？“当然，我试试看。”",
-          "url": "https://www.businessinsider.com/cia-google-employee-quit-ai-tech-business-entrepreneur-career-advice-2026-7",
+          "id": "c9394fa856aed24e10debffb50f237b97632c66b",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-04T11:35:42.295000Z"
+          "published_at": "2026-07-05T11:19:41.901000Z"
         },
         {
-          "id": "6cdb07d930c0fc9c7b29e95a7f767acc5aa805d4",
-          "title": "我20多岁时加入了中情局，30多岁时加入了谷歌，40多岁时成为了一名企业家。我的座右铭是什么？“当然，我试试看。” / I joined the CIA in my 20s, Google in my 30s, and became an entrepreneur in my 40s. My mantra? 'Sure, I'll try it.'",
-          "url": "https://www.businessinsider.com/cia-google-employee-quit-ai-tech-business-entrepreneur-career-advice-2026-7",
+          "id": "db49aa386974ea8d478b6d2055abd8b58d4e87f1",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁 / My 11-year-old son used AI to build his own video game — I see it as a creativity boost, not a threat",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-04T11:12:01Z"
+          "published_at": "2026-07-05T11:06:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.524,
-      "importance": 0.524,
-      "importance_score": 0.524,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8802,
+        "recency": 0.8593,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T11:12:01Z",
-      "latest_at": "2026-07-04T11:35:42.295000Z",
+      "earliest_at": "2026-07-05T11:06:01Z",
+      "latest_at": "2026-07-05T11:19:41.901000Z",
       "primary_item": {
-        "id": "83c882fb76ebb4a7790d4d978eafbe57dd87ee96",
-        "title": "我20多岁时加入了中情局，30多岁时加入了谷歌，40多岁时成为了一名企业家。我的座右铭是什么？“当然，我试试看。”",
-        "url": "https://www.businessinsider.com/cia-google-employee-quit-ai-tech-business-entrepreneur-career-advice-2026-7",
+        "id": "c9394fa856aed24e10debffb50f237b97632c66b",
+        "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+        "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e798efb0ba49",
+      "title": "沉迷于人工智能的旧金山购房者找到了一种疯狂的新“货币”，以此压倒竞争对手 - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzM1a0NZOFdIMV9MSE13SzU3d2YxRTFxRUhtOE9MQncxZ1NxdkFFM1FHVHMtaERYTWJVWEFEZnlFbDBrcWtuUjgtWVk4dXk2am5ETi1ZQXEzeHlNVHlTelVXelFtNzc3eUNoclQyakhDRExlM3pMNW9NU1NUWlZRSEliM3owR19GMjY2WDhKUk1nVkRQTXdkbDJ2UGNaYTRKcUJZa1ZzWFE1ZGVUV2puNXl4X1JSNFBGZ2Rv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzM1a0NZOFdIMV9MSE13SzU3d2YxRTFxRUhtOE9MQncxZ1NxdkFFM1FHVHMtaERYTWJVWEFEZnlFbDBrcWtuUjgtWVk4dXk2am5ETi1ZQXEzeHlNVHlTelVXelFtNzc3eUNoclQyakhDRExlM3pMNW9NU1NUWlZRSEliM3owR19GMjY2WDhKUk1nVkRQTXdkbDJ2UGNaYTRKcUJZa1ZzWFE1ZGVUV2puNXl4X1JSNFBGZ2Rv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2e9bffafc283ea3a8f6faf0d91a99d6cbafa08d2",
+          "title": "沉迷于人工智能的旧金山购房者找到了一种疯狂的新“货币”，以此压倒竞争对手 - New York Post",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzM1a0NZOFdIMV9MSE13SzU3d2YxRTFxRUhtOE9MQncxZ1NxdkFFM1FHVHMtaERYTWJVWEFEZnlFbDBrcWtuUjgtWVk4dXk2am5ETi1ZQXEzeHlNVHlTelVXelFtNzc3eUNoclQyakhDRExlM3pMNW9NU1NUWlZRSEliM3owR19GMjY2WDhKUk1nVkRQTXdkbDJ2UGNaYTRKcUJZa1ZzWFE1ZGVUV2puNXl4X1JSNFBGZ2Rv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T14:15:46.474000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "2e9bffafc283ea3a8f6faf0d91a99d6cbafa08d2",
+          "title": "沉迷于人工智能的旧金山购房者找到了一种疯狂的新“货币”，以此压倒竞争对手 - New York Post",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzM1a0NZOFdIMV9MSE13SzU3d2YxRTFxRUhtOE9MQncxZ1NxdkFFM1FHVHMtaERYTWJVWEFEZnlFbDBrcWtuUjgtWVk4dXk2am5ETi1ZQXEzeHlNVHlTelVXelFtNzc3eUNoclQyakhDRExlM3pMNW9NU1NUWlZRSEliM3owR19GMjY2WDhKUk1nVkRQTXdkbDJ2UGNaYTRKcUJZa1ZzWFE1ZGVUV2puNXl4X1JSNFBGZ2Rv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T14:15:46.474000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5193,
+      "importance": 0.5193,
+      "importance_score": 0.5193,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9816,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-05T14:15:46.474000Z",
+      "latest_at": "2026-07-05T14:15:46.474000Z",
+      "primary_item": {
+        "id": "2e9bffafc283ea3a8f6faf0d91a99d6cbafa08d2",
+        "title": "沉迷于人工智能的旧金山购房者找到了一种疯狂的新“货币”，以此压倒竞争对手 - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzM1a0NZOFdIMV9MSE13SzU3d2YxRTFxRUhtOE9MQncxZ1NxdkFFM1FHVHMtaERYTWJVWEFEZnlFbDBrcWtuUjgtWVk4dXk2am5ETi1ZQXEzeHlNVHlTelVXelFtNzc3eUNoclQyakhDRExlM3pMNW9NU1NUWlZRSEliM3owR19GMjY2WDhKUk1nVkRQTXdkbDJ2UGNaYTRKcUJZa1ZzWFE1ZGVUV2puNXl4X1JSNFBGZ2Rv?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_85e39db3e192",
+      "title": "中国大模型会终结 Anthropic 的暴利吗？",
+      "url": "https://wallstreetcn.com/charts/41959356",
+      "primary_url": "https://wallstreetcn.com/charts/41959356",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "3550c05be21d0798103a09a5b33cc2adf12fc7d8",
+          "title": "中国大模型会终结 Anthropic 的暴利吗？",
+          "url": "https://wallstreetcn.com/charts/41959356",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3550c05be21d0798103a09a5b33cc2adf12fc7d8",
+          "title": "中国大模型会终结 Anthropic 的暴利吗？",
+          "url": "https://wallstreetcn.com/charts/41959356",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9806,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-05T14:14:18.276472Z",
+      "latest_at": "2026-07-05T14:14:18.276472Z",
+      "primary_item": {
+        "id": "3550c05be21d0798103a09a5b33cc2adf12fc7d8",
+        "title": "中国大模型会终结 Anthropic 的暴利吗？",
+        "url": "https://wallstreetcn.com/charts/41959356",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_9b11fa3b7983",
+      "title": "告别「碎片化」记忆：中科院开源轻量级内存原生 Agent 记忆系统 Mandol",
+      "url": "https://news.qq.com/rain/a/20260705A08CY400",
+      "primary_url": "https://news.qq.com/rain/a/20260705A08CY400",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7d69555dfae499fd0ee22b457a57db75ee657c83",
+          "title": "告别「碎片化」记忆：中科院开源轻量级内存原生 Agent 记忆系统 Mandol",
+          "url": "https://news.qq.com/rain/a/20260705A08CY400",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "7d69555dfae499fd0ee22b457a57db75ee657c83",
+          "title": "告别「碎片化」记忆：中科院开源轻量级内存原生 Agent 记忆系统 Mandol",
+          "url": "https://news.qq.com/rain/a/20260705A08CY400",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9806,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-05T14:14:18.276472Z",
+      "latest_at": "2026-07-05T14:14:18.276472Z",
+      "primary_item": {
+        "id": "7d69555dfae499fd0ee22b457a57db75ee657c83",
+        "title": "告别「碎片化」记忆：中科院开源轻量级内存原生 Agent 记忆系统 Mandol",
+        "url": "https://news.qq.com/rain/a/20260705A08CY400",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_051bcd88d26e",
+      "title": "我们去奔县挖宝丨新晋摊主，是 AI 煎饼机器人",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-05/doc-inifuhwt9256367.shtml",
+      "primary_url": "https://finance.sina.com.cn/jjxw/2026-07-05/doc-inifuhwt9256367.shtml",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "03b8dff0ed66c8e989edeaeaf82fea4f69a28dcf",
+          "title": "我们去奔县挖宝丨新晋摊主，是 AI 煎饼机器人",
+          "url": "https://finance.sina.com.cn/jjxw/2026-07-05/doc-inifuhwt9256367.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "03b8dff0ed66c8e989edeaeaf82fea4f69a28dcf",
+          "title": "我们去奔县挖宝丨新晋摊主，是 AI 煎饼机器人",
+          "url": "https://finance.sina.com.cn/jjxw/2026-07-05/doc-inifuhwt9256367.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9806,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-05T14:14:18.276472Z",
+      "latest_at": "2026-07-05T14:14:18.276472Z",
+      "primary_item": {
+        "id": "03b8dff0ed66c8e989edeaeaf82fea4f69a28dcf",
+        "title": "我们去奔县挖宝丨新晋摊主，是 AI 煎饼机器人",
+        "url": "https://finance.sina.com.cn/jjxw/2026-07-05/doc-inifuhwt9256367.shtml",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_24b099599636",
+      "title": "斩获先锋荣誉！石景山 OPC 社区亮相全球数字经济大会",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-05/doc-inifuhwt9251647.shtml",
+      "primary_url": "https://finance.sina.com.cn/jjxw/2026-07-05/doc-inifuhwt9251647.shtml",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "b388fc164bd111ecb9c25d04eba3d34305b8afba",
+          "title": "斩获先锋荣誉！石景山 OPC 社区亮相全球数字经济大会",
+          "url": "https://finance.sina.com.cn/jjxw/2026-07-05/doc-inifuhwt9251647.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b388fc164bd111ecb9c25d04eba3d34305b8afba",
+          "title": "斩获先锋荣誉！石景山 OPC 社区亮相全球数字经济大会",
+          "url": "https://finance.sina.com.cn/jjxw/2026-07-05/doc-inifuhwt9251647.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9806,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-05T14:14:18.276472Z",
+      "latest_at": "2026-07-05T14:14:18.276472Z",
+      "primary_item": {
+        "id": "b388fc164bd111ecb9c25d04eba3d34305b8afba",
+        "title": "斩获先锋荣誉！石景山 OPC 社区亮相全球数字经济大会",
+        "url": "https://finance.sina.com.cn/jjxw/2026-07-05/doc-inifuhwt9251647.shtml",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
