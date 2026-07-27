@@ -1,331 +1,259 @@
 {
-  "generated_at": "2026-07-26T14:28:08.728720Z",
+  "generated_at": "2026-07-27T15:41:16.011883Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0028-310c-b438-760b8ce72113&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260727-0028-310c-b438-760b8ce72113&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0141-3981-943b-037d9dd274cb&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260728-0141-3981-943b-037d9dd274cb&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
         {
-          "id": "ef4b922dce3e02036979c8100d50270bc19d4bd2",
+          "id": "f529792d7d8d9a0033860df026e01da586a5090d",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0028-310c-b438-760b8ce72113&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0141-3981-943b-037d9dd274cb&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "ca29a6fb407a4674aae7a96fe381dcac1f56134e",
+          "id": "fb95289f3b9cff0a5df63daacc764f4e5feba88d",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0023-25bd-bc29-dce5bd310b11&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0120-1600-a4bb-ffd5a7c0ba8e&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "9b1367fc0392cc9dbaee82db136b8c051f03cfc1",
+          "id": "c17d4bfdd985a22b5435bb49b7a65f5c853b8abf",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-2235-2747-8e4a-0eab70c6ec2f&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-2210-15fb-b41a-1ca29d697f1a&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "3cccb0328c85cbfdba2fc683c780bdda9c741123",
+          "id": "5488c29f765352a5ac503f330b210d0bbfabeddb",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-2112-483e-a868-533e5b750688&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-1851-413c-8b76-bcae0e2d84e5&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "501acce87017e45cdf8244e3eb62de59c5156604",
+          "id": "59adcf67cf1c5708a097206fbf344c2e91b5e7f6",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1933-267c-8f5a-764593c554eb&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-1501-261d-a2c0-80b30a87e6cd&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "5d2e39a48ef6342e51387a4c702e4338e12a8264",
+          "id": "93032852851c7bbc9ef05192c6c1af850a101f68",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1730-05ed-9973-bdd0b7eaa0d1&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-1106-3597-95eb-7dbcadc74f3f&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "63b7d09f51b8389e23d501245d44e7f624d4a477",
+          "id": "28ca2f0d2eebf2b280af23a78b1133de859e91dc",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1451-0667-b797-0de6a349c57f&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0927-1064-b556-9ee58dffaef2&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "0c4f7df0606cb7219161cafc0015686e2e439515",
+          "id": "4ad7567b171fc75070d4cb2ae9b737d27f553052",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1104-260c-b26a-8c2650fea831&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0826-5025-9aa2-2a6f130ce725&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "c07ff0cfe16e5a060dd5d14afa71cb54e84f0ed9",
+          "id": "b2a814e5649b6bbcb43dd1181e01b7b36b7abecc",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0926-28a1-b9a2-ebeb1b97aa46&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0723-48de-963f-9583d7b11fed&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "a53f470e2dccb145bf27c171eb7e4c867b2c1fc6",
+          "id": "13edaa51fe878536d7a1bb086b52931ec293c764",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0815-2266-b696-67a9a95fd58b&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0603-458e-9e5b-41310f3f1a58&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "3c4291a0d0b2d03bcd9bc6b9d7e3fb59d8916c88",
+          "id": "df0969151f1bdf4bf79ade7ef609fa00c0344df5",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0714-3277-843e-3c825bc9ef10&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0454-20a9-9c00-67053584d5ac&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "a6feeb5709958166215d06ee80c75a4cd0f9d6b0",
+          "id": "b3240c88eb92a73c8b309302cb4d3badc99bf2da",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0605-00b7-9b1f-08dd5ee1a70d&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0353-26e9-89e3-0c684760ffbe&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "b22b73524ecb2f7f13f3adc4f2f452eafe03d0b5",
+          "id": "f5a6c342c3fc7a54c3cd20fcb379310d520e9bc7",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0450-20b1-b461-2d541709da78&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "c76fbad62b4895c301b0c5691a9549243dfb2730",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0348-5272-9267-6ce366fd16db&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "e5c01f3d375f8e81ba20cd04bff436c8cb9fe101",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0244-14b5-ac54-d27877d51f09&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "de3e23ecbe4200965c258eb78311fe6c674196ad",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0139-1605-abab-a5099210ef01&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9e65eada678afd003efcb4615284021ced8671e5",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0029-37f4-84f1-5d6d2d78e035&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0245-144b-b87f-60b35c14128b&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         }
       ],
-      "source_count": 17,
+      "source_count": 13,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
-          "id": "ef4b922dce3e02036979c8100d50270bc19d4bd2",
+          "id": "f529792d7d8d9a0033860df026e01da586a5090d",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0028-310c-b438-760b8ce72113&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0141-3981-943b-037d9dd274cb&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "ca29a6fb407a4674aae7a96fe381dcac1f56134e",
+          "id": "fb95289f3b9cff0a5df63daacc764f4e5feba88d",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0023-25bd-bc29-dce5bd310b11&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0120-1600-a4bb-ffd5a7c0ba8e&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "9b1367fc0392cc9dbaee82db136b8c051f03cfc1",
+          "id": "c17d4bfdd985a22b5435bb49b7a65f5c853b8abf",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-2235-2747-8e4a-0eab70c6ec2f&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-2210-15fb-b41a-1ca29d697f1a&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "3cccb0328c85cbfdba2fc683c780bdda9c741123",
+          "id": "5488c29f765352a5ac503f330b210d0bbfabeddb",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-2112-483e-a868-533e5b750688&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-1851-413c-8b76-bcae0e2d84e5&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "501acce87017e45cdf8244e3eb62de59c5156604",
+          "id": "59adcf67cf1c5708a097206fbf344c2e91b5e7f6",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1933-267c-8f5a-764593c554eb&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-1501-261d-a2c0-80b30a87e6cd&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "5d2e39a48ef6342e51387a4c702e4338e12a8264",
+          "id": "93032852851c7bbc9ef05192c6c1af850a101f68",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1730-05ed-9973-bdd0b7eaa0d1&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-1106-3597-95eb-7dbcadc74f3f&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "63b7d09f51b8389e23d501245d44e7f624d4a477",
+          "id": "28ca2f0d2eebf2b280af23a78b1133de859e91dc",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1451-0667-b797-0de6a349c57f&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0927-1064-b556-9ee58dffaef2&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "0c4f7df0606cb7219161cafc0015686e2e439515",
+          "id": "4ad7567b171fc75070d4cb2ae9b737d27f553052",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1104-260c-b26a-8c2650fea831&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0826-5025-9aa2-2a6f130ce725&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "c07ff0cfe16e5a060dd5d14afa71cb54e84f0ed9",
+          "id": "b2a814e5649b6bbcb43dd1181e01b7b36b7abecc",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0926-28a1-b9a2-ebeb1b97aa46&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0723-48de-963f-9583d7b11fed&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "a53f470e2dccb145bf27c171eb7e4c867b2c1fc6",
+          "id": "13edaa51fe878536d7a1bb086b52931ec293c764",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0815-2266-b696-67a9a95fd58b&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0603-458e-9e5b-41310f3f1a58&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "3c4291a0d0b2d03bcd9bc6b9d7e3fb59d8916c88",
+          "id": "df0969151f1bdf4bf79ade7ef609fa00c0344df5",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0714-3277-843e-3c825bc9ef10&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0454-20a9-9c00-67053584d5ac&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "a6feeb5709958166215d06ee80c75a4cd0f9d6b0",
+          "id": "b3240c88eb92a73c8b309302cb4d3badc99bf2da",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0605-00b7-9b1f-08dd5ee1a70d&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0353-26e9-89e3-0c684760ffbe&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "b22b73524ecb2f7f13f3adc4f2f452eafe03d0b5",
+          "id": "f5a6c342c3fc7a54c3cd20fcb379310d520e9bc7",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0450-20b1-b461-2d541709da78&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "c76fbad62b4895c301b0c5691a9549243dfb2730",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0348-5272-9267-6ce366fd16db&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "e5c01f3d375f8e81ba20cd04bff436c8cb9fe101",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0244-14b5-ac54-d27877d51f09&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "de3e23ecbe4200965c258eb78311fe6c674196ad",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0139-1605-abab-a5099210ef01&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9e65eada678afd003efcb4615284021ced8671e5",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0029-37f4-84f1-5d6d2d78e035&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0245-144b-b87f-60b35c14128b&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         }
       ],
-      "item_count": 17,
-      "duplicate_count": 17,
+      "item_count": 13,
+      "duplicate_count": 13,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -342,78 +270,318 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-25T14:29:12.405400Z",
-      "latest_at": "2026-07-26T14:28:08.728720Z",
+      "earliest_at": "2026-07-26T16:44:50.903030Z",
+      "latest_at": "2026-07-27T15:41:16.011883Z",
       "primary_item": {
-        "id": "ef4b922dce3e02036979c8100d50270bc19d4bd2",
+        "id": "f529792d7d8d9a0033860df026e01da586a5090d",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0028-310c-b438-760b8ce72113&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0141-3981-943b-037d9dd274cb&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_f8f08a1eac71",
-      "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-      "url": "https://aihot.virxact.com/items/cms1uvdxz0016rog2smc5vo7m",
-      "primary_url": "https://aihot.virxact.com/items/cms1uvdxz0016rog2smc5vo7m",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_423e12490e7e",
+      "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+      "url": "https://www.aibase.com/news/29917",
+      "primary_url": "https://www.aibase.com/news/29917",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "f45b1326fa579a6007a2688dc2640cf839869eaa",
-          "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-          "url": "https://aihot.virxact.com/items/cms1uvdxz0016rog2smc5vo7m",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T12:54:28Z"
-        },
-        {
-          "id": "2d83a34bc0ea8deab0490155f3c73d3d011a0017",
-          "title": "消息称 OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋马斯克公开反对",
-          "url": "https://www.ithome.com/0/981/797.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T12:54:28Z"
+          "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
+          "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "url": "https://www.aibase.com/news/29917",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:09:51.932404Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "f45b1326fa579a6007a2688dc2640cf839869eaa",
-          "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-          "url": "https://aihot.virxact.com/items/cms1uvdxz0016rog2smc5vo7m",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T12:54:28Z"
-        },
-        {
-          "id": "2d83a34bc0ea8deab0490155f3c73d3d011a0017",
-          "title": "消息称 OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋马斯克公开反对",
-          "url": "https://www.ithome.com/0/981/797.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T12:54:28Z"
+          "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
+          "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "url": "https://www.aibase.com/news/29917",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:09:51.932404Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.824,
-      "importance": 0.824,
-      "importance_score": 0.824,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9349,
+        "recency": 0.8532,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T12:09:51.932404Z",
+      "latest_at": "2026-07-27T12:09:51.932404Z",
+      "primary_item": {
+        "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
+        "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+        "url": "https://www.aibase.com/news/29917",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_657f1b524499",
+      "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+      "url": "https://www.aibase.com/news/29916",
+      "primary_url": "https://www.aibase.com/news/29916",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "326261f775bd97b90c695a2a62309932378bfecc",
+          "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+          "url": "https://www.aibase.com/news/29916",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:09:51.932404Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "326261f775bd97b90c695a2a62309932378bfecc",
+          "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+          "url": "https://www.aibase.com/news/29916",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:09:51.932404Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8532,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T12:09:51.932404Z",
+      "latest_at": "2026-07-27T12:09:51.932404Z",
+      "primary_item": {
+        "id": "326261f775bd97b90c695a2a62309932378bfecc",
+        "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+        "url": "https://www.aibase.com/news/29916",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f837063a240b",
+      "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+      "url": "https://www.aibase.com/news/29918",
+      "primary_url": "https://www.aibase.com/news/29918",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d9f235aecfe2f0fbe740936f9acf2fd8b8430cd1",
+          "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+          "url": "https://www.aibase.com/news/29918",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:09:51.932404Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d9f235aecfe2f0fbe740936f9acf2fd8b8430cd1",
+          "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+          "url": "https://www.aibase.com/news/29918",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:09:51.932404Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8532,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T12:09:51.932404Z",
+      "latest_at": "2026-07-27T12:09:51.932404Z",
+      "primary_item": {
+        "id": "d9f235aecfe2f0fbe740936f9acf2fd8b8430cd1",
+        "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+        "url": "https://www.aibase.com/news/29918",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_56c3d96b8a28",
+      "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
+      "url": "https://www.aibase.com/news/29915",
+      "primary_url": "https://www.aibase.com/news/29915",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "80742ceb6678a65c72483282319c42e62f47abbf",
+          "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
+          "url": "https://www.aibase.com/news/29915",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:09:51.932404Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "80742ceb6678a65c72483282319c42e62f47abbf",
+          "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
+          "url": "https://www.aibase.com/news/29915",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T12:09:51.932404Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8532,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T12:09:51.932404Z",
+      "latest_at": "2026-07-27T12:09:51.932404Z",
+      "primary_item": {
+        "id": "80742ceb6678a65c72483282319c42e62f47abbf",
+        "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
+        "url": "https://www.aibase.com/news/29915",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c10baae1c2d7",
+      "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+      "url": "https://www.aibase.com/news/29910",
+      "primary_url": "https://www.aibase.com/news/29910",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
+          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "url": "https://www.aibase.com/news/29910",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
+        },
+        {
+          "id": "bb29cb6b12a7c1742115b827fb9fea49626ee9bc",
+          "title": "Claude 会话分享链接被搜索引擎「误抓」，大量含私钥与隐私的对话遭公开索引",
+          "url": "https://www.aibase.com/zh/news/29910",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
+          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "url": "https://www.aibase.com/news/29910",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
+        },
+        {
+          "id": "bb29cb6b12a7c1742115b827fb9fea49626ee9bc",
+          "title": "Claude 会话分享链接被搜索引擎「误抓」，大量含私钥与隐私的对话遭公开索引",
+          "url": "https://www.aibase.com/zh/news/29910",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7151,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -422,59 +590,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-26T12:54:28Z",
-      "latest_at": "2026-07-26T12:54:28Z",
+      "earliest_at": "2026-07-27T08:51:03.779771Z",
+      "latest_at": "2026-07-27T08:51:03.779771Z",
       "primary_item": {
-        "id": "f45b1326fa579a6007a2688dc2640cf839869eaa",
-        "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-        "url": "https://aihot.virxact.com/items/cms1uvdxz0016rog2smc5vo7m",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "8c21edfd378c931f752d0362621f4df294ed011d",
+        "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+        "url": "https://www.aibase.com/news/29910",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_374cd493157f",
-      "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
-      "url": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q",
-      "primary_url": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_6f1c03ecf872",
+      "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+      "url": "https://www.aibase.com/news/29914",
+      "primary_url": "https://www.aibase.com/news/29914",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "aa07566062ab676281ff6daf0a431598cbc4d465",
-          "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
-          "url": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T08:35:49Z"
+          "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
+          "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+          "url": "https://www.aibase.com/news/29914",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "aa07566062ab676281ff6daf0a431598cbc4d465",
-          "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
-          "url": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T08:35:49Z"
+          "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
+          "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+          "url": "https://www.aibase.com/news/29914",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7553,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -482,1074 +650,794 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-26T08:35:49Z",
-      "latest_at": "2026-07-26T08:35:49Z",
+      "earliest_at": "2026-07-27T08:51:03.779771Z",
+      "latest_at": "2026-07-27T08:51:03.779771Z",
       "primary_item": {
-        "id": "aa07566062ab676281ff6daf0a431598cbc4d465",
-        "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
-        "url": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
+        "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+        "url": "https://www.aibase.com/news/29914",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c51783154ab9",
-      "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-      "url": "https://aihot.virxact.com/items/cms1dpz52040tro0w3c4a9c8p",
-      "primary_url": "https://aihot.virxact.com/items/cms1dpz52040tro0w3c4a9c8p",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_3897ee6f8580",
+      "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+      "url": "https://www.aibase.com/news/29903",
+      "primary_url": "https://www.aibase.com/news/29903",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "85c3c404aa189e4cdcc854baad3807fd168236b4",
-          "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "url": "https://aihot.virxact.com/items/cms1dpz52040tro0w3c4a9c8p",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T05:33:44Z"
+          "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
+          "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+          "url": "https://www.aibase.com/news/29903",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "85c3c404aa189e4cdcc854baad3807fd168236b4",
-          "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "url": "https://aihot.virxact.com/items/cms1dpz52040tro0w3c4a9c8p",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T05:33:44Z"
+          "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
+          "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+          "url": "https://www.aibase.com/news/29903",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6289,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-26T05:33:44Z",
-      "latest_at": "2026-07-26T05:33:44Z",
+      "earliest_at": "2026-07-27T08:51:03.779771Z",
+      "latest_at": "2026-07-27T08:51:03.779771Z",
       "primary_item": {
-        "id": "85c3c404aa189e4cdcc854baad3807fd168236b4",
-        "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-        "url": "https://aihot.virxact.com/items/cms1dpz52040tro0w3c4a9c8p",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
+        "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+        "url": "https://www.aibase.com/news/29903",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_73ab447bb1af",
-      "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-      "url": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3",
-      "primary_url": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_1923e73b8c97",
+      "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+      "url": "https://www.aibase.com/news/29904",
+      "primary_url": "https://www.aibase.com/news/29904",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "b75de599aeb52fb06f19ea035ce2f220c4e42798",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "url": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T03:54:52Z"
+          "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
+          "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+          "url": "https://www.aibase.com/news/29904",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "b75de599aeb52fb06f19ea035ce2f220c4e42798",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "url": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T03:54:52Z"
+          "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
+          "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+          "url": "https://www.aibase.com/news/29904",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5602,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-26T03:54:52Z",
-      "latest_at": "2026-07-26T03:54:52Z",
+      "earliest_at": "2026-07-27T08:51:03.779771Z",
+      "latest_at": "2026-07-27T08:51:03.779771Z",
       "primary_item": {
-        "id": "b75de599aeb52fb06f19ea035ce2f220c4e42798",
-        "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-        "url": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
+        "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+        "url": "https://www.aibase.com/news/29904",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_2675573a406b",
-      "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-      "url": "https://aihot.virxact.com/items/cms125zmg00usro0wwu4it7dg",
-      "primary_url": "https://aihot.virxact.com/items/cms125zmg00usro0wwu4it7dg",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
+      "story_id": "story_5318ad83ce5d",
+      "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+      "url": "https://www.aibase.com/news/29908",
+      "primary_url": "https://www.aibase.com/news/29908",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "5c6c16570152bb5f445f6007632db18596d73da3",
-          "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-          "url": "https://aihot.virxact.com/items/cms125zmg00usro0wwu4it7dg",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T00:25:41Z"
+          "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
+          "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+          "url": "https://www.aibase.com/news/29908",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "5c6c16570152bb5f445f6007632db18596d73da3",
-          "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-          "url": "https://aihot.virxact.com/items/cms125zmg00usro0wwu4it7dg",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T00:25:41Z"
+          "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
+          "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+          "url": "https://www.aibase.com/news/29908",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.695,
-      "importance": 0.695,
-      "importance_score": 0.695,
-      "importance_label": "值得关注",
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.415,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-26T00:25:41Z",
-      "latest_at": "2026-07-26T00:25:41Z",
+      "earliest_at": "2026-07-27T08:51:03.779771Z",
+      "latest_at": "2026-07-27T08:51:03.779771Z",
       "primary_item": {
-        "id": "5c6c16570152bb5f445f6007632db18596d73da3",
-        "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-        "url": "https://aihot.virxact.com/items/cms125zmg00usro0wwu4it7dg",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
+        "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
+        "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+        "url": "https://www.aibase.com/news/29908",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c6bde83a5f98",
-      "title": "从移动设备上使用时，游戏规则将发生改变。已在 ChatGPT 应用程序中提供。 https://t.co/egAqFVhzsQ / Game changer when used from mobile. Available in the ChatGPT app already. https://t.co/egAqFVhzsQ",
-      "url": "https://x.com/thsottiaux/status/2081229262452097169",
-      "primary_url": "https://x.com/thsottiaux/status/2081229262452097169",
-      "source": "Follow Builders · X · Thibault Sottiaux",
-      "source_name": "Follow Builders",
+      "story_id": "story_ff293a83082f",
+      "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+      "url": "https://www.aibase.com/news/29905",
+      "primary_url": "https://www.aibase.com/news/29905",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "16a60b75f5bb7c333488bb5794d8cc7d8b643036",
-          "title": "从移动设备上使用时，游戏规则将发生改变。已在 ChatGPT 应用程序中提供。 https://t.co/egAqFVhzsQ / Game changer when used from mobile. Available in the ChatGPT app already. https://t.co/egAqFVhzsQ",
-          "url": "https://x.com/thsottiaux/status/2081229262452097169",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-26T04:04:58Z"
+          "id": "17d11038163f823192d508995e9fc61f94746787",
+          "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+          "url": "https://www.aibase.com/news/29905",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Thibault Sottiaux"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "16a60b75f5bb7c333488bb5794d8cc7d8b643036",
-          "title": "从移动设备上使用时，游戏规则将发生改变。已在 ChatGPT 应用程序中提供。 https://t.co/egAqFVhzsQ / Game changer when used from mobile. Available in the ChatGPT app already. https://t.co/egAqFVhzsQ",
-          "url": "https://x.com/thsottiaux/status/2081229262452097169",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-26T04:04:58Z"
+          "id": "17d11038163f823192d508995e9fc61f94746787",
+          "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+          "url": "https://www.aibase.com/news/29905",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6044,
-      "importance": 0.6044,
-      "importance_score": 0.6044,
-      "importance_label": "值得关注",
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.81,
-        "recency": 0.5672,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-26T04:04:58Z",
-      "latest_at": "2026-07-26T04:04:58Z",
+      "earliest_at": "2026-07-27T08:51:03.779771Z",
+      "latest_at": "2026-07-27T08:51:03.779771Z",
       "primary_item": {
-        "id": "16a60b75f5bb7c333488bb5794d8cc7d8b643036",
-        "title": "从移动设备上使用时，游戏规则将发生改变。已在 ChatGPT 应用程序中提供。 https://t.co/egAqFVhzsQ / Game changer when used from mobile. Available in the ChatGPT app already. https://t.co/egAqFVhzsQ",
-        "url": "https://x.com/thsottiaux/status/2081229262452097169",
-        "source": "Follow Builders · X · Thibault Sottiaux",
-        "source_name": "Follow Builders"
+        "id": "17d11038163f823192d508995e9fc61f94746787",
+        "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+        "url": "https://www.aibase.com/news/29905",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_64d3188faa5b",
-      "title": "AI Agent 与前沿部署工程：商业决策智能实践 ｜ Summit 2026",
-      "url": "https://www.infoq.cn/video/TV8xhCYdGPx6a38TuzEh",
-      "primary_url": "https://www.infoq.cn/video/TV8xhCYdGPx6a38TuzEh",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
+      "story_id": "story_4db19b2ca5c5",
+      "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+      "url": "https://www.aibase.com/news/29909",
+      "primary_url": "https://www.aibase.com/news/29909",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "604ea2d2d73440db6a2846c21f362ac93e30f657",
-          "title": "AI Agent 与前沿部署工程：商业决策智能实践 ｜ Summit 2026",
-          "url": "https://www.infoq.cn/video/TV8xhCYdGPx6a38TuzEh",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-26T15:03:20Z"
+          "id": "6a20106fa3d1b4e2af1ef5e5a6cbe899f6c712f2",
+          "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+          "url": "https://www.aibase.com/news/29909",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "InfoQ CN"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "604ea2d2d73440db6a2846c21f362ac93e30f657",
-          "title": "AI Agent 与前沿部署工程：商业决策智能实践 ｜ Summit 2026",
-          "url": "https://www.infoq.cn/video/TV8xhCYdGPx6a38TuzEh",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-26T15:03:20Z"
+          "id": "6a20106fa3d1b4e2af1ef5e5a6cbe899f6c712f2",
+          "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+          "url": "https://www.aibase.com/news/29909",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.601,
-      "importance": 0.601,
-      "importance_score": 0.601,
-      "importance_label": "值得关注",
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 1.0,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "recent_ai_signal"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-26T15:03:20Z",
-      "latest_at": "2026-07-26T15:03:20Z",
+      "earliest_at": "2026-07-27T08:51:03.779771Z",
+      "latest_at": "2026-07-27T08:51:03.779771Z",
       "primary_item": {
-        "id": "604ea2d2d73440db6a2846c21f362ac93e30f657",
-        "title": "AI Agent 与前沿部署工程：商业决策智能实践 ｜ Summit 2026",
-        "url": "https://www.infoq.cn/video/TV8xhCYdGPx6a38TuzEh",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
+        "id": "6a20106fa3d1b4e2af1ef5e5a6cbe899f6c712f2",
+        "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+        "url": "https://www.aibase.com/news/29909",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_23c47aa9aa1b",
-      "title": "ChatGPT Work 的活跃用户数量正式超过 Codex。一路走好。 / ChatGPT Work officially has overtaken Codex in number of active users. Way to go.",
-      "url": "https://x.com/thsottiaux/status/2081198608293187635",
-      "primary_url": "https://x.com/thsottiaux/status/2081198608293187635",
-      "source": "Follow Builders · X · Thibault Sottiaux",
-      "source_name": "Follow Builders",
+      "story_id": "story_1efdd46ef86a",
+      "title": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
+      "url": "https://www.aibase.com/news/29901",
+      "primary_url": "https://www.aibase.com/news/29901",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "47413050c3cd8d195399dba273c961afa0badf1a",
-          "title": "ChatGPT Work 的活跃用户数量正式超过 Codex。一路走好。 / ChatGPT Work officially has overtaken Codex in number of active users. Way to go.",
-          "url": "https://x.com/thsottiaux/status/2081198608293187635",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-26T02:03:09Z"
+          "id": "5c5c368e4dea3a734230876fbc80e22c3404f6ce",
+          "title": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
+          "url": "https://www.aibase.com/news/29901",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Thibault Sottiaux"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "47413050c3cd8d195399dba273c961afa0badf1a",
-          "title": "ChatGPT Work 的活跃用户数量正式超过 Codex。一路走好。 / ChatGPT Work officially has overtaken Codex in number of active users. Way to go.",
-          "url": "https://x.com/thsottiaux/status/2081198608293187635",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-26T02:03:09Z"
+          "id": "5c5c368e4dea3a734230876fbc80e22c3404f6ce",
+          "title": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
+          "url": "https://www.aibase.com/news/29901",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5995,
-      "importance": 0.5995,
-      "importance_score": 0.5995,
-      "importance_label": "值得关注",
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.85,
-        "recency": 0.4826,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-26T02:03:09Z",
-      "latest_at": "2026-07-26T02:03:09Z",
+      "earliest_at": "2026-07-27T08:51:03.779771Z",
+      "latest_at": "2026-07-27T08:51:03.779771Z",
       "primary_item": {
-        "id": "47413050c3cd8d195399dba273c961afa0badf1a",
-        "title": "ChatGPT Work 的活跃用户数量正式超过 Codex。一路走好。 / ChatGPT Work officially has overtaken Codex in number of active users. Way to go.",
-        "url": "https://x.com/thsottiaux/status/2081198608293187635",
-        "source": "Follow Builders · X · Thibault Sottiaux",
-        "source_name": "Follow Builders"
+        "id": "5c5c368e4dea3a734230876fbc80e22c3404f6ce",
+        "title": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
+        "url": "https://www.aibase.com/news/29901",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_17966e4ca407",
-      "title": "先有一致性，才有智能：AI 分析背后的隐性工程 ｜ Summit 2026",
-      "url": "https://www.infoq.cn/video/HDxIGC63e5vUWIy7q6qd",
-      "primary_url": "https://www.infoq.cn/video/HDxIGC63e5vUWIy7q6qd",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
+      "story_id": "story_74704aba67ad",
+      "title": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
+      "url": "https://www.aibase.com/news/29899",
+      "primary_url": "https://www.aibase.com/news/29899",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "42598225bb46adec8fccbf4828af586203d11bee",
-          "title": "先有一致性，才有智能：AI 分析背后的隐性工程 ｜ Summit 2026",
-          "url": "https://www.infoq.cn/video/HDxIGC63e5vUWIy7q6qd",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-26T14:00:00Z"
+          "id": "b5e4795c042a9a1dbcf893fd460f1061f33f7acb",
+          "title": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
+          "url": "https://www.aibase.com/news/29899",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "InfoQ CN"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "42598225bb46adec8fccbf4828af586203d11bee",
-          "title": "先有一致性，才有智能：AI 分析背后的隐性工程 ｜ Summit 2026",
-          "url": "https://www.infoq.cn/video/HDxIGC63e5vUWIy7q6qd",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-26T14:00:00Z"
+          "id": "b5e4795c042a9a1dbcf893fd460f1061f33f7acb",
+          "title": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
+          "url": "https://www.aibase.com/news/29899",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5971,
-      "importance": 0.5971,
-      "importance_score": 0.5971,
-      "importance_label": "值得关注",
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9805,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "recent_ai_signal"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-26T14:00:00Z",
-      "latest_at": "2026-07-26T14:00:00Z",
+      "earliest_at": "2026-07-27T08:51:03.779771Z",
+      "latest_at": "2026-07-27T08:51:03.779771Z",
       "primary_item": {
-        "id": "42598225bb46adec8fccbf4828af586203d11bee",
-        "title": "先有一致性，才有智能：AI 分析背后的隐性工程 ｜ Summit 2026",
-        "url": "https://www.infoq.cn/video/HDxIGC63e5vUWIy7q6qd",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
+        "id": "b5e4795c042a9a1dbcf893fd460f1061f33f7acb",
+        "title": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
+        "url": "https://www.aibase.com/news/29899",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_9ead1c721cef",
-      "title": "人工智能本土公司拥有类似于开源社区的文化 / AI-native companies have a culture akin to an open-source community",
-      "url": "https://x.com/zarazhangrui/status/2081223709755650054",
-      "primary_url": "https://x.com/zarazhangrui/status/2081223709755650054",
-      "source": "Follow Builders · X · Zara Zhang",
-      "source_name": "Follow Builders",
+      "story_id": "story_7a1be50444fc",
+      "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+      "url": "https://www.aibase.com/news/29912",
+      "primary_url": "https://www.aibase.com/news/29912",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "1e528105732b039537678bf107219b38742a8cdc",
-          "title": "人工智能本土公司拥有类似于开源社区的文化 / AI-native companies have a culture akin to an open-source community",
-          "url": "https://x.com/zarazhangrui/status/2081223709755650054",
-          "source": "Follow Builders · X · Zara Zhang",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-26T03:42:54Z"
+          "id": "ba749cfd41c0c42c77e279abb3c4ee9fe2672cd4",
+          "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+          "url": "https://www.aibase.com/news/29912",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Zara Zhang"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "1e528105732b039537678bf107219b38742a8cdc",
-          "title": "人工智能本土公司拥有类似于开源社区的文化 / AI-native companies have a culture akin to an open-source community",
-          "url": "https://x.com/zarazhangrui/status/2081223709755650054",
-          "source": "Follow Builders · X · Zara Zhang",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-26T03:42:54Z"
+          "id": "ba749cfd41c0c42c77e279abb3c4ee9fe2672cd4",
+          "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+          "url": "https://www.aibase.com/news/29912",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5894,
-      "importance": 0.5894,
-      "importance_score": 0.5894,
-      "importance_label": "值得关注",
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.77,
-        "recency": 0.5519,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "recent_ai_signal"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-26T03:42:54Z",
-      "latest_at": "2026-07-26T03:42:54Z",
+      "earliest_at": "2026-07-27T08:51:03.779771Z",
+      "latest_at": "2026-07-27T08:51:03.779771Z",
       "primary_item": {
-        "id": "1e528105732b039537678bf107219b38742a8cdc",
-        "title": "人工智能本土公司拥有类似于开源社区的文化 / AI-native companies have a culture akin to an open-source community",
-        "url": "https://x.com/zarazhangrui/status/2081223709755650054",
-        "source": "Follow Builders · X · Zara Zhang",
-        "source_name": "Follow Builders"
+        "id": "ba749cfd41c0c42c77e279abb3c4ee9fe2672cd4",
+        "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+        "url": "https://www.aibase.com/news/29912",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_5ff963e2d4c1",
-      "title": "当你等待AI输出时你会做什么？ https://t.co/74R​​H0Od3nR / What do you do when you’re waiting for AI output? https://t.co/74RH0Od3nR",
-      "url": "https://x.com/zarazhangrui/status/2081200367480738098",
-      "primary_url": "https://x.com/zarazhangrui/status/2081200367480738098",
-      "source": "Follow Builders · X · Zara Zhang",
-      "source_name": "Follow Builders",
+      "story_id": "story_ac9b64e4802b",
+      "title": "皮查伊确认Gemini4 已投入训练，谷歌AI旗舰型号年底见分晓",
+      "url": "https://www.aibase.com/news/29906",
+      "primary_url": "https://www.aibase.com/news/29906",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "c28bf06b6553a6cdd2f381db469991450888feea",
-          "title": "当你等待AI输出时你会做什么？ https://t.co/74R​​H0Od3nR / What do you do when you’re waiting for AI output? https://t.co/74RH0Od3nR",
-          "url": "https://x.com/zarazhangrui/status/2081200367480738098",
-          "source": "Follow Builders · X · Zara Zhang",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-26T02:10:09Z"
+          "id": "326504f40534826ec28af75865748801d1b923e9",
+          "title": "皮查伊确认Gemini4 已投入训练，谷歌AI旗舰型号年底见分晓",
+          "url": "https://www.aibase.com/news/29906",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Zara Zhang"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "c28bf06b6553a6cdd2f381db469991450888feea",
-          "title": "当你等待AI输出时你会做什么？ https://t.co/74R​​H0Od3nR / What do you do when you’re waiting for AI output? https://t.co/74RH0Od3nR",
-          "url": "https://x.com/zarazhangrui/status/2081200367480738098",
-          "source": "Follow Builders · X · Zara Zhang",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-26T02:10:09Z"
+          "id": "326504f40534826ec28af75865748801d1b923e9",
+          "title": "皮查伊确认Gemini4 已投入训练，谷歌AI旗舰型号年底见分晓",
+          "url": "https://www.aibase.com/news/29906",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5765,
-      "importance": 0.5765,
-      "importance_score": 0.5765,
-      "importance_label": "值得关注",
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.77,
-        "recency": 0.4875,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "recent_ai_signal"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-26T02:10:09Z",
-      "latest_at": "2026-07-26T02:10:09Z",
+      "earliest_at": "2026-07-27T08:51:03.779771Z",
+      "latest_at": "2026-07-27T08:51:03.779771Z",
       "primary_item": {
-        "id": "c28bf06b6553a6cdd2f381db469991450888feea",
-        "title": "当你等待AI输出时你会做什么？ https://t.co/74R​​H0Od3nR / What do you do when you’re waiting for AI output? https://t.co/74RH0Od3nR",
-        "url": "https://x.com/zarazhangrui/status/2081200367480738098",
-        "source": "Follow Builders · X · Zara Zhang",
-        "source_name": "Follow Builders"
+        "id": "326504f40534826ec28af75865748801d1b923e9",
+        "title": "皮查伊确认Gemini4 已投入训练，谷歌AI旗舰型号年底见分晓",
+        "url": "https://www.aibase.com/news/29906",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_92f58705ee32",
-      "title": "1）竞争有利于生态系统。 2）大规模服务模型很困难。很自豪 @OpenAI 签署了这封信。蚂蚁对此保持沉默。 https://t.co/r9QVQ2R9JH / 1) Competition is good for the ecosystem. 2) Serving models at scale is hard. Proud that @OpenAI signed the letter. Ant is silent on it. https://t.co/r9QVQ2R9JH",
-      "url": "https://x.com/steipete/status/2081175795587072421",
-      "primary_url": "https://x.com/steipete/status/2081175795587072421",
-      "source": "Follow Builders · X · Peter Steinberger",
-      "source_name": "Follow Builders",
+      "story_id": "story_e03bad16cfc3",
+      "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+      "url": "https://www.aibase.com/news/29913",
+      "primary_url": "https://www.aibase.com/news/29913",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "b7b1c8a7365b03f3ae168f2f8a9a3f8cb997e5a6",
-          "title": "1）竞争有利于生态系统。 2）大规模服务模型很困难。很自豪 @OpenAI 签署了这封信。蚂蚁对此保持沉默。 https://t.co/r9QVQ2R9JH / 1) Competition is good for the ecosystem. 2) Serving models at scale is hard. Proud that @OpenAI signed the letter. Ant is silent on it. https://t.co/r9QVQ2R9JH",
-          "url": "https://x.com/steipete/status/2081175795587072421",
-          "source": "Follow Builders · X · Peter Steinberger",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-26T00:32:30Z"
+          "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
+          "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+          "url": "https://www.aibase.com/news/29913",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Peter Steinberger"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "b7b1c8a7365b03f3ae168f2f8a9a3f8cb997e5a6",
-          "title": "1）竞争有利于生态系统。 2）大规模服务模型很困难。很自豪 @OpenAI 签署了这封信。蚂蚁对此保持沉默。 https://t.co/r9QVQ2R9JH / 1) Competition is good for the ecosystem. 2) Serving models at scale is hard. Proud that @OpenAI signed the letter. Ant is silent on it. https://t.co/r9QVQ2R9JH",
-          "url": "https://x.com/steipete/status/2081175795587072421",
-          "source": "Follow Builders · X · Peter Steinberger",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-26T00:32:30Z"
+          "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
+          "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+          "url": "https://www.aibase.com/news/29913",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5749,
-      "importance": 0.5749,
-      "importance_score": 0.5749,
-      "importance_label": "值得关注",
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.81,
-        "recency": 0.4197,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-26T00:32:30Z",
-      "latest_at": "2026-07-26T00:32:30Z",
+      "earliest_at": "2026-07-27T08:51:03.779771Z",
+      "latest_at": "2026-07-27T08:51:03.779771Z",
       "primary_item": {
-        "id": "b7b1c8a7365b03f3ae168f2f8a9a3f8cb997e5a6",
-        "title": "1）竞争有利于生态系统。 2）大规模服务模型很困难。很自豪 @OpenAI 签署了这封信。蚂蚁对此保持沉默。 https://t.co/r9QVQ2R9JH / 1) Competition is good for the ecosystem. 2) Serving models at scale is hard. Proud that @OpenAI signed the letter. Ant is silent on it. https://t.co/r9QVQ2R9JH",
-        "url": "https://x.com/steipete/status/2081175795587072421",
-        "source": "Follow Builders · X · Peter Steinberger",
-        "source_name": "Follow Builders"
+        "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
+        "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+        "url": "https://www.aibase.com/news/29913",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_db8f844672e4",
-      "title": "一整天都在运行 codex，以进行大规模并行 QA，为下一个版本做准备。索尔非常擅长真正理解意图并发现复杂的行为问题。在过去，这样的工作流程确实崩溃了...... / Been running codex all day to do massive parallel QA in prep of the next release. Sol got insanely good at really understanding intent and is finding complex behavior issues. In the past such workflow did fell apart a...",
-      "url": "https://x.com/steipete/status/2081169373784633552",
-      "primary_url": "https://x.com/steipete/status/2081169373784633552",
-      "source": "Follow Builders · X · Peter Steinberger",
-      "source_name": "Follow Builders",
+      "story_id": "story_6d6a63d9d7f1",
+      "title": "美团辟谣LongCat模型负责人离职，持续推进国产算力万亿大模型落地",
+      "url": "https://www.aibase.com/news/29900",
+      "primary_url": "https://www.aibase.com/news/29900",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "f2053310a822290ae4cf126aca4d94903b4f7bef",
-          "title": "一整天都在运行 codex，以进行大规模并行 QA，为下一个版本做准备。索尔非常擅长真正理解意图并发现复杂的行为问题。在过去，这样的工作流程确实崩溃了...... / Been running codex all day to do massive parallel QA in prep of the next release. Sol got insanely good at really understanding intent and is finding complex behavior issues. In the past such workflow did fell apart a...",
-          "url": "https://x.com/steipete/status/2081169373784633552",
-          "source": "Follow Builders · X · Peter Steinberger",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-26T00:06:59Z"
+          "id": "5b10f5d09631551150ab8a8668242b350c59282c",
+          "title": "美团辟谣LongCat模型负责人离职，持续推进国产算力万亿大模型落地",
+          "url": "https://www.aibase.com/news/29900",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Peter Steinberger"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "f2053310a822290ae4cf126aca4d94903b4f7bef",
-          "title": "一整天都在运行 codex，以进行大规模并行 QA，为下一个版本做准备。索尔非常擅长真正理解意图并发现复杂的行为问题。在过去，这样的工作流程确实崩溃了...... / Been running codex all day to do massive parallel QA in prep of the next release. Sol got insanely good at really understanding intent and is finding complex behavior issues. In the past such workflow did fell apart a...",
-          "url": "https://x.com/steipete/status/2081169373784633552",
-          "source": "Follow Builders · X · Peter Steinberger",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-26T00:06:59Z"
+          "id": "5b10f5d09631551150ab8a8668242b350c59282c",
+          "title": "美团辟谣LongCat模型负责人离职，持续推进国产算力万亿大模型落地",
+          "url": "https://www.aibase.com/news/29900",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5714,
-      "importance": 0.5714,
-      "importance_score": 0.5714,
-      "importance_label": "值得关注",
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.81,
-        "recency": 0.402,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-26T00:06:59Z",
-      "latest_at": "2026-07-26T00:06:59Z",
+      "earliest_at": "2026-07-27T08:51:03.779771Z",
+      "latest_at": "2026-07-27T08:51:03.779771Z",
       "primary_item": {
-        "id": "f2053310a822290ae4cf126aca4d94903b4f7bef",
-        "title": "一整天都在运行 codex，以进行大规模并行 QA，为下一个版本做准备。索尔非常擅长真正理解意图并发现复杂的行为问题。在过去，这样的工作流程确实崩溃了...... / Been running codex all day to do massive parallel QA in prep of the next release. Sol got insanely good at really understanding intent and is finding complex behavior issues. In the past such workflow did fell apart a...",
-        "url": "https://x.com/steipete/status/2081169373784633552",
-        "source": "Follow Builders · X · Peter Steinberger",
-        "source_name": "Follow Builders"
+        "id": "5b10f5d09631551150ab8a8668242b350c59282c",
+        "title": "美团辟谣LongCat模型负责人离职，持续推进国产算力万亿大模型落地",
+        "url": "https://www.aibase.com/news/29900",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_36b6500ec784",
-      "title": "Agentic-Native 增长：Zilliz 如何用 AI Agent 支撑超线性业务扩张｜AICon深圳",
-      "url": "https://www.infoq.cn/article/w9Xu1REwNa9kLUkjdBJA",
-      "primary_url": "https://www.infoq.cn/article/w9Xu1REwNa9kLUkjdBJA",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
+      "story_id": "story_d6ab71e9456d",
+      "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+      "url": "https://www.aibase.com/news/29907",
+      "primary_url": "https://www.aibase.com/news/29907",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "c2dcd3ec2e4e7ca2ff626991cee339a23d407071",
-          "title": "Agentic-Native 增长：Zilliz 如何用 AI Agent 支撑超线性业务扩张｜AICon深圳",
-          "url": "https://www.infoq.cn/article/w9Xu1REwNa9kLUkjdBJA",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-26T10:00:00Z"
+          "id": "e30b0a9743ab7bb4773551faa5a4b5b84ee5e95c",
+          "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+          "url": "https://www.aibase.com/news/29907",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "InfoQ CN"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "c2dcd3ec2e4e7ca2ff626991cee339a23d407071",
-          "title": "Agentic-Native 增长：Zilliz 如何用 AI Agent 支撑超线性业务扩张｜AICon深圳",
-          "url": "https://www.infoq.cn/article/w9Xu1REwNa9kLUkjdBJA",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-26T10:00:00Z"
+          "id": "e30b0a9743ab7bb4773551faa5a4b5b84ee5e95c",
+          "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+          "url": "https://www.aibase.com/news/29907",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5638,
-      "importance": 0.5638,
-      "importance_score": 0.5638,
-      "importance_label": "值得关注",
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8138,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "recent_ai_signal"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-26T10:00:00Z",
-      "latest_at": "2026-07-26T10:00:00Z",
+      "earliest_at": "2026-07-27T08:51:03.779771Z",
+      "latest_at": "2026-07-27T08:51:03.779771Z",
       "primary_item": {
-        "id": "c2dcd3ec2e4e7ca2ff626991cee339a23d407071",
-        "title": "Agentic-Native 增长：Zilliz 如何用 AI Agent 支撑超线性业务扩张｜AICon深圳",
-        "url": "https://www.infoq.cn/article/w9Xu1REwNa9kLUkjdBJA",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
+        "id": "e30b0a9743ab7bb4773551faa5a4b5b84ee5e95c",
+        "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+        "url": "https://www.aibase.com/news/29907",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c9a0fde80057",
-      "title": "从迷雾到抓手：让 AI 融入工作本身，释放团队潜能 ｜ Summit 2026",
-      "url": "https://www.infoq.cn/video/ffh5hpEOijNNrYtkpNDA",
-      "primary_url": "https://www.infoq.cn/video/ffh5hpEOijNNrYtkpNDA",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
+      "story_id": "story_fa0a1452f294",
+      "title": "解锁“碰一碰”分享！腾讯 WorkBuddy 首发上架鸿蒙 PC 应用市场",
+      "url": "https://www.aibase.com/news/29902",
+      "primary_url": "https://www.aibase.com/news/29902",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "28033c9cd06687fbb76b67e51b6a5ca8ae757760",
-          "title": "从迷雾到抓手：让 AI 融入工作本身，释放团队潜能 ｜ Summit 2026",
-          "url": "https://www.infoq.cn/video/ffh5hpEOijNNrYtkpNDA",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-26T10:00:00Z"
+          "id": "40335874a39abfe994e38c405bd5326f858bc1ac",
+          "title": "解锁“碰一碰”分享！腾讯 WorkBuddy 首发上架鸿蒙 PC 应用市场",
+          "url": "https://www.aibase.com/news/29902",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "InfoQ CN"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "28033c9cd06687fbb76b67e51b6a5ca8ae757760",
-          "title": "从迷雾到抓手：让 AI 融入工作本身，释放团队潜能 ｜ Summit 2026",
-          "url": "https://www.infoq.cn/video/ffh5hpEOijNNrYtkpNDA",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-26T10:00:00Z"
+          "id": "40335874a39abfe994e38c405bd5326f858bc1ac",
+          "title": "解锁“碰一碰”分享！腾讯 WorkBuddy 首发上架鸿蒙 PC 应用市场",
+          "url": "https://www.aibase.com/news/29902",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-27T08:51:03.779771Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5638,
-      "importance": 0.5638,
-      "importance_score": 0.5638,
-      "importance_label": "值得关注",
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8138,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "recent_ai_signal"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-26T10:00:00Z",
-      "latest_at": "2026-07-26T10:00:00Z",
+      "earliest_at": "2026-07-27T08:51:03.779771Z",
+      "latest_at": "2026-07-27T08:51:03.779771Z",
       "primary_item": {
-        "id": "28033c9cd06687fbb76b67e51b6a5ca8ae757760",
-        "title": "从迷雾到抓手：让 AI 融入工作本身，释放团队潜能 ｜ Summit 2026",
-        "url": "https://www.infoq.cn/video/ffh5hpEOijNNrYtkpNDA",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_3608e41f338c",
-      "title": "https://t.co/O7y9dmUqk5 比我们构建的任何其他框架都更基础。这是你们公司的起源。当您有新想法时，不要想：“我会去找代理并进行临时提示。”思考：我怎样才能建造... / https://t.co/O7y9dmUqk5 is more fundamental than any other framework we’ve built. It’s the genesis of your company. When you have a new idea, don’t think: “I’ll go to an agent and ad-hoc prompt.” Think: how can I buil...",
-      "url": "https://x.com/rauchg/status/2081149743368122723",
-      "primary_url": "https://x.com/rauchg/status/2081149743368122723",
-      "source": "Follow Builders · X · Guillermo Rauch",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "dc3ef57b11d2c882696061c59259d066c625673a",
-          "title": "https://t.co/O7y9dmUqk5 比我们构建的任何其他框架都更基础。这是你们公司的起源。当您有新想法时，不要想：“我会去找代理并进行临时提示。”思考：我怎样才能建造... / https://t.co/O7y9dmUqk5 is more fundamental than any other framework we’ve built. It’s the genesis of your company. When you have a new idea, don’t think: “I’ll go to an agent and ad-hoc prompt.” Think: how can I buil...",
-          "url": "https://x.com/rauchg/status/2081149743368122723",
-          "source": "Follow Builders · X · Guillermo Rauch",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-25T22:48:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Guillermo Rauch"
-      ],
-      "items": [
-        {
-          "id": "dc3ef57b11d2c882696061c59259d066c625673a",
-          "title": "https://t.co/O7y9dmUqk5 比我们构建的任何其他框架都更基础。这是你们公司的起源。当您有新想法时，不要想：“我会去找代理并进行临时提示。”思考：我怎样才能建造... / https://t.co/O7y9dmUqk5 is more fundamental than any other framework we’ve built. It’s the genesis of your company. When you have a new idea, don’t think: “I’ll go to an agent and ad-hoc prompt.” Think: how can I buil...",
-          "url": "https://x.com/rauchg/status/2081149743368122723",
-          "source": "Follow Builders · X · Guillermo Rauch",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-25T22:48:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.5606,
-      "importance": 0.5606,
-      "importance_score": 0.5606,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.81,
-        "recency": 0.3478,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-25T22:48:59Z",
-      "latest_at": "2026-07-25T22:48:59Z",
-      "primary_item": {
-        "id": "dc3ef57b11d2c882696061c59259d066c625673a",
-        "title": "https://t.co/O7y9dmUqk5 比我们构建的任何其他框架都更基础。这是你们公司的起源。当您有新想法时，不要想：“我会去找代理并进行临时提示。”思考：我怎样才能建造... / https://t.co/O7y9dmUqk5 is more fundamental than any other framework we’ve built. It’s the genesis of your company. When you have a new idea, don’t think: “I’ll go to an agent and ad-hoc prompt.” Think: how can I buil...",
-        "url": "https://x.com/rauchg/status/2081149743368122723",
-        "source": "Follow Builders · X · Guillermo Rauch",
-        "source_name": "Follow Builders"
-      }
-    },
-    {
-      "story_id": "story_6876b0340723",
-      "title": "就业形势如何？区分人工智能的炒作与现实",
-      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-      "primary_url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-      "source": "siepr.stanford.edu",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9e67b2d4f917e46139f675935ffb37c31f33b857",
-          "title": "就业形势如何？区分人工智能的炒作与现实",
-          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-          "source": "siepr.stanford.edu",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T11:06:49.887000Z"
-        },
-        {
-          "id": "bc7e4b4593aaf4e3fed54b00809c6ebaf2b2b6e1",
-          "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
-          "url": "https://news.ycombinator.com/item?id=49052570",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T00:36:11.814000Z"
-        },
-        {
-          "id": "b94c39ffbed50009079b6ba3090b0928aa8eed84",
-          "title": "就业形势如何？区分人工智能的炒作与现实 / What is happening to jobs? Separating AI hype from reality",
-          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T22:51:10Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "siepr.stanford.edu"
-      ],
-      "items": [
-        {
-          "id": "9e67b2d4f917e46139f675935ffb37c31f33b857",
-          "title": "就业形势如何？区分人工智能的炒作与现实",
-          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-          "source": "siepr.stanford.edu",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T11:06:49.887000Z"
-        },
-        {
-          "id": "bc7e4b4593aaf4e3fed54b00809c6ebaf2b2b6e1",
-          "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
-          "url": "https://news.ycombinator.com/item?id=49052570",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T00:36:11.814000Z"
-        },
-        {
-          "id": "b94c39ffbed50009079b6ba3090b0928aa8eed84",
-          "title": "就业形势如何？区分人工智能的炒作与现实 / What is happening to jobs? Separating AI hype from reality",
-          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T22:51:10Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8602,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T22:51:10Z",
-      "latest_at": "2026-07-26T11:06:49.887000Z",
-      "primary_item": {
-        "id": "9e67b2d4f917e46139f675935ffb37c31f33b857",
-        "title": "就业形势如何？区分人工智能的炒作与现实",
-        "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-        "source": "siepr.stanford.edu",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4ba9dbb2494b",
-      "title": "在未知领域，难题的答案只能来自于与现实的反复接触。一直在思考美国人工智能社区对开放权重模型的支持有多快。现在感觉很明显了。它... / In uncharted territory, answers to hard questions only come from repeated contact with reality. Been thinking about how quickly the US AI community converged on support for open-weight models. It feels obvious now. It...",
-      "url": "https://x.com/realmadhuguru/status/2081141594892415028",
-      "primary_url": "https://x.com/realmadhuguru/status/2081141594892415028",
-      "source": "Follow Builders · X · Madhu Guru",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "6218281fa82f41e49b85253bdda9054357024790",
-          "title": "在未知领域，难题的答案只能来自于与现实的反复接触。一直在思考美国人工智能社区对开放权重模型的支持有多快。现在感觉很明显了。它... / In uncharted territory, answers to hard questions only come from repeated contact with reality. Been thinking about how quickly the US AI community converged on support for open-weight models. It feels obvious now. It...",
-          "url": "https://x.com/realmadhuguru/status/2081141594892415028",
-          "source": "Follow Builders · X · Madhu Guru",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-25T22:16:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Madhu Guru"
-      ],
-      "items": [
-        {
-          "id": "6218281fa82f41e49b85253bdda9054357024790",
-          "title": "在未知领域，难题的答案只能来自于与现实的反复接触。一直在思考美国人工智能社区对开放权重模型的支持有多快。现在感觉很明显了。它... / In uncharted territory, answers to hard questions only come from repeated contact with reality. Been thinking about how quickly the US AI community converged on support for open-weight models. It feels obvious now. It...",
-          "url": "https://x.com/realmadhuguru/status/2081141594892415028",
-          "source": "Follow Builders · X · Madhu Guru",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-25T22:16:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.77,
-        "recency": 0.3253,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-07-25T22:16:36Z",
-      "latest_at": "2026-07-25T22:16:36Z",
-      "primary_item": {
-        "id": "6218281fa82f41e49b85253bdda9054357024790",
-        "title": "在未知领域，难题的答案只能来自于与现实的反复接触。一直在思考美国人工智能社区对开放权重模型的支持有多快。现在感觉很明显了。它... / In uncharted territory, answers to hard questions only come from repeated contact with reality. Been thinking about how quickly the US AI community converged on support for open-weight models. It feels obvious now. It...",
-        "url": "https://x.com/realmadhuguru/status/2081141594892415028",
-        "source": "Follow Builders · X · Madhu Guru",
-        "source_name": "Follow Builders"
-      }
-    },
-    {
-      "story_id": "story_87c41df62615",
-      "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度",
-      "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
-      "primary_url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5f0cd9e742cee2fca43c0848da3775cc6679ee8a",
-          "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度",
-          "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T13:30:56.504000Z"
-        },
-        {
-          "id": "d2efd4f7f14e28a14b1fb351b31d54e5bd533704",
-          "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度 / How to best talk about AI in job interviews — even if you're skeptical of it",
-          "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T09:34:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "5f0cd9e742cee2fca43c0848da3775cc6679ee8a",
-          "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度",
-          "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T13:30:56.504000Z"
-        },
-        {
-          "id": "d2efd4f7f14e28a14b1fb351b31d54e5bd533704",
-          "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度 / How to best talk about AI in job interviews — even if you're skeptical of it",
-          "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T09:34:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9603,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T09:34:01Z",
-      "latest_at": "2026-07-26T13:30:56.504000Z",
-      "primary_item": {
-        "id": "5f0cd9e742cee2fca43c0848da3775cc6679ee8a",
-        "title": "如何在求职面试中最好地谈论人工智能——即使你对此持怀疑态度",
-        "url": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "40335874a39abfe994e38c405bd5326f858bc1ac",
+        "title": "解锁“碰一碰”分享！腾讯 WorkBuddy 首发上架鸿蒙 PC 应用市场",
+        "url": "https://www.aibase.com/news/29902",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
