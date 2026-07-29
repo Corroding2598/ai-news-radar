@@ -1,259 +1,277 @@
 {
-  "generated_at": "2026-07-28T15:19:56.771296Z",
+  "generated_at": "2026-07-29T15:07:49.630388Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0120-2358-a882-27ab49a4cdb8&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-0120-2358-a882-27ab49a4cdb8&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0108-1797-b04e-452b2f2dd42f&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260730-0108-1797-b04e-452b2f2dd42f&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
         {
-          "id": "b78b15c48b92c29596174ea29c140f932bc68efd",
+          "id": "b80f964950b9c8c3185cbc6b820b6a1219f84438",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0120-2358-a882-27ab49a4cdb8&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0108-1797-b04e-452b2f2dd42f&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "aa8b695874cd707654f567239909ecef93a55db7",
+          "id": "b229bdcce1e2c9ddbe4aae517fdc6178d84353b6",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0056-1447-bcb7-30321d7e3abd&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0040-40c0-b98c-97e9b13d1aaf&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "a8d1850fa5184bde9b1d6871fde4dbe19b113074",
+          "id": "5085cc4411bf480a93c97695a97f6793a3a7bb02",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2219-007e-be21-92b1a23d458a&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2228-2252-9f2b-691a8b858aab&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "79e8009736ec4c7e7935bed8a93a96b858fecfe1",
+          "id": "fd8ada5304b947a6d50fd3d36e6e2b7da21f313f",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2022-38df-87fe-04e9e8a4e6ee&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2028-3955-8bc4-7e014a01faf2&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "bb8b9852233f5216cc3e6ca5e04db5278327c11f",
+          "id": "e36798334a146b59cb715a490c3ee11024a9c43e",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1731-2593-8347-48f9d18ebcac&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1736-4862-9a99-6e31492fcec5&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "ab82bff2951372b3e781c3055f8501949100f76d",
+          "id": "04477b8624f7e7adc7bd73460e764a3833a7c6c9",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1437-19de-9cf3-9bda4bb740be&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1442-23f8-b7ee-f14e46d72132&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "7228b17cab1ed7a8f30b862ed759e7b52bb7f7f8",
+          "id": "756c2e0a61ab1e5c2fb44eb93b9b8df73b20742c",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1126-2112-b7ca-6566afb9eb18&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1126-557c-8f63-8d20251b9e74&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "6b0368018fe1918245cb206fa4b288c3553e7ad4",
+          "id": "e5a1409a4251976c1195f9c3c3c82c77b9f0bd20",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0954-10a6-beb8-ec1ed9ffec94&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0950-1517-87b0-3823077f3596&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "86e784f7eaf8f170dc76027f7a6424fb6d341822",
+          "id": "621876a11dbb13b17753163ec553e1eab6a167c9",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0850-080e-b8f7-16134ca3739e&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0850-25a4-bf86-05f207c926ba&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "d0da373a14b5dc942c07835bef5420e7e967d935",
+          "id": "aa6facb36055a6f183a7f22d49d1d40976c4d6c4",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0734-51f3-82c4-ab5ed5188466&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0754-4754-8749-2f1a5aee814d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "5003cd22091a174d3908ddf33bf2aab86e6a0518",
+          "id": "a8cdb0f14884f8feb6cf9bb875590176f2d56147",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0613-188e-8eb3-893425a2a96f&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0639-0925-925b-1d16dd27a335&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "5e7b066ed414393a02ec69a9cb0e7c74e0004f90",
+          "id": "0a320a7b65bb9d8d103687f5d97380f48ea0d0db",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0452-55bd-bb87-148427a211a1&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0505-274f-9deb-0597d529d15d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "720f6ec4de1c7307d083e45c9adfa9d044178c2b",
+          "id": "7820839996cae8ac0a77dc470147a9b2f2d2ff32",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0314-50af-99b2-1b91ad4de684&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0352-16bc-8ef4-cc08c84d0179&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "69bf0d44d7b3787348655f5d1d33d0254b1389db",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0228-116e-bba4-cf0b7cbfb85d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         }
       ],
-      "source_count": 13,
+      "source_count": 14,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
-          "id": "b78b15c48b92c29596174ea29c140f932bc68efd",
+          "id": "b80f964950b9c8c3185cbc6b820b6a1219f84438",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0120-2358-a882-27ab49a4cdb8&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0108-1797-b04e-452b2f2dd42f&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "aa8b695874cd707654f567239909ecef93a55db7",
+          "id": "b229bdcce1e2c9ddbe4aae517fdc6178d84353b6",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0056-1447-bcb7-30321d7e3abd&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0040-40c0-b98c-97e9b13d1aaf&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "a8d1850fa5184bde9b1d6871fde4dbe19b113074",
+          "id": "5085cc4411bf480a93c97695a97f6793a3a7bb02",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2219-007e-be21-92b1a23d458a&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2228-2252-9f2b-691a8b858aab&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "79e8009736ec4c7e7935bed8a93a96b858fecfe1",
+          "id": "fd8ada5304b947a6d50fd3d36e6e2b7da21f313f",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2022-38df-87fe-04e9e8a4e6ee&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2028-3955-8bc4-7e014a01faf2&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "bb8b9852233f5216cc3e6ca5e04db5278327c11f",
+          "id": "e36798334a146b59cb715a490c3ee11024a9c43e",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1731-2593-8347-48f9d18ebcac&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1736-4862-9a99-6e31492fcec5&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "ab82bff2951372b3e781c3055f8501949100f76d",
+          "id": "04477b8624f7e7adc7bd73460e764a3833a7c6c9",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1437-19de-9cf3-9bda4bb740be&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1442-23f8-b7ee-f14e46d72132&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "7228b17cab1ed7a8f30b862ed759e7b52bb7f7f8",
+          "id": "756c2e0a61ab1e5c2fb44eb93b9b8df73b20742c",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1126-2112-b7ca-6566afb9eb18&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1126-557c-8f63-8d20251b9e74&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "6b0368018fe1918245cb206fa4b288c3553e7ad4",
+          "id": "e5a1409a4251976c1195f9c3c3c82c77b9f0bd20",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0954-10a6-beb8-ec1ed9ffec94&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0950-1517-87b0-3823077f3596&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "86e784f7eaf8f170dc76027f7a6424fb6d341822",
+          "id": "621876a11dbb13b17753163ec553e1eab6a167c9",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0850-080e-b8f7-16134ca3739e&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0850-25a4-bf86-05f207c926ba&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "d0da373a14b5dc942c07835bef5420e7e967d935",
+          "id": "aa6facb36055a6f183a7f22d49d1d40976c4d6c4",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0734-51f3-82c4-ab5ed5188466&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0754-4754-8749-2f1a5aee814d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "5003cd22091a174d3908ddf33bf2aab86e6a0518",
+          "id": "a8cdb0f14884f8feb6cf9bb875590176f2d56147",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0613-188e-8eb3-893425a2a96f&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0639-0925-925b-1d16dd27a335&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "5e7b066ed414393a02ec69a9cb0e7c74e0004f90",
+          "id": "0a320a7b65bb9d8d103687f5d97380f48ea0d0db",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0452-55bd-bb87-148427a211a1&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0505-274f-9deb-0597d529d15d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         },
         {
-          "id": "720f6ec4de1c7307d083e45c9adfa9d044178c2b",
+          "id": "7820839996cae8ac0a77dc470147a9b2f2d2ff32",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0314-50af-99b2-1b91ad4de684&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0352-16bc-8ef4-cc08c84d0179&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "69bf0d44d7b3787348655f5d1d33d0254b1389db",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0228-116e-bba4-cf0b7cbfb85d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         }
       ],
-      "item_count": 13,
-      "duplicate_count": 13,
+      "item_count": 14,
+      "duplicate_count": 14,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -270,32 +288,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T17:14:29.570056Z",
-      "latest_at": "2026-07-28T15:19:56.771296Z",
+      "earliest_at": "2026-07-28T16:27:49.839400Z",
+      "latest_at": "2026-07-29T15:07:49.630388Z",
       "primary_item": {
-        "id": "b78b15c48b92c29596174ea29c140f932bc68efd",
+        "id": "b80f964950b9c8c3185cbc6b820b6a1219f84438",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0120-2358-a882-27ab49a4cdb8&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0108-1797-b04e-452b2f2dd42f&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_6b5816a238e8",
-      "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
-      "primary_url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+      "story_id": "story_ee3da82e3a26",
+      "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+      "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+      "primary_url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
-          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T11:57:19Z"
+          "published_at": "2026-07-29T09:45:11Z"
         }
       ],
       "source_count": 1,
@@ -304,25 +322,25 @@
       ],
       "items": [
         {
-          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
-          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T11:57:19Z"
+          "published_at": "2026-07-29T09:45:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8593,
+        "recency": 0.7759,
         "story_heat": 0.0
       },
       "category": "official",
@@ -331,196 +349,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T11:57:19Z",
-      "latest_at": "2026-07-28T11:57:19Z",
+      "earliest_at": "2026-07-29T09:45:11Z",
+      "latest_at": "2026-07-29T09:45:11Z",
       "primary_item": {
-        "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
-        "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+        "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+        "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+        "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_9f1eb595aef6",
-      "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-      "url": "https://www.aibase.com/news/29952",
-      "primary_url": "https://www.aibase.com/news/29952",
+      "story_id": "story_9e9ac0b74498",
+      "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+      "url": "https://www.aibase.com/news/29979",
+      "primary_url": "https://www.aibase.com/news/29979",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3439b8a22f15e9a5ef4507a5bee52ca2b59efac3",
-          "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-          "url": "https://www.aibase.com/news/29952",
+          "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
+          "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+          "url": "https://www.aibase.com/news/29979",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
+          "published_at": "2026-07-29T10:28:13.311224Z"
         },
         {
-          "id": "6af57490a2c7742ce13e7ad12fc8201f5c7cef87",
-          "title": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
-          "url": "https://aihot.virxact.com/items/cms4himl9047broepnobhk6n2",
-          "source": "公众号：火山引擎",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T07:51:54Z"
-        },
-        {
-          "id": "533c2eeb28c77601428a8e17df788cd90e21ec7e",
-          "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-          "url": "https://www.aibase.com/zh/news/29952",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI",
-        "公众号：火山引擎"
-      ],
-      "items": [
-        {
-          "id": "3439b8a22f15e9a5ef4507a5bee52ca2b59efac3",
-          "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-          "url": "https://www.aibase.com/news/29952",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
-        },
-        {
-          "id": "6af57490a2c7742ce13e7ad12fc8201f5c7cef87",
-          "title": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
-          "url": "https://aihot.virxact.com/items/cms4himl9047broepnobhk6n2",
-          "source": "公众号：火山引擎",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T07:51:54Z"
-        },
-        {
-          "id": "533c2eeb28c77601428a8e17df788cd90e21ec7e",
-          "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-          "url": "https://www.aibase.com/zh/news/29952",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8206,
-      "importance": 0.8206,
-      "importance_score": 0.8206,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7931,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T07:51:54Z",
-      "latest_at": "2026-07-28T10:21:56.460615Z",
-      "primary_item": {
-        "id": "3439b8a22f15e9a5ef4507a5bee52ca2b59efac3",
-        "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-        "url": "https://www.aibase.com/news/29952",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3aeb789086e8",
-      "title": "Perplexity 推出 Windows 版个人电脑智能体",
-      "url": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76",
-      "primary_url": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76",
-      "source": "X：Perplexity (@perplexity_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "470341c583e506ce6548ef2fdbd22cf2be4f954d",
-          "title": "Perplexity 推出 Windows 版个人电脑智能体",
-          "url": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76",
-          "source": "X：Perplexity (@perplexity_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T14:00:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Perplexity (@perplexity_ai)"
-      ],
-      "items": [
-        {
-          "id": "470341c583e506ce6548ef2fdbd22cf2be4f954d",
-          "title": "Perplexity 推出 Windows 版个人电脑智能体",
-          "url": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76",
-          "source": "X：Perplexity (@perplexity_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T14:00:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8009,
-      "importance": 0.8009,
-      "importance_score": 0.8009,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9447,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T14:00:23Z",
-      "latest_at": "2026-07-28T14:00:23Z",
-      "primary_item": {
-        "id": "470341c583e506ce6548ef2fdbd22cf2be4f954d",
-        "title": "Perplexity 推出 Windows 版个人电脑智能体",
-        "url": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76",
-        "source": "X：Perplexity (@perplexity_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_01f18ab162ed",
-      "title": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
-      "url": "https://www.aibase.com/news/29953",
-      "primary_url": "https://www.aibase.com/news/29953",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a03901ba78d61c8cd271be95e033368e937a6117",
-          "title": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
-          "url": "https://www.aibase.com/news/29953",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
-        },
-        {
-          "id": "2773b57dee7810ca392398e2cd35a4f4c7081290",
-          "title": "谷歌 AI 搜索一年翻倍：43% 搜索结果现 AI 概览，传统网页正被「直接给答案」取代",
-          "url": "https://www.aibase.com/zh/news/29953",
+          "id": "8ef251a370c5aca967cfca813b36228308e8ffe5",
+          "title": "Grok 长出「建造」本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+          "url": "https://www.aibase.com/zh/news/29979",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -534,18 +393,18 @@
       ],
       "items": [
         {
-          "id": "a03901ba78d61c8cd271be95e033368e937a6117",
-          "title": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
-          "url": "https://www.aibase.com/news/29953",
+          "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
+          "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+          "url": "https://www.aibase.com/news/29979",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
+          "published_at": "2026-07-29T10:28:13.311224Z"
         },
         {
-          "id": "2773b57dee7810ca392398e2cd35a4f4c7081290",
-          "title": "谷歌 AI 搜索一年翻倍：43% 搜索结果现 AI 概览，传统网页正被「直接给答案」取代",
-          "url": "https://www.aibase.com/zh/news/29953",
+          "id": "8ef251a370c5aca967cfca813b36228308e8ffe5",
+          "title": "Grok 长出「建造」本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+          "url": "https://www.aibase.com/zh/news/29979",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -554,14 +413,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7956,
-      "importance": 0.7956,
-      "importance_score": 0.7956,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7931,
+        "recency": 0.8058,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -570,618 +429,78 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T10:21:56.460615Z",
-      "latest_at": "2026-07-28T10:21:56.460615Z",
+      "earliest_at": "2026-07-29T10:28:13.311224Z",
+      "latest_at": "2026-07-29T10:28:13.311224Z",
       "primary_item": {
-        "id": "a03901ba78d61c8cd271be95e033368e937a6117",
-        "title": "​谷歌AI搜索一年翻倍：43%搜索结果现AI概览，传统网页正被\"直接给答案\"取代",
-        "url": "https://www.aibase.com/news/29953",
+        "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
+        "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+        "url": "https://www.aibase.com/news/29979",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_fa0838f1622f",
-      "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
-      "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
-      "primary_url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
-      "source": "Google Blog：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8a2346e43bfe557fb53fac6ac90103a27463d72b",
-          "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
-          "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Blog：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8a2346e43bfe557fb53fac6ac90103a27463d72b",
-          "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
-          "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9028,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T13:00:00Z",
-      "latest_at": "2026-07-28T13:00:00Z",
-      "primary_item": {
-        "id": "8a2346e43bfe557fb53fac6ac90103a27463d72b",
-        "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
-        "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
-        "source": "Google Blog：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_74bab22972da",
-      "title": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
-      "url": "https://www.aibase.com/news/29947",
-      "primary_url": "https://www.aibase.com/news/29947",
+      "story_id": "story_5507eed440d2",
+      "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+      "url": "https://www.aibase.com/news/29983",
+      "primary_url": "https://www.aibase.com/news/29983",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "66cc2649c07de63ab956af30c1a40632814db8a9",
-          "title": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
-          "url": "https://www.aibase.com/news/29947",
+          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+          "url": "https://www.aibase.com/news/29983",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "66cc2649c07de63ab956af30c1a40632814db8a9",
-          "title": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
-          "url": "https://www.aibase.com/news/29947",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7931,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T10:21:56.460615Z",
-      "latest_at": "2026-07-28T10:21:56.460615Z",
-      "primary_item": {
-        "id": "66cc2649c07de63ab956af30c1a40632814db8a9",
-        "title": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
-        "url": "https://www.aibase.com/news/29947",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3992a15d76a6",
-      "title": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
-      "url": "https://www.aibase.com/news/29951",
-      "primary_url": "https://www.aibase.com/news/29951",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9bd032c61640d337b686f01a212df6f32fbbf561",
-          "title": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
-          "url": "https://www.aibase.com/news/29951",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9bd032c61640d337b686f01a212df6f32fbbf561",
-          "title": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
-          "url": "https://www.aibase.com/news/29951",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7931,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T10:21:56.460615Z",
-      "latest_at": "2026-07-28T10:21:56.460615Z",
-      "primary_item": {
-        "id": "9bd032c61640d337b686f01a212df6f32fbbf561",
-        "title": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
-        "url": "https://www.aibase.com/news/29951",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f8207de20d1f",
-      "title": "北大才女翁荔再次转身：因身体严重透支辞别AI创业，一句\"以人为本\"戳中行业痛点",
-      "url": "https://www.aibase.com/news/29944",
-      "primary_url": "https://www.aibase.com/news/29944",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2091a6859c842bed84126eadaf9003361de8f115",
-          "title": "北大才女翁荔再次转身：因身体严重透支辞别AI创业，一句\"以人为本\"戳中行业痛点",
-          "url": "https://www.aibase.com/news/29944",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2091a6859c842bed84126eadaf9003361de8f115",
-          "title": "北大才女翁荔再次转身：因身体严重透支辞别AI创业，一句\"以人为本\"戳中行业痛点",
-          "url": "https://www.aibase.com/news/29944",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7931,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T10:21:56.460615Z",
-      "latest_at": "2026-07-28T10:21:56.460615Z",
-      "primary_item": {
-        "id": "2091a6859c842bed84126eadaf9003361de8f115",
-        "title": "北大才女翁荔再次转身：因身体严重透支辞别AI创业，一句\"以人为本\"戳中行业痛点",
-        "url": "https://www.aibase.com/news/29944",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5dc4cac17bb0",
-      "title": "印度法院力挺OpenAI：用新闻内容训练AI不侵权，判例或成全球风向标",
-      "url": "https://www.aibase.com/news/29945",
-      "primary_url": "https://www.aibase.com/news/29945",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1fec6c0dabdad899a8f493b2157d13cc8683f067",
-          "title": "印度法院力挺OpenAI：用新闻内容训练AI不侵权，判例或成全球风向标",
-          "url": "https://www.aibase.com/news/29945",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1fec6c0dabdad899a8f493b2157d13cc8683f067",
-          "title": "印度法院力挺OpenAI：用新闻内容训练AI不侵权，判例或成全球风向标",
-          "url": "https://www.aibase.com/news/29945",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7931,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T10:21:56.460615Z",
-      "latest_at": "2026-07-28T10:21:56.460615Z",
-      "primary_item": {
-        "id": "1fec6c0dabdad899a8f493b2157d13cc8683f067",
-        "title": "印度法院力挺OpenAI：用新闻内容训练AI不侵权，判例或成全球风向标",
-        "url": "https://www.aibase.com/news/29945",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_80496d0091d4",
-      "title": "国产 GPU 也能跑万亿大模型：海光 DCU 适配 Kimi K3，896 专家并行不卡顿",
-      "url": "https://www.aibase.com/news/29946",
-      "primary_url": "https://www.aibase.com/news/29946",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e5c71b0ab064c0266c4b43451e90f7aa18cdd949",
-          "title": "国产 GPU 也能跑万亿大模型：海光 DCU 适配 Kimi K3，896 专家并行不卡顿",
-          "url": "https://www.aibase.com/news/29946",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e5c71b0ab064c0266c4b43451e90f7aa18cdd949",
-          "title": "国产 GPU 也能跑万亿大模型：海光 DCU 适配 Kimi K3，896 专家并行不卡顿",
-          "url": "https://www.aibase.com/news/29946",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7931,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T10:21:56.460615Z",
-      "latest_at": "2026-07-28T10:21:56.460615Z",
-      "primary_item": {
-        "id": "e5c71b0ab064c0266c4b43451e90f7aa18cdd949",
-        "title": "国产 GPU 也能跑万亿大模型：海光 DCU 适配 Kimi K3，896 专家并行不卡顿",
-        "url": "https://www.aibase.com/news/29946",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ba2e6d7c0264",
-      "title": "宇树G1人形机器人首次完成活体动物手术，远程操控切除猪胆囊",
-      "url": "https://www.aibase.com/news/29948",
-      "primary_url": "https://www.aibase.com/news/29948",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cbb0a2755205a6257fedab4efede42214dc84bfb",
-          "title": "宇树G1人形机器人首次完成活体动物手术，远程操控切除猪胆囊",
-          "url": "https://www.aibase.com/news/29948",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cbb0a2755205a6257fedab4efede42214dc84bfb",
-          "title": "宇树G1人形机器人首次完成活体动物手术，远程操控切除猪胆囊",
-          "url": "https://www.aibase.com/news/29948",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7931,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T10:21:56.460615Z",
-      "latest_at": "2026-07-28T10:21:56.460615Z",
-      "primary_item": {
-        "id": "cbb0a2755205a6257fedab4efede42214dc84bfb",
-        "title": "宇树G1人形机器人首次完成活体动物手术，远程操控切除猪胆囊",
-        "url": "https://www.aibase.com/news/29948",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0c8588291aff",
-      "title": "我国启动大模型 IPv6 专项行动：生成式 AI 应用将被要求全面拥抱下一代网络",
-      "url": "https://www.aibase.com/news/29943",
-      "primary_url": "https://www.aibase.com/news/29943",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "906a2b7ee8aef1243dc650354068f7edc8dbdb8c",
-          "title": "我国启动大模型 IPv6 专项行动：生成式 AI 应用将被要求全面拥抱下一代网络",
-          "url": "https://www.aibase.com/news/29943",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "906a2b7ee8aef1243dc650354068f7edc8dbdb8c",
-          "title": "我国启动大模型 IPv6 专项行动：生成式 AI 应用将被要求全面拥抱下一代网络",
-          "url": "https://www.aibase.com/news/29943",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7931,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T10:21:56.460615Z",
-      "latest_at": "2026-07-28T10:21:56.460615Z",
-      "primary_item": {
-        "id": "906a2b7ee8aef1243dc650354068f7edc8dbdb8c",
-        "title": "我国启动大模型 IPv6 专项行动：生成式 AI 应用将被要求全面拥抱下一代网络",
-        "url": "https://www.aibase.com/news/29943",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_423b5355c65b",
-      "title": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
-      "url": "https://www.aibase.com/news/29950",
-      "primary_url": "https://www.aibase.com/news/29950",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7811907a25ad2bfe9190eeed12f7df8596aceae5",
-          "title": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
-          "url": "https://www.aibase.com/news/29950",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7811907a25ad2bfe9190eeed12f7df8596aceae5",
-          "title": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
-          "url": "https://www.aibase.com/news/29950",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T10:21:56.460615Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7931,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T10:21:56.460615Z",
-      "latest_at": "2026-07-28T10:21:56.460615Z",
-      "primary_item": {
-        "id": "7811907a25ad2bfe9190eeed12f7df8596aceae5",
-        "title": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
-        "url": "https://www.aibase.com/news/29950",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d53b40479346",
-      "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
-      "url": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
-      "primary_url": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5b83b94ddcb84b83739e4da5b59bf1e1f2cd8d6d",
-          "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
-          "url": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T06:21:07Z"
+          "published_at": "2026-07-29T10:28:13.311224Z"
         },
         {
-          "id": "5c3e7f6336ac63629db281971d76662f59496bb4",
-          "title": "德里高等法院裁定 OpenAI 利用印媒 ANI 内容训练 AI 未侵犯版权",
-          "url": "https://www.ithome.com/0/982/520.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-28T06:21:07Z"
+          "id": "467bb7db924e7839805e7d3ee8bd609da76762ee",
+          "title": "MCP 协议迎来问世以来最大改版：彻底「无状态」，全面适配 Serverless",
+          "url": "https://www.aibase.com/zh/news/29983",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "5b83b94ddcb84b83739e4da5b59bf1e1f2cd8d6d",
-          "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
-          "url": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T06:21:07Z"
+          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+          "url": "https://www.aibase.com/news/29983",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T10:28:13.311224Z"
         },
         {
-          "id": "5c3e7f6336ac63629db281971d76662f59496bb4",
-          "title": "德里高等法院裁定 OpenAI 利用印媒 ANI 内容训练 AI 未侵犯版权",
-          "url": "https://www.ithome.com/0/982/520.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-28T06:21:07Z"
+          "id": "467bb7db924e7839805e7d3ee8bd609da76762ee",
+          "title": "MCP 协议迎来问世以来最大改版：彻底「无状态」，全面适配 Serverless",
+          "url": "https://www.aibase.com/zh/news/29983",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6258,
+        "recency": 0.8058,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1190,59 +509,859 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T06:21:07Z",
-      "latest_at": "2026-07-28T06:21:07Z",
+      "earliest_at": "2026-07-29T10:28:13.311224Z",
+      "latest_at": "2026-07-29T10:28:13.311224Z",
       "primary_item": {
-        "id": "5b83b94ddcb84b83739e4da5b59bf1e1f2cd8d6d",
-        "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
-        "url": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
+        "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+        "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+        "url": "https://www.aibase.com/news/29983",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5d0c5c0b946d",
+      "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+      "url": "https://www.aibase.com/news/29981",
+      "primary_url": "https://www.aibase.com/news/29981",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "50cea8af1011426b0f5a31cdbdee9cf08cccbf91",
+          "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+          "url": "https://www.aibase.com/news/29981",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T10:28:13.311224Z"
+        },
+        {
+          "id": "9cb1f176a81c77c4856ec78c869f5f7f182c9c4a",
+          "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+          "url": "https://www.aibase.com/zh/news/29981",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "50cea8af1011426b0f5a31cdbdee9cf08cccbf91",
+          "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+          "url": "https://www.aibase.com/news/29981",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T10:28:13.311224Z"
+        },
+        {
+          "id": "9cb1f176a81c77c4856ec78c869f5f7f182c9c4a",
+          "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+          "url": "https://www.aibase.com/zh/news/29981",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8058,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T10:28:13.311224Z",
+      "latest_at": "2026-07-29T10:28:13.311224Z",
+      "primary_item": {
+        "id": "50cea8af1011426b0f5a31cdbdee9cf08cccbf91",
+        "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+        "url": "https://www.aibase.com/news/29981",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f1c958a670a3",
+      "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+      "url": "https://www.aibase.com/news/29984",
+      "primary_url": "https://www.aibase.com/news/29984",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
+          "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+          "url": "https://www.aibase.com/news/29984",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T10:28:13.311224Z"
+        },
+        {
+          "id": "4f96fa9b020eac7ef478ab029be9a3669df53c82",
+          "title": "月之暗面 Kimi 完成 F 轮超 35 亿美元融资 投后估值 350 亿美元",
+          "url": "https://www.aibase.com/zh/news/29984",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
+          "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+          "url": "https://www.aibase.com/news/29984",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T10:28:13.311224Z"
+        },
+        {
+          "id": "4f96fa9b020eac7ef478ab029be9a3669df53c82",
+          "title": "月之暗面 Kimi 完成 F 轮超 35 亿美元融资 投后估值 350 亿美元",
+          "url": "https://www.aibase.com/zh/news/29984",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8058,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T10:28:13.311224Z",
+      "latest_at": "2026-07-29T12:27:54.958478Z",
+      "primary_item": {
+        "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
+        "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+        "url": "https://www.aibase.com/news/29984",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a0ffa3eef543",
+      "title": "谷歌解散AI系统AlphaFold团队 将重心放在Gemini上",
+      "url": "https://www.aibase.com/news/29980",
+      "primary_url": "https://www.aibase.com/news/29980",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "012e604e41dde5be4fb0aadddc96a2504b195169",
+          "title": "谷歌解散AI系统AlphaFold团队 将重心放在Gemini上",
+          "url": "https://www.aibase.com/news/29980",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T10:28:13.311224Z"
+        },
+        {
+          "id": "9e76c8d0735df156c8c57ae8ce3d50d9b3a6d867",
+          "title": "谷歌解散 AI 系统 AlphaFold 团队，将重心放在 Gemini 上",
+          "url": "https://www.aibase.com/zh/news/29980",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "012e604e41dde5be4fb0aadddc96a2504b195169",
+          "title": "谷歌解散AI系统AlphaFold团队 将重心放在Gemini上",
+          "url": "https://www.aibase.com/news/29980",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T10:28:13.311224Z"
+        },
+        {
+          "id": "9e76c8d0735df156c8c57ae8ce3d50d9b3a6d867",
+          "title": "谷歌解散 AI 系统 AlphaFold 团队，将重心放在 Gemini 上",
+          "url": "https://www.aibase.com/zh/news/29980",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8058,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T10:28:13.311224Z",
+      "latest_at": "2026-07-29T10:28:13.311224Z",
+      "primary_item": {
+        "id": "012e604e41dde5be4fb0aadddc96a2504b195169",
+        "title": "谷歌解散AI系统AlphaFold团队 将重心放在Gemini上",
+        "url": "https://www.aibase.com/news/29980",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3ae30f26c073",
+      "title": "腾讯混元开源 AngelSpec 投机解码框架",
+      "url": "https://aihot.virxact.com/items/cms639jt416x6robksy69dzel",
+      "primary_url": "https://aihot.virxact.com/items/cms639jt416x6robksy69dzel",
+      "source": "X：腾讯混元 (@TencentHunyuan)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b38293c5742430cafe944df64a029ab6fca9dbdd",
+          "title": "腾讯混元开源 AngelSpec 投机解码框架",
+          "url": "https://aihot.virxact.com/items/cms639jt416x6robksy69dzel",
+          "source": "X：腾讯混元 (@TencentHunyuan)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T12:43:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：腾讯混元 (@TencentHunyuan)"
+      ],
+      "items": [
+        {
+          "id": "b38293c5742430cafe944df64a029ab6fca9dbdd",
+          "title": "腾讯混元开源 AngelSpec 投机解码框架",
+          "url": "https://aihot.virxact.com/items/cms639jt416x6robksy69dzel",
+          "source": "X：腾讯混元 (@TencentHunyuan)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T12:43:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9001,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T12:43:55Z",
+      "latest_at": "2026-07-29T12:43:55Z",
+      "primary_item": {
+        "id": "b38293c5742430cafe944df64a029ab6fca9dbdd",
+        "title": "腾讯混元开源 AngelSpec 投机解码框架",
+        "url": "https://aihot.virxact.com/items/cms639jt416x6robksy69dzel",
+        "source": "X：腾讯混元 (@TencentHunyuan)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_699b879447b9",
+      "title": "SpaceXAI 起诉明尼苏达州，反对&quot;AI 脱衣&quot;应用禁令",
+      "url": "https://aihot.virxact.com/items/cms63kkpw1751robk9wogwaek",
+      "primary_url": "https://aihot.virxact.com/items/cms63kkpw1751robk9wogwaek",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4f28f78bde70dae36379fbccdc12618c7d9bde6f",
+          "title": "SpaceXAI 起诉明尼苏达州，反对&quot;AI 脱衣&quot;应用禁令",
+          "url": "https://aihot.virxact.com/items/cms63kkpw1751robk9wogwaek",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T12:12:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4f28f78bde70dae36379fbccdc12618c7d9bde6f",
+          "title": "SpaceXAI 起诉明尼苏达州，反对&quot;AI 脱衣&quot;应用禁令",
+          "url": "https://aihot.virxact.com/items/cms63kkpw1751robk9wogwaek",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T12:12:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7876,
+      "importance": 0.7876,
+      "importance_score": 0.7876,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T12:12:21Z",
+      "latest_at": "2026-07-29T12:12:21Z",
+      "primary_item": {
+        "id": "4f28f78bde70dae36379fbccdc12618c7d9bde6f",
+        "title": "SpaceXAI 起诉明尼苏达州，反对&quot;AI 脱衣&quot;应用禁令",
+        "url": "https://aihot.virxact.com/items/cms63kkpw1751robk9wogwaek",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_4464a24ffd5f",
-      "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-      "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-      "primary_url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_1795e24b8f4f",
+      "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
+      "url": "https://aihot.virxact.com/items/cms6271f315rtrobkq6zgvphh",
+      "primary_url": "https://aihot.virxact.com/items/cms6271f315rtrobkq6zgvphh",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
-          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T01:23:10Z"
+          "id": "3f7779a65624dc667596122623e643aad36e92fa",
+          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
+          "url": "https://aihot.virxact.com/items/cms6271f315rtrobkq6zgvphh",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T11:54:29Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "The Verge：AI（RSS）"
       ],
       "items": [
         {
-          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
-          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T01:23:10Z"
+          "id": "3f7779a65624dc667596122623e643aad36e92fa",
+          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
+          "url": "https://aihot.virxact.com/items/cms6271f315rtrobkq6zgvphh",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T11:54:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7851,
+      "importance": 0.7851,
+      "importance_score": 0.7851,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8657,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T11:54:29Z",
+      "latest_at": "2026-07-29T11:54:29Z",
+      "primary_item": {
+        "id": "3f7779a65624dc667596122623e643aad36e92fa",
+        "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
+        "url": "https://aihot.virxact.com/items/cms6271f315rtrobkq6zgvphh",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_42a640510980",
+      "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
+      "url": "https://www.aibase.com/news/29972",
+      "primary_url": "https://www.aibase.com/news/29972",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "034e53df47a51f30706c341f422edefe2833d210",
+          "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
+          "url": "https://www.aibase.com/news/29972",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T07:36:24.715200Z"
+        },
+        {
+          "id": "7823578edbe07d5d11af2038dc96843ad02c4da3",
+          "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
+          "url": "https://www.aibase.com/zh/news/29972",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "034e53df47a51f30706c341f422edefe2833d210",
+          "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
+          "url": "https://www.aibase.com/news/29972",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T07:36:24.715200Z"
+        },
+        {
+          "id": "7823578edbe07d5d11af2038dc96843ad02c4da3",
+          "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
+          "url": "https://www.aibase.com/zh/news/29972",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6865,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T07:36:24.715200Z",
+      "latest_at": "2026-07-29T07:36:24.715200Z",
+      "primary_item": {
+        "id": "034e53df47a51f30706c341f422edefe2833d210",
+        "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
+        "url": "https://www.aibase.com/news/29972",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_aee53df4f287",
+      "title": "ChatGPT周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
+      "url": "https://www.aibase.com/news/29977",
+      "primary_url": "https://www.aibase.com/news/29977",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cd45b57a667c8c59ce4b0ecad528f6454e1af77b",
+          "title": "ChatGPT周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
+          "url": "https://www.aibase.com/news/29977",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T07:36:24.715200Z"
+        },
+        {
+          "id": "c703c80937dfb7b5e0f5a06df699a96e38550433",
+          "title": "ChatGPT 周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
+          "url": "https://www.aibase.com/zh/news/29977",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cd45b57a667c8c59ce4b0ecad528f6454e1af77b",
+          "title": "ChatGPT周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
+          "url": "https://www.aibase.com/news/29977",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T07:36:24.715200Z"
+        },
+        {
+          "id": "c703c80937dfb7b5e0f5a06df699a96e38550433",
+          "title": "ChatGPT 周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
+          "url": "https://www.aibase.com/zh/news/29977",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6865,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T07:36:24.715200Z",
+      "latest_at": "2026-07-29T07:36:24.715200Z",
+      "primary_item": {
+        "id": "cd45b57a667c8c59ce4b0ecad528f6454e1af77b",
+        "title": "ChatGPT周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
+        "url": "https://www.aibase.com/news/29977",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_60d6588cc0b6",
+      "title": "亚马逊调整 AI 战略:停研大部分 Nova 自研模型，资源转向皮特·阿贝尔团队",
+      "url": "https://www.aibase.com/news/29978",
+      "primary_url": "https://www.aibase.com/news/29978",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a98705277ed9e3906473770fba68546430e40901",
+          "title": "亚马逊调整 AI 战略:停研大部分 Nova 自研模型，资源转向皮特·阿贝尔团队",
+          "url": "https://www.aibase.com/news/29978",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T07:36:24.715200Z"
+        },
+        {
+          "id": "f2d8770cf75d3287ad5bb0e97c7d0c1fb2b359cd",
+          "title": "亚马逊调整 AI 战略：停研大部分 Nova 自研模型，资源转向皮特・阿贝尔团队",
+          "url": "https://www.aibase.com/zh/news/29978",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "a98705277ed9e3906473770fba68546430e40901",
+          "title": "亚马逊调整 AI 战略:停研大部分 Nova 自研模型，资源转向皮特·阿贝尔团队",
+          "url": "https://www.aibase.com/news/29978",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T07:36:24.715200Z"
+        },
+        {
+          "id": "f2d8770cf75d3287ad5bb0e97c7d0c1fb2b359cd",
+          "title": "亚马逊调整 AI 战略：停研大部分 Nova 自研模型，资源转向皮特・阿贝尔团队",
+          "url": "https://www.aibase.com/zh/news/29978",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6865,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T07:36:24.715200Z",
+      "latest_at": "2026-07-29T07:36:24.715200Z",
+      "primary_item": {
+        "id": "a98705277ed9e3906473770fba68546430e40901",
+        "title": "亚马逊调整 AI 战略:停研大部分 Nova 自研模型，资源转向皮特·阿贝尔团队",
+        "url": "https://www.aibase.com/news/29978",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_52180e491bb6",
+      "title": "支持耳语与情绪控制!Fish Audio 周年重磅发布 S2.1Pro 实时对话语音模型",
+      "url": "https://www.aibase.com/news/29974",
+      "primary_url": "https://www.aibase.com/news/29974",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4d98afdba1815af4df61f2b13fcc27090549e3c5",
+          "title": "支持耳语与情绪控制!Fish Audio 周年重磅发布 S2.1Pro 实时对话语音模型",
+          "url": "https://www.aibase.com/news/29974",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T07:36:24.715200Z"
+        },
+        {
+          "id": "9c6c9dbc42d7811089b930fdc092e90178bc232c",
+          "title": "支持耳语与情绪控制！Fish Audio 周年重磅发布 S2.1Pro 实时对话语音模型",
+          "url": "https://www.aibase.com/zh/news/29974",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4d98afdba1815af4df61f2b13fcc27090549e3c5",
+          "title": "支持耳语与情绪控制!Fish Audio 周年重磅发布 S2.1Pro 实时对话语音模型",
+          "url": "https://www.aibase.com/news/29974",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T07:36:24.715200Z"
+        },
+        {
+          "id": "9c6c9dbc42d7811089b930fdc092e90178bc232c",
+          "title": "支持耳语与情绪控制！Fish Audio 周年重磅发布 S2.1Pro 实时对话语音模型",
+          "url": "https://www.aibase.com/zh/news/29974",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6865,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T07:36:24.715200Z",
+      "latest_at": "2026-07-29T07:36:24.715200Z",
+      "primary_item": {
+        "id": "4d98afdba1815af4df61f2b13fcc27090549e3c5",
+        "title": "支持耳语与情绪控制!Fish Audio 周年重磅发布 S2.1Pro 实时对话语音模型",
+        "url": "https://www.aibase.com/news/29974",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8b3387f5a968",
+      "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
+      "url": "https://www.aibase.com/news/29985",
+      "primary_url": "https://www.aibase.com/news/29985",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a53612be1f9ff22545fecff59b7fa4f7a7940027",
+          "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
+          "url": "https://www.aibase.com/news/29985",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T10:28:13.311224Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a53612be1f9ff22545fecff59b7fa4f7a7940027",
+          "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
+          "url": "https://www.aibase.com/news/29985",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T10:28:13.311224Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8058,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T10:28:13.311224Z",
+      "latest_at": "2026-07-29T10:28:13.311224Z",
+      "primary_item": {
+        "id": "a53612be1f9ff22545fecff59b7fa4f7a7940027",
+        "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
+        "url": "https://www.aibase.com/news/29985",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.4189,
+        "ai_relevance": 0.98,
+        "recency": 0.3696,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1251,249 +1370,332 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T01:23:10Z",
-      "latest_at": "2026-07-28T01:23:10Z",
+      "earliest_at": "2026-07-29T00:00:00Z",
+      "latest_at": "2026-07-29T00:00:00Z",
       "primary_item": {
-        "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
-        "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-        "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-        "source": "GitHub Changelog",
+        "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+        "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_e85d5777eba9",
-      "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-      "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-      "primary_url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_c0eabe5b8925",
+      "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+      "url": "https://www.aibase.com/news/29960",
+      "primary_url": "https://www.aibase.com/news/29960",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "e7f77c3222f28409fda46a6dec84d3c5f3d7a6d9",
-          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-          "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T08:33:30Z"
+          "id": "559f899a8ac2ea137e29d2b5c629b4431a3c0755",
+          "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+          "url": "https://www.aibase.com/news/29960",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T04:41:58.539869Z"
+        },
+        {
+          "id": "636afb9bbdf49c0d0b97e14ebef66e2fe59b1902",
+          "title": "1100 名 AI 员工联名上书华盛顿：是时候给 AI 开发踩刹车了",
+          "url": "https://www.aibase.com/zh/news/29960",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "MarkTechPost（RSS）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "e7f77c3222f28409fda46a6dec84d3c5f3d7a6d9",
-          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-          "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T08:33:30Z"
+          "id": "559f899a8ac2ea137e29d2b5c629b4431a3c0755",
+          "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+          "url": "https://www.aibase.com/news/29960",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T04:41:58.539869Z"
+        },
+        {
+          "id": "636afb9bbdf49c0d0b97e14ebef66e2fe59b1902",
+          "title": "1100 名 AI 员工联名上书华盛顿：是时候给 AI 开发踩刹车了",
+          "url": "https://www.aibase.com/zh/news/29960",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7177,
-        "story_heat": 0.0
+        "recency": 0.5654,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T08:33:30Z",
-      "latest_at": "2026-07-28T08:33:30Z",
+      "earliest_at": "2026-07-29T04:41:58.539869Z",
+      "latest_at": "2026-07-29T04:41:58.539869Z",
       "primary_item": {
-        "id": "e7f77c3222f28409fda46a6dec84d3c5f3d7a6d9",
-        "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-        "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1abafd9198b3",
-      "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
-      "url": "https://www.aibase.com/news/29941",
-      "primary_url": "https://www.aibase.com/news/29941",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "75f16ccd32120e363520284ae1cb72d82b028e60",
-          "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
-          "url": "https://www.aibase.com/news/29941",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T07:31:01.659189Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "75f16ccd32120e363520284ae1cb72d82b028e60",
-          "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
-          "url": "https://www.aibase.com/news/29941",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T07:31:01.659189Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6744,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T07:31:01.659189Z",
-      "latest_at": "2026-07-28T07:31:01.659189Z",
-      "primary_item": {
-        "id": "75f16ccd32120e363520284ae1cb72d82b028e60",
-        "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
-        "url": "https://www.aibase.com/news/29941",
+        "id": "559f899a8ac2ea137e29d2b5c629b4431a3c0755",
+        "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+        "url": "https://www.aibase.com/news/29960",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d6be6c2878a2",
-      "title": "Kimi K3 开源首夜至少 18 家美国企业火速部署",
-      "url": "https://www.aibase.com/news/29942",
-      "primary_url": "https://www.aibase.com/news/29942",
+      "story_id": "story_3bb46e638656",
+      "title": "AI让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
+      "url": "https://www.aibase.com/news/29968",
+      "primary_url": "https://www.aibase.com/news/29968",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3c57476fe556202489fa274f84cb492d60dc4a08",
-          "title": "Kimi K3 开源首夜至少 18 家美国企业火速部署",
-          "url": "https://www.aibase.com/news/29942",
+          "id": "89a9ff0867339ac3cb13d9d8f1c46bc04b0f71b5",
+          "title": "AI让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
+          "url": "https://www.aibase.com/news/29968",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T07:31:01.659189Z"
+          "published_at": "2026-07-29T04:41:58.539869Z"
+        },
+        {
+          "id": "eda03f69d71b13701e90ab5c8c1031ba92d642da",
+          "title": "AI 让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
+          "url": "https://www.aibase.com/zh/news/29968",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "3c57476fe556202489fa274f84cb492d60dc4a08",
-          "title": "Kimi K3 开源首夜至少 18 家美国企业火速部署",
-          "url": "https://www.aibase.com/news/29942",
+          "id": "89a9ff0867339ac3cb13d9d8f1c46bc04b0f71b5",
+          "title": "AI让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
+          "url": "https://www.aibase.com/news/29968",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T07:31:01.659189Z"
+          "published_at": "2026-07-29T04:41:58.539869Z"
+        },
+        {
+          "id": "eda03f69d71b13701e90ab5c8c1031ba92d642da",
+          "title": "AI 让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
+          "url": "https://www.aibase.com/zh/news/29968",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6744,
-        "story_heat": 0.0
+        "recency": 0.5654,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-28T07:31:01.659189Z",
-      "latest_at": "2026-07-28T07:31:01.659189Z",
+      "earliest_at": "2026-07-29T04:41:58.539869Z",
+      "latest_at": "2026-07-29T04:41:58.539869Z",
       "primary_item": {
-        "id": "3c57476fe556202489fa274f84cb492d60dc4a08",
-        "title": "Kimi K3 开源首夜至少 18 家美国企业火速部署",
-        "url": "https://www.aibase.com/news/29942",
+        "id": "89a9ff0867339ac3cb13d9d8f1c46bc04b0f71b5",
+        "title": "AI让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
+        "url": "https://www.aibase.com/news/29968",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c9a7dbabfc21",
-      "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
-      "url": "https://www.aibase.com/news/29940",
-      "primary_url": "https://www.aibase.com/news/29940",
+      "story_id": "story_23882db0ce16",
+      "title": "OpenRouter 推出专用 LangChain 集成包 一行字符串切 400 款模型，故障自动绕行",
+      "url": "https://www.aibase.com/news/29969",
+      "primary_url": "https://www.aibase.com/news/29969",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2e18f9befe07389dbc4307e561f72f9dcc3e0e6c",
-          "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
-          "url": "https://www.aibase.com/news/29940",
+          "id": "4a8337065f8401e8f77f22fa80f6cc5fce941e55",
+          "title": "OpenRouter 推出专用 LangChain 集成包 一行字符串切 400 款模型，故障自动绕行",
+          "url": "https://www.aibase.com/news/29969",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T07:31:01.659189Z"
+          "published_at": "2026-07-29T04:41:58.539869Z"
+        },
+        {
+          "id": "2215e443b928ea01b3916eeaa84518aa490a86ff",
+          "title": "OpenRouter 推出专用 LangChain 集成包，一行字符串切换 400 款模型，故障自动绕行",
+          "url": "https://www.aibase.com/zh/news/29969",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "2e18f9befe07389dbc4307e561f72f9dcc3e0e6c",
-          "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
-          "url": "https://www.aibase.com/news/29940",
+          "id": "4a8337065f8401e8f77f22fa80f6cc5fce941e55",
+          "title": "OpenRouter 推出专用 LangChain 集成包 一行字符串切 400 款模型，故障自动绕行",
+          "url": "https://www.aibase.com/news/29969",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-28T07:31:01.659189Z"
+          "published_at": "2026-07-29T04:41:58.539869Z"
+        },
+        {
+          "id": "2215e443b928ea01b3916eeaa84518aa490a86ff",
+          "title": "OpenRouter 推出专用 LangChain 集成包，一行字符串切换 400 款模型，故障自动绕行",
+          "url": "https://www.aibase.com/zh/news/29969",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6744,
-        "story_heat": 0.0
+        "recency": 0.5654,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-28T07:31:01.659189Z",
-      "latest_at": "2026-07-28T07:31:01.659189Z",
+      "earliest_at": "2026-07-29T04:41:58.539869Z",
+      "latest_at": "2026-07-29T04:41:58.539869Z",
       "primary_item": {
-        "id": "2e18f9befe07389dbc4307e561f72f9dcc3e0e6c",
-        "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
-        "url": "https://www.aibase.com/news/29940",
+        "id": "4a8337065f8401e8f77f22fa80f6cc5fce941e55",
+        "title": "OpenRouter 推出专用 LangChain 集成包 一行字符串切 400 款模型，故障自动绕行",
+        "url": "https://www.aibase.com/news/29969",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_aeb6ed419639",
+      "title": "Runlayer 起诉 HR 巨头 Rippling:指控其利用试用期盗用代码，1:1克隆 AI 网关",
+      "url": "https://www.aibase.com/news/29959",
+      "primary_url": "https://www.aibase.com/news/29959",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "205a2b1f20f22a9487d9540674f7a8fa9e443de8",
+          "title": "Runlayer 起诉 HR 巨头 Rippling:指控其利用试用期盗用代码，1:1克隆 AI 网关",
+          "url": "https://www.aibase.com/news/29959",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T04:41:58.539869Z"
+        },
+        {
+          "id": "81bdbb603a74fa69432ab764f4338306bd4d2580",
+          "title": "Runlayer 起诉 HR 巨头 Rippling: 指控其利用试用期盗用代码，1:1 克隆 AI 网关",
+          "url": "https://www.aibase.com/zh/news/29959",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "205a2b1f20f22a9487d9540674f7a8fa9e443de8",
+          "title": "Runlayer 起诉 HR 巨头 Rippling:指控其利用试用期盗用代码，1:1克隆 AI 网关",
+          "url": "https://www.aibase.com/news/29959",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T04:41:58.539869Z"
+        },
+        {
+          "id": "81bdbb603a74fa69432ab764f4338306bd4d2580",
+          "title": "Runlayer 起诉 HR 巨头 Rippling: 指控其利用试用期盗用代码，1:1 克隆 AI 网关",
+          "url": "https://www.aibase.com/zh/news/29959",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5654,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T04:41:58.539869Z",
+      "latest_at": "2026-07-29T04:41:58.539869Z",
+      "primary_item": {
+        "id": "205a2b1f20f22a9487d9540674f7a8fa9e443de8",
+        "title": "Runlayer 起诉 HR 巨头 Rippling:指控其利用试用期盗用代码，1:1克隆 AI 网关",
+        "url": "https://www.aibase.com/news/29959",
         "source": "AIbase",
         "source_name": "AIbase"
       }
