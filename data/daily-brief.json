@@ -1,441 +1,945 @@
 {
-  "generated_at": "2026-07-30T15:09:12.676149Z",
+  "generated_at": "2026-07-31T15:17:56.266349Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_0c55289d534f",
-      "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260731-0109-4693-af0e-7996ac3206d0&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260731-0109-4693-af0e-7996ac3206d0&fp=-3",
-      "source": "Page Fallback",
-      "source_name": "AI HubToday",
+      "story_id": "story_6e145b017b5a",
+      "title": "构建丰富的智能 / Building abundant intelligence",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "primary_url": "https://openai.com/index/building-abundant-intelligence",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c9dfb5ca7e4220568038e9a1b3fb820d316f5c18",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260731-0109-4693-af0e-7996ac3206d0&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "68dcc5b1143e627eb08846282a6bcd2557aec67c",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-2302-197d-bd94-3a5d43385bce&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "6e7f57f8e908e9da706fb1a1ece18be3642403f3",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-2127-0386-98f4-2de24d71397d&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "3982807488bad585de5837a700e35626b5272d51",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-1910-23be-9587-b42d92dea952&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "71392b3bb41b4fbbea65f7d08806aa732d07d92e",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-1618-06cc-bdcd-9b4e72ba7ac7&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "4996e30cd6b6845466fb20ef6d502243da91a334",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-1349-559f-8fcb-8c595cc23b68&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "ce0040b7f0ae5cc912df3876e551a84ab4a05355",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-1054-39a0-8320-a100cff48305&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "1fdd2328ddc7431f2ee143f669f6525b06e88c27",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0929-2766-a559-cb0cb149b542&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "24d24bfd077fa7d26af465f619429d6c92b0c2c5",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0827-12d5-8ded-7e65930ba832&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "44aba1f4824e00111ab2cb2c246452c2634ba302",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0724-37a9-86d9-a25768c7cc43&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "ee44b0af94868fa005f8307df267a9fd0ed65bb3",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0607-318c-b1a6-2cb6e5e15352&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "6c93b78448f4fff7800e8d43b3c2fb58fc5a0478",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0454-195c-8b19-850c12971274&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "66238d11f5fa92996f90b1db72c8278421c0daa9",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0345-31c8-ad02-b0ef697ed86d&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "045abc5a9f27241266bc09c1bc6aa9c031a06ebd",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0215-2070-afac-593209c73b7e&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
+          "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
+          "title": "构建丰富的智能 / Building abundant intelligence",
+          "url": "https://openai.com/index/building-abundant-intelligence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T15:00:00Z"
         }
       ],
-      "source_count": 14,
+      "source_count": 1,
       "source_names": [
-        "Page Fallback"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "c9dfb5ca7e4220568038e9a1b3fb820d316f5c18",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260731-0109-4693-af0e-7996ac3206d0&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "68dcc5b1143e627eb08846282a6bcd2557aec67c",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-2302-197d-bd94-3a5d43385bce&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "6e7f57f8e908e9da706fb1a1ece18be3642403f3",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-2127-0386-98f4-2de24d71397d&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "3982807488bad585de5837a700e35626b5272d51",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-1910-23be-9587-b42d92dea952&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "71392b3bb41b4fbbea65f7d08806aa732d07d92e",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-1618-06cc-bdcd-9b4e72ba7ac7&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "4996e30cd6b6845466fb20ef6d502243da91a334",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-1349-559f-8fcb-8c595cc23b68&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "ce0040b7f0ae5cc912df3876e551a84ab4a05355",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-1054-39a0-8320-a100cff48305&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "1fdd2328ddc7431f2ee143f669f6525b06e88c27",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0929-2766-a559-cb0cb149b542&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "24d24bfd077fa7d26af465f619429d6c92b0c2c5",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0827-12d5-8ded-7e65930ba832&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "44aba1f4824e00111ab2cb2c246452c2634ba302",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0724-37a9-86d9-a25768c7cc43&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "ee44b0af94868fa005f8307df267a9fd0ed65bb3",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0607-318c-b1a6-2cb6e5e15352&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "6c93b78448f4fff7800e8d43b3c2fb58fc5a0478",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0454-195c-8b19-850c12971274&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "66238d11f5fa92996f90b1db72c8278421c0daa9",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0345-31c8-ad02-b0ef697ed86d&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "045abc5a9f27241266bc09c1bc6aa9c031a06ebd",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0215-2070-afac-593209c73b7e&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
+          "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
+          "title": "构建丰富的智能 / Building abundant intelligence",
+          "url": "https://openai.com/index/building-abundant-intelligence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T15:00:00Z"
         }
       ],
-      "item_count": 14,
-      "duplicate_count": 14,
-      "score": 0.912,
-      "importance": 0.912,
-      "importance_score": 0.912,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8705,
+      "importance": 0.8705,
+      "importance_score": 0.8705,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9875,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T15:00:00Z",
+      "latest_at": "2026-07-31T15:00:00Z",
+      "primary_item": {
+        "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
+        "title": "构建丰富的智能 / Building abundant intelligence",
+        "url": "https://openai.com/index/building-abundant-intelligence",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_cc4467822b33",
+      "title": "字节 Seedance 2.5 发布：30 秒一镜到底视频",
+      "url": "https://aihot.virxact.com/items/cms92ioz7022xro9k9kmww9ug",
+      "primary_url": "https://aihot.virxact.com/items/cms92ioz7022xro9k9kmww9ug",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "75fc43eac9b0d88f25b4422bc56ba712de9e2019",
+          "title": "字节 Seedance 2.5 发布：30 秒一镜到底视频",
+          "url": "https://aihot.virxact.com/items/cms92ioz7022xro9k9kmww9ug",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T14:41:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "75fc43eac9b0d88f25b4422bc56ba712de9e2019",
+          "title": "字节 Seedance 2.5 发布：30 秒一镜到底视频",
+          "url": "https://aihot.virxact.com/items/cms92ioz7022xro9k9kmww9ug",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T14:41:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8069,
+      "importance": 0.8069,
+      "importance_score": 0.8069,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 1.0
+        "recency": 0.9744,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T14:41:04Z",
+      "latest_at": "2026-07-31T14:41:04Z",
+      "primary_item": {
+        "id": "75fc43eac9b0d88f25b4422bc56ba712de9e2019",
+        "title": "字节 Seedance 2.5 发布：30 秒一镜到底视频",
+        "url": "https://aihot.virxact.com/items/cms92ioz7022xro9k9kmww9ug",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_11290e610f9d",
+      "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+      "url": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n",
+      "primary_url": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ae7f6daeac0abc04e6b4ff6d29f25df86a586bb9",
+          "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+          "url": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T11:40:12Z"
+        },
+        {
+          "id": "d3ef6af9be55b0509f72d07db268e1b5c099f026",
+          "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+          "url": "https://www.ithome.com/0/984/365.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-31T11:40:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ae7f6daeac0abc04e6b4ff6d29f25df86a586bb9",
+          "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+          "url": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T11:40:12Z"
+        },
+        {
+          "id": "d3ef6af9be55b0509f72d07db268e1b5c099f026",
+          "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+          "url": "https://www.ithome.com/0/984/365.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-31T11:40:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8488,
+        "story_heat": 0.25
+      },
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T16:14:55.276388Z",
-      "latest_at": "2026-07-30T15:09:12.676149Z",
+      "earliest_at": "2026-07-31T11:40:12Z",
+      "latest_at": "2026-07-31T11:40:12Z",
       "primary_item": {
-        "id": "c9dfb5ca7e4220568038e9a1b3fb820d316f5c18",
-        "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260731-0109-4693-af0e-7996ac3206d0&fp=-3",
-        "source": "Page Fallback",
-        "source_name": "AI HubToday"
+        "id": "ae7f6daeac0abc04e6b4ff6d29f25df86a586bb9",
+        "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+        "url": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_f684c3a66a25",
-      "title": "GPU 管理：为什么空闲 GPU 成为新的停飞飞机 / GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_42c61f490438",
+      "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
+      "url": "https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv",
+      "primary_url": "https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "94478772289f7d30ab8af720414186d57c47492e",
-          "title": "GPU 管理：为什么空闲 GPU 成为新的停飞飞机 / GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T15:09:09Z"
+          "id": "66a40d7641cc2e9208d3397e8b82908126887578",
+          "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
+          "url": "https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T13:00:02Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "X：面壁智能 OpenBMB (@OpenBMB)"
       ],
       "items": [
         {
-          "id": "94478772289f7d30ab8af720414186d57c47492e",
-          "title": "GPU 管理：为什么空闲 GPU 成为新的停飞飞机 / GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T15:09:09Z"
+          "id": "66a40d7641cc2e9208d3397e8b82908126887578",
+          "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
+          "url": "https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T13:00:02Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.894,
-      "importance": 0.894,
-      "importance_score": 0.894,
-      "importance_label": "官方更新",
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 1.0,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9042,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T15:09:09Z",
-      "latest_at": "2026-07-30T15:09:09Z",
+      "earliest_at": "2026-07-31T13:00:02Z",
+      "latest_at": "2026-07-31T13:00:02Z",
       "primary_item": {
-        "id": "94478772289f7d30ab8af720414186d57c47492e",
-        "title": "GPU 管理：为什么空闲 GPU 成为新的停飞飞机 / GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "id": "66a40d7641cc2e9208d3397e8b82908126887578",
+        "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
+        "url": "https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv",
+        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_2b882e1b8e76",
-      "title": "Gemini Robotics ER 2：通过视频理解、任务编排和多机器人协作为机器人技术提供动力 / Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
-      "primary_url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
+      "story_id": "story_80e1068a8cb7",
+      "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+      "url": "https://www.aibase.com/news/30039",
+      "primary_url": "https://www.aibase.com/news/30039",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "3149b015308bb0989076ecf844477cdfdf6cf120",
-          "title": "Gemini Robotics ER 2：通过视频理解、任务编排和多机器人协作为机器人技术提供动力 / Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T15:00:59Z"
+          "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
+          "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+          "url": "https://www.aibase.com/news/30039",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T08:13:27.879974Z"
+        },
+        {
+          "id": "816823a4299c305649bc35caac782fc637cce85d",
+          "title": "Claude「闯出」测试环境？Anthropic 承认 AI 模型曾入侵三家机构系统",
+          "url": "https://www.aibase.com/zh/news/30039",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
+          "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+          "url": "https://www.aibase.com/news/30039",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T08:13:27.879974Z"
+        },
+        {
+          "id": "816823a4299c305649bc35caac782fc637cce85d",
+          "title": "Claude「闯出」测试环境？Anthropic 承认 AI 模型曾入侵三家机构系统",
+          "url": "https://www.aibase.com/zh/news/30039",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7052,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T08:13:27.879974Z",
+      "latest_at": "2026-07-31T08:13:27.879974Z",
+      "primary_item": {
+        "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
+        "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+        "url": "https://www.aibase.com/news/30039",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d11e98ae357f",
+      "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
+      "url": "https://www.aibase.com/news/30044",
+      "primary_url": "https://www.aibase.com/news/30044",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "36da0614f523ee93147d5c8ff1a64b83cf429bcf",
+          "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
+          "url": "https://www.aibase.com/news/30044",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T08:13:27.879974Z"
+        },
+        {
+          "id": "82ddbc856e92c06770aa12725a3fd5936077eaa7",
+          "title": "DeepSeek-V4-Flash API公测上线，Agent能力大幅升级",
+          "url": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t",
+          "source": "X：DeepSeek (@deepseek_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T06:56:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "X：DeepSeek (@deepseek_ai)"
+      ],
+      "items": [
+        {
+          "id": "36da0614f523ee93147d5c8ff1a64b83cf429bcf",
+          "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
+          "url": "https://www.aibase.com/news/30044",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T08:13:27.879974Z"
+        },
+        {
+          "id": "82ddbc856e92c06770aa12725a3fd5936077eaa7",
+          "title": "DeepSeek-V4-Flash API公测上线，Agent能力大幅升级",
+          "url": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t",
+          "source": "X：DeepSeek (@deepseek_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T06:56:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7052,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T06:56:41Z",
+      "latest_at": "2026-07-31T08:13:27.879974Z",
+      "primary_item": {
+        "id": "36da0614f523ee93147d5c8ff1a64b83cf429bcf",
+        "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
+        "url": "https://www.aibase.com/news/30044",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_72d30b731ced",
+      "title": "DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场",
+      "url": "https://www.aibase.com/news/30040",
+      "primary_url": "https://www.aibase.com/news/30040",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2cc1223af2f0cee57a2e93e4e060f7d5d303b2b3",
+          "title": "DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场",
+          "url": "https://www.aibase.com/news/30040",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T08:13:27.879974Z"
+        },
+        {
+          "id": "a8fb86b1190ee7459d670d9cca8bc7f5883dde29",
+          "title": "DeepSeek-V4-Flash 正式版上线，130 亿激活参数撬动 Agent 战场",
+          "url": "https://www.aibase.com/zh/news/30040",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2cc1223af2f0cee57a2e93e4e060f7d5d303b2b3",
+          "title": "DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场",
+          "url": "https://www.aibase.com/news/30040",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T08:13:27.879974Z"
+        },
+        {
+          "id": "a8fb86b1190ee7459d670d9cca8bc7f5883dde29",
+          "title": "DeepSeek-V4-Flash 正式版上线，130 亿激活参数撬动 Agent 战场",
+          "url": "https://www.aibase.com/zh/news/30040",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7052,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T08:13:27.879974Z",
+      "latest_at": "2026-07-31T08:13:27.879974Z",
+      "primary_item": {
+        "id": "2cc1223af2f0cee57a2e93e4e060f7d5d303b2b3",
+        "title": "DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场",
+        "url": "https://www.aibase.com/news/30040",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c666711b89d3",
+      "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
+      "url": "https://www.aibase.com/news/30045",
+      "primary_url": "https://www.aibase.com/news/30045",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4d4ff196ca405f24c462f32c91b9e4563db588f7",
+          "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
+          "url": "https://www.aibase.com/news/30045",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T08:13:27.879974Z"
+        },
+        {
+          "id": "a0747c96f3c05c9aefacbbbc75ebe865929c6d0f",
+          "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
+          "url": "https://www.aibase.com/zh/news/30045",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4d4ff196ca405f24c462f32c91b9e4563db588f7",
+          "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
+          "url": "https://www.aibase.com/news/30045",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T08:13:27.879974Z"
+        },
+        {
+          "id": "a0747c96f3c05c9aefacbbbc75ebe865929c6d0f",
+          "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
+          "url": "https://www.aibase.com/zh/news/30045",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7052,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T08:13:27.879974Z",
+      "latest_at": "2026-07-31T11:03:10.167399Z",
+      "primary_item": {
+        "id": "4d4ff196ca405f24c462f32c91b9e4563db588f7",
+        "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
+        "url": "https://www.aibase.com/news/30045",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cf9f88dcb0e8",
+      "title": "阿里发布语音识别新模型，医疗词汇\"听中率\"破 95%，曾拿全球最低错字率",
+      "url": "https://www.aibase.com/news/30038",
+      "primary_url": "https://www.aibase.com/news/30038",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3e749f97546d4a2faf9f23f6da14bf44130aaa8c",
+          "title": "阿里发布语音识别新模型，医疗词汇\"听中率\"破 95%，曾拿全球最低错字率",
+          "url": "https://www.aibase.com/news/30038",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T08:13:27.879974Z"
+        },
+        {
+          "id": "88be307208fe0322ca2bb3c6606fa77c4673383e",
+          "title": "阿里发布语音识别新模型，医疗词汇听中率破95%，曾拿全球最低错字率",
+          "url": "https://www.aibase.com/zh/news/30038",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3e749f97546d4a2faf9f23f6da14bf44130aaa8c",
+          "title": "阿里发布语音识别新模型，医疗词汇\"听中率\"破 95%，曾拿全球最低错字率",
+          "url": "https://www.aibase.com/news/30038",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T08:13:27.879974Z"
+        },
+        {
+          "id": "88be307208fe0322ca2bb3c6606fa77c4673383e",
+          "title": "阿里发布语音识别新模型，医疗词汇听中率破95%，曾拿全球最低错字率",
+          "url": "https://www.aibase.com/zh/news/30038",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7052,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T08:13:27.879974Z",
+      "latest_at": "2026-07-31T08:13:27.879974Z",
+      "primary_item": {
+        "id": "3e749f97546d4a2faf9f23f6da14bf44130aaa8c",
+        "title": "阿里发布语音识别新模型，医疗词汇\"听中率\"破 95%，曾拿全球最低错字率",
+        "url": "https://www.aibase.com/news/30038",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5bb7bd93b518",
+      "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
+      "url": "https://www.aibase.com/news/30041",
+      "primary_url": "https://www.aibase.com/news/30041",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2f1ee219ee82a980a69cbe42dbafbe0c791adfb4",
+          "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
+          "url": "https://www.aibase.com/news/30041",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T08:13:27.879974Z"
+        },
+        {
+          "id": "b8adcaec9ca05baa158a4c9527a7aa1e5be5c65c",
+          "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
+          "url": "https://www.aibase.com/zh/news/30041",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2f1ee219ee82a980a69cbe42dbafbe0c791adfb4",
+          "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
+          "url": "https://www.aibase.com/news/30041",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T08:13:27.879974Z"
+        },
+        {
+          "id": "b8adcaec9ca05baa158a4c9527a7aa1e5be5c65c",
+          "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
+          "url": "https://www.aibase.com/zh/news/30041",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7052,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T08:13:27.879974Z",
+      "latest_at": "2026-07-31T08:13:27.879974Z",
+      "primary_item": {
+        "id": "2f1ee219ee82a980a69cbe42dbafbe0c791adfb4",
+        "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
+        "url": "https://www.aibase.com/news/30041",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cf3eabf149e6",
+      "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
+      "url": "https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga",
+      "primary_url": "https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga",
+      "source": "Google AI：DEV 作者专属（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "10337791b4068aa0f5963f7fecad6f90add283b0",
+          "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
+          "url": "https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga",
+          "source": "Google AI：DEV 作者专属（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T11:07:35Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google DeepMind"
+        "Google AI：DEV 作者专属（RSS）"
       ],
       "items": [
         {
-          "id": "3149b015308bb0989076ecf844477cdfdf6cf120",
-          "title": "Gemini Robotics ER 2：通过视频理解、任务编排和多机器人协作为机器人技术提供动力 / Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T15:00:59Z"
+          "id": "10337791b4068aa0f5963f7fecad6f90add283b0",
+          "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
+          "url": "https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga",
+          "source": "Google AI：DEV 作者专属（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T11:07:35Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8899,
-      "importance": 0.8899,
-      "importance_score": 0.8899,
-      "importance_label": "官方更新",
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.97,
-        "recency": 0.9943,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8261,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T15:00:59Z",
-      "latest_at": "2026-07-30T15:00:59Z",
+      "earliest_at": "2026-07-31T11:07:35Z",
+      "latest_at": "2026-07-31T11:07:35Z",
       "primary_item": {
-        "id": "3149b015308bb0989076ecf844477cdfdf6cf120",
-        "title": "Gemini Robotics ER 2：通过视频理解、任务编排和多机器人协作为机器人技术提供动力 / Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-        "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
+        "id": "10337791b4068aa0f5963f7fecad6f90add283b0",
+        "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
+        "url": "https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga",
+        "source": "Google AI：DEV 作者专属（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_eb2cead18dd4",
-      "title": "FCC 禁止进口中国新型机器人与联网逆变器",
-      "url": "https://aihot.virxact.com/items/cms7ioy5f0hfaro2ehgiti5h1",
-      "primary_url": "https://aihot.virxact.com/items/cms7ioy5f0hfaro2ehgiti5h1",
+      "story_id": "story_cec1665200b4",
+      "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+      "url": "https://www.aibase.com/news/30048",
+      "primary_url": "https://www.aibase.com/news/30048",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
+          "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "url": "https://www.aibase.com/news/30048",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T11:03:10.167399Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
+          "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "url": "https://www.aibase.com/news/30048",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T11:03:10.167399Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8231,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T11:03:10.167399Z",
+      "latest_at": "2026-07-31T11:03:10.167399Z",
+      "primary_item": {
+        "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
+        "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+        "url": "https://www.aibase.com/news/30048",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_157edb3ab0b6",
+      "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+      "url": "https://www.aibase.com/news/30049",
+      "primary_url": "https://www.aibase.com/news/30049",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
+          "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+          "url": "https://www.aibase.com/news/30049",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T11:03:10.167399Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
+          "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+          "url": "https://www.aibase.com/news/30049",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T11:03:10.167399Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8231,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T11:03:10.167399Z",
+      "latest_at": "2026-07-31T11:03:10.167399Z",
+      "primary_item": {
+        "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
+        "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+        "url": "https://www.aibase.com/news/30049",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5456836735ba",
+      "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
+      "url": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd",
+      "primary_url": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "da17496fa45020ccba1e66d5b75f35deecfccbf6",
-          "title": "FCC 禁止进口中国新型机器人与联网逆变器",
-          "url": "https://aihot.virxact.com/items/cms7ioy5f0hfaro2ehgiti5h1",
+          "id": "d4b7a1a36811cb5e43897a02a97f77f7527c9e3c",
+          "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
+          "url": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-30T12:47:46Z"
+          "published_at": "2026-07-31T10:57:37Z"
         }
       ],
       "source_count": 1,
@@ -444,25 +948,25 @@
       ],
       "items": [
         {
-          "id": "da17496fa45020ccba1e66d5b75f35deecfccbf6",
-          "title": "FCC 禁止进口中国新型机器人与联网逆变器",
-          "url": "https://aihot.virxact.com/items/cms7ioy5f0hfaro2ehgiti5h1",
+          "id": "d4b7a1a36811cb5e43897a02a97f77f7527c9e3c",
+          "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
+          "url": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-30T12:47:46Z"
+          "published_at": "2026-07-31T10:57:37Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9018,
+        "recency": 0.8192,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -470,659 +974,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T12:47:46Z",
-      "latest_at": "2026-07-30T12:47:46Z",
+      "earliest_at": "2026-07-31T10:57:37Z",
+      "latest_at": "2026-07-31T10:57:37Z",
       "primary_item": {
-        "id": "da17496fa45020ccba1e66d5b75f35deecfccbf6",
-        "title": "FCC 禁止进口中国新型机器人与联网逆变器",
-        "url": "https://aihot.virxact.com/items/cms7ioy5f0hfaro2ehgiti5h1",
+        "id": "d4b7a1a36811cb5e43897a02a97f77f7527c9e3c",
+        "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
+        "url": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_14eaa03c292b",
-      "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
-      "url": "https://www.aibase.com/news/30014",
-      "primary_url": "https://www.aibase.com/news/30014",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bc6edf1c1cfdcac2dca84c3ec80b5f2c352806d1",
-          "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
-          "url": "https://www.aibase.com/news/30014",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:10:02.007170Z"
-        },
-        {
-          "id": "f550c5395f7398287a13d13e99bb015f78e96431",
-          "title": "WorkBuddy 重大升级：「人机双写」上线，AI 时代的 Office 来了！",
-          "url": "https://www.leiphone.com/category/industrynews/8MKR072E5thjAEJQ.html",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "bc6edf1c1cfdcac2dca84c3ec80b5f2c352806d1",
-          "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
-          "url": "https://www.aibase.com/news/30014",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:10:02.007170Z"
-        },
-        {
-          "id": "f550c5395f7398287a13d13e99bb015f78e96431",
-          "title": "WorkBuddy 重大升级：「人机双写」上线，AI 时代的 Office 来了！",
-          "url": "https://www.leiphone.com/category/industrynews/8MKR072E5thjAEJQ.html",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7871,
-      "importance": 0.7871,
-      "importance_score": 0.7871,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7506,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T06:17:44.396504Z",
-      "latest_at": "2026-07-30T09:10:02.007170Z",
-      "primary_item": {
-        "id": "bc6edf1c1cfdcac2dca84c3ec80b5f2c352806d1",
-        "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
-        "url": "https://www.aibase.com/news/30014",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_955f8322a4f5",
-      "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
-      "url": "https://www.aibase.com/news/30013",
-      "primary_url": "https://www.aibase.com/news/30013",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "35fbca5b1e651f34c635890a93ffbac2d9030b71",
-          "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
-          "url": "https://www.aibase.com/news/30013",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:10:02.007170Z"
-        },
-        {
-          "id": "0721b5055bc9ca0c78fb3a0f53076ef361a5459a",
-          "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
-          "url": "https://www.aibase.com/zh/news/30013",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "35fbca5b1e651f34c635890a93ffbac2d9030b71",
-          "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
-          "url": "https://www.aibase.com/news/30013",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:10:02.007170Z"
-        },
-        {
-          "id": "0721b5055bc9ca0c78fb3a0f53076ef361a5459a",
-          "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
-          "url": "https://www.aibase.com/zh/news/30013",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7871,
-      "importance": 0.7871,
-      "importance_score": 0.7871,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7506,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T09:10:02.007170Z",
-      "latest_at": "2026-07-30T09:10:02.007170Z",
-      "primary_item": {
-        "id": "35fbca5b1e651f34c635890a93ffbac2d9030b71",
-        "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
-        "url": "https://www.aibase.com/news/30013",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f94517e704d2",
-      "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
-      "url": "https://www.aibase.com/news/30009",
-      "primary_url": "https://www.aibase.com/news/30009",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "eec8b43d5ee2184ec6c792666b139dd6dc536cc2",
-          "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
-          "url": "https://www.aibase.com/news/30009",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:10:02.007170Z"
-        },
-        {
-          "id": "ba6ad434521b66aaaab1c6a276f1c01a761d2adb",
-          "title": "微软确认开发 Copilot AI 超级应用，整合聊天、编程与智能代理能力",
-          "url": "https://www.aibase.com/zh/news/30009",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "eec8b43d5ee2184ec6c792666b139dd6dc536cc2",
-          "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
-          "url": "https://www.aibase.com/news/30009",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:10:02.007170Z"
-        },
-        {
-          "id": "ba6ad434521b66aaaab1c6a276f1c01a761d2adb",
-          "title": "微软确认开发 Copilot AI 超级应用，整合聊天、编程与智能代理能力",
-          "url": "https://www.aibase.com/zh/news/30009",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7871,
-      "importance": 0.7871,
-      "importance_score": 0.7871,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7506,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T09:10:02.007170Z",
-      "latest_at": "2026-07-30T09:10:02.007170Z",
-      "primary_item": {
-        "id": "eec8b43d5ee2184ec6c792666b139dd6dc536cc2",
-        "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
-        "url": "https://www.aibase.com/news/30009",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5986d58198e9",
-      "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-      "url": "https://www.aibase.com/news/30011",
-      "primary_url": "https://www.aibase.com/news/30011",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
-          "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-          "url": "https://www.aibase.com/news/30011",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:10:02.007170Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
-          "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-          "url": "https://www.aibase.com/news/30011",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:10:02.007170Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7506,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T09:10:02.007170Z",
-      "latest_at": "2026-07-30T09:10:02.007170Z",
-      "primary_item": {
-        "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
-        "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-        "url": "https://www.aibase.com/news/30011",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f757e33401b3",
-      "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-      "url": "https://www.aibase.com/news/30007",
-      "primary_url": "https://www.aibase.com/news/30007",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4a8c5e489f4be5d6ff45b58a9571b833b4b8a695",
-          "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-          "url": "https://www.aibase.com/news/30007",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:10:02.007170Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4a8c5e489f4be5d6ff45b58a9571b833b4b8a695",
-          "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-          "url": "https://www.aibase.com/news/30007",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:10:02.007170Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7506,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T09:10:02.007170Z",
-      "latest_at": "2026-07-30T09:10:02.007170Z",
-      "primary_item": {
-        "id": "4a8c5e489f4be5d6ff45b58a9571b833b4b8a695",
-        "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-        "url": "https://www.aibase.com/news/30007",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8d5823e59e2f",
-      "title": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
-      "url": "https://www.aibase.com/news/30006",
-      "primary_url": "https://www.aibase.com/news/30006",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ee906d71243424a03f6a354e35f8cd47dc12ba4b",
-          "title": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
-          "url": "https://www.aibase.com/news/30006",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:10:02.007170Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ee906d71243424a03f6a354e35f8cd47dc12ba4b",
-          "title": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
-          "url": "https://www.aibase.com/news/30006",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:10:02.007170Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7506,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T09:10:02.007170Z",
-      "latest_at": "2026-07-30T09:10:02.007170Z",
-      "primary_item": {
-        "id": "ee906d71243424a03f6a354e35f8cd47dc12ba4b",
-        "title": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
-        "url": "https://www.aibase.com/news/30006",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_81381219d879",
-      "title": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-      "url": "https://www.aibase.com/news/30005",
-      "primary_url": "https://www.aibase.com/news/30005",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2dea95e761abab940c3ccb47f8e43579324c92b2",
-          "title": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-          "url": "https://www.aibase.com/news/30005",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:10:02.007170Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2dea95e761abab940c3ccb47f8e43579324c92b2",
-          "title": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-          "url": "https://www.aibase.com/news/30005",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:10:02.007170Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7506,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T09:10:02.007170Z",
-      "latest_at": "2026-07-30T09:10:02.007170Z",
-      "primary_item": {
-        "id": "2dea95e761abab940c3ccb47f8e43579324c92b2",
-        "title": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-        "url": "https://www.aibase.com/news/30005",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_90105d6e1279",
-      "title": "打造会学习的AI客服：Encore AI获 3000 万美元A轮融资，掘金企业对话数据",
-      "url": "https://www.aibase.com/news/30010",
-      "primary_url": "https://www.aibase.com/news/30010",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "41a21038156240739cc1c5409cd1f1e2f9cee899",
-          "title": "打造会学习的AI客服：Encore AI获 3000 万美元A轮融资，掘金企业对话数据",
-          "url": "https://www.aibase.com/news/30010",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:10:02.007170Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "41a21038156240739cc1c5409cd1f1e2f9cee899",
-          "title": "打造会学习的AI客服：Encore AI获 3000 万美元A轮融资，掘金企业对话数据",
-          "url": "https://www.aibase.com/news/30010",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:10:02.007170Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7506,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T09:10:02.007170Z",
-      "latest_at": "2026-07-30T09:10:02.007170Z",
-      "primary_item": {
-        "id": "41a21038156240739cc1c5409cd1f1e2f9cee899",
-        "title": "打造会学习的AI客服：Encore AI获 3000 万美元A轮融资，掘金企业对话数据",
-        "url": "https://www.aibase.com/news/30010",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3fd859d60784",
-      "title": "纳德拉公开摊牌：别只信 OpenAI 和 Anthropic，微软要做最便宜的那个",
-      "url": "https://www.aibase.com/news/30008",
-      "primary_url": "https://www.aibase.com/news/30008",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "28e38cef4569ffd77bde757b112e73ffd4c01e45",
-          "title": "纳德拉公开摊牌：别只信 OpenAI 和 Anthropic，微软要做最便宜的那个",
-          "url": "https://www.aibase.com/news/30008",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:10:02.007170Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "28e38cef4569ffd77bde757b112e73ffd4c01e45",
-          "title": "纳德拉公开摊牌：别只信 OpenAI 和 Anthropic，微软要做最便宜的那个",
-          "url": "https://www.aibase.com/news/30008",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:10:02.007170Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7506,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T09:10:02.007170Z",
-      "latest_at": "2026-07-30T09:10:02.007170Z",
-      "primary_item": {
-        "id": "28e38cef4569ffd77bde757b112e73ffd4c01e45",
-        "title": "纳德拉公开摊牌：别只信 OpenAI 和 Anthropic，微软要做最便宜的那个",
-        "url": "https://www.aibase.com/news/30008",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7560139218d3",
-      "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
-      "url": "https://aihot.virxact.com/items/cms782fxi02w4ro2evmcwz6uj",
-      "primary_url": "https://aihot.virxact.com/items/cms782fxi02w4ro2evmcwz6uj",
-      "source": "MarkTechPost（RSS）",
+      "story_id": "story_f4426c510fe8",
+      "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
+      "url": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq",
+      "primary_url": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq",
+      "source": "MiniMax：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4990a23d790d67ad49072a836a4417d4ce861333",
-          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
-          "url": "https://aihot.virxact.com/items/cms782fxi02w4ro2evmcwz6uj",
-          "source": "MarkTechPost（RSS）",
+          "id": "5759b71f449807b1b99ce480f9b5231f27ee41d4",
+          "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
+          "url": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq",
+          "source": "MiniMax：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-30T07:43:29Z"
+          "published_at": "2026-07-31T09:59:02Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "MarkTechPost（RSS）"
+        "MiniMax：Blog（网页）"
       ],
       "items": [
         {
-          "id": "4990a23d790d67ad49072a836a4417d4ce861333",
-          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
-          "url": "https://aihot.virxact.com/items/cms782fxi02w4ro2evmcwz6uj",
-          "source": "MarkTechPost（RSS）",
+          "id": "5759b71f449807b1b99ce480f9b5231f27ee41d4",
+          "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
+          "url": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq",
+          "source": "MiniMax：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-30T07:43:29Z"
+          "published_at": "2026-07-31T09:59:02Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6905,
+        "recency": 0.7785,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1130,467 +1034,352 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T07:43:29Z",
-      "latest_at": "2026-07-30T07:43:29Z",
+      "earliest_at": "2026-07-31T09:59:02Z",
+      "latest_at": "2026-07-31T09:59:02Z",
       "primary_item": {
-        "id": "4990a23d790d67ad49072a836a4417d4ce861333",
-        "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
-        "url": "https://aihot.virxact.com/items/cms782fxi02w4ro2evmcwz6uj",
-        "source": "MarkTechPost（RSS）",
+        "id": "5759b71f449807b1b99ce480f9b5231f27ee41d4",
+        "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
+        "url": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq",
+        "source": "MiniMax：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_6683db9728fe",
-      "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-      "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_ad7bcecd1399",
+      "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+      "url": "https://aihot.virxact.com/items/cms8llt7f0iaprot0tz5qnk6i",
+      "primary_url": "https://aihot.virxact.com/items/cms8llt7f0iaprot0tz5qnk6i",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T21:26:19Z"
+          "id": "cb781e697575ed23551498c76e3965e9b659f249",
+          "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "url": "https://aihot.virxact.com/items/cms8llt7f0iaprot0tz5qnk6i",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T06:38:54Z"
+        },
+        {
+          "id": "1e83b7ca5b7b174bb055c9d4db0ff161f0127c5e",
+          "title": "国家发改委：人工智能相关行业保持 30% 以上的高增长，截至 6 月底全国智能算力规模达到去年同期 2.8 倍",
+          "url": "https://www.ithome.com/0/984/130.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-31T06:38:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "cb781e697575ed23551498c76e3965e9b659f249",
+          "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "url": "https://aihot.virxact.com/items/cms8llt7f0iaprot0tz5qnk6i",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T06:38:54Z"
+        },
+        {
+          "id": "1e83b7ca5b7b174bb055c9d4db0ff161f0127c5e",
+          "title": "国家发改委：人工智能相关行业保持 30% 以上的高增长，截至 6 月底全国智能算力规模达到去年同期 2.8 倍",
+          "url": "https://www.ithome.com/0/984/130.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-31T06:38:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6396,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T06:38:54Z",
+      "latest_at": "2026-07-31T06:38:54Z",
+      "primary_item": {
+        "id": "cb781e697575ed23551498c76e3965e9b659f249",
+        "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+        "url": "https://aihot.virxact.com/items/cms8llt7f0iaprot0tz5qnk6i",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8c365587ec15",
+      "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
+      "url": "https://www.aibase.com/news/30030",
+      "primary_url": "https://www.aibase.com/news/30030",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0eb87d26581970423c8c63c7294151c503e5a65f",
+          "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
+          "url": "https://www.aibase.com/news/30030",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T05:23:26.543616Z"
+        },
+        {
+          "id": "b253c0a98f87327eb851831cc7739964bdab76bd",
+          "title": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
+          "url": "https://www.aibase.com/zh/news/30030",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0eb87d26581970423c8c63c7294151c503e5a65f",
+          "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
+          "url": "https://www.aibase.com/news/30030",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T05:23:26.543616Z"
+        },
+        {
+          "id": "b253c0a98f87327eb851831cc7739964bdab76bd",
+          "title": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
+          "url": "https://www.aibase.com/zh/news/30030",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5872,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T05:23:26.543616Z",
+      "latest_at": "2026-07-31T05:23:26.543616Z",
+      "primary_item": {
+        "id": "0eb87d26581970423c8c63c7294151c503e5a65f",
+        "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
+        "url": "https://www.aibase.com/news/30030",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1d8c8536827c",
+      "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+      "url": "https://www.aibase.com/news/30047",
+      "primary_url": "https://www.aibase.com/news/30047",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
+          "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "url": "https://www.aibase.com/news/30047",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T08:13:27.879974Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T21:26:19Z"
+          "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
+          "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "url": "https://www.aibase.com/news/30047",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T08:13:27.879974Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
-      "importance_label": "官方更新",
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.2619,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7052,
         "story_heat": 0.0
       },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T21:26:19Z",
-      "latest_at": "2026-07-29T21:26:19Z",
-      "primary_item": {
-        "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-        "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-        "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_38cc0483c3d0",
-      "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-      "url": "https://www.aibase.com/news/29994",
-      "primary_url": "https://www.aibase.com/news/29994",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0d2c8c623b872c2407599deabd09c668d1ec2733",
-          "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "url": "https://www.aibase.com/news/29994",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T03:49:32.246358Z"
-        },
-        {
-          "id": "e900cbd316ab4fcb269f4b8b6ef79f7a84be3b2a",
-          "title": "AI 自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "url": "https://www.aibase.com/zh/news/29994",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0d2c8c623b872c2407599deabd09c668d1ec2733",
-          "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "url": "https://www.aibase.com/news/29994",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T03:49:32.246358Z"
-        },
-        {
-          "id": "e900cbd316ab4fcb269f4b8b6ef79f7a84be3b2a",
-          "title": "AI 自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "url": "https://www.aibase.com/zh/news/29994",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.528,
-        "story_heat": 0.25
-      },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-30T03:49:32.246358Z",
-      "latest_at": "2026-07-30T03:49:32.246358Z",
+      "earliest_at": "2026-07-31T08:13:27.879974Z",
+      "latest_at": "2026-07-31T08:13:27.879974Z",
       "primary_item": {
-        "id": "0d2c8c623b872c2407599deabd09c668d1ec2733",
-        "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-        "url": "https://www.aibase.com/news/29994",
+        "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
+        "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+        "url": "https://www.aibase.com/news/30047",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_6bc925122a55",
-      "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-      "url": "https://www.aibase.com/news/30000",
-      "primary_url": "https://www.aibase.com/news/30000",
+      "story_id": "story_f460f990aa88",
+      "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
+      "url": "https://www.aibase.com/news/30036",
+      "primary_url": "https://www.aibase.com/news/30036",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0d211faf956db245d14a9d64eef9d04e1f01a0f8",
-          "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "url": "https://www.aibase.com/news/30000",
+          "id": "ff00e81506a81108204980aee48393ae9dbd45ca",
+          "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
+          "url": "https://www.aibase.com/news/30036",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T03:49:32.246358Z"
-        },
-        {
-          "id": "f569265a10fdb5a1cf268437e2e05afcbb49b0e2",
-          "title": "OpenAI CEO 泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "url": "https://www.aibase.com/zh/news/30000",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-31T08:13:27.879974Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "0d211faf956db245d14a9d64eef9d04e1f01a0f8",
-          "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "url": "https://www.aibase.com/news/30000",
+          "id": "ff00e81506a81108204980aee48393ae9dbd45ca",
+          "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
+          "url": "https://www.aibase.com/news/30036",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T03:49:32.246358Z"
-        },
-        {
-          "id": "f569265a10fdb5a1cf268437e2e05afcbb49b0e2",
-          "title": "OpenAI CEO 泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "url": "https://www.aibase.com/zh/news/30000",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-31T08:13:27.879974Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.528,
-        "story_heat": 0.25
+        "recency": 0.7052,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-30T03:49:32.246358Z",
-      "latest_at": "2026-07-30T03:49:32.246358Z",
+      "earliest_at": "2026-07-31T08:13:27.879974Z",
+      "latest_at": "2026-07-31T08:13:27.879974Z",
       "primary_item": {
-        "id": "0d211faf956db245d14a9d64eef9d04e1f01a0f8",
-        "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-        "url": "https://www.aibase.com/news/30000",
+        "id": "ff00e81506a81108204980aee48393ae9dbd45ca",
+        "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
+        "url": "https://www.aibase.com/news/30036",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_0e317c0ef367",
-      "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
-      "url": "https://www.aibase.com/news/29992",
-      "primary_url": "https://www.aibase.com/news/29992",
+      "story_id": "story_f549bb43bb02",
+      "title": "告别盲目像素预测：PhiZero开创“物理语言”先河，让AI世界模型学会像人一样思考",
+      "url": "https://www.aibase.com/news/30037",
+      "primary_url": "https://www.aibase.com/news/30037",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e1e4eb50aab5fb709449bafd6c141e5b9be3d89d",
-          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
-          "url": "https://www.aibase.com/news/29992",
+          "id": "928478f4884a4538616f43d223f9c0a5fe21e709",
+          "title": "告别盲目像素预测：PhiZero开创“物理语言”先河，让AI世界模型学会像人一样思考",
+          "url": "https://www.aibase.com/news/30037",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T03:49:32.246358Z"
-        },
-        {
-          "id": "0ddbeef83058024f9433a22150588dba9521bd73",
-          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
-          "url": "https://www.aibase.com/zh/news/29992",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-31T08:13:27.879974Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "e1e4eb50aab5fb709449bafd6c141e5b9be3d89d",
-          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
-          "url": "https://www.aibase.com/news/29992",
+          "id": "928478f4884a4538616f43d223f9c0a5fe21e709",
+          "title": "告别盲目像素预测：PhiZero开创“物理语言”先河，让AI世界模型学会像人一样思考",
+          "url": "https://www.aibase.com/news/30037",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T03:49:32.246358Z"
-        },
-        {
-          "id": "0ddbeef83058024f9433a22150588dba9521bd73",
-          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
-          "url": "https://www.aibase.com/zh/news/29992",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-31T08:13:27.879974Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.528,
-        "story_heat": 0.25
+        "recency": 0.7052,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-30T03:49:32.246358Z",
-      "latest_at": "2026-07-30T03:49:32.246358Z",
+      "earliest_at": "2026-07-31T08:13:27.879974Z",
+      "latest_at": "2026-07-31T08:13:27.879974Z",
       "primary_item": {
-        "id": "e1e4eb50aab5fb709449bafd6c141e5b9be3d89d",
-        "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
-        "url": "https://www.aibase.com/news/29992",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2e9c935fe683",
-      "title": "xAI发布Grok Voice Think Fast2.0，语音识别与智能体能力全面升级",
-      "url": "https://www.aibase.com/news/30002",
-      "primary_url": "https://www.aibase.com/news/30002",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8c866de05fd6030748d2f968ab08890da9a5e481",
-          "title": "xAI发布Grok Voice Think Fast2.0，语音识别与智能体能力全面升级",
-          "url": "https://www.aibase.com/news/30002",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T03:49:32.246358Z"
-        },
-        {
-          "id": "3f2a6e50a92d1e35c591b3ee9c24c1415320d7a6",
-          "title": "xAI 发布 Grok Voice Think Fast2.0，语音识别与智能体能力全面升级",
-          "url": "https://www.aibase.com/zh/news/30002",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8c866de05fd6030748d2f968ab08890da9a5e481",
-          "title": "xAI发布Grok Voice Think Fast2.0，语音识别与智能体能力全面升级",
-          "url": "https://www.aibase.com/news/30002",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T03:49:32.246358Z"
-        },
-        {
-          "id": "3f2a6e50a92d1e35c591b3ee9c24c1415320d7a6",
-          "title": "xAI 发布 Grok Voice Think Fast2.0，语音识别与智能体能力全面升级",
-          "url": "https://www.aibase.com/zh/news/30002",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.528,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T03:49:32.246358Z",
-      "latest_at": "2026-07-30T03:49:32.246358Z",
-      "primary_item": {
-        "id": "8c866de05fd6030748d2f968ab08890da9a5e481",
-        "title": "xAI发布Grok Voice Think Fast2.0，语音识别与智能体能力全面升级",
-        "url": "https://www.aibase.com/news/30002",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6018e23cce54",
-      "title": "​OpenAI 推出GPT-5.6模型家族：Sol、Terra 与 Luna",
-      "url": "https://www.aibase.com/news/29996",
-      "primary_url": "https://www.aibase.com/news/29996",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5b941d06999d762863f99d60eb891efbcca0f88f",
-          "title": "​OpenAI 推出GPT-5.6模型家族：Sol、Terra 与 Luna",
-          "url": "https://www.aibase.com/news/29996",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T03:49:32.246358Z"
-        },
-        {
-          "id": "ce1d51a6f88fd98df75420e106486911f75ceb8c",
-          "title": "OpenAI 推出 GPT-5.6 模型家族：Sol、Terra 与 Luna",
-          "url": "https://www.aibase.com/zh/news/29996",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "5b941d06999d762863f99d60eb891efbcca0f88f",
-          "title": "​OpenAI 推出GPT-5.6模型家族：Sol、Terra 与 Luna",
-          "url": "https://www.aibase.com/news/29996",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T03:49:32.246358Z"
-        },
-        {
-          "id": "ce1d51a6f88fd98df75420e106486911f75ceb8c",
-          "title": "OpenAI 推出 GPT-5.6 模型家族：Sol、Terra 与 Luna",
-          "url": "https://www.aibase.com/zh/news/29996",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.528,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T03:49:32.246358Z",
-      "latest_at": "2026-07-30T03:49:32.246358Z",
-      "primary_item": {
-        "id": "5b941d06999d762863f99d60eb891efbcca0f88f",
-        "title": "​OpenAI 推出GPT-5.6模型家族：Sol、Terra 与 Luna",
-        "url": "https://www.aibase.com/news/29996",
+        "id": "928478f4884a4538616f43d223f9c0a5fe21e709",
+        "title": "告别盲目像素预测：PhiZero开创“物理语言”先河，让AI世界模型学会像人一样思考",
+        "url": "https://www.aibase.com/news/30037",
         "source": "AIbase",
         "source_name": "AIbase"
       }
