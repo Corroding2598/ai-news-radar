@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-07-31T15:17:56.266349Z",
+  "generated_at": "2026-08-01T14:25:00.486018Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_6e145b017b5a",
-      "title": "构建丰富的智能 / Building abundant intelligence",
-      "url": "https://openai.com/index/building-abundant-intelligence",
-      "primary_url": "https://openai.com/index/building-abundant-intelligence",
+      "story_id": "story_c5ad624a6ffb",
+      "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
-          "title": "构建丰富的智能 / Building abundant intelligence",
-          "url": "https://openai.com/index/building-abundant-intelligence",
+          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-31T15:00:00Z"
+          "published_at": "2026-08-04T00:00:00Z"
         }
       ],
       "source_count": 1,
@@ -27,25 +27,25 @@
       ],
       "items": [
         {
-          "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
-          "title": "构建丰富的智能 / Building abundant intelligence",
-          "url": "https://openai.com/index/building-abundant-intelligence",
+          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+          "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-31T15:00:00Z"
+          "published_at": "2026-08-04T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8705,
-      "importance": 0.8705,
-      "importance_score": 0.8705,
+      "score": 0.873,
+      "importance": 0.873,
+      "importance_score": 0.873,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9875,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "official",
@@ -54,892 +54,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-31T15:00:00Z",
-      "latest_at": "2026-07-31T15:00:00Z",
+      "earliest_at": "2026-08-04T00:00:00Z",
+      "latest_at": "2026-08-04T00:00:00Z",
       "primary_item": {
-        "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
-        "title": "构建丰富的智能 / Building abundant intelligence",
-        "url": "https://openai.com/index/building-abundant-intelligence",
+        "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
+        "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_cc4467822b33",
-      "title": "字节 Seedance 2.5 发布：30 秒一镜到底视频",
-      "url": "https://aihot.virxact.com/items/cms92ioz7022xro9k9kmww9ug",
-      "primary_url": "https://aihot.virxact.com/items/cms92ioz7022xro9k9kmww9ug",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "75fc43eac9b0d88f25b4422bc56ba712de9e2019",
-          "title": "字节 Seedance 2.5 发布：30 秒一镜到底视频",
-          "url": "https://aihot.virxact.com/items/cms92ioz7022xro9k9kmww9ug",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T14:41:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "75fc43eac9b0d88f25b4422bc56ba712de9e2019",
-          "title": "字节 Seedance 2.5 发布：30 秒一镜到底视频",
-          "url": "https://aihot.virxact.com/items/cms92ioz7022xro9k9kmww9ug",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T14:41:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9744,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T14:41:04Z",
-      "latest_at": "2026-07-31T14:41:04Z",
-      "primary_item": {
-        "id": "75fc43eac9b0d88f25b4422bc56ba712de9e2019",
-        "title": "字节 Seedance 2.5 发布：30 秒一镜到底视频",
-        "url": "https://aihot.virxact.com/items/cms92ioz7022xro9k9kmww9ug",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_11290e610f9d",
-      "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-      "url": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n",
-      "primary_url": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ae7f6daeac0abc04e6b4ff6d29f25df86a586bb9",
-          "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "url": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T11:40:12Z"
-        },
-        {
-          "id": "d3ef6af9be55b0509f72d07db268e1b5c099f026",
-          "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "url": "https://www.ithome.com/0/984/365.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-31T11:40:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ae7f6daeac0abc04e6b4ff6d29f25df86a586bb9",
-          "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "url": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T11:40:12Z"
-        },
-        {
-          "id": "d3ef6af9be55b0509f72d07db268e1b5c099f026",
-          "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "url": "https://www.ithome.com/0/984/365.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-31T11:40:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8488,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T11:40:12Z",
-      "latest_at": "2026-07-31T11:40:12Z",
-      "primary_item": {
-        "id": "ae7f6daeac0abc04e6b4ff6d29f25df86a586bb9",
-        "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-        "url": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_42c61f490438",
-      "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
-      "url": "https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv",
-      "primary_url": "https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "66a40d7641cc2e9208d3397e8b82908126887578",
-          "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
-          "url": "https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T13:00:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：面壁智能 OpenBMB (@OpenBMB)"
-      ],
-      "items": [
-        {
-          "id": "66a40d7641cc2e9208d3397e8b82908126887578",
-          "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
-          "url": "https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T13:00:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9042,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T13:00:02Z",
-      "latest_at": "2026-07-31T13:00:02Z",
-      "primary_item": {
-        "id": "66a40d7641cc2e9208d3397e8b82908126887578",
-        "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
-        "url": "https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv",
-        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_80e1068a8cb7",
-      "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-      "url": "https://www.aibase.com/news/30039",
-      "primary_url": "https://www.aibase.com/news/30039",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
-          "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-          "url": "https://www.aibase.com/news/30039",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:13:27.879974Z"
-        },
-        {
-          "id": "816823a4299c305649bc35caac782fc637cce85d",
-          "title": "Claude「闯出」测试环境？Anthropic 承认 AI 模型曾入侵三家机构系统",
-          "url": "https://www.aibase.com/zh/news/30039",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
-          "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-          "url": "https://www.aibase.com/news/30039",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:13:27.879974Z"
-        },
-        {
-          "id": "816823a4299c305649bc35caac782fc637cce85d",
-          "title": "Claude「闯出」测试环境？Anthropic 承认 AI 模型曾入侵三家机构系统",
-          "url": "https://www.aibase.com/zh/news/30039",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7052,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T08:13:27.879974Z",
-      "latest_at": "2026-07-31T08:13:27.879974Z",
-      "primary_item": {
-        "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
-        "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
-        "url": "https://www.aibase.com/news/30039",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d11e98ae357f",
-      "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
-      "url": "https://www.aibase.com/news/30044",
-      "primary_url": "https://www.aibase.com/news/30044",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "36da0614f523ee93147d5c8ff1a64b83cf429bcf",
-          "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
-          "url": "https://www.aibase.com/news/30044",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:13:27.879974Z"
-        },
-        {
-          "id": "82ddbc856e92c06770aa12725a3fd5936077eaa7",
-          "title": "DeepSeek-V4-Flash API公测上线，Agent能力大幅升级",
-          "url": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t",
-          "source": "X：DeepSeek (@deepseek_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T06:56:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "X：DeepSeek (@deepseek_ai)"
-      ],
-      "items": [
-        {
-          "id": "36da0614f523ee93147d5c8ff1a64b83cf429bcf",
-          "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
-          "url": "https://www.aibase.com/news/30044",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:13:27.879974Z"
-        },
-        {
-          "id": "82ddbc856e92c06770aa12725a3fd5936077eaa7",
-          "title": "DeepSeek-V4-Flash API公测上线，Agent能力大幅升级",
-          "url": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t",
-          "source": "X：DeepSeek (@deepseek_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T06:56:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7052,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T06:56:41Z",
-      "latest_at": "2026-07-31T08:13:27.879974Z",
-      "primary_item": {
-        "id": "36da0614f523ee93147d5c8ff1a64b83cf429bcf",
-        "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
-        "url": "https://www.aibase.com/news/30044",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_72d30b731ced",
-      "title": "DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场",
-      "url": "https://www.aibase.com/news/30040",
-      "primary_url": "https://www.aibase.com/news/30040",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2cc1223af2f0cee57a2e93e4e060f7d5d303b2b3",
-          "title": "DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场",
-          "url": "https://www.aibase.com/news/30040",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:13:27.879974Z"
-        },
-        {
-          "id": "a8fb86b1190ee7459d670d9cca8bc7f5883dde29",
-          "title": "DeepSeek-V4-Flash 正式版上线，130 亿激活参数撬动 Agent 战场",
-          "url": "https://www.aibase.com/zh/news/30040",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2cc1223af2f0cee57a2e93e4e060f7d5d303b2b3",
-          "title": "DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场",
-          "url": "https://www.aibase.com/news/30040",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:13:27.879974Z"
-        },
-        {
-          "id": "a8fb86b1190ee7459d670d9cca8bc7f5883dde29",
-          "title": "DeepSeek-V4-Flash 正式版上线，130 亿激活参数撬动 Agent 战场",
-          "url": "https://www.aibase.com/zh/news/30040",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7052,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T08:13:27.879974Z",
-      "latest_at": "2026-07-31T08:13:27.879974Z",
-      "primary_item": {
-        "id": "2cc1223af2f0cee57a2e93e4e060f7d5d303b2b3",
-        "title": "DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场",
-        "url": "https://www.aibase.com/news/30040",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c666711b89d3",
-      "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-      "url": "https://www.aibase.com/news/30045",
-      "primary_url": "https://www.aibase.com/news/30045",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4d4ff196ca405f24c462f32c91b9e4563db588f7",
-          "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-          "url": "https://www.aibase.com/news/30045",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:13:27.879974Z"
-        },
-        {
-          "id": "a0747c96f3c05c9aefacbbbc75ebe865929c6d0f",
-          "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-          "url": "https://www.aibase.com/zh/news/30045",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "4d4ff196ca405f24c462f32c91b9e4563db588f7",
-          "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-          "url": "https://www.aibase.com/news/30045",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:13:27.879974Z"
-        },
-        {
-          "id": "a0747c96f3c05c9aefacbbbc75ebe865929c6d0f",
-          "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-          "url": "https://www.aibase.com/zh/news/30045",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7052,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T08:13:27.879974Z",
-      "latest_at": "2026-07-31T11:03:10.167399Z",
-      "primary_item": {
-        "id": "4d4ff196ca405f24c462f32c91b9e4563db588f7",
-        "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-        "url": "https://www.aibase.com/news/30045",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cf9f88dcb0e8",
-      "title": "阿里发布语音识别新模型，医疗词汇\"听中率\"破 95%，曾拿全球最低错字率",
-      "url": "https://www.aibase.com/news/30038",
-      "primary_url": "https://www.aibase.com/news/30038",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3e749f97546d4a2faf9f23f6da14bf44130aaa8c",
-          "title": "阿里发布语音识别新模型，医疗词汇\"听中率\"破 95%，曾拿全球最低错字率",
-          "url": "https://www.aibase.com/news/30038",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:13:27.879974Z"
-        },
-        {
-          "id": "88be307208fe0322ca2bb3c6606fa77c4673383e",
-          "title": "阿里发布语音识别新模型，医疗词汇听中率破95%，曾拿全球最低错字率",
-          "url": "https://www.aibase.com/zh/news/30038",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3e749f97546d4a2faf9f23f6da14bf44130aaa8c",
-          "title": "阿里发布语音识别新模型，医疗词汇\"听中率\"破 95%，曾拿全球最低错字率",
-          "url": "https://www.aibase.com/news/30038",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:13:27.879974Z"
-        },
-        {
-          "id": "88be307208fe0322ca2bb3c6606fa77c4673383e",
-          "title": "阿里发布语音识别新模型，医疗词汇听中率破95%，曾拿全球最低错字率",
-          "url": "https://www.aibase.com/zh/news/30038",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7052,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T08:13:27.879974Z",
-      "latest_at": "2026-07-31T08:13:27.879974Z",
-      "primary_item": {
-        "id": "3e749f97546d4a2faf9f23f6da14bf44130aaa8c",
-        "title": "阿里发布语音识别新模型，医疗词汇\"听中率\"破 95%，曾拿全球最低错字率",
-        "url": "https://www.aibase.com/news/30038",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5bb7bd93b518",
-      "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
-      "url": "https://www.aibase.com/news/30041",
-      "primary_url": "https://www.aibase.com/news/30041",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2f1ee219ee82a980a69cbe42dbafbe0c791adfb4",
-          "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
-          "url": "https://www.aibase.com/news/30041",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:13:27.879974Z"
-        },
-        {
-          "id": "b8adcaec9ca05baa158a4c9527a7aa1e5be5c65c",
-          "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
-          "url": "https://www.aibase.com/zh/news/30041",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2f1ee219ee82a980a69cbe42dbafbe0c791adfb4",
-          "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
-          "url": "https://www.aibase.com/news/30041",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:13:27.879974Z"
-        },
-        {
-          "id": "b8adcaec9ca05baa158a4c9527a7aa1e5be5c65c",
-          "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
-          "url": "https://www.aibase.com/zh/news/30041",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7052,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T08:13:27.879974Z",
-      "latest_at": "2026-07-31T08:13:27.879974Z",
-      "primary_item": {
-        "id": "2f1ee219ee82a980a69cbe42dbafbe0c791adfb4",
-        "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
-        "url": "https://www.aibase.com/news/30041",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cf3eabf149e6",
-      "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-      "url": "https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga",
-      "primary_url": "https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "10337791b4068aa0f5963f7fecad6f90add283b0",
-          "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-          "url": "https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T11:07:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI：DEV 作者专属（RSS）"
-      ],
-      "items": [
-        {
-          "id": "10337791b4068aa0f5963f7fecad6f90add283b0",
-          "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-          "url": "https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga",
-          "source": "Google AI：DEV 作者专属（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T11:07:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8261,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T11:07:35Z",
-      "latest_at": "2026-07-31T11:07:35Z",
-      "primary_item": {
-        "id": "10337791b4068aa0f5963f7fecad6f90add283b0",
-        "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-        "url": "https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga",
-        "source": "Google AI：DEV 作者专属（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cec1665200b4",
-      "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-      "url": "https://www.aibase.com/news/30048",
-      "primary_url": "https://www.aibase.com/news/30048",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
-          "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-          "url": "https://www.aibase.com/news/30048",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T11:03:10.167399Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
-          "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-          "url": "https://www.aibase.com/news/30048",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T11:03:10.167399Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8231,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T11:03:10.167399Z",
-      "latest_at": "2026-07-31T11:03:10.167399Z",
-      "primary_item": {
-        "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
-        "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
-        "url": "https://www.aibase.com/news/30048",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_157edb3ab0b6",
-      "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-      "url": "https://www.aibase.com/news/30049",
-      "primary_url": "https://www.aibase.com/news/30049",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
-          "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-          "url": "https://www.aibase.com/news/30049",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T11:03:10.167399Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
-          "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-          "url": "https://www.aibase.com/news/30049",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T11:03:10.167399Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8231,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T11:03:10.167399Z",
-      "latest_at": "2026-07-31T11:03:10.167399Z",
-      "primary_item": {
-        "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
-        "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-        "url": "https://www.aibase.com/news/30049",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5456836735ba",
-      "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
-      "url": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd",
-      "primary_url": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd",
+      "story_id": "story_97643d9dcc53",
+      "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+      "url": "https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0",
+      "primary_url": "https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d4b7a1a36811cb5e43897a02a97f77f7527c9e3c",
-          "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
-          "url": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd",
+          "id": "b8a7b0655e9dfef8e1a302ca1ea8cbd72f25b67d",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "url": "https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-31T10:57:37Z"
+          "published_at": "2026-08-01T10:40:50Z"
         }
       ],
       "source_count": 1,
@@ -948,25 +88,25 @@
       ],
       "items": [
         {
-          "id": "d4b7a1a36811cb5e43897a02a97f77f7527c9e3c",
-          "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
-          "url": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd",
+          "id": "b8a7b0655e9dfef8e1a302ca1ea8cbd72f25b67d",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "url": "https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-31T10:57:37Z"
+          "published_at": "2026-08-01T10:40:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8192,
+        "recency": 0.8443,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -974,59 +114,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-31T10:57:37Z",
-      "latest_at": "2026-07-31T10:57:37Z",
+      "earliest_at": "2026-08-01T10:40:50Z",
+      "latest_at": "2026-08-01T10:40:50Z",
       "primary_item": {
-        "id": "d4b7a1a36811cb5e43897a02a97f77f7527c9e3c",
-        "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
-        "url": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd",
+        "id": "b8a7b0655e9dfef8e1a302ca1ea8cbd72f25b67d",
+        "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+        "url": "https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_f4426c510fe8",
-      "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-      "url": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq",
-      "primary_url": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq",
-      "source": "MiniMax：Blog（网页）",
+      "story_id": "story_5a39f5e7e07a",
+      "title": "OpenAI Astra 以约2000美元证明10项数学难题",
+      "url": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
+      "primary_url": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
+      "source": "X：Greg Brockman (@gdb)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5759b71f449807b1b99ce480f9b5231f27ee41d4",
-          "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-          "url": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq",
-          "source": "MiniMax：Blog（网页）",
+          "id": "6bc0290b8d7d2e1c7e74794d6160e60a45eaccd8",
+          "title": "OpenAI Astra 以约2000美元证明10项数学难题",
+          "url": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
+          "source": "X：Greg Brockman (@gdb)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-31T09:59:02Z"
+          "published_at": "2026-08-01T07:39:02Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "MiniMax：Blog（网页）"
+        "X：Greg Brockman (@gdb)"
       ],
       "items": [
         {
-          "id": "5759b71f449807b1b99ce480f9b5231f27ee41d4",
-          "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-          "url": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq",
-          "source": "MiniMax：Blog（网页）",
+          "id": "6bc0290b8d7d2e1c7e74794d6160e60a45eaccd8",
+          "title": "OpenAI Astra 以约2000美元证明10项数学难题",
+          "url": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
+          "source": "X：Greg Brockman (@gdb)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-31T09:59:02Z"
+          "published_at": "2026-08-01T07:39:02Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7677,
-      "importance": 0.7677,
-      "importance_score": 0.7677,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7785,
+        "recency": 0.7181,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1034,354 +174,1020 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-31T09:59:02Z",
-      "latest_at": "2026-07-31T09:59:02Z",
+      "earliest_at": "2026-08-01T07:39:02Z",
+      "latest_at": "2026-08-01T07:39:02Z",
       "primary_item": {
-        "id": "5759b71f449807b1b99ce480f9b5231f27ee41d4",
-        "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-        "url": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq",
-        "source": "MiniMax：Blog（网页）",
+        "id": "6bc0290b8d7d2e1c7e74794d6160e60a45eaccd8",
+        "title": "OpenAI Astra 以约2000美元证明10项数学难题",
+        "url": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
+        "source": "X：Greg Brockman (@gdb)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ad7bcecd1399",
-      "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
-      "url": "https://aihot.virxact.com/items/cms8llt7f0iaprot0tz5qnk6i",
-      "primary_url": "https://aihot.virxact.com/items/cms8llt7f0iaprot0tz5qnk6i",
-      "source": "IT之家（RSS）",
+      "story_id": "story_9b7f1146c6b4",
+      "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+      "url": "https://aihot.virxact.com/items/cms9udxq00qybro9kc2il6w0c",
+      "primary_url": "https://aihot.virxact.com/items/cms9udxq00qybro9kc2il6w0c",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "cb781e697575ed23551498c76e3965e9b659f249",
-          "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
-          "url": "https://aihot.virxact.com/items/cms8llt7f0iaprot0tz5qnk6i",
-          "source": "IT之家（RSS）",
+          "id": "e6e417fc0138abfc5f177f213eafba042a5ade1b",
+          "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+          "url": "https://aihot.virxact.com/items/cms9udxq00qybro9kc2il6w0c",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-31T06:38:54Z"
-        },
-        {
-          "id": "1e83b7ca5b7b174bb055c9d4db0ff161f0127c5e",
-          "title": "国家发改委：人工智能相关行业保持 30% 以上的高增长，截至 6 月底全国智能算力规模达到去年同期 2.8 倍",
-          "url": "https://www.ithome.com/0/984/130.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-31T06:38:54Z"
+          "published_at": "2026-08-01T03:57:07Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "X：阿易 AI Notes (@AYi_AInotes)"
       ],
       "items": [
         {
-          "id": "cb781e697575ed23551498c76e3965e9b659f249",
-          "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
-          "url": "https://aihot.virxact.com/items/cms8llt7f0iaprot0tz5qnk6i",
-          "source": "IT之家（RSS）",
+          "id": "e6e417fc0138abfc5f177f213eafba042a5ade1b",
+          "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+          "url": "https://aihot.virxact.com/items/cms9udxq00qybro9kc2il6w0c",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-31T06:38:54Z"
-        },
-        {
-          "id": "1e83b7ca5b7b174bb055c9d4db0ff161f0127c5e",
-          "title": "国家发改委：人工智能相关行业保持 30% 以上的高增长，截至 6 月底全国智能算力规模达到去年同期 2.8 倍",
-          "url": "https://www.ithome.com/0/984/130.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-31T06:38:54Z"
+          "published_at": "2026-08-01T03:57:07Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6396,
-        "story_heat": 0.25
+        "recency": 0.564,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-31T06:38:54Z",
-      "latest_at": "2026-07-31T06:38:54Z",
+      "earliest_at": "2026-08-01T03:57:07Z",
+      "latest_at": "2026-08-01T03:57:07Z",
       "primary_item": {
-        "id": "cb781e697575ed23551498c76e3965e9b659f249",
-        "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
-        "url": "https://aihot.virxact.com/items/cms8llt7f0iaprot0tz5qnk6i",
-        "source": "IT之家（RSS）",
+        "id": "e6e417fc0138abfc5f177f213eafba042a5ade1b",
+        "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+        "url": "https://aihot.virxact.com/items/cms9udxq00qybro9kc2il6w0c",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_8c365587ec15",
-      "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
-      "url": "https://www.aibase.com/news/30030",
-      "primary_url": "https://www.aibase.com/news/30030",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_337d712579d2",
+      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+      "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+      "primary_url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0eb87d26581970423c8c63c7294151c503e5a65f",
-          "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
-          "url": "https://www.aibase.com/news/30030",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T05:23:26.543616Z"
-        },
-        {
-          "id": "b253c0a98f87327eb851831cc7739964bdab76bd",
-          "title": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
-          "url": "https://www.aibase.com/zh/news/30030",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0eb87d26581970423c8c63c7294151c503e5a65f",
-          "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
-          "url": "https://www.aibase.com/news/30030",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T05:23:26.543616Z"
-        },
-        {
-          "id": "b253c0a98f87327eb851831cc7739964bdab76bd",
-          "title": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
-          "url": "https://www.aibase.com/zh/news/30030",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5872,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T05:23:26.543616Z",
-      "latest_at": "2026-07-31T05:23:26.543616Z",
-      "primary_item": {
-        "id": "0eb87d26581970423c8c63c7294151c503e5a65f",
-        "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
-        "url": "https://www.aibase.com/news/30030",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1d8c8536827c",
-      "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
-      "url": "https://www.aibase.com/news/30047",
-      "primary_url": "https://www.aibase.com/news/30047",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
-          "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
-          "url": "https://www.aibase.com/news/30047",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:13:27.879974Z"
+          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
+          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T20:04:01Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
-          "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
-          "url": "https://www.aibase.com/news/30047",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:13:27.879974Z"
+          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
+          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T20:04:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
-      "importance_label": "行业动态",
+      "score": 0.7201,
+      "importance": 0.7201,
+      "importance_score": 0.7201,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7052,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.2354,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "official_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-31T08:13:27.879974Z",
-      "latest_at": "2026-07-31T08:13:27.879974Z",
+      "earliest_at": "2026-07-31T20:04:01Z",
+      "latest_at": "2026-07-31T20:04:01Z",
       "primary_item": {
-        "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
-        "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
-        "url": "https://www.aibase.com/news/30047",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
+        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+        "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_f460f990aa88",
-      "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
-      "url": "https://www.aibase.com/news/30036",
-      "primary_url": "https://www.aibase.com/news/30036",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_3bde4c44877d",
+      "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ff00e81506a81108204980aee48393ae9dbd45ca",
-          "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
-          "url": "https://www.aibase.com/news/30036",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:13:27.879974Z"
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T18:11:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "ff00e81506a81108204980aee48393ae9dbd45ca",
-          "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
-          "url": "https://www.aibase.com/news/30036",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:13:27.879974Z"
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T18:11:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
-      "importance_label": "行业动态",
+      "score": 0.6925,
+      "importance": 0.6925,
+      "importance_score": 0.6925,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7052,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.1575,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "official_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-31T08:13:27.879974Z",
-      "latest_at": "2026-07-31T08:13:27.879974Z",
+      "earliest_at": "2026-07-31T18:11:50Z",
+      "latest_at": "2026-07-31T18:11:50Z",
       "primary_item": {
-        "id": "ff00e81506a81108204980aee48393ae9dbd45ca",
-        "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
-        "url": "https://www.aibase.com/news/30036",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+        "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_f549bb43bb02",
-      "title": "告别盲目像素预测：PhiZero开创“物理语言”先河，让AI世界模型学会像人一样思考",
-      "url": "https://www.aibase.com/news/30037",
-      "primary_url": "https://www.aibase.com/news/30037",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_40a9fce1f45e",
+      "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "primary_url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "928478f4884a4538616f43d223f9c0a5fe21e709",
-          "title": "告别盲目像素预测：PhiZero开创“物理语言”先河，让AI世界模型学会像人一样思考",
-          "url": "https://www.aibase.com/news/30037",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:13:27.879974Z"
+          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T16:45:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "928478f4884a4538616f43d223f9c0a5fe21e709",
-          "title": "告别盲目像素预测：PhiZero开创“物理语言”先河，让AI世界模型学会像人一样思考",
-          "url": "https://www.aibase.com/news/30037",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T08:13:27.879974Z"
+          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T16:45:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
-      "importance_label": "行业动态",
+      "score": 0.6806,
+      "importance": 0.6806,
+      "importance_score": 0.6806,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.0978,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T16:45:50Z",
+      "latest_at": "2026-07-31T16:45:50Z",
+      "primary_item": {
+        "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+        "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+        "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_fc0530ff6826",
+      "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
+      "url": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk",
+      "primary_url": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0d063573dd8b598e4b34e7ba2f3c59e50aecf8ba",
+          "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
+          "url": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T21:38:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "0d063573dd8b598e4b34e7ba2f3c59e50aecf8ba",
+          "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
+          "url": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T21:38:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6721,
+      "importance": 0.6721,
+      "importance_score": 0.6721,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7052,
+        "recency": 0.3007,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-31T08:13:27.879974Z",
-      "latest_at": "2026-07-31T08:13:27.879974Z",
+      "earliest_at": "2026-07-31T21:38:05Z",
+      "latest_at": "2026-07-31T21:38:05Z",
       "primary_item": {
-        "id": "928478f4884a4538616f43d223f9c0a5fe21e709",
-        "title": "告别盲目像素预测：PhiZero开创“物理语言”先河，让AI世界模型学会像人一样思考",
-        "url": "https://www.aibase.com/news/30037",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "0d063573dd8b598e4b34e7ba2f3c59e50aecf8ba",
+        "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
+        "url": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ac39d2ddcafc",
+      "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+      "url": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
+      "primary_url": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "227440df1a78ba1b85f631ba017e91d637977309",
+          "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+          "url": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T21:15:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "227440df1a78ba1b85f631ba017e91d637977309",
+          "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+          "url": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T21:15:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.669,
+      "importance": 0.669,
+      "importance_score": 0.669,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.285,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T21:15:23Z",
+      "latest_at": "2026-07-31T21:15:23Z",
+      "primary_item": {
+        "id": "227440df1a78ba1b85f631ba017e91d637977309",
+        "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+        "url": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ceacf4cb4c8e",
+      "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+      "url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
+      "primary_url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "094372bb8dcf343bf9d06a955a29a63091b5102c",
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T20:25:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "094372bb8dcf343bf9d06a955a29a63091b5102c",
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T20:25:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.662,
+      "importance": 0.662,
+      "importance_score": 0.662,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.2502,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T20:25:20Z",
+      "latest_at": "2026-07-31T20:25:20Z",
+      "primary_item": {
+        "id": "094372bb8dcf343bf9d06a955a29a63091b5102c",
+        "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+        "url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4dc05d078763",
+      "title": "animated-voiceover 开源：一人干翻动画工作室",
+      "url": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
+      "primary_url": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b664853e386d98e600049d818bf008c371beff7e",
+          "title": "animated-voiceover 开源：一人干翻动画工作室",
+          "url": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T16:01:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "b664853e386d98e600049d818bf008c371beff7e",
+          "title": "animated-voiceover 开源：一人干翻动画工作室",
+          "url": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T16:01:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6255,
+      "importance": 0.6255,
+      "importance_score": 0.6255,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.0673,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T16:01:51Z",
+      "latest_at": "2026-07-31T16:01:51Z",
+      "primary_item": {
+        "id": "b664853e386d98e600049d818bf008c371beff7e",
+        "title": "animated-voiceover 开源：一人干翻动画工作室",
+        "url": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6d0981ce859e",
+      "title": "~1500 Elo！始终击败前沿模型和 Stockfish 0 级。看到 8b 模型以高推理和响应链运行 GPT 5.6 很有趣。每次移动花费 1-2 秒而不是 30 秒。播放：https://t.co/q... / ~1500 Elo! Consistently beats frontier models and Stockfish level 0. Fun seeing an 8b model mogging GPT 5.6 with high reasoning and response chaining. Spends 1-2 seconds per move vs 30 seconds. Play it: https://t.co/q...",
+      "url": "https://x.com/amasad/status/2083424608993300824",
+      "primary_url": "https://x.com/amasad/status/2083424608993300824",
+      "source": "Follow Builders · X · Amjad Masad",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "daa50679d525f85a7bf01fb0cfae9be83c398e1d",
+          "title": "~1500 Elo！始终击败前沿模型和 Stockfish 0 级。看到 8b 模型以高推理和响应链运行 GPT 5.6 很有趣。每次移动花费 1-2 秒而不是 30 秒。播放：https://t.co/q... / ~1500 Elo! Consistently beats frontier models and Stockfish level 0. Fun seeing an 8b model mogging GPT 5.6 with high reasoning and response chaining. Spends 1-2 seconds per move vs 30 seconds. Play it: https://t.co/q...",
+          "url": "https://x.com/amasad/status/2083424608993300824",
+          "source": "Follow Builders · X · Amjad Masad",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-01T05:28:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Amjad Masad"
+      ],
+      "items": [
+        {
+          "id": "daa50679d525f85a7bf01fb0cfae9be83c398e1d",
+          "title": "~1500 Elo！始终击败前沿模型和 Stockfish 0 级。看到 8b 模型以高推理和响应链运行 GPT 5.6 很有趣。每次移动花费 1-2 秒而不是 30 秒。播放：https://t.co/q... / ~1500 Elo! Consistently beats frontier models and Stockfish level 0. Fun seeing an 8b model mogging GPT 5.6 with high reasoning and response chaining. Spends 1-2 seconds per move vs 30 seconds. Play it: https://t.co/q...",
+          "url": "https://x.com/amasad/status/2083424608993300824",
+          "source": "Follow Builders · X · Amjad Masad",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-01T05:28:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6165,
+      "importance": 0.6165,
+      "importance_score": 0.6165,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.81,
+        "recency": 0.6274,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-01T05:28:29Z",
+      "latest_at": "2026-08-01T05:28:29Z",
+      "primary_item": {
+        "id": "daa50679d525f85a7bf01fb0cfae9be83c398e1d",
+        "title": "~1500 Elo！始终击败前沿模型和 Stockfish 0 级。看到 8b 模型以高推理和响应链运行 GPT 5.6 很有趣。每次移动花费 1-2 秒而不是 30 秒。播放：https://t.co/q... / ~1500 Elo! Consistently beats frontier models and Stockfish level 0. Fun seeing an 8b model mogging GPT 5.6 with high reasoning and response chaining. Spends 1-2 seconds per move vs 30 seconds. Play it: https://t.co/q...",
+        "url": "https://x.com/amasad/status/2083424608993300824",
+        "source": "Follow Builders · X · Amjad Masad",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_c7183a9b2608",
+      "title": "在人工智能领导者中，我似乎属于少数派，因为我仍在积极使用 /loop 和 /goal.... ... 我认为所有停止使用它的人都是错误的 - 不是永远错误，只是太早放弃它了...... / among ai leaders i seem to be in the minority in that i am STILL actively using /loop and /goal.... ... and i think all of u guys who stopped using it are wrong - not wrong forever, just giving up on it too early in t...",
+      "url": "https://x.com/swyx/status/2083439562437673053",
+      "primary_url": "https://x.com/swyx/status/2083439562437673053",
+      "source": "Follow Builders · X · Swyx",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "35ff3c1336835827fac53186332238b6c6c3519e",
+          "title": "在人工智能领导者中，我似乎属于少数派，因为我仍在积极使用 /loop 和 /goal.... ... 我认为所有停止使用它的人都是错误的 - 不是永远错误，只是太早放弃它了...... / among ai leaders i seem to be in the minority in that i am STILL actively using /loop and /goal.... ... and i think all of u guys who stopped using it are wrong - not wrong forever, just giving up on it too early in t...",
+          "url": "https://x.com/swyx/status/2083439562437673053",
+          "source": "Follow Builders · X · Swyx",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-01T06:27:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Swyx"
+      ],
+      "items": [
+        {
+          "id": "35ff3c1336835827fac53186332238b6c6c3519e",
+          "title": "在人工智能领导者中，我似乎属于少数派，因为我仍在积极使用 /loop 和 /goal.... ... 我认为所有停止使用它的人都是错误的 - 不是永远错误，只是太早放弃它了...... / among ai leaders i seem to be in the minority in that i am STILL actively using /loop and /goal.... ... and i think all of u guys who stopped using it are wrong - not wrong forever, just giving up on it too early in t...",
+          "url": "https://x.com/swyx/status/2083439562437673053",
+          "source": "Follow Builders · X · Swyx",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-01T06:27:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6127,
+      "importance": 0.6127,
+      "importance_score": 0.6127,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.77,
+        "recency": 0.6687,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-01T06:27:54Z",
+      "latest_at": "2026-08-01T06:27:54Z",
+      "primary_item": {
+        "id": "35ff3c1336835827fac53186332238b6c6c3519e",
+        "title": "在人工智能领导者中，我似乎属于少数派，因为我仍在积极使用 /loop 和 /goal.... ... 我认为所有停止使用它的人都是错误的 - 不是永远错误，只是太早放弃它了...... / among ai leaders i seem to be in the minority in that i am STILL actively using /loop and /goal.... ... and i think all of u guys who stopped using it are wrong - not wrong forever, just giving up on it too early in t...",
+        "url": "https://x.com/swyx/status/2083439562437673053",
+        "source": "Follow Builders · X · Swyx",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_76170209b581",
+      "title": "为了庆祝一周的效率并让您在本周末运行 100,000 个 Luna 线程...没错...等等...我已经重置了 Codex 和 ChatGPT Work 的使用限制。享受。 / To celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.",
+      "url": "https://x.com/thsottiaux/status/2083395449814229287",
+      "primary_url": "https://x.com/thsottiaux/status/2083395449814229287",
+      "source": "Follow Builders · X · Thibault Sottiaux",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "8dbe0622416adfc797076445907814f4aa5792f1",
+          "title": "为了庆祝一周的效率并让您在本周末运行 100,000 个 Luna 线程...没错...等等...我已经重置了 Codex 和 ChatGPT Work 的使用限制。享受。 / To celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.",
+          "url": "https://x.com/thsottiaux/status/2083395449814229287",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-01T03:32:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux"
+      ],
+      "items": [
+        {
+          "id": "8dbe0622416adfc797076445907814f4aa5792f1",
+          "title": "为了庆祝一周的效率并让您在本周末运行 100,000 个 Luna 线程...没错...等等...我已经重置了 Codex 和 ChatGPT Work 的使用限制。享受。 / To celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.",
+          "url": "https://x.com/thsottiaux/status/2083395449814229287",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-01T03:32:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6124,
+      "importance": 0.6124,
+      "importance_score": 0.6124,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.85,
+        "recency": 0.547,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-01T03:32:37Z",
+      "latest_at": "2026-08-01T03:32:37Z",
+      "primary_item": {
+        "id": "8dbe0622416adfc797076445907814f4aa5792f1",
+        "title": "为了庆祝一周的效率并让您在本周末运行 100,000 个 Luna 线程...没错...等等...我已经重置了 Codex 和 ChatGPT Work 的使用限制。享受。 / To celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.",
+        "url": "https://x.com/thsottiaux/status/2083395449814229287",
+        "source": "Follow Builders · X · Thibault Sottiaux",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_bbee8c323b5e",
+      "title": "WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？",
+      "url": "https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N",
+      "primary_url": "https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N",
+      "source": "InfoQ CN",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "8b07a3747978b32ea294067ad49bf09663d6994d",
+          "title": "WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？",
+          "url": "https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-01T17:20:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "InfoQ CN"
+      ],
+      "items": [
+        {
+          "id": "8b07a3747978b32ea294067ad49bf09663d6994d",
+          "title": "WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？",
+          "url": "https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-01T17:20:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.61,
+      "importance": 0.61,
+      "importance_score": 0.61,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-01T17:20:20Z",
+      "latest_at": "2026-08-01T17:20:20Z",
+      "primary_item": {
+        "id": "8b07a3747978b32ea294067ad49bf09663d6994d",
+        "title": "WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？",
+        "url": "https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N",
+        "source": "InfoQ CN",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_5f6ca55a4f1e",
+      "title": "在@WSJ 这篇关于 OpenAI 与 Anthropic 的文章中出现精彩内容真是太酷了！我支持这一点……自早春以来就非常清楚，势头正在转向@openai，这是一个引人入胜的回归故事 https://... / pretty cool to have the kicker in this @WSJ piece on OpenAI vs Anthropic! i stand behind this…has been pretty clear since early spring that the momentum is shifting to @openai it’s a fascinating comeback story https:/...",
+      "url": "https://x.com/danshipper/status/2083380721607921904",
+      "primary_url": "https://x.com/danshipper/status/2083380721607921904",
+      "source": "Follow Builders · X · Dan Shipper",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "498ed0fe34310947d07f6502c11ae527c121d67a",
+          "title": "在@WSJ 这篇关于 OpenAI 与 Anthropic 的文章中出现精彩内容真是太酷了！我支持这一点……自早春以来就非常清楚，势头正在转向@openai，这是一个引人入胜的回归故事 https://... / pretty cool to have the kicker in this @WSJ piece on OpenAI vs Anthropic! i stand behind this…has been pretty clear since early spring that the momentum is shifting to @openai it’s a fascinating comeback story https:/...",
+          "url": "https://x.com/danshipper/status/2083380721607921904",
+          "source": "Follow Builders · X · Dan Shipper",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-01T02:34:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Dan Shipper"
+      ],
+      "items": [
+        {
+          "id": "498ed0fe34310947d07f6502c11ae527c121d67a",
+          "title": "在@WSJ 这篇关于 OpenAI 与 Anthropic 的文章中出现精彩内容真是太酷了！我支持这一点……自早春以来就非常清楚，势头正在转向@openai，这是一个引人入胜的回归故事 https://... / pretty cool to have the kicker in this @WSJ piece on OpenAI vs Anthropic! i stand behind this…has been pretty clear since early spring that the momentum is shifting to @openai it’s a fascinating comeback story https:/...",
+          "url": "https://x.com/danshipper/status/2083380721607921904",
+          "source": "Follow Builders · X · Dan Shipper",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-01T02:34:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6043,
+      "importance": 0.6043,
+      "importance_score": 0.6043,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.85,
+        "recency": 0.5063,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-01T02:34:06Z",
+      "latest_at": "2026-08-01T02:34:06Z",
+      "primary_item": {
+        "id": "498ed0fe34310947d07f6502c11ae527c121d67a",
+        "title": "在@WSJ 这篇关于 OpenAI 与 Anthropic 的文章中出现精彩内容真是太酷了！我支持这一点……自早春以来就非常清楚，势头正在转向@openai，这是一个引人入胜的回归故事 https://... / pretty cool to have the kicker in this @WSJ piece on OpenAI vs Anthropic! i stand behind this…has been pretty clear since early spring that the momentum is shifting to @openai it’s a fascinating comeback story https:/...",
+        "url": "https://x.com/danshipper/status/2083380721607921904",
+        "source": "Follow Builders · X · Dan Shipper",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_306b428a7c54",
+      "title": "92% 工程师都在用 AI 后，Uber 开始给 AI “限额”了",
+      "url": "https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m",
+      "primary_url": "https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m",
+      "source": "InfoQ CN",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "e24368d6e9538f263c2e89e90be936b5cfd12a11",
+          "title": "92% 工程师都在用 AI 后，Uber 开始给 AI “限额”了",
+          "url": "https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-01T14:05:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "InfoQ CN"
+      ],
+      "items": [
+        {
+          "id": "e24368d6e9538f263c2e89e90be936b5cfd12a11",
+          "title": "92% 工程师都在用 AI 后，Uber 开始给 AI “限额”了",
+          "url": "https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-01T14:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5982,
+      "importance": 0.5982,
+      "importance_score": 0.5982,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9861,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-01T14:05:00Z",
+      "latest_at": "2026-08-01T14:05:00Z",
+      "primary_item": {
+        "id": "e24368d6e9538f263c2e89e90be936b5cfd12a11",
+        "title": "92% 工程师都在用 AI 后，Uber 开始给 AI “限额”了",
+        "url": "https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m",
+        "source": "InfoQ CN",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_eee710621a6c",
+      "title": "ChatGPT 工作计数 https://t.co/XlnkkYvx1s / ChatGPT Work counted https://t.co/XlnkkYvx1s",
+      "url": "https://x.com/thsottiaux/status/2083387677945036995",
+      "primary_url": "https://x.com/thsottiaux/status/2083387677945036995",
+      "source": "Follow Builders · X · Thibault Sottiaux",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "5557ef055fb83cb35b44ce5c9525d95b5d695a84",
+          "title": "ChatGPT 工作计数 https://t.co/XlnkkYvx1s / ChatGPT Work counted https://t.co/XlnkkYvx1s",
+          "url": "https://x.com/thsottiaux/status/2083387677945036995",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-01T03:01:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux"
+      ],
+      "items": [
+        {
+          "id": "5557ef055fb83cb35b44ce5c9525d95b5d695a84",
+          "title": "ChatGPT 工作计数 https://t.co/XlnkkYvx1s / ChatGPT Work counted https://t.co/XlnkkYvx1s",
+          "url": "https://x.com/thsottiaux/status/2083387677945036995",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-01T03:01:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5961,
+      "importance": 0.5961,
+      "importance_score": 0.5961,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.81,
+        "recency": 0.5255,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-01T03:01:44Z",
+      "latest_at": "2026-08-01T03:01:44Z",
+      "primary_item": {
+        "id": "5557ef055fb83cb35b44ce5c9525d95b5d695a84",
+        "title": "ChatGPT 工作计数 https://t.co/XlnkkYvx1s / ChatGPT Work counted https://t.co/XlnkkYvx1s",
+        "url": "https://x.com/thsottiaux/status/2083387677945036995",
+        "source": "Follow Builders · X · Thibault Sottiaux",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_d1b1d0737413",
+      "title": "不知道这些具体数字是否适用于各种任务，但从方向上看，很明显，安全带将成为人工智能堆栈中仅次于模型功能的最重要的变量。有能力... / No idea if these specific numbers generalize across tasks, but directionally it’s clear that the harness is going to become the most important variable -right next to model capability- in the AI stack. The ability for...",
+      "url": "https://x.com/levie/status/2083389460679373135",
+      "primary_url": "https://x.com/levie/status/2083389460679373135",
+      "source": "Follow Builders · X · Aaron Levie",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "33bcb45cc40c418b2ec58f5729858e3b3b266674",
+          "title": "不知道这些具体数字是否适用于各种任务，但从方向上看，很明显，安全带将成为人工智能堆栈中仅次于模型功能的最重要的变量。有能力... / No idea if these specific numbers generalize across tasks, but directionally it’s clear that the harness is going to become the most important variable -right next to model capability- in the AI stack. The ability for...",
+          "url": "https://x.com/levie/status/2083389460679373135",
+          "source": "Follow Builders · X · Aaron Levie",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-01T03:08:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Aaron Levie"
+      ],
+      "items": [
+        {
+          "id": "33bcb45cc40c418b2ec58f5729858e3b3b266674",
+          "title": "不知道这些具体数字是否适用于各种任务，但从方向上看，很明显，安全带将成为人工智能堆栈中仅次于模型功能的最重要的变量。有能力... / No idea if these specific numbers generalize across tasks, but directionally it’s clear that the harness is going to become the most important variable -right next to model capability- in the AI stack. The ability for...",
+          "url": "https://x.com/levie/status/2083389460679373135",
+          "source": "Follow Builders · X · Aaron Levie",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-01T03:08:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5851,
+      "importance": 0.5851,
+      "importance_score": 0.5851,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.77,
+        "recency": 0.5304,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-01T03:08:49Z",
+      "latest_at": "2026-08-01T03:08:49Z",
+      "primary_item": {
+        "id": "33bcb45cc40c418b2ec58f5729858e3b3b266674",
+        "title": "不知道这些具体数字是否适用于各种任务，但从方向上看，很明显，安全带将成为人工智能堆栈中仅次于模型功能的最重要的变量。有能力... / No idea if these specific numbers generalize across tasks, but directionally it’s clear that the harness is going to become the most important variable -right next to model capability- in the AI stack. The ability for...",
+        "url": "https://x.com/levie/status/2083389460679373135",
+        "source": "Follow Builders · X · Aaron Levie",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_d296024d9d6d",
+      "title": "没有人知道 OpenAI 和 Anthropic 的 AI 黑客攻击是否违法 / Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+      "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal",
+      "primary_url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal",
+      "source": "Wired AI",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "4ff53ce71f2fe2c02f9db6d34d0eb102f8e12045",
+          "title": "没有人知道 OpenAI 和 Anthropic 的 AI 黑客攻击是否违法 / Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+          "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal",
+          "source": "Wired AI",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-01T09:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Wired AI"
+      ],
+      "items": [
+        {
+          "id": "4ff53ce71f2fe2c02f9db6d34d0eb102f8e12045",
+          "title": "没有人知道 OpenAI 和 Anthropic 的 AI 黑客攻击是否违法 / Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+          "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal",
+          "source": "Wired AI",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-01T09:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.584,
+      "importance": 0.584,
+      "importance_score": 0.584,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.7951,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-01T09:30:00Z",
+      "latest_at": "2026-08-01T09:30:00Z",
+      "primary_item": {
+        "id": "4ff53ce71f2fe2c02f9db6d34d0eb102f8e12045",
+        "title": "没有人知道 OpenAI 和 Anthropic 的 AI 黑客攻击是否违法 / Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+        "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal",
+        "source": "Wired AI",
+        "source_name": "OPML RSS"
       }
     }
   ]
