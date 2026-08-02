@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T14:25:00.486018Z",
+  "generated_at": "2026-08-02T14:27:49.169591Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,141 +65,21 @@
       }
     },
     {
-      "story_id": "story_97643d9dcc53",
-      "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-      "url": "https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0",
-      "primary_url": "https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b8a7b0655e9dfef8e1a302ca1ea8cbd72f25b67d",
-          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-          "url": "https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-01T10:40:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b8a7b0655e9dfef8e1a302ca1ea8cbd72f25b67d",
-          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-          "url": "https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-01T10:40:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8443,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-01T10:40:50Z",
-      "latest_at": "2026-08-01T10:40:50Z",
-      "primary_item": {
-        "id": "b8a7b0655e9dfef8e1a302ca1ea8cbd72f25b67d",
-        "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-        "url": "https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5a39f5e7e07a",
-      "title": "OpenAI Astra 以约2000美元证明10项数学难题",
-      "url": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
-      "primary_url": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6bc0290b8d7d2e1c7e74794d6160e60a45eaccd8",
-          "title": "OpenAI Astra 以约2000美元证明10项数学难题",
-          "url": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-01T07:39:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "6bc0290b8d7d2e1c7e74794d6160e60a45eaccd8",
-          "title": "OpenAI Astra 以约2000美元证明10项数学难题",
-          "url": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-01T07:39:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7181,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-01T07:39:02Z",
-      "latest_at": "2026-08-01T07:39:02Z",
-      "primary_item": {
-        "id": "6bc0290b8d7d2e1c7e74794d6160e60a45eaccd8",
-        "title": "OpenAI Astra 以约2000美元证明10项数学难题",
-        "url": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9b7f1146c6b4",
-      "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
-      "url": "https://aihot.virxact.com/items/cms9udxq00qybro9kc2il6w0c",
-      "primary_url": "https://aihot.virxact.com/items/cms9udxq00qybro9kc2il6w0c",
+      "story_id": "story_4a743fe35958",
+      "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+      "url": "https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1",
+      "primary_url": "https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1",
       "source": "X：阿易 AI Notes (@AYi_AInotes)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e6e417fc0138abfc5f177f213eafba042a5ade1b",
-          "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
-          "url": "https://aihot.virxact.com/items/cms9udxq00qybro9kc2il6w0c",
+          "id": "3c090a057cd7d54378fd57c6e59f35b3a65cad27",
+          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "url": "https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1",
           "source": "X：阿易 AI Notes (@AYi_AInotes)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-01T03:57:07Z"
+          "published_at": "2026-08-02T10:47:27Z"
         }
       ],
       "source_count": 1,
@@ -208,709 +88,235 @@
       ],
       "items": [
         {
-          "id": "e6e417fc0138abfc5f177f213eafba042a5ade1b",
-          "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
-          "url": "https://aihot.virxact.com/items/cms9udxq00qybro9kc2il6w0c",
+          "id": "3c090a057cd7d54378fd57c6e59f35b3a65cad27",
+          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "url": "https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1",
           "source": "X：阿易 AI Notes (@AYi_AInotes)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-01T03:57:07Z"
+          "published_at": "2026-08-02T10:47:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7248,
-      "importance": 0.7248,
-      "importance_score": 0.7248,
+      "score": 0.7814,
+      "importance": 0.7814,
+      "importance_score": 0.7814,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.564,
+        "recency": 0.847,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-02T10:47:27Z",
+      "latest_at": "2026-08-02T10:47:27Z",
+      "primary_item": {
+        "id": "3c090a057cd7d54378fd57c6e59f35b3a65cad27",
+        "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+        "url": "https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a0e504a83053",
+      "title": "Grok 支持分析任意视频",
+      "url": "https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk",
+      "primary_url": "https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b372bc2c7731ac122f99c9c469c892169256b024",
+          "title": "Grok 支持分析任意视频",
+          "url": "https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T06:23:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "b372bc2c7731ac122f99c9c469c892169256b024",
+          "title": "Grok 支持分析任意视频",
+          "url": "https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T06:23:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6639,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-01T03:57:07Z",
-      "latest_at": "2026-08-01T03:57:07Z",
+      "earliest_at": "2026-08-02T06:23:54Z",
+      "latest_at": "2026-08-02T06:23:54Z",
       "primary_item": {
-        "id": "e6e417fc0138abfc5f177f213eafba042a5ade1b",
-        "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
-        "url": "https://aihot.virxact.com/items/cms9udxq00qybro9kc2il6w0c",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "id": "b372bc2c7731ac122f99c9c469c892169256b024",
+        "title": "Grok 支持分析任意视频",
+        "url": "https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_337d712579d2",
-      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-      "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T20:04:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T20:04:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7201,
-      "importance": 0.7201,
-      "importance_score": 0.7201,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2354,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T20:04:01Z",
-      "latest_at": "2026-07-31T20:04:01Z",
-      "primary_item": {
-        "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
-        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-        "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3bde4c44877d",
-      "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T18:11:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T18:11:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6925,
-      "importance": 0.6925,
-      "importance_score": 0.6925,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.1575,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T18:11:50Z",
-      "latest_at": "2026-07-31T18:11:50Z",
-      "primary_item": {
-        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-        "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_40a9fce1f45e",
-      "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-      "primary_url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T16:45:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T16:45:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6806,
-      "importance": 0.6806,
-      "importance_score": 0.6806,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.0978,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T16:45:50Z",
-      "latest_at": "2026-07-31T16:45:50Z",
-      "primary_item": {
-        "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-        "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-        "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fc0530ff6826",
-      "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
-      "url": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk",
-      "primary_url": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0d063573dd8b598e4b34e7ba2f3c59e50aecf8ba",
-          "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
-          "url": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T21:38:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "0d063573dd8b598e4b34e7ba2f3c59e50aecf8ba",
-          "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
-          "url": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T21:38:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6721,
-      "importance": 0.6721,
-      "importance_score": 0.6721,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.3007,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T21:38:05Z",
-      "latest_at": "2026-07-31T21:38:05Z",
-      "primary_item": {
-        "id": "0d063573dd8b598e4b34e7ba2f3c59e50aecf8ba",
-        "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
-        "url": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ac39d2ddcafc",
-      "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
-      "url": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
-      "primary_url": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "227440df1a78ba1b85f631ba017e91d637977309",
-          "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
-          "url": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T21:15:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "227440df1a78ba1b85f631ba017e91d637977309",
-          "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
-          "url": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T21:15:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.669,
-      "importance": 0.669,
-      "importance_score": 0.669,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.285,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T21:15:23Z",
-      "latest_at": "2026-07-31T21:15:23Z",
-      "primary_item": {
-        "id": "227440df1a78ba1b85f631ba017e91d637977309",
-        "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
-        "url": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ceacf4cb4c8e",
-      "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-      "url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
-      "primary_url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "094372bb8dcf343bf9d06a955a29a63091b5102c",
-          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T20:25:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "094372bb8dcf343bf9d06a955a29a63091b5102c",
-          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T20:25:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.662,
-      "importance": 0.662,
-      "importance_score": 0.662,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.2502,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T20:25:20Z",
-      "latest_at": "2026-07-31T20:25:20Z",
-      "primary_item": {
-        "id": "094372bb8dcf343bf9d06a955a29a63091b5102c",
-        "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-        "url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4dc05d078763",
-      "title": "animated-voiceover 开源：一人干翻动画工作室",
-      "url": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
-      "primary_url": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b664853e386d98e600049d818bf008c371beff7e",
-          "title": "animated-voiceover 开源：一人干翻动画工作室",
-          "url": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T16:01:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "b664853e386d98e600049d818bf008c371beff7e",
-          "title": "animated-voiceover 开源：一人干翻动画工作室",
-          "url": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T16:01:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6255,
-      "importance": 0.6255,
-      "importance_score": 0.6255,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0673,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T16:01:51Z",
-      "latest_at": "2026-07-31T16:01:51Z",
-      "primary_item": {
-        "id": "b664853e386d98e600049d818bf008c371beff7e",
-        "title": "animated-voiceover 开源：一人干翻动画工作室",
-        "url": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6d0981ce859e",
-      "title": "~1500 Elo！始终击败前沿模型和 Stockfish 0 级。看到 8b 模型以高推理和响应链运行 GPT 5.6 很有趣。每次移动花费 1-2 秒而不是 30 秒。播放：https://t.co/q... / ~1500 Elo! Consistently beats frontier models and Stockfish level 0. Fun seeing an 8b model mogging GPT 5.6 with high reasoning and response chaining. Spends 1-2 seconds per move vs 30 seconds. Play it: https://t.co/q...",
-      "url": "https://x.com/amasad/status/2083424608993300824",
-      "primary_url": "https://x.com/amasad/status/2083424608993300824",
-      "source": "Follow Builders · X · Amjad Masad",
+      "story_id": "story_66b001b77aac",
+      "title": "今晚我感觉很辣所以我就说一下：我认为Opus 4.6是个性和写作风格最好的Opus型号。 Opus 5 出了点问题——它往往给我的回复太长，用克劳德的话…… / I'm feeling spicy tonight so let me just say it: I think Opus 4.6 was the Opus model with the best personality and writing style. Something's off with Opus 5 - it tends to give me overly long replies, use Claude-speak...",
+      "url": "https://x.com/petergyang/status/2083755374994415904",
+      "primary_url": "https://x.com/petergyang/status/2083755374994415904",
+      "source": "Follow Builders · X · Peter Yang",
       "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "daa50679d525f85a7bf01fb0cfae9be83c398e1d",
-          "title": "~1500 Elo！始终击败前沿模型和 Stockfish 0 级。看到 8b 模型以高推理和响应链运行 GPT 5.6 很有趣。每次移动花费 1-2 秒而不是 30 秒。播放：https://t.co/q... / ~1500 Elo! Consistently beats frontier models and Stockfish level 0. Fun seeing an 8b model mogging GPT 5.6 with high reasoning and response chaining. Spends 1-2 seconds per move vs 30 seconds. Play it: https://t.co/q...",
-          "url": "https://x.com/amasad/status/2083424608993300824",
-          "source": "Follow Builders · X · Amjad Masad",
+          "id": "aa03afd62bb8f8ce292cea60aa9cc3134536fd19",
+          "title": "今晚我感觉很辣所以我就说一下：我认为Opus 4.6是个性和写作风格最好的Opus型号。 Opus 5 出了点问题——它往往给我的回复太长，用克劳德的话…… / I'm feeling spicy tonight so let me just say it: I think Opus 4.6 was the Opus model with the best personality and writing style. Something's off with Opus 5 - it tends to give me overly long replies, use Claude-speak...",
+          "url": "https://x.com/petergyang/status/2083755374994415904",
+          "source": "Follow Builders · X · Peter Yang",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-08-01T05:28:29Z"
+          "published_at": "2026-08-02T03:22:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Amjad Masad"
+        "Follow Builders · X · Peter Yang"
       ],
       "items": [
         {
-          "id": "daa50679d525f85a7bf01fb0cfae9be83c398e1d",
-          "title": "~1500 Elo！始终击败前沿模型和 Stockfish 0 级。看到 8b 模型以高推理和响应链运行 GPT 5.6 很有趣。每次移动花费 1-2 秒而不是 30 秒。播放：https://t.co/q... / ~1500 Elo! Consistently beats frontier models and Stockfish level 0. Fun seeing an 8b model mogging GPT 5.6 with high reasoning and response chaining. Spends 1-2 seconds per move vs 30 seconds. Play it: https://t.co/q...",
-          "url": "https://x.com/amasad/status/2083424608993300824",
-          "source": "Follow Builders · X · Amjad Masad",
+          "id": "aa03afd62bb8f8ce292cea60aa9cc3134536fd19",
+          "title": "今晚我感觉很辣所以我就说一下：我认为Opus 4.6是个性和写作风格最好的Opus型号。 Opus 5 出了点问题——它往往给我的回复太长，用克劳德的话…… / I'm feeling spicy tonight so let me just say it: I think Opus 4.6 was the Opus model with the best personality and writing style. Something's off with Opus 5 - it tends to give me overly long replies, use Claude-speak...",
+          "url": "https://x.com/petergyang/status/2083755374994415904",
+          "source": "Follow Builders · X · Peter Yang",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-08-01T05:28:29Z"
+          "published_at": "2026-08-02T03:22:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6165,
-      "importance": 0.6165,
-      "importance_score": 0.6165,
+      "score": 0.5986,
+      "importance": 0.5986,
+      "importance_score": 0.5986,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
         "ai_relevance": 0.81,
-        "recency": 0.6274,
+        "recency": 0.5382,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-01T05:28:29Z",
-      "latest_at": "2026-08-01T05:28:29Z",
+      "earliest_at": "2026-08-02T03:22:50Z",
+      "latest_at": "2026-08-02T03:22:50Z",
       "primary_item": {
-        "id": "daa50679d525f85a7bf01fb0cfae9be83c398e1d",
-        "title": "~1500 Elo！始终击败前沿模型和 Stockfish 0 级。看到 8b 模型以高推理和响应链运行 GPT 5.6 很有趣。每次移动花费 1-2 秒而不是 30 秒。播放：https://t.co/q... / ~1500 Elo! Consistently beats frontier models and Stockfish level 0. Fun seeing an 8b model mogging GPT 5.6 with high reasoning and response chaining. Spends 1-2 seconds per move vs 30 seconds. Play it: https://t.co/q...",
-        "url": "https://x.com/amasad/status/2083424608993300824",
-        "source": "Follow Builders · X · Amjad Masad",
+        "id": "aa03afd62bb8f8ce292cea60aa9cc3134536fd19",
+        "title": "今晚我感觉很辣所以我就说一下：我认为Opus 4.6是个性和写作风格最好的Opus型号。 Opus 5 出了点问题——它往往给我的回复太长，用克劳德的话…… / I'm feeling spicy tonight so let me just say it: I think Opus 4.6 was the Opus model with the best personality and writing style. Something's off with Opus 5 - it tends to give me overly long replies, use Claude-speak...",
+        "url": "https://x.com/petergyang/status/2083755374994415904",
+        "source": "Follow Builders · X · Peter Yang",
         "source_name": "Follow Builders"
       }
     },
     {
-      "story_id": "story_c7183a9b2608",
-      "title": "在人工智能领导者中，我似乎属于少数派，因为我仍在积极使用 /loop 和 /goal.... ... 我认为所有停止使用它的人都是错误的 - 不是永远错误，只是太早放弃它了...... / among ai leaders i seem to be in the minority in that i am STILL actively using /loop and /goal.... ... and i think all of u guys who stopped using it are wrong - not wrong forever, just giving up on it too early in t...",
-      "url": "https://x.com/swyx/status/2083439562437673053",
-      "primary_url": "https://x.com/swyx/status/2083439562437673053",
-      "source": "Follow Builders · X · Swyx",
+      "story_id": "story_a9e4d692a7b0",
+      "title": "我们开始离开你通过例如法学硕士测试的领域。 “创建一个骑自行车的鹈鹕的 svg”。作为概括它的一个想法，我很感兴趣如果我给它第一段 Opus 5 会做什么...... / We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of th...",
+      "url": "https://x.com/karpathy/status/2083749667410727319",
+      "primary_url": "https://x.com/karpathy/status/2083749667410727319",
+      "source": "Follow Builders · X · Andrej Karpathy",
       "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "35ff3c1336835827fac53186332238b6c6c3519e",
-          "title": "在人工智能领导者中，我似乎属于少数派，因为我仍在积极使用 /loop 和 /goal.... ... 我认为所有停止使用它的人都是错误的 - 不是永远错误，只是太早放弃它了...... / among ai leaders i seem to be in the minority in that i am STILL actively using /loop and /goal.... ... and i think all of u guys who stopped using it are wrong - not wrong forever, just giving up on it too early in t...",
-          "url": "https://x.com/swyx/status/2083439562437673053",
-          "source": "Follow Builders · X · Swyx",
+          "id": "255b283213d608d4744ee8a152c9b2ab58ba205e",
+          "title": "我们开始离开你通过例如法学硕士测试的领域。 “创建一个骑自行车的鹈鹕的 svg”。作为概括它的一个想法，我很感兴趣如果我给它第一段 Opus 5 会做什么...... / We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of th...",
+          "url": "https://x.com/karpathy/status/2083749667410727319",
+          "source": "Follow Builders · X · Andrej Karpathy",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-08-01T06:27:54Z"
+          "published_at": "2026-08-02T03:00:09Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Swyx"
+        "Follow Builders · X · Andrej Karpathy"
       ],
       "items": [
         {
-          "id": "35ff3c1336835827fac53186332238b6c6c3519e",
-          "title": "在人工智能领导者中，我似乎属于少数派，因为我仍在积极使用 /loop 和 /goal.... ... 我认为所有停止使用它的人都是错误的 - 不是永远错误，只是太早放弃它了...... / among ai leaders i seem to be in the minority in that i am STILL actively using /loop and /goal.... ... and i think all of u guys who stopped using it are wrong - not wrong forever, just giving up on it too early in t...",
-          "url": "https://x.com/swyx/status/2083439562437673053",
-          "source": "Follow Builders · X · Swyx",
+          "id": "255b283213d608d4744ee8a152c9b2ab58ba205e",
+          "title": "我们开始离开你通过例如法学硕士测试的领域。 “创建一个骑自行车的鹈鹕的 svg”。作为概括它的一个想法，我很感兴趣如果我给它第一段 Opus 5 会做什么...... / We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of th...",
+          "url": "https://x.com/karpathy/status/2083749667410727319",
+          "source": "Follow Builders · X · Andrej Karpathy",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-08-01T06:27:54Z"
+          "published_at": "2026-08-02T03:00:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6127,
-      "importance": 0.6127,
-      "importance_score": 0.6127,
+      "score": 0.5955,
+      "importance": 0.5955,
+      "importance_score": 0.5955,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
-        "ai_relevance": 0.77,
-        "recency": 0.6687,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-08-01T06:27:54Z",
-      "latest_at": "2026-08-01T06:27:54Z",
-      "primary_item": {
-        "id": "35ff3c1336835827fac53186332238b6c6c3519e",
-        "title": "在人工智能领导者中，我似乎属于少数派，因为我仍在积极使用 /loop 和 /goal.... ... 我认为所有停止使用它的人都是错误的 - 不是永远错误，只是太早放弃它了...... / among ai leaders i seem to be in the minority in that i am STILL actively using /loop and /goal.... ... and i think all of u guys who stopped using it are wrong - not wrong forever, just giving up on it too early in t...",
-        "url": "https://x.com/swyx/status/2083439562437673053",
-        "source": "Follow Builders · X · Swyx",
-        "source_name": "Follow Builders"
-      }
-    },
-    {
-      "story_id": "story_76170209b581",
-      "title": "为了庆祝一周的效率并让您在本周末运行 100,000 个 Luna 线程...没错...等等...我已经重置了 Codex 和 ChatGPT Work 的使用限制。享受。 / To celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.",
-      "url": "https://x.com/thsottiaux/status/2083395449814229287",
-      "primary_url": "https://x.com/thsottiaux/status/2083395449814229287",
-      "source": "Follow Builders · X · Thibault Sottiaux",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "8dbe0622416adfc797076445907814f4aa5792f1",
-          "title": "为了庆祝一周的效率并让您在本周末运行 100,000 个 Luna 线程...没错...等等...我已经重置了 Codex 和 ChatGPT Work 的使用限制。享受。 / To celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.",
-          "url": "https://x.com/thsottiaux/status/2083395449814229287",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-01T03:32:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux"
-      ],
-      "items": [
-        {
-          "id": "8dbe0622416adfc797076445907814f4aa5792f1",
-          "title": "为了庆祝一周的效率并让您在本周末运行 100,000 个 Luna 线程...没错...等等...我已经重置了 Codex 和 ChatGPT Work 的使用限制。享受。 / To celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.",
-          "url": "https://x.com/thsottiaux/status/2083395449814229287",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-01T03:32:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6124,
-      "importance": 0.6124,
-      "importance_score": 0.6124,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.85,
-        "recency": 0.547,
+        "ai_relevance": 0.81,
+        "recency": 0.5225,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-01T03:32:37Z",
-      "latest_at": "2026-08-01T03:32:37Z",
+      "earliest_at": "2026-08-02T03:00:09Z",
+      "latest_at": "2026-08-02T03:00:09Z",
       "primary_item": {
-        "id": "8dbe0622416adfc797076445907814f4aa5792f1",
-        "title": "为了庆祝一周的效率并让您在本周末运行 100,000 个 Luna 线程...没错...等等...我已经重置了 Codex 和 ChatGPT Work 的使用限制。享受。 / To celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.",
-        "url": "https://x.com/thsottiaux/status/2083395449814229287",
-        "source": "Follow Builders · X · Thibault Sottiaux",
+        "id": "255b283213d608d4744ee8a152c9b2ab58ba205e",
+        "title": "我们开始离开你通过例如法学硕士测试的领域。 “创建一个骑自行车的鹈鹕的 svg”。作为概括它的一个想法，我很感兴趣如果我给它第一段 Opus 5 会做什么...... / We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of th...",
+        "url": "https://x.com/karpathy/status/2083749667410727319",
+        "source": "Follow Builders · X · Andrej Karpathy",
         "source_name": "Follow Builders"
       }
     },
     {
-      "story_id": "story_bbee8c323b5e",
-      "title": "WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？",
-      "url": "https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N",
-      "primary_url": "https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "8b07a3747978b32ea294067ad49bf09663d6994d",
-          "title": "WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？",
-          "url": "https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-01T17:20:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "InfoQ CN"
-      ],
-      "items": [
-        {
-          "id": "8b07a3747978b32ea294067ad49bf09663d6994d",
-          "title": "WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？",
-          "url": "https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-01T17:20:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.61,
-      "importance": 0.61,
-      "importance_score": 0.61,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-08-01T17:20:20Z",
-      "latest_at": "2026-08-01T17:20:20Z",
-      "primary_item": {
-        "id": "8b07a3747978b32ea294067ad49bf09663d6994d",
-        "title": "WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？",
-        "url": "https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_5f6ca55a4f1e",
-      "title": "在@WSJ 这篇关于 OpenAI 与 Anthropic 的文章中出现精彩内容真是太酷了！我支持这一点……自早春以来就非常清楚，势头正在转向@openai，这是一个引人入胜的回归故事 https://... / pretty cool to have the kicker in this @WSJ piece on OpenAI vs Anthropic! i stand behind this…has been pretty clear since early spring that the momentum is shifting to @openai it’s a fascinating comeback story https:/...",
-      "url": "https://x.com/danshipper/status/2083380721607921904",
-      "primary_url": "https://x.com/danshipper/status/2083380721607921904",
+      "story_id": "story_b850c23dad3b",
+      "title": "人工智能为人类专家创造了更多工作 https://t.co/j3r4aTuQoi https://t.co/ruFncXlpmu / AI creates more work for human experts https://t.co/j3r4aTuQoi https://t.co/ruFncXlpmu",
+      "url": "https://x.com/danshipper/status/2083750803437724016",
+      "primary_url": "https://x.com/danshipper/status/2083750803437724016",
       "source": "Follow Builders · X · Dan Shipper",
       "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "498ed0fe34310947d07f6502c11ae527c121d67a",
-          "title": "在@WSJ 这篇关于 OpenAI 与 Anthropic 的文章中出现精彩内容真是太酷了！我支持这一点……自早春以来就非常清楚，势头正在转向@openai，这是一个引人入胜的回归故事 https://... / pretty cool to have the kicker in this @WSJ piece on OpenAI vs Anthropic! i stand behind this…has been pretty clear since early spring that the momentum is shifting to @openai it’s a fascinating comeback story https:/...",
-          "url": "https://x.com/danshipper/status/2083380721607921904",
+          "id": "1d200a4b1b075eb81314ea6a4514fc017217ac88",
+          "title": "人工智能为人类专家创造了更多工作 https://t.co/j3r4aTuQoi https://t.co/ruFncXlpmu / AI creates more work for human experts https://t.co/j3r4aTuQoi https://t.co/ruFncXlpmu",
+          "url": "https://x.com/danshipper/status/2083750803437724016",
           "source": "Follow Builders · X · Dan Shipper",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-08-01T02:34:06Z"
+          "published_at": "2026-08-02T03:04:40Z"
         }
       ],
       "source_count": 1,
@@ -919,234 +325,57 @@
       ],
       "items": [
         {
-          "id": "498ed0fe34310947d07f6502c11ae527c121d67a",
-          "title": "在@WSJ 这篇关于 OpenAI 与 Anthropic 的文章中出现精彩内容真是太酷了！我支持这一点……自早春以来就非常清楚，势头正在转向@openai，这是一个引人入胜的回归故事 https://... / pretty cool to have the kicker in this @WSJ piece on OpenAI vs Anthropic! i stand behind this…has been pretty clear since early spring that the momentum is shifting to @openai it’s a fascinating comeback story https:/...",
-          "url": "https://x.com/danshipper/status/2083380721607921904",
+          "id": "1d200a4b1b075eb81314ea6a4514fc017217ac88",
+          "title": "人工智能为人类专家创造了更多工作 https://t.co/j3r4aTuQoi https://t.co/ruFncXlpmu / AI creates more work for human experts https://t.co/j3r4aTuQoi https://t.co/ruFncXlpmu",
+          "url": "https://x.com/danshipper/status/2083750803437724016",
           "source": "Follow Builders · X · Dan Shipper",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-08-01T02:34:06Z"
+          "published_at": "2026-08-02T03:04:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6043,
-      "importance": 0.6043,
-      "importance_score": 0.6043,
+      "score": 0.5841,
+      "importance": 0.5841,
+      "importance_score": 0.5841,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
-        "ai_relevance": 0.85,
-        "recency": 0.5063,
+        "ai_relevance": 0.77,
+        "recency": 0.5256,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-01T02:34:06Z",
-      "latest_at": "2026-08-01T02:34:06Z",
+      "earliest_at": "2026-08-02T03:04:40Z",
+      "latest_at": "2026-08-02T03:04:40Z",
       "primary_item": {
-        "id": "498ed0fe34310947d07f6502c11ae527c121d67a",
-        "title": "在@WSJ 这篇关于 OpenAI 与 Anthropic 的文章中出现精彩内容真是太酷了！我支持这一点……自早春以来就非常清楚，势头正在转向@openai，这是一个引人入胜的回归故事 https://... / pretty cool to have the kicker in this @WSJ piece on OpenAI vs Anthropic! i stand behind this…has been pretty clear since early spring that the momentum is shifting to @openai it’s a fascinating comeback story https:/...",
-        "url": "https://x.com/danshipper/status/2083380721607921904",
+        "id": "1d200a4b1b075eb81314ea6a4514fc017217ac88",
+        "title": "人工智能为人类专家创造了更多工作 https://t.co/j3r4aTuQoi https://t.co/ruFncXlpmu / AI creates more work for human experts https://t.co/j3r4aTuQoi https://t.co/ruFncXlpmu",
+        "url": "https://x.com/danshipper/status/2083750803437724016",
         "source": "Follow Builders · X · Dan Shipper",
         "source_name": "Follow Builders"
       }
     },
     {
-      "story_id": "story_306b428a7c54",
-      "title": "92% 工程师都在用 AI 后，Uber 开始给 AI “限额”了",
-      "url": "https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m",
-      "primary_url": "https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "e24368d6e9538f263c2e89e90be936b5cfd12a11",
-          "title": "92% 工程师都在用 AI 后，Uber 开始给 AI “限额”了",
-          "url": "https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-01T14:05:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "InfoQ CN"
-      ],
-      "items": [
-        {
-          "id": "e24368d6e9538f263c2e89e90be936b5cfd12a11",
-          "title": "92% 工程师都在用 AI 后，Uber 开始给 AI “限额”了",
-          "url": "https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-01T14:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.5982,
-      "importance": 0.5982,
-      "importance_score": 0.5982,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.9861,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-08-01T14:05:00Z",
-      "latest_at": "2026-08-01T14:05:00Z",
-      "primary_item": {
-        "id": "e24368d6e9538f263c2e89e90be936b5cfd12a11",
-        "title": "92% 工程师都在用 AI 后，Uber 开始给 AI “限额”了",
-        "url": "https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_eee710621a6c",
-      "title": "ChatGPT 工作计数 https://t.co/XlnkkYvx1s / ChatGPT Work counted https://t.co/XlnkkYvx1s",
-      "url": "https://x.com/thsottiaux/status/2083387677945036995",
-      "primary_url": "https://x.com/thsottiaux/status/2083387677945036995",
-      "source": "Follow Builders · X · Thibault Sottiaux",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "5557ef055fb83cb35b44ce5c9525d95b5d695a84",
-          "title": "ChatGPT 工作计数 https://t.co/XlnkkYvx1s / ChatGPT Work counted https://t.co/XlnkkYvx1s",
-          "url": "https://x.com/thsottiaux/status/2083387677945036995",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-01T03:01:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux"
-      ],
-      "items": [
-        {
-          "id": "5557ef055fb83cb35b44ce5c9525d95b5d695a84",
-          "title": "ChatGPT 工作计数 https://t.co/XlnkkYvx1s / ChatGPT Work counted https://t.co/XlnkkYvx1s",
-          "url": "https://x.com/thsottiaux/status/2083387677945036995",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-01T03:01:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.5961,
-      "importance": 0.5961,
-      "importance_score": 0.5961,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.81,
-        "recency": 0.5255,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-01T03:01:44Z",
-      "latest_at": "2026-08-01T03:01:44Z",
-      "primary_item": {
-        "id": "5557ef055fb83cb35b44ce5c9525d95b5d695a84",
-        "title": "ChatGPT 工作计数 https://t.co/XlnkkYvx1s / ChatGPT Work counted https://t.co/XlnkkYvx1s",
-        "url": "https://x.com/thsottiaux/status/2083387677945036995",
-        "source": "Follow Builders · X · Thibault Sottiaux",
-        "source_name": "Follow Builders"
-      }
-    },
-    {
-      "story_id": "story_d1b1d0737413",
-      "title": "不知道这些具体数字是否适用于各种任务，但从方向上看，很明显，安全带将成为人工智能堆栈中仅次于模型功能的最重要的变量。有能力... / No idea if these specific numbers generalize across tasks, but directionally it’s clear that the harness is going to become the most important variable -right next to model capability- in the AI stack. The ability for...",
-      "url": "https://x.com/levie/status/2083389460679373135",
-      "primary_url": "https://x.com/levie/status/2083389460679373135",
-      "source": "Follow Builders · X · Aaron Levie",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "33bcb45cc40c418b2ec58f5729858e3b3b266674",
-          "title": "不知道这些具体数字是否适用于各种任务，但从方向上看，很明显，安全带将成为人工智能堆栈中仅次于模型功能的最重要的变量。有能力... / No idea if these specific numbers generalize across tasks, but directionally it’s clear that the harness is going to become the most important variable -right next to model capability- in the AI stack. The ability for...",
-          "url": "https://x.com/levie/status/2083389460679373135",
-          "source": "Follow Builders · X · Aaron Levie",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-01T03:08:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Aaron Levie"
-      ],
-      "items": [
-        {
-          "id": "33bcb45cc40c418b2ec58f5729858e3b3b266674",
-          "title": "不知道这些具体数字是否适用于各种任务，但从方向上看，很明显，安全带将成为人工智能堆栈中仅次于模型功能的最重要的变量。有能力... / No idea if these specific numbers generalize across tasks, but directionally it’s clear that the harness is going to become the most important variable -right next to model capability- in the AI stack. The ability for...",
-          "url": "https://x.com/levie/status/2083389460679373135",
-          "source": "Follow Builders · X · Aaron Levie",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-01T03:08:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.5851,
-      "importance": 0.5851,
-      "importance_score": 0.5851,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.77,
-        "recency": 0.5304,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-08-01T03:08:49Z",
-      "latest_at": "2026-08-01T03:08:49Z",
-      "primary_item": {
-        "id": "33bcb45cc40c418b2ec58f5729858e3b3b266674",
-        "title": "不知道这些具体数字是否适用于各种任务，但从方向上看，很明显，安全带将成为人工智能堆栈中仅次于模型功能的最重要的变量。有能力... / No idea if these specific numbers generalize across tasks, but directionally it’s clear that the harness is going to become the most important variable -right next to model capability- in the AI stack. The ability for...",
-        "url": "https://x.com/levie/status/2083389460679373135",
-        "source": "Follow Builders · X · Aaron Levie",
-        "source_name": "Follow Builders"
-      }
-    },
-    {
-      "story_id": "story_d296024d9d6d",
-      "title": "没有人知道 OpenAI 和 Anthropic 的 AI 黑客攻击是否违法 / Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
-      "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal",
-      "primary_url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal",
+      "story_id": "story_8ae9b0deac81",
+      "title": "欧洲人即将发现人工智能在他们的日常生活中的根深蒂固程度 / Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+      "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives",
+      "primary_url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives",
       "source": "Wired AI",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "4ff53ce71f2fe2c02f9db6d34d0eb102f8e12045",
-          "title": "没有人知道 OpenAI 和 Anthropic 的 AI 黑客攻击是否违法 / Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
-          "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal",
+          "id": "64d524cbb37411b24e2d72ac9a746adf12cba844",
+          "title": "欧洲人即将发现人工智能在他们的日常生活中的根深蒂固程度 / Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+          "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives",
           "source": "Wired AI",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-01T09:30:00Z"
+          "published_at": "2026-08-02T10:00:00Z"
         }
       ],
       "source_count": 1,
@@ -1155,39 +384,844 @@
       ],
       "items": [
         {
-          "id": "4ff53ce71f2fe2c02f9db6d34d0eb102f8e12045",
-          "title": "没有人知道 OpenAI 和 Anthropic 的 AI 黑客攻击是否违法 / Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
-          "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal",
+          "id": "64d524cbb37411b24e2d72ac9a746adf12cba844",
+          "title": "欧洲人即将发现人工智能在他们的日常生活中的根深蒂固程度 / Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+          "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives",
           "source": "Wired AI",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-01T09:30:00Z"
+          "published_at": "2026-08-02T10:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.584,
-      "importance": 0.584,
-      "importance_score": 0.584,
+      "score": 0.5638,
+      "importance": 0.5638,
+      "importance_score": 0.5638,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.75,
-        "recency": 0.7951,
+        "ai_relevance": 0.67,
+        "recency": 0.814,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-01T09:30:00Z",
-      "latest_at": "2026-08-01T09:30:00Z",
+      "earliest_at": "2026-08-02T10:00:00Z",
+      "latest_at": "2026-08-02T10:00:00Z",
       "primary_item": {
-        "id": "4ff53ce71f2fe2c02f9db6d34d0eb102f8e12045",
-        "title": "没有人知道 OpenAI 和 Anthropic 的 AI 黑客攻击是否违法 / Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
-        "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal",
+        "id": "64d524cbb37411b24e2d72ac9a746adf12cba844",
+        "title": "欧洲人即将发现人工智能在他们的日常生活中的根深蒂固程度 / Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+        "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives",
         "source": "Wired AI",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_0e1c203fccc6",
+      "title": "2026 年最有趣的氛围转变是 OpenAI 实际上希望成为开放平台，请注意明显的区别：作为实用程序的智能与信号，最好是一路集成到全栈 https:... / Most interesting 2026 vibe shift is OpenAI actually looking to be the open platform Note the marked difference: intelligence on tap as a utility vs signaling it is optimal to integrate all the way up full stack https:...",
+      "url": "https://x.com/garrytan/status/2083684825333105107",
+      "primary_url": "https://x.com/garrytan/status/2083684825333105107",
+      "source": "Follow Builders · X · Garry Tan",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "984fc2087bdf0fb475a7343be7cb9088dd34cb99",
+          "title": "2026 年最有趣的氛围转变是 OpenAI 实际上希望成为开放平台，请注意明显的区别：作为实用程序的智能与信号，最好是一路集成到全栈 https:... / Most interesting 2026 vibe shift is OpenAI actually looking to be the open platform Note the marked difference: intelligence on tap as a utility vs signaling it is optimal to integrate all the way up full stack https:...",
+          "url": "https://x.com/garrytan/status/2083684825333105107",
+          "source": "Follow Builders · X · Garry Tan",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-01T22:42:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Garry Tan"
+      ],
+      "items": [
+        {
+          "id": "984fc2087bdf0fb475a7343be7cb9088dd34cb99",
+          "title": "2026 年最有趣的氛围转变是 OpenAI 实际上希望成为开放平台，请注意明显的区别：作为实用程序的智能与信号，最好是一路集成到全栈 https:... / Most interesting 2026 vibe shift is OpenAI actually looking to be the open platform Note the marked difference: intelligence on tap as a utility vs signaling it is optimal to integrate all the way up full stack https:...",
+          "url": "https://x.com/garrytan/status/2083684825333105107",
+          "source": "Follow Builders · X · Garry Tan",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-01T22:42:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5597,
+      "importance": 0.5597,
+      "importance_score": 0.5597,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.81,
+        "recency": 0.3435,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-01T22:42:30Z",
+      "latest_at": "2026-08-01T22:42:30Z",
+      "primary_item": {
+        "id": "984fc2087bdf0fb475a7343be7cb9088dd34cb99",
+        "title": "2026 年最有趣的氛围转变是 OpenAI 实际上希望成为开放平台，请注意明显的区别：作为实用程序的智能与信号，最好是一路集成到全栈 https:... / Most interesting 2026 vibe shift is OpenAI actually looking to be the open platform Note the marked difference: intelligence on tap as a utility vs signaling it is optimal to integrate all the way up full stack https:...",
+        "url": "https://x.com/garrytan/status/2083684825333105107",
+        "source": "Follow Builders · X · Garry Tan",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_c1de4f1e6af5",
+      "title": "关于人工智能发展的公开信 / Open letters about AI development",
+      "url": "https://simonwillison.net/2026/Aug/2/open-letters",
+      "primary_url": "https://simonwillison.net/2026/Aug/2/open-letters",
+      "source": "Simon Willison",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "9d2aa36a13081272b788ab620eda2e919ebabaa9",
+          "title": "关于人工智能发展的公开信 / Open letters about AI development",
+          "url": "https://simonwillison.net/2026/Aug/2/open-letters",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-02T04:16:52Z"
+        },
+        {
+          "id": "7387b105edbf1d9daf7a04e04680996e811fb4c8",
+          "title": "人工智能发展公开信：235家企业呼吁国际合作 / Open letter on AI development: 235 companies urge international cooperation",
+          "url": "https://simonwillison.net/2026/Aug/2/open-letters",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "Simon Willison"
+      ],
+      "items": [
+        {
+          "id": "9d2aa36a13081272b788ab620eda2e919ebabaa9",
+          "title": "关于人工智能发展的公开信 / Open letters about AI development",
+          "url": "https://simonwillison.net/2026/Aug/2/open-letters",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-02T04:16:52Z"
+        },
+        {
+          "id": "7387b105edbf1d9daf7a04e04680996e811fb4c8",
+          "title": "人工智能发展公开信：235家企业呼吁国际合作 / Open letter on AI development: 235 companies urge international cooperation",
+          "url": "https://simonwillison.net/2026/Aug/2/open-letters",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5411,
+      "importance": 0.5411,
+      "importance_score": 0.5411,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.5757,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T04:16:52Z",
+      "latest_at": "2026-08-02T04:47:01.119669Z",
+      "primary_item": {
+        "id": "9d2aa36a13081272b788ab620eda2e919ebabaa9",
+        "title": "关于人工智能发展的公开信 / Open letters about AI development",
+        "url": "https://simonwillison.net/2026/Aug/2/open-letters",
+        "source": "Simon Willison",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_c0f183485d61",
+      "title": "您应该能够为您打开的问题和开源存储库质押代币。在问题中写一个规范并做出承诺。如果维护者接受，GitHub 会将问题逐字传递给位于 R... 的云编码代理。 / You should be able to pledge tokens for issues that you open and open source repos. Write a spec in the issue with a pledge. If the maintainer accepts, GitHub passes the issue verbatim to a cloud coding agent at the r...",
+      "url": "https://x.com/thenanyu/status/2083722999430050281",
+      "primary_url": "https://x.com/thenanyu/status/2083722999430050281",
+      "source": "Follow Builders · X · Nan Yu",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "04500234e0ad85564282684af665f86271f9ffc4",
+          "title": "您应该能够为您打开的问题和开源存储库质押代币。在问题中写一个规范并做出承诺。如果维护者接受，GitHub 会将问题逐字传递给位于 R... 的云编码代理。 / You should be able to pledge tokens for issues that you open and open source repos. Write a spec in the issue with a pledge. If the maintainer accepts, GitHub passes the issue verbatim to a cloud coding agent at the r...",
+          "url": "https://x.com/thenanyu/status/2083722999430050281",
+          "source": "Follow Builders · X · Nan Yu",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-02T01:14:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Nan Yu"
+      ],
+      "items": [
+        {
+          "id": "04500234e0ad85564282684af665f86271f9ffc4",
+          "title": "您应该能够为您打开的问题和开源存储库质押代币。在问题中写一个规范并做出承诺。如果维护者接受，GitHub 会将问题逐字传递给位于 R... 的云编码代理。 / You should be able to pledge tokens for issues that you open and open source repos. Write a spec in the issue with a pledge. If the maintainer accepts, GitHub passes the issue verbatim to a cloud coding agent at the r...",
+          "url": "https://x.com/thenanyu/status/2083722999430050281",
+          "source": "Follow Builders · X · Nan Yu",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-02T01:14:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.65,
+        "recency": 0.4489,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-02T01:14:11Z",
+      "latest_at": "2026-08-02T01:14:11Z",
+      "primary_item": {
+        "id": "04500234e0ad85564282684af665f86271f9ffc4",
+        "title": "您应该能够为您打开的问题和开源存储库质押代币。在问题中写一个规范并做出承诺。如果维护者接受，GitHub 会将问题逐字传递给位于 R... 的云编码代理。 / You should be able to pledge tokens for issues that you open and open source repos. Write a spec in the issue with a pledge. If the maintainer accepts, GitHub passes the issue verbatim to a cloud coding agent at the r...",
+        "url": "https://x.com/thenanyu/status/2083722999430050281",
+        "source": "Follow Builders · X · Nan Yu",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_53418fe0d54b",
+      "title": "生成式人工智能淹没并稀释了图书市场 / Generative AI floods and dilutes the market for books",
+      "url": "https://news.ycombinator.com/item?id=49143289",
+      "primary_url": "https://news.ycombinator.com/item?id=49143289",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "452a977b7b5287ba3e8c4c762e386777557aec18",
+          "title": "生成式人工智能淹没并稀释了图书市场 / Generative AI floods and dilutes the market for books",
+          "url": "https://news.ycombinator.com/item?id=49143289",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T11:53:28.116000Z"
+        },
+        {
+          "id": "eaedc84ced3416ff0153595fde163d0e04667d7c",
+          "title": "生成式人工智能淹没并稀释了图书市场 / Generative AI floods and dilutes the market for books",
+          "url": "https://arxiv.org/abs/2607.20349",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T11:06:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "452a977b7b5287ba3e8c4c762e386777557aec18",
+          "title": "生成式人工智能淹没并稀释了图书市场 / Generative AI floods and dilutes the market for books",
+          "url": "https://news.ycombinator.com/item?id=49143289",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T11:53:28.116000Z"
+        },
+        {
+          "id": "eaedc84ced3416ff0153595fde163d0e04667d7c",
+          "title": "生成式人工智能淹没并稀释了图书市场 / Generative AI floods and dilutes the market for books",
+          "url": "https://arxiv.org/abs/2607.20349",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T11:06:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5266,
+      "importance": 0.5266,
+      "importance_score": 0.5266,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8928,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T11:06:07Z",
+      "latest_at": "2026-08-02T11:53:28.116000Z",
+      "primary_item": {
+        "id": "452a977b7b5287ba3e8c4c762e386777557aec18",
+        "title": "生成式人工智能淹没并稀释了图书市场 / Generative AI floods and dilutes the market for books",
+        "url": "https://news.ycombinator.com/item?id=49143289",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1a2896503328",
+      "title": "我希望人工智能解决的第一件事是一劳永逸地治愈癌症 / The number one thing I want AI to fix is to cure cancer once and for all",
+      "url": "https://x.com/petergyang/status/2083637620899184642",
+      "primary_url": "https://x.com/petergyang/status/2083637620899184642",
+      "source": "Follow Builders · X · Peter Yang",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "226b1aabff4316206e984b2f66558097703397c4",
+          "title": "我希望人工智能解决的第一件事是一劳永逸地治愈癌症 / The number one thing I want AI to fix is to cure cancer once and for all",
+          "url": "https://x.com/petergyang/status/2083637620899184642",
+          "source": "Follow Builders · X · Peter Yang",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-01T19:34:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Peter Yang"
+      ],
+      "items": [
+        {
+          "id": "226b1aabff4316206e984b2f66558097703397c4",
+          "title": "我希望人工智能解决的第一件事是一劳永逸地治愈癌症 / The number one thing I want AI to fix is to cure cancer once and for all",
+          "url": "https://x.com/petergyang/status/2083637620899184642",
+          "source": "Follow Builders · X · Peter Yang",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-01T19:34:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5217,
+      "importance": 0.5217,
+      "importance_score": 0.5217,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.77,
+        "recency": 0.2133,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-01T19:34:55Z",
+      "latest_at": "2026-08-01T19:34:55Z",
+      "primary_item": {
+        "id": "226b1aabff4316206e984b2f66558097703397c4",
+        "title": "我希望人工智能解决的第一件事是一劳永逸地治愈癌症 / The number one thing I want AI to fix is to cure cancer once and for all",
+        "url": "https://x.com/petergyang/status/2083637620899184642",
+        "source": "Follow Builders · X · Peter Yang",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_be50acd7acfb",
+      "title": "Show HN: 克劳德代码运行得特别慢，所以我趁着等待的时间玩了会儿《宝可梦》",
+      "url": "https://github.com/zamarrowski/claudemon",
+      "primary_url": "https://github.com/zamarrowski/claudemon",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ad4dc11cab35cd2870b95fc1f84ac64fcb64e204",
+          "title": "Show HN: 克劳德代码运行得特别慢，所以我趁着等待的时间玩了会儿《宝可梦》",
+          "url": "https://github.com/zamarrowski/claudemon",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T14:16:45.234000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "ad4dc11cab35cd2870b95fc1f84ac64fcb64e204",
+          "title": "Show HN: 克劳德代码运行得特别慢，所以我趁着等待的时间玩了会儿《宝可梦》",
+          "url": "https://github.com/zamarrowski/claudemon",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T14:16:45.234000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5215,
+      "importance": 0.5215,
+      "importance_score": 0.5215,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9923,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-02T14:16:45.234000Z",
+      "latest_at": "2026-08-02T14:16:45.234000Z",
+      "primary_item": {
+        "id": "ad4dc11cab35cd2870b95fc1f84ac64fcb64e204",
+        "title": "Show HN: 克劳德代码运行得特别慢，所以我趁着等待的时间玩了会儿《宝可梦》",
+        "url": "https://github.com/zamarrowski/claudemon",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f55d197cabd9",
+      "title": "MIT 2026：通过自动化量子化学和人工智能加速自主分子发现",
+      "url": "https://hub.baai.ac.cn/view/56826",
+      "primary_url": "https://hub.baai.ac.cn/view/56826",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e82b985c7a35358f037b9138ea631a60b472875b",
+          "title": "MIT 2026：通过自动化量子化学和人工智能加速自主分子发现",
+          "url": "https://hub.baai.ac.cn/view/56826",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e82b985c7a35358f037b9138ea631a60b472875b",
+          "title": "MIT 2026：通过自动化量子化学和人工智能加速自主分子发现",
+          "url": "https://hub.baai.ac.cn/view/56826",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9843,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-02T14:05:13.854596Z",
+      "latest_at": "2026-08-02T14:05:13.854596Z",
+      "primary_item": {
+        "id": "e82b985c7a35358f037b9138ea631a60b472875b",
+        "title": "MIT 2026：通过自动化量子化学和人工智能加速自主分子发现",
+        "url": "https://hub.baai.ac.cn/view/56826",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_52d8fcc0be20",
+      "title": "OpenAI 前员工喊话：要套现就赶紧套，别等 IPO！",
+      "url": "https://hub.baai.ac.cn/view/56825",
+      "primary_url": "https://hub.baai.ac.cn/view/56825",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "9b926255cac75e12352a34def06dfa8e1613ecef",
+          "title": "OpenAI 前员工喊话：要套现就赶紧套，别等 IPO！",
+          "url": "https://hub.baai.ac.cn/view/56825",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "9b926255cac75e12352a34def06dfa8e1613ecef",
+          "title": "OpenAI 前员工喊话：要套现就赶紧套，别等 IPO！",
+          "url": "https://hub.baai.ac.cn/view/56825",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9843,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-02T14:05:13.854596Z",
+      "latest_at": "2026-08-02T14:05:13.854596Z",
+      "primary_item": {
+        "id": "9b926255cac75e12352a34def06dfa8e1613ecef",
+        "title": "OpenAI 前员工喊话：要套现就赶紧套，别等 IPO！",
+        "url": "https://hub.baai.ac.cn/view/56825",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_6f50bf631b14",
+      "title": "康奈尔团队提出微波神经网络，用物理过程完成传感运算，功耗低至200毫瓦",
+      "url": "https://www.mittrchina.com/news/detail/16724",
+      "primary_url": "https://www.mittrchina.com/news/detail/16724",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "67716cbbb2a0da51d9889f99fe63ab502cd88396",
+          "title": "康奈尔团队提出微波神经网络，用物理过程完成传感运算，功耗低至200毫瓦",
+          "url": "https://www.mittrchina.com/news/detail/16724",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "67716cbbb2a0da51d9889f99fe63ab502cd88396",
+          "title": "康奈尔团队提出微波神经网络，用物理过程完成传感运算，功耗低至200毫瓦",
+          "url": "https://www.mittrchina.com/news/detail/16724",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9843,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-02T14:05:13.854596Z",
+      "latest_at": "2026-08-02T14:05:13.854596Z",
+      "primary_item": {
+        "id": "67716cbbb2a0da51d9889f99fe63ab502cd88396",
+        "title": "康奈尔团队提出微波神经网络，用物理过程完成传感运算，功耗低至200毫瓦",
+        "url": "https://www.mittrchina.com/news/detail/16724",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_39c7e11024f4",
+      "title": "李飞飞 World Labs 收购 SceniX，物理 AI 训练正从「采数据」走向「造世界」",
+      "url": "https://hub.baai.ac.cn/view/56824",
+      "primary_url": "https://hub.baai.ac.cn/view/56824",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "bb0257e36ffd643f04eb6b2200e0c1a457b55c1b",
+          "title": "李飞飞 World Labs 收购 SceniX，物理 AI 训练正从「采数据」走向「造世界」",
+          "url": "https://hub.baai.ac.cn/view/56824",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bb0257e36ffd643f04eb6b2200e0c1a457b55c1b",
+          "title": "李飞飞 World Labs 收购 SceniX，物理 AI 训练正从「采数据」走向「造世界」",
+          "url": "https://hub.baai.ac.cn/view/56824",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9843,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-02T14:05:13.854596Z",
+      "latest_at": "2026-08-02T14:05:13.854596Z",
+      "primary_item": {
+        "id": "bb0257e36ffd643f04eb6b2200e0c1a457b55c1b",
+        "title": "李飞飞 World Labs 收购 SceniX，物理 AI 训练正从「采数据」走向「造世界」",
+        "url": "https://hub.baai.ac.cn/view/56824",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_e4908168d82e",
+      "title": "硅谷百亿美金押注「AI 造 AI」，清华系创业团队反手把模型开源了",
+      "url": "https://hub.baai.ac.cn/view/56827",
+      "primary_url": "https://hub.baai.ac.cn/view/56827",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "4e6ff55bef7bbac7014d6c8c0dfc47658ecc438b",
+          "title": "硅谷百亿美金押注「AI 造 AI」，清华系创业团队反手把模型开源了",
+          "url": "https://hub.baai.ac.cn/view/56827",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4e6ff55bef7bbac7014d6c8c0dfc47658ecc438b",
+          "title": "硅谷百亿美金押注「AI 造 AI」，清华系创业团队反手把模型开源了",
+          "url": "https://hub.baai.ac.cn/view/56827",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9843,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-02T14:05:13.854596Z",
+      "latest_at": "2026-08-02T14:05:13.854596Z",
+      "primary_item": {
+        "id": "4e6ff55bef7bbac7014d6c8c0dfc47658ecc438b",
+        "title": "硅谷百亿美金押注「AI 造 AI」，清华系创业团队反手把模型开源了",
+        "url": "https://hub.baai.ac.cn/view/56827",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_b71ddef06e5b",
+      "title": "迪士尼加速器公布第12期名单，押注具身智能与生成式AI",
+      "url": "https://www.mittrchina.com/news/detail/16723",
+      "primary_url": "https://www.mittrchina.com/news/detail/16723",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "cb5b5b22853631104e3f67e43e6761ff9c8fb982",
+          "title": "迪士尼加速器公布第12期名单，押注具身智能与生成式AI",
+          "url": "https://www.mittrchina.com/news/detail/16723",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cb5b5b22853631104e3f67e43e6761ff9c8fb982",
+          "title": "迪士尼加速器公布第12期名单，押注具身智能与生成式AI",
+          "url": "https://www.mittrchina.com/news/detail/16723",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9843,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-02T14:05:13.854596Z",
+      "latest_at": "2026-08-02T14:05:13.854596Z",
+      "primary_item": {
+        "id": "cb5b5b22853631104e3f67e43e6761ff9c8fb982",
+        "title": "迪士尼加速器公布第12期名单，押注具身智能与生成式AI",
+        "url": "https://www.mittrchina.com/news/detail/16723",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_2c83189719ab",
+      "title": "Ask HN: 探索频道是否在使用人工智能？",
+      "url": "https://news.ycombinator.com/item?id=49144673",
+      "primary_url": "https://news.ycombinator.com/item?id=49144673",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5669e873feabc8c5c0d0fbc55f602940c559f1d7",
+          "title": "Ask HN: 探索频道是否在使用人工智能？",
+          "url": "https://news.ycombinator.com/item?id=49144673",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T14:00:49.022000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "5669e873feabc8c5c0d0fbc55f602940c559f1d7",
+          "title": "Ask HN: 探索频道是否在使用人工智能？",
+          "url": "https://news.ycombinator.com/item?id=49144673",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T14:00:49.022000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5192,
+      "importance": 0.5192,
+      "importance_score": 0.5192,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9812,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-02T14:00:49.022000Z",
+      "latest_at": "2026-08-02T14:00:49.022000Z",
+      "primary_item": {
+        "id": "5669e873feabc8c5c0d0fbc55f602940c559f1d7",
+        "title": "Ask HN: 探索频道是否在使用人工智能？",
+        "url": "https://news.ycombinator.com/item?id=49144673",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
       }
     }
   ]
