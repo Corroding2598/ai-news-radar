@@ -1,681 +1,88 @@
 {
-  "generated_at": "2026-08-22T13:30:21.072770Z",
+  "generated_at": "2026-08-23T13:30:38.196016Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_43e2897e00ba",
-      "title": "蚂蚁百灵为SGLang推出权重缓存守护进程",
-      "url": "https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y",
-      "primary_url": "https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y",
-      "source": "X：蚂蚁百灵 (@AntLingAGI)",
+      "story_id": "story_453bd36b3364",
+      "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
+      "url": "https://aihot.virxact.com/items/cmt53k3d704o3ro73oylvm5ln",
+      "primary_url": "https://aihot.virxact.com/items/cmt53k3d704o3ro73oylvm5ln",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5584026488ed91955f002110c7beb3144c68e696",
-          "title": "蚂蚁百灵为SGLang推出权重缓存守护进程",
-          "url": "https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y",
-          "source": "X：蚂蚁百灵 (@AntLingAGI)",
+          "id": "bc336b9539091cb5098a3f3256490fb6a8c77e5e",
+          "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
+          "url": "https://aihot.virxact.com/items/cmt53k3d704o3ro73oylvm5ln",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-22T04:36:59Z"
+          "published_at": "2026-08-23T00:53:34Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：蚂蚁百灵 (@AntLingAGI)"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "5584026488ed91955f002110c7beb3144c68e696",
-          "title": "蚂蚁百灵为SGLang推出权重缓存守护进程",
-          "url": "https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y",
-          "source": "X：蚂蚁百灵 (@AntLingAGI)",
+          "id": "bc336b9539091cb5098a3f3256490fb6a8c77e5e",
+          "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
+          "url": "https://aihot.virxact.com/items/cmt53k3d704o3ro73oylvm5ln",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-22T04:36:59Z"
+          "published_at": "2026-08-23T00:53:34Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6296,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-22T04:36:59Z",
-      "latest_at": "2026-08-22T04:36:59Z",
-      "primary_item": {
-        "id": "5584026488ed91955f002110c7beb3144c68e696",
-        "title": "蚂蚁百灵为SGLang推出权重缓存守护进程",
-        "url": "https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y",
-        "source": "X：蚂蚁百灵 (@AntLingAGI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_87fedaf94c82",
-      "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
-      "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
-      "primary_url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "95be4d894cfb7732cd86896767c25f43138d9629",
-          "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
-          "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T16:07:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "95be4d894cfb7732cd86896767c25f43138d9629",
-          "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
-          "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T16:07:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6948,
-      "importance": 0.6948,
-      "importance_score": 0.6948,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.109,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T16:07:15Z",
-      "latest_at": "2026-08-21T16:07:15Z",
-      "primary_item": {
-        "id": "95be4d894cfb7732cd86896767c25f43138d9629",
-        "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
-        "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_eb308b8c2b22",
-      "title": "在 Microsoft Teams 中与 GitHub Copilot 共享代理工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
-      "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
-      "primary_url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "decada2ec28c4f5c3a53da129b04075e40cc546e",
-          "title": "在 Microsoft Teams 中与 GitHub Copilot 共享代理工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
-          "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T16:03:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "decada2ec28c4f5c3a53da129b04075e40cc546e",
-          "title": "在 Microsoft Teams 中与 GitHub Copilot 共享代理工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
-          "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T16:03:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6943,
-      "importance": 0.6943,
-      "importance_score": 0.6943,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.1064,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T16:03:36Z",
-      "latest_at": "2026-08-21T16:03:36Z",
-      "primary_item": {
-        "id": "decada2ec28c4f5c3a53da129b04075e40cc546e",
-        "title": "在 Microsoft Teams 中与 GitHub Copilot 共享代理工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
-        "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6a6b96aef3de",
-      "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
-      "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-      "primary_url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
-          "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
-          "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T17:28:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
-          "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
-          "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T17:28:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6941,
-      "importance": 0.6941,
-      "importance_score": 0.6941,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.1655,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T17:28:36Z",
-      "latest_at": "2026-08-21T17:28:36Z",
-      "primary_item": {
-        "id": "cc44bb73c911c9a40dc2229a9e642db5b83bc00f",
-        "title": "用于管理被阻止用户的更好工具 / Better tools for managing blocked users",
-        "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fcbc36bd404e",
-      "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
-      "url": "https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s",
-      "primary_url": "https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "acf8456ec73ab3afb0157e821c14924f7ba07912",
-          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
-          "url": "https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T17:58:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "acf8456ec73ab3afb0157e821c14924f7ba07912",
-          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
-          "url": "https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T17:58:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6492,
-      "importance": 0.6492,
-      "importance_score": 0.6492,
+      "score": 0.7069,
+      "importance": 0.7069,
+      "importance_score": 0.7069,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1862,
+        "recency": 0.4743,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-21T17:58:29Z",
-      "latest_at": "2026-08-21T17:58:29Z",
+      "earliest_at": "2026-08-23T00:53:34Z",
+      "latest_at": "2026-08-23T00:53:34Z",
       "primary_item": {
-        "id": "acf8456ec73ab3afb0157e821c14924f7ba07912",
-        "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
-        "url": "https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s",
-        "source": "Claude：Blog（网页）",
+        "id": "bc336b9539091cb5098a3f3256490fb6a8c77e5e",
+        "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
+        "url": "https://aihot.virxact.com/items/cmt53k3d704o3ro73oylvm5ln",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_a17570d10375",
-      "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
-      "url": "https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl",
-      "primary_url": "https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4059b9090a2b8546d857004b5fc10a2e7f0c0920",
-          "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
-          "url": "https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T17:56:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "4059b9090a2b8546d857004b5fc10a2e7f0c0920",
-          "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
-          "url": "https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T17:56:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.649,
-      "importance": 0.649,
-      "importance_score": 0.649,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.1848,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T17:56:25Z",
-      "latest_at": "2026-08-21T17:56:25Z",
-      "primary_item": {
-        "id": "4059b9090a2b8546d857004b5fc10a2e7f0c0920",
-        "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
-        "url": "https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_13beb71e353b",
-      "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
-      "url": "https://aihot.virxact.com/items/cmt393qow0kfiro6tpe87m4nu",
-      "primary_url": "https://aihot.virxact.com/items/cmt393qow0kfiro6tpe87m4nu",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "438c560c0959bfb244c72bea508f33fbd80ce00b",
-          "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
-          "url": "https://aihot.virxact.com/items/cmt393qow0kfiro6tpe87m4nu",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T17:56:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "438c560c0959bfb244c72bea508f33fbd80ce00b",
-          "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
-          "url": "https://aihot.virxact.com/items/cmt393qow0kfiro6tpe87m4nu",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T17:56:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.649,
-      "importance": 0.649,
-      "importance_score": 0.649,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.1848,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T17:56:25Z",
-      "latest_at": "2026-08-21T17:56:25Z",
-      "primary_item": {
-        "id": "438c560c0959bfb244c72bea508f33fbd80ce00b",
-        "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
-        "url": "https://aihot.virxact.com/items/cmt393qow0kfiro6tpe87m4nu",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cf6dea3d1860",
-      "title": "法典中速率限制的更新。我们确实看到，对于某些用户来说，本周的缓存命中率比前几周的稳定状态更差。这可以解释为什么这些用途的使用量消耗得更快...... / Update on rate limits in Codex. We do see that for some users the cache hit rate has been worse this week than the stable state the weeks before. This could explain that usage is draining somewhat faster for those use...",
-      "url": "https://x.com/thsottiaux/status/2091033630147854385",
-      "primary_url": "https://x.com/thsottiaux/status/2091033630147854385",
-      "source": "Follow Builders · X · Thibault Sottiaux",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "88518fc8d4e9073042ed3b69f7019338418d6c0a",
-          "title": "法典中速率限制的更新。我们确实看到，对于某些用户来说，本周的缓存命中率比前几周的稳定状态更差。这可以解释为什么这些用途的使用量消耗得更快...... / Update on rate limits in Codex. We do see that for some users the cache hit rate has been worse this week than the stable state the weeks before. This could explain that usage is draining somewhat faster for those use...",
-          "url": "https://x.com/thsottiaux/status/2091033630147854385",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-22T05:24:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux"
-      ],
-      "items": [
-        {
-          "id": "88518fc8d4e9073042ed3b69f7019338418d6c0a",
-          "title": "法典中速率限制的更新。我们确实看到，对于某些用户来说，本周的缓存命中率比前几周的稳定状态更差。这可以解释为什么这些用途的使用量消耗得更快...... / Update on rate limits in Codex. We do see that for some users the cache hit rate has been worse this week than the stable state the weeks before. This could explain that usage is draining somewhat faster for those use...",
-          "url": "https://x.com/thsottiaux/status/2091033630147854385",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-22T05:24:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6235,
-      "importance": 0.6235,
-      "importance_score": 0.6235,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.81,
-        "recency": 0.6623,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-22T05:24:01Z",
-      "latest_at": "2026-08-22T05:24:01Z",
-      "primary_item": {
-        "id": "88518fc8d4e9073042ed3b69f7019338418d6c0a",
-        "title": "法典中速率限制的更新。我们确实看到，对于某些用户来说，本周的缓存命中率比前几周的稳定状态更差。这可以解释为什么这些用途的使用量消耗得更快...... / Update on rate limits in Codex. We do see that for some users the cache hit rate has been worse this week than the stable state the weeks before. This could explain that usage is draining somewhat faster for those use...",
-        "url": "https://x.com/thsottiaux/status/2091033630147854385",
-        "source": "Follow Builders · X · Thibault Sottiaux",
-        "source_name": "Follow Builders"
-      }
-    },
-    {
-      "story_id": "story_eaf84049675a",
-      "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
-      "url": "https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe",
-      "primary_url": "https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5c0415af26d1986a583aa0ca2821fe0444cb0b1b",
-          "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
-          "url": "https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T14:28:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "5c0415af26d1986a583aa0ca2821fe0444cb0b1b",
-          "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
-          "url": "https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T14:28:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6201,
-      "importance": 0.6201,
-      "importance_score": 0.6201,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0403,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T14:28:27Z",
-      "latest_at": "2026-08-21T14:28:27Z",
-      "primary_item": {
-        "id": "5c0415af26d1986a583aa0ca2821fe0444cb0b1b",
-        "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
-        "url": "https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3339b62edf63",
-      "title": "目前人工智能的进步速度不同于科技史上的任何其他时期。模型在同类任务的基础上变得越来越便宜，能力越来越强，速度越来越快，而且几乎在每个领域都在深入…… / The rate of progress in AI right now is unlike any other period in tech history. Models are getting cheaper on a like for like task basis, more generally capable, faster, and they’re going deeper in almost every domai...",
-      "url": "https://x.com/levie/status/2091038566260539574",
-      "primary_url": "https://x.com/levie/status/2091038566260539574",
-      "source": "Follow Builders · X · Aaron Levie",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "3b75a6204ada6badb06f7142b7bcfb9c369aafd4",
-          "title": "目前人工智能的进步速度不同于科技史上的任何其他时期。模型在同类任务的基础上变得越来越便宜，能力越来越强，速度越来越快，而且几乎在每个领域都在深入…… / The rate of progress in AI right now is unlike any other period in tech history. Models are getting cheaper on a like for like task basis, more generally capable, faster, and they’re going deeper in almost every domai...",
-          "url": "https://x.com/levie/status/2091038566260539574",
-          "source": "Follow Builders · X · Aaron Levie",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-22T05:43:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Aaron Levie"
-      ],
-      "items": [
-        {
-          "id": "3b75a6204ada6badb06f7142b7bcfb9c369aafd4",
-          "title": "目前人工智能的进步速度不同于科技史上的任何其他时期。模型在同类任务的基础上变得越来越便宜，能力越来越强，速度越来越快，而且几乎在每个领域都在深入…… / The rate of progress in AI right now is unlike any other period in tech history. Models are getting cheaper on a like for like task basis, more generally capable, faster, and they’re going deeper in almost every domai...",
-          "url": "https://x.com/levie/status/2091038566260539574",
-          "source": "Follow Builders · X · Aaron Levie",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-22T05:43:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6142,
-      "importance": 0.6142,
-      "importance_score": 0.6142,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.77,
-        "recency": 0.6759,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-08-22T05:43:38Z",
-      "latest_at": "2026-08-22T05:43:38Z",
-      "primary_item": {
-        "id": "3b75a6204ada6badb06f7142b7bcfb9c369aafd4",
-        "title": "目前人工智能的进步速度不同于科技史上的任何其他时期。模型在同类任务的基础上变得越来越便宜，能力越来越强，速度越来越快，而且几乎在每个领域都在深入…… / The rate of progress in AI right now is unlike any other period in tech history. Models are getting cheaper on a like for like task basis, more generally capable, faster, and they’re going deeper in almost every domai...",
-        "url": "https://x.com/levie/status/2091038566260539574",
-        "source": "Follow Builders · X · Aaron Levie",
-        "source_name": "Follow Builders"
-      }
-    },
-    {
-      "story_id": "story_d419cb76862b",
-      "title": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
-      "url": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf",
-      "primary_url": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf",
+      "story_id": "story_a36f4da2dd57",
+      "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+      "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
+      "primary_url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
       "source": "InfoQ CN",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "b0cee7415abca0c1b495b3da7e8f5163b6bfbdc1",
-          "title": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
-          "url": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf",
+          "id": "bb8f726f465db6ef061f70c4d20834472a5a923b",
+          "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+          "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
           "source": "InfoQ CN",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-22T15:15:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "InfoQ CN"
-      ],
-      "items": [
-        {
-          "id": "b0cee7415abca0c1b495b3da7e8f5163b6bfbdc1",
-          "title": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
-          "url": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-22T15:15:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.595,
-      "importance": 0.595,
-      "importance_score": 0.595,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-08-22T15:15:00Z",
-      "latest_at": "2026-08-22T15:15:00Z",
-      "primary_item": {
-        "id": "b0cee7415abca0c1b495b3da7e8f5163b6bfbdc1",
-        "title": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
-        "url": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_a9995d3107e3",
-      "title": "JetBrains详细阐述了控制AI支出快速增长的首批举措",
-      "url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy",
-      "primary_url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "aee8139f3320651905a74a2fc2db02beeb142608",
-          "title": "JetBrains详细阐述了控制AI支出快速增长的首批举措",
-          "url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-22T09:05:00Z"
+          "published_at": "2026-08-23T17:00:00Z"
         },
         {
-          "id": "1d7077290e129a86c14c5d0e9194150333a9bd8c",
-          "title": "JetBrains 公布控制 AI 支出快速增长的首批举措",
-          "url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy",
+          "id": "3c06f90ea51ebcbfc7dc8d04ee3a9d427f2bb6a5",
+          "title": "亚马逊云科技开源 Dogwood：为 AI 智能体工具调用制定策略语言",
+          "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -689,18 +96,18 @@
       ],
       "items": [
         {
-          "id": "aee8139f3320651905a74a2fc2db02beeb142608",
-          "title": "JetBrains详细阐述了控制AI支出快速增长的首批举措",
-          "url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy",
+          "id": "bb8f726f465db6ef061f70c4d20834472a5a923b",
+          "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+          "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
           "source": "InfoQ CN",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-22T09:05:00Z"
+          "published_at": "2026-08-23T17:00:00Z"
         },
         {
-          "id": "1d7077290e129a86c14c5d0e9194150333a9bd8c",
-          "title": "JetBrains 公布控制 AI 支出快速增长的首批举措",
-          "url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy",
+          "id": "3c06f90ea51ebcbfc7dc8d04ee3a9d427f2bb6a5",
+          "title": "亚马逊云科技开源 Dogwood：为 AI 智能体工具调用制定策略语言",
+          "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -709,105 +116,46 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5891,
-      "importance": 0.5891,
-      "importance_score": 0.5891,
+      "score": 0.647,
+      "importance": 0.647,
+      "importance_score": 0.647,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8157,
+        "ai_relevance": 0.74,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T02:07:54.002084Z",
-      "latest_at": "2026-08-22T09:05:00Z",
+      "earliest_at": "2026-08-23T09:16:33.992421Z",
+      "latest_at": "2026-08-23T17:00:00Z",
       "primary_item": {
-        "id": "aee8139f3320651905a74a2fc2db02beeb142608",
-        "title": "JetBrains详细阐述了控制AI支出快速增长的首批举措",
-        "url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy",
+        "id": "bb8f726f465db6ef061f70c4d20834472a5a923b",
+        "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+        "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
         "source": "InfoQ CN",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_8aed6efadd30",
-      "title": "https://t.co/G0UyDr4xgg 现在支持您的 @Grok 和 Codex subs 在沙箱上测试它。即时安装：https://t.co/ogzI7TeKQ4 https://t.co/DzGu67GnJF / https://t.co/G0UyDr4xgg now supports your @Grok &amp; Codex subs Test it out on a sandbox. Instant to install: https://t.co/ogzI7TeKQ4 https://t.co/DzGu67GnJF",
-      "url": "https://x.com/rauchg/status/2090953806624489501",
-      "primary_url": "https://x.com/rauchg/status/2090953806624489501",
-      "source": "Follow Builders · X · Guillermo Rauch",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "b6a2d1ba9921279fea187c482e813621b8f6d21a",
-          "title": "https://t.co/G0UyDr4xgg 现在支持您的 @Grok 和 Codex subs 在沙箱上测试它。即时安装：https://t.co/ogzI7TeKQ4 https://t.co/DzGu67GnJF / https://t.co/G0UyDr4xgg now supports your @Grok &amp; Codex subs Test it out on a sandbox. Instant to install: https://t.co/ogzI7TeKQ4 https://t.co/DzGu67GnJF",
-          "url": "https://x.com/rauchg/status/2090953806624489501",
-          "source": "Follow Builders · X · Guillermo Rauch",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-22T00:06:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Guillermo Rauch"
-      ],
-      "items": [
-        {
-          "id": "b6a2d1ba9921279fea187c482e813621b8f6d21a",
-          "title": "https://t.co/G0UyDr4xgg 现在支持您的 @Grok 和 Codex subs 在沙箱上测试它。即时安装：https://t.co/ogzI7TeKQ4 https://t.co/DzGu67GnJF / https://t.co/G0UyDr4xgg now supports your @Grok &amp; Codex subs Test it out on a sandbox. Instant to install: https://t.co/ogzI7TeKQ4 https://t.co/DzGu67GnJF",
-          "url": "https://x.com/rauchg/status/2090953806624489501",
-          "source": "Follow Builders · X · Guillermo Rauch",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-22T00:06:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.5884,
-      "importance": 0.5884,
-      "importance_score": 0.5884,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.84,
-        "recency": 0.442,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-22T00:06:50Z",
-      "latest_at": "2026-08-22T00:06:50Z",
-      "primary_item": {
-        "id": "b6a2d1ba9921279fea187c482e813621b8f6d21a",
-        "title": "https://t.co/G0UyDr4xgg 现在支持您的 @Grok 和 Codex subs 在沙箱上测试它。即时安装：https://t.co/ogzI7TeKQ4 https://t.co/DzGu67GnJF / https://t.co/G0UyDr4xgg now supports your @Grok &amp; Codex subs Test it out on a sandbox. Instant to install: https://t.co/ogzI7TeKQ4 https://t.co/DzGu67GnJF",
-        "url": "https://x.com/rauchg/status/2090953806624489501",
-        "source": "Follow Builders · X · Guillermo Rauch",
-        "source_name": "Follow Builders"
-      }
-    },
-    {
-      "story_id": "story_96e67c56f91a",
-      "title": "银行重置将于太平洋标准时间晚上 8 点之前完成。适用于 ChatGPT Work 和 Codex 的所有付费用户。尽你所能地利用这些信息。 / The banked reset will be there by 8pm PST. For all paid users of ChatGPT Work and Codex. Do with this information what you may.",
-      "url": "https://x.com/thsottiaux/status/2090947196107764189",
-      "primary_url": "https://x.com/thsottiaux/status/2090947196107764189",
+      "story_id": "story_cead3367c46b",
+      "title": "Update on rate limits in Codex. We’ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conver...",
+      "url": "https://x.com/thsottiaux/status/2091407991736332689",
+      "primary_url": "https://x.com/thsottiaux/status/2091407991736332689",
       "source": "Follow Builders · X · Thibault Sottiaux",
       "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "b01d65869eb1c82b813ff11120da35e4e7af16bd",
-          "title": "银行重置将于太平洋标准时间晚上 8 点之前完成。适用于 ChatGPT Work 和 Codex 的所有付费用户。尽你所能地利用这些信息。 / The banked reset will be there by 8pm PST. For all paid users of ChatGPT Work and Codex. Do with this information what you may.",
-          "url": "https://x.com/thsottiaux/status/2090947196107764189",
+          "id": "7e758a51b7dd43fdad960f1343d5ec86537a12bd",
+          "title": "Update on rate limits in Codex. We’ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conver...",
+          "url": "https://x.com/thsottiaux/status/2091407991736332689",
           "source": "Follow Builders · X · Thibault Sottiaux",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-08-21T23:40:34Z"
+          "published_at": "2026-08-23T06:11:36Z"
         }
       ],
       "source_count": 1,
@@ -816,450 +164,1155 @@
       ],
       "items": [
         {
-          "id": "b01d65869eb1c82b813ff11120da35e4e7af16bd",
-          "title": "银行重置将于太平洋标准时间晚上 8 点之前完成。适用于 ChatGPT Work 和 Codex 的所有付费用户。尽你所能地利用这些信息。 / The banked reset will be there by 8pm PST. For all paid users of ChatGPT Work and Codex. Do with this information what you may.",
-          "url": "https://x.com/thsottiaux/status/2090947196107764189",
+          "id": "7e758a51b7dd43fdad960f1343d5ec86537a12bd",
+          "title": "Update on rate limits in Codex. We’ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conver...",
+          "url": "https://x.com/thsottiaux/status/2091407991736332689",
           "source": "Follow Builders · X · Thibault Sottiaux",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-08-21T23:40:34Z"
+          "published_at": "2026-08-23T06:11:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5878,
-      "importance": 0.5878,
-      "importance_score": 0.5878,
+      "score": 0.63,
+      "importance": 0.63,
+      "importance_score": 0.63,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
-        "ai_relevance": 0.85,
-        "recency": 0.4238,
+        "ai_relevance": 0.81,
+        "recency": 0.6951,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-21T23:40:34Z",
-      "latest_at": "2026-08-21T23:40:34Z",
+      "earliest_at": "2026-08-23T06:11:36Z",
+      "latest_at": "2026-08-23T06:11:36Z",
       "primary_item": {
-        "id": "b01d65869eb1c82b813ff11120da35e4e7af16bd",
-        "title": "银行重置将于太平洋标准时间晚上 8 点之前完成。适用于 ChatGPT Work 和 Codex 的所有付费用户。尽你所能地利用这些信息。 / The banked reset will be there by 8pm PST. For all paid users of ChatGPT Work and Codex. Do with this information what you may.",
-        "url": "https://x.com/thsottiaux/status/2090947196107764189",
+        "id": "7e758a51b7dd43fdad960f1343d5ec86537a12bd",
+        "title": "Update on rate limits in Codex. We’ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conver...",
+        "url": "https://x.com/thsottiaux/status/2091407991736332689",
         "source": "Follow Builders · X · Thibault Sottiaux",
         "source_name": "Follow Builders"
       }
     },
     {
-      "story_id": "story_8a0980fedf3e",
-      "title": "争论我们是否应该将其设为官方插件，但您可以尝试在此处安装它以尝试使用以下命令： claudepluginmarketplaceaddanthropics/claude-plugins-communityclaudeplugin installeli5@claude... / debating whether we should make it an official plugin, but you can try installing it here to try with these commands: claude plugin marketplace add anthropics/claude-plugins-community claude plugin install eli5@claude...",
-      "url": "https://x.com/trq212/status/2090884855798407576",
-      "primary_url": "https://x.com/trq212/status/2090884855798407576",
-      "source": "Follow Builders · X · Thariq",
-      "source_name": "Follow Builders",
+      "story_id": "story_a85a35d92289",
+      "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚&quot;冰丝带&quot;，666 支队伍竞技 51 赛项",
+      "url": "https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys",
+      "primary_url": "https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e26128c3a972573c36551b2bd553c4c9564ddf8d",
-          "title": "争论我们是否应该将其设为官方插件，但您可以尝试在此处安装它以尝试使用以下命令： claudepluginmarketplaceaddanthropics/claude-plugins-communityclaudeplugin installeli5@claude... / debating whether we should make it an official plugin, but you can try installing it here to try with these commands: claude plugin marketplace add anthropics/claude-plugins-community claude plugin install eli5@claude...",
-          "url": "https://x.com/trq212/status/2090884855798407576",
-          "source": "Follow Builders · X · Thariq",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-21T19:32:51Z"
+          "id": "4046d933f66ba36af093206e61711f0cc3f9872d",
+          "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚&quot;冰丝带&quot;，666 支队伍竞技 51 赛项",
+          "url": "https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-22T14:13:48Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Thariq"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "e26128c3a972573c36551b2bd553c4c9564ddf8d",
-          "title": "争论我们是否应该将其设为官方插件，但您可以尝试在此处安装它以尝试使用以下命令： claudepluginmarketplaceaddanthropics/claude-plugins-communityclaudeplugin installeli5@claude... / debating whether we should make it an official plugin, but you can try installing it here to try with these commands: claude plugin marketplace add anthropics/claude-plugins-community claude plugin install eli5@claude...",
-          "url": "https://x.com/trq212/status/2090884855798407576",
-          "source": "Follow Builders · X · Thariq",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-21T19:32:51Z"
+          "id": "4046d933f66ba36af093206e61711f0cc3f9872d",
+          "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚&quot;冰丝带&quot;，666 支队伍竞技 51 赛项",
+          "url": "https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-22T14:13:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5533,
-      "importance": 0.5533,
-      "importance_score": 0.5533,
+      "score": 0.618,
+      "importance": 0.618,
+      "importance_score": 0.618,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.85,
-        "recency": 0.2517,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.03,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-21T19:32:51Z",
-      "latest_at": "2026-08-21T19:32:51Z",
+      "earliest_at": "2026-08-22T14:13:48Z",
+      "latest_at": "2026-08-22T14:13:48Z",
       "primary_item": {
-        "id": "e26128c3a972573c36551b2bd553c4c9564ddf8d",
-        "title": "争论我们是否应该将其设为官方插件，但您可以尝试在此处安装它以尝试使用以下命令： claudepluginmarketplaceaddanthropics/claude-plugins-communityclaudeplugin installeli5@claude... / debating whether we should make it an official plugin, but you can try installing it here to try with these commands: claude plugin marketplace add anthropics/claude-plugins-community claude plugin install eli5@claude...",
-        "url": "https://x.com/trq212/status/2090884855798407576",
-        "source": "Follow Builders · X · Thariq",
-        "source_name": "Follow Builders"
+        "id": "4046d933f66ba36af093206e61711f0cc3f9872d",
+        "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚&quot;冰丝带&quot;，666 支队伍竞技 51 赛项",
+        "url": "https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_d5902f99a788",
-      "title": "我很高兴能与一群令人难以置信的人们一起在伯克利举行的 Agentic AI 峰会上发表演讲。我的演讲是关于“特工无门” https://t.co/2drgrK1pia https://t.co/NkLTNOaFdT / I had the pleasure of speaking at the Agentic AI Summit in Berkeley alongside an incredible bunch of folks. My talk was about \"No Doors for Agents\" https://t.co/2drgrK1pia https://t.co/NkLTNOaFdT",
-      "url": "https://x.com/steipete/status/2090898421108605078",
-      "primary_url": "https://x.com/steipete/status/2090898421108605078",
-      "source": "Follow Builders · X · Peter Steinberger",
+      "story_id": "story_18fa5da69e6e",
+      "title": "If you care about your privacy: 1. Go to https://t.co/yICN6WAe9R in Chrome 2. Run this prompt in Codex or Claude Code and tell it there's an open tab in your browser 3. Then pick the ones you want to remove and tell A...",
+      "url": "https://x.com/petergyang/status/2091331251211059468",
+      "primary_url": "https://x.com/petergyang/status/2091331251211059468",
+      "source": "Follow Builders · X · Peter Yang",
       "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "430f5e22cbf3d713da3e4809cf646d3bbe198b0b",
-          "title": "我很高兴能与一群令人难以置信的人们一起在伯克利举行的 Agentic AI 峰会上发表演讲。我的演讲是关于“特工无门” https://t.co/2drgrK1pia https://t.co/NkLTNOaFdT / I had the pleasure of speaking at the Agentic AI Summit in Berkeley alongside an incredible bunch of folks. My talk was about \"No Doors for Agents\" https://t.co/2drgrK1pia https://t.co/NkLTNOaFdT",
-          "url": "https://x.com/steipete/status/2090898421108605078",
-          "source": "Follow Builders · X · Peter Steinberger",
+          "id": "67ce155c3fd0b06f18c33a66a073779b58b11e49",
+          "title": "If you care about your privacy: 1. Go to https://t.co/yICN6WAe9R in Chrome 2. Run this prompt in Codex or Claude Code and tell it there's an open tab in your browser 3. Then pick the ones you want to remove and tell A...",
+          "url": "https://x.com/petergyang/status/2091331251211059468",
+          "source": "Follow Builders · X · Peter Yang",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-08-21T20:26:45Z"
+          "published_at": "2026-08-23T01:06:40Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Peter Steinberger"
+        "Follow Builders · X · Peter Yang"
       ],
       "items": [
         {
-          "id": "430f5e22cbf3d713da3e4809cf646d3bbe198b0b",
-          "title": "我很高兴能与一群令人难以置信的人们一起在伯克利举行的 Agentic AI 峰会上发表演讲。我的演讲是关于“特工无门” https://t.co/2drgrK1pia https://t.co/NkLTNOaFdT / I had the pleasure of speaking at the Agentic AI Summit in Berkeley alongside an incredible bunch of folks. My talk was about \"No Doors for Agents\" https://t.co/2drgrK1pia https://t.co/NkLTNOaFdT",
-          "url": "https://x.com/steipete/status/2090898421108605078",
-          "source": "Follow Builders · X · Peter Steinberger",
+          "id": "67ce155c3fd0b06f18c33a66a073779b58b11e49",
+          "title": "If you care about your privacy: 1. Go to https://t.co/yICN6WAe9R in Chrome 2. Run this prompt in Codex or Claude Code and tell it there's an open tab in your browser 3. Then pick the ones you want to remove and tell A...",
+          "url": "https://x.com/petergyang/status/2091331251211059468",
+          "source": "Follow Builders · X · Peter Yang",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-08-21T20:26:45Z"
+          "published_at": "2026-08-23T01:06:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5488,
-      "importance": 0.5488,
-      "importance_score": 0.5488,
+      "score": 0.6117,
+      "importance": 0.6117,
+      "importance_score": 0.6117,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
-        "ai_relevance": 0.81,
-        "recency": 0.2892,
+        "ai_relevance": 0.89,
+        "recency": 0.4834,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-21T20:26:45Z",
-      "latest_at": "2026-08-21T20:26:45Z",
+      "earliest_at": "2026-08-23T01:06:40Z",
+      "latest_at": "2026-08-23T01:06:40Z",
       "primary_item": {
-        "id": "430f5e22cbf3d713da3e4809cf646d3bbe198b0b",
-        "title": "我很高兴能与一群令人难以置信的人们一起在伯克利举行的 Agentic AI 峰会上发表演讲。我的演讲是关于“特工无门” https://t.co/2drgrK1pia https://t.co/NkLTNOaFdT / I had the pleasure of speaking at the Agentic AI Summit in Berkeley alongside an incredible bunch of folks. My talk was about \"No Doors for Agents\" https://t.co/2drgrK1pia https://t.co/NkLTNOaFdT",
-        "url": "https://x.com/steipete/status/2090898421108605078",
-        "source": "Follow Builders · X · Peter Steinberger",
+        "id": "67ce155c3fd0b06f18c33a66a073779b58b11e49",
+        "title": "If you care about your privacy: 1. Go to https://t.co/yICN6WAe9R in Chrome 2. Run this prompt in Codex or Claude Code and tell it there's an open tab in your browser 3. Then pick the ones you want to remove and tell A...",
+        "url": "https://x.com/petergyang/status/2091331251211059468",
+        "source": "Follow Builders · X · Peter Yang",
         "source_name": "Follow Builders"
       }
     },
     {
-      "story_id": "story_b6773085f128",
-      "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "primary_url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "baeb7c3254f794bf6cc04dc0a84e08a4131b1c74",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai /      andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T13:09:39.410000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "baeb7c3254f794bf6cc04dc0a84e08a4131b1c74",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai /      andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T13:09:39.410000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T13:09:39.410000Z",
-      "latest_at": "2026-08-22T13:30:21.072770Z",
-      "primary_item": {
-        "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
-        "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
-        "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_a53af4b5fcbb",
-      "title": "openai / 法典 / openai / codex",
-      "url": "https://github.com/openai/codex",
-      "primary_url": "https://github.com/openai/codex",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "9c1abdb52097d9201316e1990460aac36cf34826",
-          "title": "openai / 法典 / openai / codex",
-          "url": "https://github.com/openai/codex",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7b4017bfc3adcc05cd75c8c23275758e7a5ab527",
-          "title": "openai / 法典 / openai /      codex",
-          "url": "https://github.com/openai/codex",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T13:09:39.410000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "9c1abdb52097d9201316e1990460aac36cf34826",
-          "title": "openai / 法典 / openai / codex",
-          "url": "https://github.com/openai/codex",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7b4017bfc3adcc05cd75c8c23275758e7a5ab527",
-          "title": "openai / 法典 / openai /      codex",
-          "url": "https://github.com/openai/codex",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T13:09:39.410000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T13:09:39.410000Z",
-      "latest_at": "2026-08-22T13:30:21.072770Z",
-      "primary_item": {
-        "id": "9c1abdb52097d9201316e1990460aac36cf34826",
-        "title": "openai / 法典 / openai / codex",
-        "url": "https://github.com/openai/codex",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9c241fb43bc9",
-      "title": "人类学 / 克劳德代码 / anthropics / claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "primary_url": "https://github.com/anthropics/claude-code",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "1c1ee53338a039a48abe9824358713d558495ed1",
-          "title": "人类学 / 克劳德代码 / anthropics / claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2e072617880966c376984c0063b46b286f706f04",
-          "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T13:09:39.410000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "1c1ee53338a039a48abe9824358713d558495ed1",
-          "title": "人类学 / 克劳德代码 / anthropics / claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2e072617880966c376984c0063b46b286f706f04",
-          "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T13:09:39.410000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T13:09:39.410000Z",
-      "latest_at": "2026-08-22T13:30:21.072770Z",
-      "primary_item": {
-        "id": "1c1ee53338a039a48abe9824358713d558495ed1",
-        "title": "人类学 / 克劳德代码 / anthropics / claude-code",
-        "url": "https://github.com/anthropics/claude-code",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_7b6ccac77091",
-      "title": "Anthropic 的人最近经常使用的一项技能：ELI5 /eli5 <你想要解释的内容> “解释得就像我是一个对这个主题一无所知的人，使用带有大图片和很少文字的 HTML 工件...... / a skill people at Anthropic have been using a lot recently: ELI5 /eli5 &lt;what you want explained&gt; \"explain like I'm someone who knows nothing about this topic, using a HTML artifact with big pictures and few word...",
-      "url": "https://x.com/trq212/status/2090884854590382515",
-      "primary_url": "https://x.com/trq212/status/2090884854590382515",
-      "source": "Follow Builders · X · Thariq",
+      "story_id": "story_ce2291e9f0a1",
+      "title": "AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for every model release are incredibly helpful, but only tell you the shape of general AI progress and the r...",
+      "url": "https://x.com/levie/status/2091359223368315050",
+      "primary_url": "https://x.com/levie/status/2091359223368315050",
+      "source": "Follow Builders · X · Aaron Levie",
       "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "06cd57eec6259e772944e1a53c4830b2ab002b0f",
-          "title": "Anthropic 的人最近经常使用的一项技能：ELI5 /eli5 <你想要解释的内容> “解释得就像我是一个对这个主题一无所知的人，使用带有大图片和很少文字的 HTML 工件...... / a skill people at Anthropic have been using a lot recently: ELI5 /eli5 &lt;what you want explained&gt; \"explain like I'm someone who knows nothing about this topic, using a HTML artifact with big pictures and few word...",
-          "url": "https://x.com/trq212/status/2090884854590382515",
-          "source": "Follow Builders · X · Thariq",
+          "id": "45e8597de358f23f4839057df0dbab3b45f92aa9",
+          "title": "AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for every model release are incredibly helpful, but only tell you the shape of general AI progress and the r...",
+          "url": "https://x.com/levie/status/2091359223368315050",
+          "source": "Follow Builders · X · Aaron Levie",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-08-21T19:32:50Z"
+          "published_at": "2026-08-23T02:57:49Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Thariq"
+        "Follow Builders · X · Aaron Levie"
       ],
       "items": [
         {
-          "id": "06cd57eec6259e772944e1a53c4830b2ab002b0f",
-          "title": "Anthropic 的人最近经常使用的一项技能：ELI5 /eli5 <你想要解释的内容> “解释得就像我是一个对这个主题一无所知的人，使用带有大图片和很少文字的 HTML 工件...... / a skill people at Anthropic have been using a lot recently: ELI5 /eli5 &lt;what you want explained&gt; \"explain like I'm someone who knows nothing about this topic, using a HTML artifact with big pictures and few word...",
-          "url": "https://x.com/trq212/status/2090884854590382515",
-          "source": "Follow Builders · X · Thariq",
+          "id": "45e8597de358f23f4839057df0dbab3b45f92aa9",
+          "title": "AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for every model release are incredibly helpful, but only tell you the shape of general AI progress and the r...",
+          "url": "https://x.com/levie/status/2091359223368315050",
+          "source": "Follow Builders · X · Aaron Levie",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-08-21T19:32:50Z"
+          "published_at": "2026-08-23T02:57:49Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5413,
-      "importance": 0.5413,
-      "importance_score": 0.5413,
+      "score": 0.6031,
+      "importance": 0.6031,
+      "importance_score": 0.6031,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
         "ai_relevance": 0.81,
-        "recency": 0.2517,
+        "recency": 0.5605,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-21T19:32:50Z",
-      "latest_at": "2026-08-21T19:32:50Z",
+      "earliest_at": "2026-08-23T02:57:49Z",
+      "latest_at": "2026-08-23T02:57:49Z",
       "primary_item": {
-        "id": "06cd57eec6259e772944e1a53c4830b2ab002b0f",
-        "title": "Anthropic 的人最近经常使用的一项技能：ELI5 /eli5 <你想要解释的内容> “解释得就像我是一个对这个主题一无所知的人，使用带有大图片和很少文字的 HTML 工件...... / a skill people at Anthropic have been using a lot recently: ELI5 /eli5 &lt;what you want explained&gt; \"explain like I'm someone who knows nothing about this topic, using a HTML artifact with big pictures and few word...",
-        "url": "https://x.com/trq212/status/2090884854590382515",
-        "source": "Follow Builders · X · Thariq",
+        "id": "45e8597de358f23f4839057df0dbab3b45f92aa9",
+        "title": "AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for every model release are incredibly helpful, but only tell you the shape of general AI progress and the r...",
+        "url": "https://x.com/levie/status/2091359223368315050",
+        "source": "Follow Builders · X · Aaron Levie",
         "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_33bc0931eb6a",
+      "title": "There’s a phenomenon where talented individuals can achieve 10x their potential thanks to AI when working on their own thing But when the same individual is put into a large organization, they at most increase their p...",
+      "url": "https://x.com/zarazhangrui/status/2091379220257603593",
+      "primary_url": "https://x.com/zarazhangrui/status/2091379220257603593",
+      "source": "Follow Builders · X · Zara Zhang",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "5e98d985c8269d850990b8c184abbabdfbe3e5cf",
+          "title": "There’s a phenomenon where talented individuals can achieve 10x their potential thanks to AI when working on their own thing But when the same individual is put into a large organization, they at most increase their p...",
+          "url": "https://x.com/zarazhangrui/status/2091379220257603593",
+          "source": "Follow Builders · X · Zara Zhang",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-23T04:17:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Zara Zhang"
+      ],
+      "items": [
+        {
+          "id": "5e98d985c8269d850990b8c184abbabdfbe3e5cf",
+          "title": "There’s a phenomenon where talented individuals can achieve 10x their potential thanks to AI when working on their own thing But when the same individual is put into a large organization, they at most increase their p...",
+          "url": "https://x.com/zarazhangrui/status/2091379220257603593",
+          "source": "Follow Builders · X · Zara Zhang",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-23T04:17:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6021,
+      "importance": 0.6021,
+      "importance_score": 0.6021,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.77,
+        "recency": 0.6157,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-23T04:17:16Z",
+      "latest_at": "2026-08-23T04:17:16Z",
+      "primary_item": {
+        "id": "5e98d985c8269d850990b8c184abbabdfbe3e5cf",
+        "title": "There’s a phenomenon where talented individuals can achieve 10x their potential thanks to AI when working on their own thing But when the same individual is put into a large organization, they at most increase their p...",
+        "url": "https://x.com/zarazhangrui/status/2091379220257603593",
+        "source": "Follow Builders · X · Zara Zhang",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_266fc4285d43",
+      "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+      "url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m",
+      "primary_url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m",
+      "source": "InfoQ CN",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "a3deceb324bec8a8aa93a90243617bc9e9626606",
+          "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+          "url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-23T14:09:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "InfoQ CN"
+      ],
+      "items": [
+        {
+          "id": "a3deceb324bec8a8aa93a90243617bc9e9626606",
+          "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+          "url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-23T14:09:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.601,
+      "importance": 0.601,
+      "importance_score": 0.601,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-23T14:09:00Z",
+      "latest_at": "2026-08-23T14:09:00Z",
+      "primary_item": {
+        "id": "a3deceb324bec8a8aa93a90243617bc9e9626606",
+        "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+        "url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m",
+        "source": "InfoQ CN",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_7891cc6127f9",
+      "title": "Everyone who’s ahead in using AI thinks they’re behind",
+      "url": "https://x.com/zarazhangrui/status/2091338374447763481",
+      "primary_url": "https://x.com/zarazhangrui/status/2091338374447763481",
+      "source": "Follow Builders · X · Zara Zhang",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "9a3ba8e19b9bf5aa78ba3dfbc2becdd718549db7",
+          "title": "Everyone who’s ahead in using AI thinks they’re behind",
+          "url": "https://x.com/zarazhangrui/status/2091338374447763481",
+          "source": "Follow Builders · X · Zara Zhang",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-23T01:34:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Zara Zhang"
+      ],
+      "items": [
+        {
+          "id": "9a3ba8e19b9bf5aa78ba3dfbc2becdd718549db7",
+          "title": "Everyone who’s ahead in using AI thinks they’re behind",
+          "url": "https://x.com/zarazhangrui/status/2091338374447763481",
+          "source": "Follow Builders · X · Zara Zhang",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-23T01:34:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5796,
+      "importance": 0.5796,
+      "importance_score": 0.5796,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.77,
+        "recency": 0.503,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-23T01:34:58Z",
+      "latest_at": "2026-08-23T01:34:58Z",
+      "primary_item": {
+        "id": "9a3ba8e19b9bf5aa78ba3dfbc2becdd718549db7",
+        "title": "Everyone who’s ahead in using AI thinks they’re behind",
+        "url": "https://x.com/zarazhangrui/status/2091338374447763481",
+        "source": "Follow Builders · X · Zara Zhang",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_51d7db9e102d",
+      "title": "AI can do many wonderful things and grant many wishes, but we have only one earth, one California, one Patagonia, one Mendoza. USA and Argentina are two of the freest countries that also happen to have the most glorio...",
+      "url": "https://x.com/rauchg/status/2091338152791474331",
+      "primary_url": "https://x.com/rauchg/status/2091338152791474331",
+      "source": "Follow Builders · X · Guillermo Rauch",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "f08dd6f6eace72661b042074fccef2fa3750143f",
+          "title": "AI can do many wonderful things and grant many wishes, but we have only one earth, one California, one Patagonia, one Mendoza. USA and Argentina are two of the freest countries that also happen to have the most glorio...",
+          "url": "https://x.com/rauchg/status/2091338152791474331",
+          "source": "Follow Builders · X · Guillermo Rauch",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-23T01:34:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Guillermo Rauch"
+      ],
+      "items": [
+        {
+          "id": "f08dd6f6eace72661b042074fccef2fa3750143f",
+          "title": "AI can do many wonderful things and grant many wishes, but we have only one earth, one California, one Patagonia, one Mendoza. USA and Argentina are two of the freest countries that also happen to have the most glorio...",
+          "url": "https://x.com/rauchg/status/2091338152791474331",
+          "source": "Follow Builders · X · Guillermo Rauch",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-23T01:34:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5795,
+      "importance": 0.5795,
+      "importance_score": 0.5795,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.77,
+        "recency": 0.5024,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-23T01:34:05Z",
+      "latest_at": "2026-08-23T01:34:05Z",
+      "primary_item": {
+        "id": "f08dd6f6eace72661b042074fccef2fa3750143f",
+        "title": "AI can do many wonderful things and grant many wishes, but we have only one earth, one California, one Patagonia, one Mendoza. USA and Argentina are two of the freest countries that also happen to have the most glorio...",
+        "url": "https://x.com/rauchg/status/2091338152791474331",
+        "source": "Follow Builders · X · Guillermo Rauch",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_6f7310105200",
+      "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
+      "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+      "primary_url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f73172ea7aa3069754f2187d4ebaf10cb4c60408",
+          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
+          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T12:37:23.718000Z"
+        },
+        {
+          "id": "d06a604967901d0064f9d28c567f9223cd8fb92c",
+          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。 / I created a viral AI watermark remover. I wasn't ready for all the attention.",
+          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T11:32:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "f73172ea7aa3069754f2187d4ebaf10cb4c60408",
+          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
+          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T12:37:23.718000Z"
+        },
+        {
+          "id": "d06a604967901d0064f9d28c567f9223cd8fb92c",
+          "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。 / I created a viral AI watermark remover. I wasn't ready for all the attention.",
+          "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T11:32:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.963,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T11:32:01Z",
+      "latest_at": "2026-08-23T12:37:23.718000Z",
+      "primary_item": {
+        "id": "f73172ea7aa3069754f2187d4ebaf10cb4c60408",
+        "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
+        "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8351ddcedbab",
+      "title": "阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金",
+      "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
+      "primary_url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "dc73bdc80f056742cc675ed0ab6774b54d8aeda9",
+          "title": "阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金",
+          "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T11:49:13.726000Z"
+        },
+        {
+          "id": "0838aaa50b80c51bcae2f702ae27bb0364e8d993",
+          "title": "阿里巴巴计划在香港配售100亿美元股票，以筹集资金用于人工智能领域的支出",
+          "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T06:45:30.468000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "dc73bdc80f056742cc675ed0ab6774b54d8aeda9",
+          "title": "阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金",
+          "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T11:49:13.726000Z"
+        },
+        {
+          "id": "0838aaa50b80c51bcae2f702ae27bb0364e8d993",
+          "title": "阿里巴巴计划在香港配售100亿美元股票，以筹集资金用于人工智能领域的支出",
+          "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T06:45:30.468000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5339,
+      "importance": 0.5339,
+      "importance_score": 0.5339,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9296,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T06:45:30.468000Z",
+      "latest_at": "2026-08-23T11:49:13.726000Z",
+      "primary_item": {
+        "id": "dc73bdc80f056742cc675ed0ab6774b54d8aeda9",
+        "title": "阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金",
+        "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_930dd1342c71",
+      "title": "NousResearch / hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "primary_url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
+          "title": "NousResearch / hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
+          "title": "NousResearch /      hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T11:16:45.227000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
+          "title": "NousResearch / hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
+          "title": "NousResearch /      hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T11:16:45.227000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9244,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T11:16:45.227000Z",
+      "latest_at": "2026-08-23T11:41:42.620076Z",
+      "primary_item": {
+        "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
+        "title": "NousResearch / hermes-agent",
+        "url": "https://github.com/NousResearch/hermes-agent",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_8a83a8caace8",
+      "title": "anthropics / claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "primary_url": "https://github.com/anthropics/claude-plugins-community",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "a54bafcecd84cc88cb0dddaf5d46b33cb08376c5",
+          "title": "anthropics / claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "90f2f2f9a092cd6a4bd04000118a819476c60de8",
+          "title": "anthropics /      claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T11:16:45.227000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "a54bafcecd84cc88cb0dddaf5d46b33cb08376c5",
+          "title": "anthropics / claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "90f2f2f9a092cd6a4bd04000118a819476c60de8",
+          "title": "anthropics /      claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T11:16:45.227000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9244,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T11:16:45.227000Z",
+      "latest_at": "2026-08-23T11:41:42.620076Z",
+      "primary_item": {
+        "id": "a54bafcecd84cc88cb0dddaf5d46b33cb08376c5",
+        "title": "anthropics / claude-plugins-community",
+        "url": "https://github.com/anthropics/claude-plugins-community",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_cb08435a825e",
+      "title": "freestylefly / awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "primary_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ff6cb8ba6d8bcefc9d5a4af907de953ed5c2cd2f",
+          "title": "freestylefly / awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3b2fa912249c187adb07c7989a414ac187beec37",
+          "title": "freestylefly /      awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T11:16:45.227000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "ff6cb8ba6d8bcefc9d5a4af907de953ed5c2cd2f",
+          "title": "freestylefly / awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3b2fa912249c187adb07c7989a414ac187beec37",
+          "title": "freestylefly /      awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T11:16:45.227000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9244,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T11:16:45.227000Z",
+      "latest_at": "2026-08-23T11:41:42.620076Z",
+      "primary_item": {
+        "id": "ff6cb8ba6d8bcefc9d5a4af907de953ed5c2cd2f",
+        "title": "freestylefly / awesome-gpt-image-2",
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_61266559dfa6",
+      "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+      "url": "https://www.ithome.com/0/993/248.htm",
+      "primary_url": "https://www.ithome.com/0/993/248.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
+          "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "efcdc7453daee5ba3b83c7eb305ca79abd3eed7b",
+          "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T10:01:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
+          "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "efcdc7453daee5ba3b83c7eb305ca79abd3eed7b",
+          "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T10:01:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5252,
+      "importance": 0.5252,
+      "importance_score": 0.5252,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8861,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T10:01:14Z",
+      "latest_at": "2026-08-23T10:46:38.124297Z",
+      "primary_item": {
+        "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
+        "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+        "url": "https://www.ithome.com/0/993/248.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_01b69bc0a189",
+      "title": "I’m working on a new AI skill. It’s called /fuck-cancer Goal is to help patients and their family navigate this whole process and stay informed. What should I include in it?",
+      "url": "https://x.com/petergyang/status/2091239339204415969",
+      "primary_url": "https://x.com/petergyang/status/2091239339204415969",
+      "source": "Follow Builders · X · Peter Yang",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "d185f86f3556e6389ec5af91bd83d3de323cfde5",
+          "title": "I’m working on a new AI skill. It’s called /fuck-cancer Goal is to help patients and their family navigate this whole process and stay informed. What should I include in it?",
+          "url": "https://x.com/petergyang/status/2091239339204415969",
+          "source": "Follow Builders · X · Peter Yang",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-22T19:01:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Peter Yang"
+      ],
+      "items": [
+        {
+          "id": "d185f86f3556e6389ec5af91bd83d3de323cfde5",
+          "title": "I’m working on a new AI skill. It’s called /fuck-cancer Goal is to help patients and their family navigate this whole process and stay informed. What should I include in it?",
+          "url": "https://x.com/petergyang/status/2091239339204415969",
+          "source": "Follow Builders · X · Peter Yang",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-22T19:01:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.77,
+        "recency": 0.2297,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-22T19:01:26Z",
+      "latest_at": "2026-08-22T19:01:26Z",
+      "primary_item": {
+        "id": "d185f86f3556e6389ec5af91bd83d3de323cfde5",
+        "title": "I’m working on a new AI skill. It’s called /fuck-cancer Goal is to help patients and their family navigate this whole process and stay informed. What should I include in it?",
+        "url": "https://x.com/petergyang/status/2091239339204415969",
+        "source": "Follow Builders · X · Peter Yang",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_90eba6afdca2",
+      "title": "机器人首秀网球场，银河通用突破具身智能「AstraTennis 时刻」",
+      "url": "https://www.leiphone.com/category/ai/DtuJryomWlykalLZ.html",
+      "primary_url": "https://www.leiphone.com/category/ai/DtuJryomWlykalLZ.html",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "8391084ae562fd0a4a2258c01785f0baa1382905",
+          "title": "机器人首秀网球场，银河通用突破具身智能「AstraTennis 时刻」",
+          "url": "https://www.leiphone.com/category/ai/DtuJryomWlykalLZ.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8391084ae562fd0a4a2258c01785f0baa1382905",
+          "title": "机器人首秀网球场，银河通用突破具身智能「AstraTennis 时刻」",
+          "url": "https://www.leiphone.com/category/ai/DtuJryomWlykalLZ.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-23T13:30:38.196016Z",
+      "latest_at": "2026-08-23T13:30:38.196016Z",
+      "primary_item": {
+        "id": "8391084ae562fd0a4a2258c01785f0baa1382905",
+        "title": "机器人首秀网球场，银河通用突破具身智能「AstraTennis 时刻」",
+        "url": "https://www.leiphone.com/category/ai/DtuJryomWlykalLZ.html",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_c5e32f3a11dc",
+      "title": "[OpenAI] 悲， ChatGPT Web 被路由到 5.5mini 了，弱智得流口水",
+      "url": "https://www.v2ex.com/t/1236623",
+      "primary_url": "https://www.v2ex.com/t/1236623",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "a588e1b89706be480b09edec23e32109d9c526a8",
+          "title": "[OpenAI] 悲， ChatGPT Web 被路由到 5.5mini 了，弱智得流口水",
+          "url": "https://www.v2ex.com/t/1236623",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T13:29:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "a588e1b89706be480b09edec23e32109d9c526a8",
+          "title": "[OpenAI] 悲， ChatGPT Web 被路由到 5.5mini 了，弱智得流口水",
+          "url": "https://www.v2ex.com/t/1236623",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T13:29:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5228,
+      "importance": 0.5228,
+      "importance_score": 0.5228,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9991,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-23T13:29:21Z",
+      "latest_at": "2026-08-23T13:29:21Z",
+      "primary_item": {
+        "id": "a588e1b89706be480b09edec23e32109d9c526a8",
+        "title": "[OpenAI] 悲， ChatGPT Web 被路由到 5.5mini 了，弱智得流口水",
+        "url": "https://www.v2ex.com/t/1236623",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_b9e810ab40c8",
+      "title": "关于Tempus AI首席财务官最新内幕交易申报的注意事项",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/know-cfo-tempus-ais-latest-121133933.html",
+      "primary_url": "https://finance.yahoo.com/markets/stocks/articles/know-cfo-tempus-ais-latest-121133933.html",
+      "source": "finance.yahoo.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9e5c2269e3b8443789831ddcd5158fd499901742",
+          "title": "关于Tempus AI首席财务官最新内幕交易申报的注意事项",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/know-cfo-tempus-ais-latest-121133933.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T13:25:15.818000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "finance.yahoo.com"
+      ],
+      "items": [
+        {
+          "id": "9e5c2269e3b8443789831ddcd5158fd499901742",
+          "title": "关于Tempus AI首席财务官最新内幕交易申报的注意事项",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/know-cfo-tempus-ais-latest-121133933.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T13:25:15.818000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9963,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-23T13:25:15.818000Z",
+      "latest_at": "2026-08-23T13:25:15.818000Z",
+      "primary_item": {
+        "id": "9e5c2269e3b8443789831ddcd5158fd499901742",
+        "title": "关于Tempus AI首席财务官最新内幕交易申报的注意事项",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/know-cfo-tempus-ais-latest-121133933.html",
+        "source": "finance.yahoo.com",
+        "source_name": "Buzzing"
       }
     }
   ]
