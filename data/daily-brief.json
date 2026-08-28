@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-08-27T22:48:45.214843Z",
+  "generated_at": "2026-08-28T22:53:19.209965Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_df7f8627ab33",
-      "title": "Close all open contributions authored by a blocked user",
-      "url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
-      "primary_url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
+      "story_id": "story_362e2edecbfb",
+      "title": "GitHub Copilot in Visual Studio — August update",
+      "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
+      "primary_url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6567a13785f4e1f08481529e2b9034edf747213b",
-          "title": "Close all open contributions authored by a blocked user",
-          "url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
+          "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
+          "title": "GitHub Copilot in Visual Studio — August update",
+          "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-27T16:30:52Z"
+          "published_at": "2026-08-28T20:24:20Z"
         }
       ],
       "source_count": 1,
@@ -27,25 +27,25 @@
       ],
       "items": [
         {
-          "id": "6567a13785f4e1f08481529e2b9034edf747213b",
-          "title": "Close all open contributions authored by a blocked user",
-          "url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
+          "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
+          "title": "GitHub Copilot in Visual Studio — August update",
+          "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-27T16:30:52Z"
+          "published_at": "2026-08-28T20:24:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.8523,
+      "importance": 0.8523,
+      "importance_score": 0.8523,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7376,
+        "ai_relevance": 0.91,
+        "recency": 0.8965,
         "story_heat": 0.0
       },
       "category": "official",
@@ -54,59 +54,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-27T16:30:52Z",
-      "latest_at": "2026-08-27T16:30:52Z",
+      "earliest_at": "2026-08-28T20:24:20Z",
+      "latest_at": "2026-08-28T20:24:20Z",
       "primary_item": {
-        "id": "6567a13785f4e1f08481529e2b9034edf747213b",
-        "title": "Close all open contributions authored by a blocked user",
-        "url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
+        "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
+        "title": "GitHub Copilot in Visual Studio — August update",
+        "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_38e38808c623",
-      "title": "3 new ways to plan and book travel in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
-      "source": "Google AI Blog",
+      "story_id": "story_fe43888c26b1",
+      "title": "GitHub Copilot weekly releases — August 24",
+      "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
+      "primary_url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e6499bcef3323d7d160c36159bbb7694d715af2d",
-          "title": "3 new ways to plan and book travel in Search",
-          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
-          "source": "Google AI Blog",
+          "id": "a617be9741ab625aa07602674087bfc532b03eb6",
+          "title": "GitHub Copilot weekly releases — August 24",
+          "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-27T16:00:00Z"
+          "published_at": "2026-08-28T20:13:22Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "e6499bcef3323d7d160c36159bbb7694d715af2d",
-          "title": "3 new ways to plan and book travel in Search",
-          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
-          "source": "Google AI Blog",
+          "id": "a617be9741ab625aa07602674087bfc532b03eb6",
+          "title": "GitHub Copilot weekly releases — August 24",
+          "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-27T16:00:00Z"
+          "published_at": "2026-08-28T20:13:22Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
+      "score": 0.8508,
+      "importance": 0.8508,
+      "importance_score": 0.8508,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7161,
+        "ai_relevance": 0.91,
+        "recency": 0.8889,
         "story_heat": 0.0
       },
       "category": "official",
@@ -115,107 +115,47 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-27T16:00:00Z",
-      "latest_at": "2026-08-27T16:00:00Z",
+      "earliest_at": "2026-08-28T20:13:22Z",
+      "latest_at": "2026-08-28T20:13:22Z",
       "primary_item": {
-        "id": "e6499bcef3323d7d160c36159bbb7694d715af2d",
-        "title": "3 new ways to plan and book travel in Search",
-        "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode",
-        "source": "Google AI Blog",
+        "id": "a617be9741ab625aa07602674087bfc532b03eb6",
+        "title": "GitHub Copilot weekly releases — August 24",
+        "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_6b7bb0e77da2",
-      "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-      "url": "https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8",
-      "primary_url": "https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b1a9c489dd097b529ac5a00b3d718af5af9b94ee",
-          "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-          "url": "https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-27T20:52:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b1a9c489dd097b529ac5a00b3d718af5af9b94ee",
-          "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-          "url": "https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-27T20:52:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7959,
-      "importance": 0.7959,
-      "importance_score": 0.7959,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9193,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T20:52:31Z",
-      "latest_at": "2026-08-27T20:52:31Z",
-      "primary_item": {
-        "id": "b1a9c489dd097b529ac5a00b3d718af5af9b94ee",
-        "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-        "url": "https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_213e95424861",
-      "title": "Piloting the world's first double-blind AI evaluations",
-      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
-      "primary_url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
-      "source": "Google DeepMind",
+      "story_id": "story_23382e1c0229",
+      "title": "Upcoming changes to GitHub Copilot policies and billing",
+      "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
+      "primary_url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "05f03d49d8c334ea7fbf779db012703336eaca4a",
-          "title": "Piloting the world's first double-blind AI evaluations",
-          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
-          "source": "Google DeepMind",
+          "id": "d4b732ba6f142956f2733c4616ef8be8248e23e4",
+          "title": "Upcoming changes to GitHub Copilot policies and billing",
+          "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-27T12:59:16Z"
+          "published_at": "2026-08-28T11:37:19Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google DeepMind"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "05f03d49d8c334ea7fbf779db012703336eaca4a",
-          "title": "Piloting the world's first double-blind AI evaluations",
-          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
-          "source": "Google DeepMind",
+          "id": "d4b732ba6f142956f2733c4616ef8be8248e23e4",
+          "title": "Upcoming changes to GitHub Copilot policies and billing",
+          "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-27T12:59:16Z"
+          "published_at": "2026-08-28T11:37:19Z"
         }
       ],
       "item_count": 1,
@@ -226,8 +166,8 @@
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5906,
+        "ai_relevance": 0.91,
+        "recency": 0.5306,
         "story_heat": 0.0
       },
       "category": "official",
@@ -236,59 +176,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-27T12:59:16Z",
-      "latest_at": "2026-08-27T12:59:16Z",
+      "earliest_at": "2026-08-28T11:37:19Z",
+      "latest_at": "2026-08-28T11:37:19Z",
       "primary_item": {
-        "id": "05f03d49d8c334ea7fbf779db012703336eaca4a",
-        "title": "Piloting the world's first double-blind AI evaluations",
-        "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
-        "source": "Google DeepMind",
+        "id": "d4b732ba6f142956f2733c4616ef8be8248e23e4",
+        "title": "Upcoming changes to GitHub Copilot policies and billing",
+        "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_b1040457ee05",
-      "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91）",
-      "url": "https://aihot.virxact.com/items/cmtbtrn8j0222ro2kb7opgppz",
-      "primary_url": "https://aihot.virxact.com/items/cmtbtrn8j0222ro2kb7opgppz",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "story_id": "story_3e1ac8448ef7",
+      "title": "OpenAI 攻击 Hugging Face 事件的 5 个教训",
+      "url": "https://aihot.virxact.com/items/cmtdcdico01sxrobxtg1cs1ul",
+      "primary_url": "https://aihot.virxact.com/items/cmtdcdico01sxrobxtg1cs1ul",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a345ac68a370106a69fcc5e2cef3336145b8e678",
-          "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91）",
-          "url": "https://aihot.virxact.com/items/cmtbtrn8j0222ro2kb7opgppz",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "id": "c90e12f76c40e54075dd55e9a98af9d35c8c99cd",
+          "title": "OpenAI 攻击 Hugging Face 事件的 5 个教训",
+          "url": "https://aihot.virxact.com/items/cmtdcdico01sxrobxtg1cs1ul",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-27T17:57:02Z"
+          "published_at": "2026-08-28T18:24:05Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
       ],
       "items": [
         {
-          "id": "a345ac68a370106a69fcc5e2cef3336145b8e678",
-          "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91）",
-          "url": "https://aihot.virxact.com/items/cmtbtrn8j0222ro2kb7opgppz",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "id": "c90e12f76c40e54075dd55e9a98af9d35c8c99cd",
+          "title": "OpenAI 攻击 Hugging Face 事件的 5 个教训",
+          "url": "https://aihot.virxact.com/items/cmtdcdico01sxrobxtg1cs1ul",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-27T17:57:02Z"
+          "published_at": "2026-08-28T18:24:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7974,
+        "recency": 0.813,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -296,359 +236,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-27T17:57:02Z",
-      "latest_at": "2026-08-27T17:57:02Z",
+      "earliest_at": "2026-08-28T18:24:05Z",
+      "latest_at": "2026-08-28T18:24:05Z",
       "primary_item": {
-        "id": "a345ac68a370106a69fcc5e2cef3336145b8e678",
-        "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91）",
-        "url": "https://aihot.virxact.com/items/cmtbtrn8j0222ro2kb7opgppz",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "id": "c90e12f76c40e54075dd55e9a98af9d35c8c99cd",
+        "title": "OpenAI 攻击 Hugging Face 事件的 5 个教训",
+        "url": "https://aihot.virxact.com/items/cmtdcdico01sxrobxtg1cs1ul",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_e41ff1090365",
-      "title": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
-      "url": "https://www.aibase.com/news/30678",
-      "primary_url": "https://www.aibase.com/news/30678",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bf77aaf5d6c01b865da507ac7b2ce937bbf53b44",
-          "title": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
-          "url": "https://www.aibase.com/news/30678",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T17:48:45.214843Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bf77aaf5d6c01b865da507ac7b2ce937bbf53b44",
-          "title": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
-          "url": "https://www.aibase.com/news/30678",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T17:48:45.214843Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7917,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T17:48:45.214843Z",
-      "latest_at": "2026-08-27T17:48:45.214843Z",
-      "primary_item": {
-        "id": "bf77aaf5d6c01b865da507ac7b2ce937bbf53b44",
-        "title": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
-        "url": "https://www.aibase.com/news/30678",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b5f4a5f41a02",
-      "title": "从3.3GB压缩到440MB！腾讯混元极低bit翻译模型如何做到几乎零损失？",
-      "url": "https://www.aibase.com/news/30673",
-      "primary_url": "https://www.aibase.com/news/30673",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "858def08049466ff52011b41fddedaddab23202c",
-          "title": "从3.3GB压缩到440MB！腾讯混元极低bit翻译模型如何做到几乎零损失？",
-          "url": "https://www.aibase.com/news/30673",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T16:48:45.214843Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "858def08049466ff52011b41fddedaddab23202c",
-          "title": "从3.3GB压缩到440MB！腾讯混元极低bit翻译模型如何做到几乎零损失？",
-          "url": "https://www.aibase.com/news/30673",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T16:48:45.214843Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.75,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T16:48:45.214843Z",
-      "latest_at": "2026-08-27T16:48:45.214843Z",
-      "primary_item": {
-        "id": "858def08049466ff52011b41fddedaddab23202c",
-        "title": "从3.3GB压缩到440MB！腾讯混元极低bit翻译模型如何做到几乎零损失？",
-        "url": "https://www.aibase.com/news/30673",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c708dc07d1e4",
-      "title": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
-      "url": "https://www.aibase.com/news/30674",
-      "primary_url": "https://www.aibase.com/news/30674",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "27c3f2bea9bcf142b19744495750ca43d797cc2a",
-          "title": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
-          "url": "https://www.aibase.com/news/30674",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T16:48:45.214843Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "27c3f2bea9bcf142b19744495750ca43d797cc2a",
-          "title": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
-          "url": "https://www.aibase.com/news/30674",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T16:48:45.214843Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.75,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T16:48:45.214843Z",
-      "latest_at": "2026-08-27T16:48:45.214843Z",
-      "primary_item": {
-        "id": "27c3f2bea9bcf142b19744495750ca43d797cc2a",
-        "title": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
-        "url": "https://www.aibase.com/news/30674",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7e916065e30c",
-      "title": "小鹏Robotaxi开启无人道路测试，搭载第二代VLA已完成超2000单内测",
-      "url": "https://www.aibase.com/news/30676",
-      "primary_url": "https://www.aibase.com/news/30676",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "530156405874412f7eeaf3531d1e14bd72f3a20c",
-          "title": "小鹏Robotaxi开启无人道路测试，搭载第二代VLA已完成超2000单内测",
-          "url": "https://www.aibase.com/news/30676",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T16:48:45.214843Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "530156405874412f7eeaf3531d1e14bd72f3a20c",
-          "title": "小鹏Robotaxi开启无人道路测试，搭载第二代VLA已完成超2000单内测",
-          "url": "https://www.aibase.com/news/30676",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T16:48:45.214843Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.75,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T16:48:45.214843Z",
-      "latest_at": "2026-08-27T16:48:45.214843Z",
-      "primary_item": {
-        "id": "530156405874412f7eeaf3531d1e14bd72f3a20c",
-        "title": "小鹏Robotaxi开启无人道路测试，搭载第二代VLA已完成超2000单内测",
-        "url": "https://www.aibase.com/news/30676",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_085f9f784437",
-      "title": "英伟达 129 亿美元收购 Hugging Face，开源 AI 底座归入算力帝国",
-      "url": "https://www.aibase.com/news/30677",
-      "primary_url": "https://www.aibase.com/news/30677",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "303270fec2e761a4735289d4fdead45d80bd7bf2",
-          "title": "英伟达 129 亿美元收购 Hugging Face，开源 AI 底座归入算力帝国",
-          "url": "https://www.aibase.com/news/30677",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T16:48:45.214843Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "303270fec2e761a4735289d4fdead45d80bd7bf2",
-          "title": "英伟达 129 亿美元收购 Hugging Face，开源 AI 底座归入算力帝国",
-          "url": "https://www.aibase.com/news/30677",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T16:48:45.214843Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.75,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T16:48:45.214843Z",
-      "latest_at": "2026-08-27T16:48:45.214843Z",
-      "primary_item": {
-        "id": "303270fec2e761a4735289d4fdead45d80bd7bf2",
-        "title": "英伟达 129 亿美元收购 Hugging Face，开源 AI 底座归入算力帝国",
-        "url": "https://www.aibase.com/news/30677",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_329e4949a9c9",
-      "title": "OpenAI 失控智能体集体逃逸沙箱并攻击&quot;幽灵&quot;评分器事件调查公布",
-      "url": "https://aihot.virxact.com/items/cmtbqq6pi15j3roamyuhn0uvk",
-      "primary_url": "https://aihot.virxact.com/items/cmtbqq6pi15j3roamyuhn0uvk",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_4b4ac8d57076",
+      "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+      "url": "https://aihot.virxact.com/items/cmtdbbfo6018arobxq8t77h9x",
+      "primary_url": "https://aihot.virxact.com/items/cmtdbbfo6018arobxq8t77h9x",
+      "source": "Ars Technica：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c47ae20fa932d864e24633e8c9237df5c436ceb4",
-          "title": "OpenAI 失控智能体集体逃逸沙箱并攻击&quot;幽灵&quot;评分器事件调查公布",
-          "url": "https://aihot.virxact.com/items/cmtbqq6pi15j3roamyuhn0uvk",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "03906f83d9c497160b485fd83d19d958ef00c8d5",
+          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+          "url": "https://aihot.virxact.com/items/cmtdbbfo6018arobxq8t77h9x",
+          "source": "Ars Technica：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-27T16:19:46Z"
+          "published_at": "2026-08-28T18:07:55Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "Ars Technica：AI（RSS）"
       ],
       "items": [
         {
-          "id": "c47ae20fa932d864e24633e8c9237df5c436ceb4",
-          "title": "OpenAI 失控智能体集体逃逸沙箱并攻击&quot;幽灵&quot;评分器事件调查公布",
-          "url": "https://aihot.virxact.com/items/cmtbqq6pi15j3roamyuhn0uvk",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "03906f83d9c497160b485fd83d19d958ef00c8d5",
+          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+          "url": "https://aihot.virxact.com/items/cmtdbbfo6018arobxq8t77h9x",
+          "source": "Ars Technica：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-27T16:19:46Z"
+          "published_at": "2026-08-28T18:07:55Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7299,
+        "recency": 0.8018,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -656,59 +296,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-27T16:19:46Z",
-      "latest_at": "2026-08-27T16:19:46Z",
+      "earliest_at": "2026-08-28T18:07:55Z",
+      "latest_at": "2026-08-28T18:07:55Z",
       "primary_item": {
-        "id": "c47ae20fa932d864e24633e8c9237df5c436ceb4",
-        "title": "OpenAI 失控智能体集体逃逸沙箱并攻击&quot;幽灵&quot;评分器事件调查公布",
-        "url": "https://aihot.virxact.com/items/cmtbqq6pi15j3roamyuhn0uvk",
-        "source": "The Decoder：AI News（RSS）",
+        "id": "03906f83d9c497160b485fd83d19d958ef00c8d5",
+        "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+        "url": "https://aihot.virxact.com/items/cmtdbbfo6018arobxq8t77h9x",
+        "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_49e1aa37fa3c",
-      "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
-      "url": "https://aihot.virxact.com/items/cmtbq1hfq156croamzzo9gno2",
-      "primary_url": "https://aihot.virxact.com/items/cmtbq1hfq156croamzzo9gno2",
-      "source": "Google DeepMind：Blog（RSS）",
+      "story_id": "story_e7ae1928c48d",
+      "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+      "url": "https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34",
+      "primary_url": "https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34",
+      "source": "Anthropic：Research（发表成果 · 网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b955a3961bcb92c9c15c9bd487f5b5a874c9ab2f",
-          "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
-          "url": "https://aihot.virxact.com/items/cmtbq1hfq156croamzzo9gno2",
-          "source": "Google DeepMind：Blog（RSS）",
+          "id": "bbf07672ccdca01c3bfc076aa9b8106dac063d21",
+          "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+          "url": "https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34",
+          "source": "Anthropic：Research（发表成果 · 网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-27T16:11:32Z"
+          "published_at": "2026-08-28T17:25:56Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google DeepMind：Blog（RSS）"
+        "Anthropic：Research（发表成果 · 网页）"
       ],
       "items": [
         {
-          "id": "b955a3961bcb92c9c15c9bd487f5b5a874c9ab2f",
-          "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
-          "url": "https://aihot.virxact.com/items/cmtbq1hfq156croamzzo9gno2",
-          "source": "Google DeepMind：Blog（RSS）",
+          "id": "bbf07672ccdca01c3bfc076aa9b8106dac063d21",
+          "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+          "url": "https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34",
+          "source": "Anthropic：Research（发表成果 · 网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-27T16:11:32Z"
+          "published_at": "2026-08-28T17:25:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7242,
+        "recency": 0.7726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -716,271 +356,150 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-27T16:11:32Z",
-      "latest_at": "2026-08-27T16:11:32Z",
+      "earliest_at": "2026-08-28T17:25:56Z",
+      "latest_at": "2026-08-28T17:25:56Z",
       "primary_item": {
-        "id": "b955a3961bcb92c9c15c9bd487f5b5a874c9ab2f",
-        "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
-        "url": "https://aihot.virxact.com/items/cmtbq1hfq156croamzzo9gno2",
-        "source": "Google DeepMind：Blog（RSS）",
+        "id": "bbf07672ccdca01c3bfc076aa9b8106dac063d21",
+        "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+        "url": "https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34",
+        "source": "Anthropic：Research（发表成果 · 网页）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_c163674c9435",
-      "title": "Claude 桌面端 Cowork 内置浏览器上线，可独立完成网页操作",
-      "url": "https://www.aibase.com/news/30672",
-      "primary_url": "https://www.aibase.com/news/30672",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_b975df5af623",
+      "title": "GLM-5.3 开源权重，智能体编码与网防最强",
+      "url": "https://aihot.virxact.com/items/cmtd32q060c3vroq546ccqp7r",
+      "primary_url": "https://aihot.virxact.com/items/cmtd32q060c3vroq546ccqp7r",
+      "source": "X：智谱 Z.ai (@Zai_org)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "00fc14a30aa905a8e47c7c6805efc071b3ff7895",
-          "title": "Claude 桌面端 Cowork 内置浏览器上线，可独立完成网页操作",
-          "url": "https://www.aibase.com/news/30672",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T15:48:45.214843Z"
+          "id": "e42083b39ff71d1d849a50e2e9a36093b2b3ca3f",
+          "title": "GLM-5.3 开源权重，智能体编码与网防最强",
+          "url": "https://aihot.virxact.com/items/cmtd32q060c3vroq546ccqp7r",
+          "source": "X：智谱 Z.ai (@Zai_org)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T15:04:44Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "X：智谱 Z.ai (@Zai_org)"
       ],
       "items": [
         {
-          "id": "00fc14a30aa905a8e47c7c6805efc071b3ff7895",
-          "title": "Claude 桌面端 Cowork 内置浏览器上线，可独立完成网页操作",
-          "url": "https://www.aibase.com/news/30672",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T15:48:45.214843Z"
+          "id": "e42083b39ff71d1d849a50e2e9a36093b2b3ca3f",
+          "title": "GLM-5.3 开源权重，智能体编码与网防最强",
+          "url": "https://aihot.virxact.com/items/cmtd32q060c3vroq546ccqp7r",
+          "source": "X：智谱 Z.ai (@Zai_org)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T15:04:44Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T15:48:45.214843Z",
-      "latest_at": "2026-08-27T15:48:45.214843Z",
-      "primary_item": {
-        "id": "00fc14a30aa905a8e47c7c6805efc071b3ff7895",
-        "title": "Claude 桌面端 Cowork 内置浏览器上线，可独立完成网页操作",
-        "url": "https://www.aibase.com/news/30672",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4462a688dc5f",
-      "title": "亚马逊订单激增三倍，英伟达芯片成全球大厂“硬通货”",
-      "url": "https://www.aibase.com/news/30671",
-      "primary_url": "https://www.aibase.com/news/30671",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "952fc3c2f9913381b54bf779dc6b6864e95f0084",
-          "title": "亚马逊订单激增三倍，英伟达芯片成全球大厂“硬通货”",
-          "url": "https://www.aibase.com/news/30671",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T15:48:45.214843Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "952fc3c2f9913381b54bf779dc6b6864e95f0084",
-          "title": "亚马逊订单激增三倍，英伟达芯片成全球大厂“硬通货”",
-          "url": "https://www.aibase.com/news/30671",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T15:48:45.214843Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T15:48:45.214843Z",
-      "latest_at": "2026-08-27T15:48:45.214843Z",
-      "primary_item": {
-        "id": "952fc3c2f9913381b54bf779dc6b6864e95f0084",
-        "title": "亚马逊订单激增三倍，英伟达芯片成全球大厂“硬通货”",
-        "url": "https://www.aibase.com/news/30671",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1e5789bc68ea",
-      "title": "北京开出首例AIGC商业秘密行政处罚案 拷走前公司AI软件创业罚款10万",
-      "url": "https://www.aibase.com/news/30670",
-      "primary_url": "https://www.aibase.com/news/30670",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c31fa6d18ef22eed36bf199d90eab7deef171ce6",
-          "title": "北京开出首例AIGC商业秘密行政处罚案 拷走前公司AI软件创业罚款10万",
-          "url": "https://www.aibase.com/news/30670",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T15:48:45.214843Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c31fa6d18ef22eed36bf199d90eab7deef171ce6",
-          "title": "北京开出首例AIGC商业秘密行政处罚案 拷走前公司AI软件创业罚款10万",
-          "url": "https://www.aibase.com/news/30670",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T15:48:45.214843Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-27T15:48:45.214843Z",
-      "latest_at": "2026-08-27T15:48:45.214843Z",
-      "primary_item": {
-        "id": "c31fa6d18ef22eed36bf199d90eab7deef171ce6",
-        "title": "北京开出首例AIGC商业秘密行政处罚案 拷走前公司AI软件创业罚款10万",
-        "url": "https://www.aibase.com/news/30670",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_02b871c3b48f",
-      "title": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
-      "url": "https://www.aibase.com/news/30665",
-      "primary_url": "https://www.aibase.com/news/30665",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4a5d4d6ddcd9f184642d88f3e7e19b5cb608eba0",
-          "title": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
-          "url": "https://www.aibase.com/news/30665",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T14:48:45.214843Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4a5d4d6ddcd9f184642d88f3e7e19b5cb608eba0",
-          "title": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
-          "url": "https://www.aibase.com/news/30665",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-27T14:48:45.214843Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
+        "recency": 0.6746,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-27T14:48:45.214843Z",
-      "latest_at": "2026-08-27T14:48:45.214843Z",
+      "earliest_at": "2026-08-28T15:04:44Z",
+      "latest_at": "2026-08-28T15:04:44Z",
       "primary_item": {
-        "id": "4a5d4d6ddcd9f184642d88f3e7e19b5cb608eba0",
-        "title": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
-        "url": "https://www.aibase.com/news/30665",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "e42083b39ff71d1d849a50e2e9a36093b2b3ca3f",
+        "title": "GLM-5.3 开源权重，智能体编码与网防最强",
+        "url": "https://aihot.virxact.com/items/cmtd32q060c3vroq546ccqp7r",
+        "source": "X：智谱 Z.ai (@Zai_org)",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_bd0f1e2eb6fa",
-      "title": "Google升级Gemini Live接入Spark，语音直接操控Gmail与全家桶",
-      "url": "https://www.aibase.com/news/30669",
-      "primary_url": "https://www.aibase.com/news/30669",
+      "story_id": "story_fc2fd7aca5b0",
+      "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
+      "url": "https://aihot.virxact.com/items/cmtd00dbh09tkroq5v7kcw183",
+      "primary_url": "https://aihot.virxact.com/items/cmtd00dbh09tkroq5v7kcw183",
+      "source": "Google AI：DEV 作者专属（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e7a695f6920ce128d6658ced9e1e57239cc08d99",
+          "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
+          "url": "https://aihot.virxact.com/items/cmtd00dbh09tkroq5v7kcw183",
+          "source": "Google AI：DEV 作者专属（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T13:34:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI：DEV 作者专属（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e7a695f6920ce128d6658ced9e1e57239cc08d99",
+          "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
+          "url": "https://aihot.virxact.com/items/cmtd00dbh09tkroq5v7kcw183",
+          "source": "Google AI：DEV 作者专属（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T13:34:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6119,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-28T13:34:29Z",
+      "latest_at": "2026-08-28T13:34:29Z",
+      "primary_item": {
+        "id": "e7a695f6920ce128d6658ced9e1e57239cc08d99",
+        "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
+        "url": "https://aihot.virxact.com/items/cmtd00dbh09tkroq5v7kcw183",
+        "source": "Google AI：DEV 作者专属（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5d24831362f9",
+      "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
+      "url": "https://www.aibase.com/news/30692",
+      "primary_url": "https://www.aibase.com/news/30692",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e4490a6cb364f64ac1f62ff42b79f6bfaf0e970a",
-          "title": "Google升级Gemini Live接入Spark，语音直接操控Gmail与全家桶",
-          "url": "https://www.aibase.com/news/30669",
+          "id": "acab4b80376f50d732dcb575dc1f7c386537d3ae",
+          "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
+          "url": "https://www.aibase.com/news/30692",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-27T14:48:45.214843Z"
+          "published_at": "2026-08-28T13:29:41.129883Z"
         }
       ],
       "source_count": 1,
@@ -989,57 +508,57 @@
       ],
       "items": [
         {
-          "id": "e4490a6cb364f64ac1f62ff42b79f6bfaf0e970a",
-          "title": "Google升级Gemini Live接入Spark，语音直接操控Gmail与全家桶",
-          "url": "https://www.aibase.com/news/30669",
+          "id": "acab4b80376f50d732dcb575dc1f7c386537d3ae",
+          "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
+          "url": "https://www.aibase.com/news/30692",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-27T14:48:45.214843Z"
+          "published_at": "2026-08-28T13:29:41.129883Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6667,
+        "recency": 0.6086,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-27T14:48:45.214843Z",
-      "latest_at": "2026-08-27T14:48:45.214843Z",
+      "earliest_at": "2026-08-28T13:29:41.129883Z",
+      "latest_at": "2026-08-28T13:29:41.129883Z",
       "primary_item": {
-        "id": "e4490a6cb364f64ac1f62ff42b79f6bfaf0e970a",
-        "title": "Google升级Gemini Live接入Spark，语音直接操控Gmail与全家桶",
-        "url": "https://www.aibase.com/news/30669",
+        "id": "acab4b80376f50d732dcb575dc1f7c386537d3ae",
+        "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
+        "url": "https://www.aibase.com/news/30692",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_a1d137fa9a29",
-      "title": "千问办公首发上线Qwen3.8-Flash，Agent正式迈入“量大管饱”时代",
-      "url": "https://www.aibase.com/news/30668",
-      "primary_url": "https://www.aibase.com/news/30668",
+      "story_id": "story_674078d3c52a",
+      "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
+      "url": "https://www.aibase.com/news/30693",
+      "primary_url": "https://www.aibase.com/news/30693",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "88b23231f023451bf66f4401e240c4f68be5da4a",
-          "title": "千问办公首发上线Qwen3.8-Flash，Agent正式迈入“量大管饱”时代",
-          "url": "https://www.aibase.com/news/30668",
+          "id": "d79d2ded5fe9fd3d6b0d879368c42f10ea5af48f",
+          "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
+          "url": "https://www.aibase.com/news/30693",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-27T14:48:45.214843Z"
+          "published_at": "2026-08-28T13:29:41.129883Z"
         }
       ],
       "source_count": 1,
@@ -1048,57 +567,57 @@
       ],
       "items": [
         {
-          "id": "88b23231f023451bf66f4401e240c4f68be5da4a",
-          "title": "千问办公首发上线Qwen3.8-Flash，Agent正式迈入“量大管饱”时代",
-          "url": "https://www.aibase.com/news/30668",
+          "id": "d79d2ded5fe9fd3d6b0d879368c42f10ea5af48f",
+          "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
+          "url": "https://www.aibase.com/news/30693",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-27T14:48:45.214843Z"
+          "published_at": "2026-08-28T13:29:41.129883Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6667,
+        "recency": 0.6086,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-27T14:48:45.214843Z",
-      "latest_at": "2026-08-27T14:48:45.214843Z",
+      "earliest_at": "2026-08-28T13:29:41.129883Z",
+      "latest_at": "2026-08-28T13:29:41.129883Z",
       "primary_item": {
-        "id": "88b23231f023451bf66f4401e240c4f68be5da4a",
-        "title": "千问办公首发上线Qwen3.8-Flash，Agent正式迈入“量大管饱”时代",
-        "url": "https://www.aibase.com/news/30668",
+        "id": "d79d2ded5fe9fd3d6b0d879368c42f10ea5af48f",
+        "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
+        "url": "https://www.aibase.com/news/30693",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_804667c0be03",
-      "title": "半年狂赚1180亿美元！英伟达交出“核爆级”财报，下一代AI芯片全面量产",
-      "url": "https://www.aibase.com/news/30666",
-      "primary_url": "https://www.aibase.com/news/30666",
+      "story_id": "story_bfb0aa7648ad",
+      "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+      "url": "https://www.aibase.com/news/30696",
+      "primary_url": "https://www.aibase.com/news/30696",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a2e4dc51179a7186f20c36dfe246be7b671901a0",
-          "title": "半年狂赚1180亿美元！英伟达交出“核爆级”财报，下一代AI芯片全面量产",
-          "url": "https://www.aibase.com/news/30666",
+          "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
+          "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+          "url": "https://www.aibase.com/news/30696",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-27T14:48:45.214843Z"
+          "published_at": "2026-08-28T13:29:41.129883Z"
         }
       ],
       "source_count": 1,
@@ -1107,57 +626,57 @@
       ],
       "items": [
         {
-          "id": "a2e4dc51179a7186f20c36dfe246be7b671901a0",
-          "title": "半年狂赚1180亿美元！英伟达交出“核爆级”财报，下一代AI芯片全面量产",
-          "url": "https://www.aibase.com/news/30666",
+          "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
+          "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+          "url": "https://www.aibase.com/news/30696",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-27T14:48:45.214843Z"
+          "published_at": "2026-08-28T13:29:41.129883Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6667,
+        "recency": 0.6086,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-27T14:48:45.214843Z",
-      "latest_at": "2026-08-27T14:48:45.214843Z",
+      "earliest_at": "2026-08-28T13:29:41.129883Z",
+      "latest_at": "2026-08-28T13:29:41.129883Z",
       "primary_item": {
-        "id": "a2e4dc51179a7186f20c36dfe246be7b671901a0",
-        "title": "半年狂赚1180亿美元！英伟达交出“核爆级”财报，下一代AI芯片全面量产",
-        "url": "https://www.aibase.com/news/30666",
+        "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
+        "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
+        "url": "https://www.aibase.com/news/30696",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_e61d1e9b3422",
-      "title": "拷走 AI 软件去创业，北京首例 AIGC 商业秘密案罚 10 万元",
-      "url": "https://www.aibase.com/news/30667",
-      "primary_url": "https://www.aibase.com/news/30667",
+      "story_id": "story_02d165feef6c",
+      "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+      "url": "https://www.aibase.com/news/30699",
+      "primary_url": "https://www.aibase.com/news/30699",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d82f1651c31ba138c8f217a39013e546ec21099f",
-          "title": "拷走 AI 软件去创业，北京首例 AIGC 商业秘密案罚 10 万元",
-          "url": "https://www.aibase.com/news/30667",
+          "id": "0e79dd6b0eaab6e7bc95734f8d995a14879a8f3e",
+          "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+          "url": "https://www.aibase.com/news/30699",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-27T14:48:45.214843Z"
+          "published_at": "2026-08-28T13:29:41.129883Z"
         }
       ],
       "source_count": 1,
@@ -1166,37 +685,529 @@
       ],
       "items": [
         {
-          "id": "d82f1651c31ba138c8f217a39013e546ec21099f",
-          "title": "拷走 AI 软件去创业，北京首例 AIGC 商业秘密案罚 10 万元",
-          "url": "https://www.aibase.com/news/30667",
+          "id": "0e79dd6b0eaab6e7bc95734f8d995a14879a8f3e",
+          "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+          "url": "https://www.aibase.com/news/30699",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-27T14:48:45.214843Z"
+          "published_at": "2026-08-28T13:29:41.129883Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6667,
+        "recency": 0.6086,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-27T14:48:45.214843Z",
-      "latest_at": "2026-08-27T14:48:45.214843Z",
+      "earliest_at": "2026-08-28T13:29:41.129883Z",
+      "latest_at": "2026-08-28T13:29:41.129883Z",
       "primary_item": {
-        "id": "d82f1651c31ba138c8f217a39013e546ec21099f",
-        "title": "拷走 AI 软件去创业，北京首例 AIGC 商业秘密案罚 10 万元",
-        "url": "https://www.aibase.com/news/30667",
+        "id": "0e79dd6b0eaab6e7bc95734f8d995a14879a8f3e",
+        "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
+        "url": "https://www.aibase.com/news/30699",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2f55646e1e37",
+      "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
+      "url": "https://www.aibase.com/news/30698",
+      "primary_url": "https://www.aibase.com/news/30698",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3164a51ead09b5e8e0d2331f53519c6ec4a80eef",
+          "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
+          "url": "https://www.aibase.com/news/30698",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T13:29:41.129883Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3164a51ead09b5e8e0d2331f53519c6ec4a80eef",
+          "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
+          "url": "https://www.aibase.com/news/30698",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T13:29:41.129883Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6086,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-28T13:29:41.129883Z",
+      "latest_at": "2026-08-28T13:29:41.129883Z",
+      "primary_item": {
+        "id": "3164a51ead09b5e8e0d2331f53519c6ec4a80eef",
+        "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
+        "url": "https://www.aibase.com/news/30698",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3d49a8462394",
+      "title": "腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M",
+      "url": "https://www.aibase.com/news/30694",
+      "primary_url": "https://www.aibase.com/news/30694",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9aeb5f574fbfdcca20d6dd9996b8057b56af0837",
+          "title": "腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M",
+          "url": "https://www.aibase.com/news/30694",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T13:29:41.129883Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9aeb5f574fbfdcca20d6dd9996b8057b56af0837",
+          "title": "腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M",
+          "url": "https://www.aibase.com/news/30694",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T13:29:41.129883Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6086,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-28T13:29:41.129883Z",
+      "latest_at": "2026-08-28T13:29:41.129883Z",
+      "primary_item": {
+        "id": "9aeb5f574fbfdcca20d6dd9996b8057b56af0837",
+        "title": "腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M",
+        "url": "https://www.aibase.com/news/30694",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8261527a2cb7",
+      "title": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
+      "url": "https://www.aibase.com/news/30697",
+      "primary_url": "https://www.aibase.com/news/30697",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "73fa34e64b2a90caa7441ae2fc960495e8393b95",
+          "title": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
+          "url": "https://www.aibase.com/news/30697",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T13:29:41.129883Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "73fa34e64b2a90caa7441ae2fc960495e8393b95",
+          "title": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
+          "url": "https://www.aibase.com/news/30697",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T13:29:41.129883Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6086,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-28T13:29:41.129883Z",
+      "latest_at": "2026-08-28T13:29:41.129883Z",
+      "primary_item": {
+        "id": "73fa34e64b2a90caa7441ae2fc960495e8393b95",
+        "title": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
+        "url": "https://www.aibase.com/news/30697",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0e00744bd5f8",
+      "title": "蚂蚁集团携手中金公司推出首个金融增强大模型Ling-3.0-flash-Fin",
+      "url": "https://www.aibase.com/news/30695",
+      "primary_url": "https://www.aibase.com/news/30695",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1c95ac8a5a79305de1407692cc795e8935541a2d",
+          "title": "蚂蚁集团携手中金公司推出首个金融增强大模型Ling-3.0-flash-Fin",
+          "url": "https://www.aibase.com/news/30695",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T13:29:41.129883Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1c95ac8a5a79305de1407692cc795e8935541a2d",
+          "title": "蚂蚁集团携手中金公司推出首个金融增强大模型Ling-3.0-flash-Fin",
+          "url": "https://www.aibase.com/news/30695",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T13:29:41.129883Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6086,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-28T13:29:41.129883Z",
+      "latest_at": "2026-08-28T13:29:41.129883Z",
+      "primary_item": {
+        "id": "1c95ac8a5a79305de1407692cc795e8935541a2d",
+        "title": "蚂蚁集团携手中金公司推出首个金融增强大模型Ling-3.0-flash-Fin",
+        "url": "https://www.aibase.com/news/30695",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9a88d4758c6f",
+      "title": "阿里发布全新 Qoder:从 AI 编程工具升级为面向所有人的智能体工作台",
+      "url": "https://www.aibase.com/news/30691",
+      "primary_url": "https://www.aibase.com/news/30691",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "29b1a169f097f8a2372ef1babdcad53fe7e266c5",
+          "title": "阿里发布全新 Qoder:从 AI 编程工具升级为面向所有人的智能体工作台",
+          "url": "https://www.aibase.com/news/30691",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T12:29:41.129883Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "29b1a169f097f8a2372ef1babdcad53fe7e266c5",
+          "title": "阿里发布全新 Qoder:从 AI 编程工具升级为面向所有人的智能体工作台",
+          "url": "https://www.aibase.com/news/30691",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T12:29:41.129883Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7254,
+      "importance": 0.7254,
+      "importance_score": 0.7254,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5669,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-28T12:29:41.129883Z",
+      "latest_at": "2026-08-28T12:29:41.129883Z",
+      "primary_item": {
+        "id": "29b1a169f097f8a2372ef1babdcad53fe7e266c5",
+        "title": "阿里发布全新 Qoder:从 AI 编程工具升级为面向所有人的智能体工作台",
+        "url": "https://www.aibase.com/news/30691",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_48018c72ddbc",
+      "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+      "url": "https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw",
+      "primary_url": "https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2b24b7ed6e1eff64f42b5000b17207dcb118a1a6",
+          "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+          "url": "https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T12:04:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "2b24b7ed6e1eff64f42b5000b17207dcb118a1a6",
+          "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+          "url": "https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T12:04:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5496,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-28T12:04:47Z",
+      "latest_at": "2026-08-28T12:04:47Z",
+      "primary_item": {
+        "id": "2b24b7ed6e1eff64f42b5000b17207dcb118a1a6",
+        "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+        "url": "https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b385caecd8ff",
+      "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+      "url": "https://aihot.virxact.com/items/cmtcpvj9e04cpro645lmugnew",
+      "primary_url": "https://aihot.virxact.com/items/cmtcpvj9e04cpro645lmugnew",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e1e0922b2a78f96baea7885bfba64c5150344f61",
+          "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+          "url": "https://aihot.virxact.com/items/cmtcpvj9e04cpro645lmugnew",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T08:36:31Z"
+        },
+        {
+          "id": "00d4afc17d37d52f29d5f4fdb35c27e35ed3576f",
+          "title": "AI 工程师笔记本——在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-28T08:36:31.021000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "e1e0922b2a78f96baea7885bfba64c5150344f61",
+          "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+          "url": "https://aihot.virxact.com/items/cmtcpvj9e04cpro645lmugnew",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T08:36:31Z"
+        },
+        {
+          "id": "00d4afc17d37d52f29d5f4fdb35c27e35ed3576f",
+          "title": "AI 工程师笔记本——在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-28T08:36:31.021000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.718,
+      "importance": 0.718,
+      "importance_score": 0.718,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.405,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-28T08:36:31Z",
+      "latest_at": "2026-08-28T08:36:31.021000Z",
+      "primary_item": {
+        "id": "e1e0922b2a78f96baea7885bfba64c5150344f61",
+        "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+        "url": "https://aihot.virxact.com/items/cmtcpvj9e04cpro645lmugnew",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_279c74f4a7a9",
+      "title": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
+      "url": "https://www.aibase.com/news/30690",
+      "primary_url": "https://www.aibase.com/news/30690",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f3e93450c3c168edb65fb6d554f7a9de0957d3d3",
+          "title": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
+          "url": "https://www.aibase.com/news/30690",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T11:29:41.129883Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f3e93450c3c168edb65fb6d554f7a9de0957d3d3",
+          "title": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
+          "url": "https://www.aibase.com/news/30690",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-28T11:29:41.129883Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7171,
+      "importance": 0.7171,
+      "importance_score": 0.7171,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5253,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-28T11:29:41.129883Z",
+      "latest_at": "2026-08-28T11:29:41.129883Z",
+      "primary_item": {
+        "id": "f3e93450c3c168edb65fb6d554f7a9de0957d3d3",
+        "title": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
+        "url": "https://www.aibase.com/news/30690",
         "source": "AIbase",
         "source_name": "AIbase"
       }
