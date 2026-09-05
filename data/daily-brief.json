@@ -1,112 +1,51 @@
 {
-  "generated_at": "2026-09-04T16:44:45.940639Z",
+  "generated_at": "2026-09-05T15:46:51.837521Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_d4ae66cc1a19",
-      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
+      "story_id": "story_e9c73c82ab50",
+      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+      "url": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
+      "primary_url": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "176d3dc0bd094aa366d311fdf1f135ee2da187bb",
-          "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-          "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T16:04:14Z"
+          "id": "32e8178605473032e686b0cfdacf6b3d20fe6f59",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+          "url": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T13:31:04Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub AI & ML"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "176d3dc0bd094aa366d311fdf1f135ee2da187bb",
-          "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-          "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T16:04:14Z"
+          "id": "32e8178605473032e686b0cfdacf6b3d20fe6f59",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+          "url": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T13:31:04Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8674,
-      "importance": 0.8674,
-      "importance_score": 0.8674,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9719,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T16:04:14Z",
-      "latest_at": "2026-09-04T16:04:14Z",
-      "primary_item": {
-        "id": "176d3dc0bd094aa366d311fdf1f135ee2da187bb",
-        "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-        "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_7faeef057301",
-      "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-      "url": "https://www.aibase.com/news/30849",
-      "primary_url": "https://www.aibase.com/news/30849",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
-          "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-          "url": "https://www.aibase.com/news/30849",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T16:44:45.940639Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
-          "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-          "url": "https://www.aibase.com/news/30849",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T16:44:45.940639Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9057,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -114,932 +53,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-04T16:44:45.940639Z",
-      "latest_at": "2026-09-04T16:44:45.940639Z",
+      "earliest_at": "2026-09-05T13:31:04Z",
+      "latest_at": "2026-09-05T13:31:04Z",
       "primary_item": {
-        "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
-        "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
-        "url": "https://www.aibase.com/news/30849",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "32e8178605473032e686b0cfdacf6b3d20fe6f59",
+        "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+        "url": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_b560edbac994",
-      "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
-      "url": "https://www.aibase.com/news/30850",
-      "primary_url": "https://www.aibase.com/news/30850",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e1b6194d6fb3fdbfe94b27c4f038cd16ccb37cad",
-          "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
-          "url": "https://www.aibase.com/news/30850",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T16:44:45.940639Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e1b6194d6fb3fdbfe94b27c4f038cd16ccb37cad",
-          "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
-          "url": "https://www.aibase.com/news/30850",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T16:44:45.940639Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T16:44:45.940639Z",
-      "latest_at": "2026-09-04T16:44:45.940639Z",
-      "primary_item": {
-        "id": "e1b6194d6fb3fdbfe94b27c4f038cd16ccb37cad",
-        "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
-        "url": "https://www.aibase.com/news/30850",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c03c423d30cc",
-      "title": "智能戒指厂商Oura正式提交IPO申请，9个月营收增至12亿美元",
-      "url": "https://www.aibase.com/news/30846",
-      "primary_url": "https://www.aibase.com/news/30846",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a5501c51cc190b2468879d74ce31150335cd41eb",
-          "title": "智能戒指厂商Oura正式提交IPO申请，9个月营收增至12亿美元",
-          "url": "https://www.aibase.com/news/30846",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T16:01:45.940639Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a5501c51cc190b2468879d74ce31150335cd41eb",
-          "title": "智能戒指厂商Oura正式提交IPO申请，9个月营收增至12亿美元",
-          "url": "https://www.aibase.com/news/30846",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T16:01:45.940639Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9701,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T16:01:45.940639Z",
-      "latest_at": "2026-09-04T16:01:45.940639Z",
-      "primary_item": {
-        "id": "a5501c51cc190b2468879d74ce31150335cd41eb",
-        "title": "智能戒指厂商Oura正式提交IPO申请，9个月营收增至12亿美元",
-        "url": "https://www.aibase.com/news/30846",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_75499d936607",
-      "title": "海外三大 AI 集体宕机近 4 小时，智谱发文“我们还在线”并开启夜间免费",
-      "url": "https://www.aibase.com/news/30847",
-      "primary_url": "https://www.aibase.com/news/30847",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "edd5d77f459d4a0bd36e2a8ca4c90db7757e7138",
-          "title": "海外三大 AI 集体宕机近 4 小时，智谱发文“我们还在线”并开启夜间免费",
-          "url": "https://www.aibase.com/news/30847",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T16:01:45.940639Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "edd5d77f459d4a0bd36e2a8ca4c90db7757e7138",
-          "title": "海外三大 AI 集体宕机近 4 小时，智谱发文“我们还在线”并开启夜间免费",
-          "url": "https://www.aibase.com/news/30847",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T16:01:45.940639Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9701,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T16:01:45.940639Z",
-      "latest_at": "2026-09-04T16:01:45.940639Z",
-      "primary_item": {
-        "id": "edd5d77f459d4a0bd36e2a8ca4c90db7757e7138",
-        "title": "海外三大 AI 集体宕机近 4 小时，智谱发文“我们还在线”并开启夜间免费",
-        "url": "https://www.aibase.com/news/30847",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ea5901fbfceb",
-      "title": "AI生成菜单陷入“完美美学”，食物图片出现恐怖谷效应",
-      "url": "https://www.aibase.com/news/30845",
-      "primary_url": "https://www.aibase.com/news/30845",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ee9492dc97f652f29c46ae615417722ccdc14409",
-          "title": "AI生成菜单陷入“完美美学”，食物图片出现恐怖谷效应",
-          "url": "https://www.aibase.com/news/30845",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T15:54:45.940639Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ee9492dc97f652f29c46ae615417722ccdc14409",
-          "title": "AI生成菜单陷入“完美美学”，食物图片出现恐怖谷效应",
-          "url": "https://www.aibase.com/news/30845",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T15:54:45.940639Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9653,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T15:54:45.940639Z",
-      "latest_at": "2026-09-04T15:54:45.940639Z",
-      "primary_item": {
-        "id": "ee9492dc97f652f29c46ae615417722ccdc14409",
-        "title": "AI生成菜单陷入“完美美学”，食物图片出现恐怖谷效应",
-        "url": "https://www.aibase.com/news/30845",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2de22a56fa2f",
-      "title": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
-      "url": "https://www.aibase.com/news/30841",
-      "primary_url": "https://www.aibase.com/news/30841",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5576ec629b57748fce5e5c076b2bec3732cf72c9",
-          "title": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
-          "url": "https://www.aibase.com/news/30841",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T15:44:45.940639Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5576ec629b57748fce5e5c076b2bec3732cf72c9",
-          "title": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
-          "url": "https://www.aibase.com/news/30841",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T15:44:45.940639Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9583,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T15:44:45.940639Z",
-      "latest_at": "2026-09-04T15:44:45.940639Z",
-      "primary_item": {
-        "id": "5576ec629b57748fce5e5c076b2bec3732cf72c9",
-        "title": "Google DeepMind 发布 WeatherNext 3：5 公里分辨率全球预报，每小时刷新一次",
-        "url": "https://www.aibase.com/news/30841",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a796dd9fd5cd",
-      "title": "Google DeepMind发布气象大模型WeatherNext 3，实现每小时刷新与5公里高精度全球预报",
-      "url": "https://www.aibase.com/news/30844",
-      "primary_url": "https://www.aibase.com/news/30844",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "68790d6c3d59edc8f4e05c44016896b48a6bfdf1",
-          "title": "Google DeepMind发布气象大模型WeatherNext 3，实现每小时刷新与5公里高精度全球预报",
-          "url": "https://www.aibase.com/news/30844",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T15:44:45.940639Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "68790d6c3d59edc8f4e05c44016896b48a6bfdf1",
-          "title": "Google DeepMind发布气象大模型WeatherNext 3，实现每小时刷新与5公里高精度全球预报",
-          "url": "https://www.aibase.com/news/30844",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T15:44:45.940639Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9583,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T15:44:45.940639Z",
-      "latest_at": "2026-09-04T15:44:45.940639Z",
-      "primary_item": {
-        "id": "68790d6c3d59edc8f4e05c44016896b48a6bfdf1",
-        "title": "Google DeepMind发布气象大模型WeatherNext 3，实现每小时刷新与5公里高精度全球预报",
-        "url": "https://www.aibase.com/news/30844",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_30078c24b45a",
-      "title": "Vara获全球首个自主乳腺癌筛查AI认证",
-      "url": "https://www.aibase.com/news/30840",
-      "primary_url": "https://www.aibase.com/news/30840",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e2c90b07692dbeb6883fc9e25f6dc8d41d647285",
-          "title": "Vara获全球首个自主乳腺癌筛查AI认证",
-          "url": "https://www.aibase.com/news/30840",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T15:44:45.940639Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e2c90b07692dbeb6883fc9e25f6dc8d41d647285",
-          "title": "Vara获全球首个自主乳腺癌筛查AI认证",
-          "url": "https://www.aibase.com/news/30840",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T15:44:45.940639Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9583,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T15:44:45.940639Z",
-      "latest_at": "2026-09-04T15:44:45.940639Z",
-      "primary_item": {
-        "id": "e2c90b07692dbeb6883fc9e25f6dc8d41d647285",
-        "title": "Vara获全球首个自主乳腺癌筛查AI认证",
-        "url": "https://www.aibase.com/news/30840",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_211061ba0d90",
-      "title": "未发布GPT Image 2.5多项升级引关注，以假乱真引爆新期待",
-      "url": "https://www.aibase.com/news/30842",
-      "primary_url": "https://www.aibase.com/news/30842",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7290e6031d69b99e1fb1bc21ce4e27fcfc370dc6",
-          "title": "未发布GPT Image 2.5多项升级引关注，以假乱真引爆新期待",
-          "url": "https://www.aibase.com/news/30842",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T15:44:45.940639Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7290e6031d69b99e1fb1bc21ce4e27fcfc370dc6",
-          "title": "未发布GPT Image 2.5多项升级引关注，以假乱真引爆新期待",
-          "url": "https://www.aibase.com/news/30842",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T15:44:45.940639Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9583,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T15:44:45.940639Z",
-      "latest_at": "2026-09-04T15:44:45.940639Z",
-      "primary_item": {
-        "id": "7290e6031d69b99e1fb1bc21ce4e27fcfc370dc6",
-        "title": "未发布GPT Image 2.5多项升级引关注，以假乱真引爆新期待",
-        "url": "https://www.aibase.com/news/30842",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b6fb1ec746f1",
-      "title": "英伟达129亿美元收购Hugging Face，黄仁勋给出最新承诺",
-      "url": "https://www.aibase.com/news/30843",
-      "primary_url": "https://www.aibase.com/news/30843",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8092850a5af43f62e455d72984b4610bb61975a5",
-          "title": "英伟达129亿美元收购Hugging Face，黄仁勋给出最新承诺",
-          "url": "https://www.aibase.com/news/30843",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T15:44:45.940639Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8092850a5af43f62e455d72984b4610bb61975a5",
-          "title": "英伟达129亿美元收购Hugging Face，黄仁勋给出最新承诺",
-          "url": "https://www.aibase.com/news/30843",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T15:44:45.940639Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9583,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T15:44:45.940639Z",
-      "latest_at": "2026-09-04T15:44:45.940639Z",
-      "primary_item": {
-        "id": "8092850a5af43f62e455d72984b4610bb61975a5",
-        "title": "英伟达129亿美元收购Hugging Face，黄仁勋给出最新承诺",
-        "url": "https://www.aibase.com/news/30843",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_18d7e2685ff4",
-      "title": "谷歌9月4日起停用Google Assistant，Gemini全面接棒",
-      "url": "https://www.aibase.com/news/30839",
-      "primary_url": "https://www.aibase.com/news/30839",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fb67bffa99cc0e6f13040225f2b6de485abff426",
-          "title": "谷歌9月4日起停用Google Assistant，Gemini全面接棒",
-          "url": "https://www.aibase.com/news/30839",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T15:44:45.940639Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fb67bffa99cc0e6f13040225f2b6de485abff426",
-          "title": "谷歌9月4日起停用Google Assistant，Gemini全面接棒",
-          "url": "https://www.aibase.com/news/30839",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T15:44:45.940639Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9583,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T15:44:45.940639Z",
-      "latest_at": "2026-09-04T15:44:45.940639Z",
-      "primary_item": {
-        "id": "fb67bffa99cc0e6f13040225f2b6de485abff426",
-        "title": "谷歌9月4日起停用Google Assistant，Gemini全面接棒",
-        "url": "https://www.aibase.com/news/30839",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_787cd86e8448",
-      "title": "AI 数据中心新贵 Crusoe 融资 30 亿美元：估值 300 亿，刚签下 130 亿美元大单",
-      "url": "https://www.aibase.com/news/30838",
-      "primary_url": "https://www.aibase.com/news/30838",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0c968cc49aba7c4ae7142d53f90163c750dc48b2",
-          "title": "AI 数据中心新贵 Crusoe 融资 30 亿美元：估值 300 亿，刚签下 130 亿美元大单",
-          "url": "https://www.aibase.com/news/30838",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T14:44:45.940639Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0c968cc49aba7c4ae7142d53f90163c750dc48b2",
-          "title": "AI 数据中心新贵 Crusoe 融资 30 亿美元：估值 300 亿，刚签下 130 亿美元大单",
-          "url": "https://www.aibase.com/news/30838",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T14:44:45.940639Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9167,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T14:44:45.940639Z",
-      "latest_at": "2026-09-04T14:44:45.940639Z",
-      "primary_item": {
-        "id": "0c968cc49aba7c4ae7142d53f90163c750dc48b2",
-        "title": "AI 数据中心新贵 Crusoe 融资 30 亿美元：估值 300 亿，刚签下 130 亿美元大单",
-        "url": "https://www.aibase.com/news/30838",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ec008fe35a2b",
-      "title": "Gemini 3.8 Flash正式接入B.AI API，聚焦长周期编程与自主Agent",
-      "url": "https://www.aibase.com/news/30836",
-      "primary_url": "https://www.aibase.com/news/30836",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "097869ebd618616645e8421be69d3f270cc7f985",
-          "title": "Gemini 3.8 Flash正式接入B.AI API，聚焦长周期编程与自主Agent",
-          "url": "https://www.aibase.com/news/30836",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T14:44:45.940639Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "097869ebd618616645e8421be69d3f270cc7f985",
-          "title": "Gemini 3.8 Flash正式接入B.AI API，聚焦长周期编程与自主Agent",
-          "url": "https://www.aibase.com/news/30836",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T14:44:45.940639Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9167,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T14:44:45.940639Z",
-      "latest_at": "2026-09-04T14:44:45.940639Z",
-      "primary_item": {
-        "id": "097869ebd618616645e8421be69d3f270cc7f985",
-        "title": "Gemini 3.8 Flash正式接入B.AI API，聚焦长周期编程与自主Agent",
-        "url": "https://www.aibase.com/news/30836",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_716ba8979aa4",
-      "title": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
-      "url": "https://www.aibase.com/news/30837",
-      "primary_url": "https://www.aibase.com/news/30837",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e2ce92006f274e5a2b54888d8ad1162674864dc4",
-          "title": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
-          "url": "https://www.aibase.com/news/30837",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T14:44:45.940639Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e2ce92006f274e5a2b54888d8ad1162674864dc4",
-          "title": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
-          "url": "https://www.aibase.com/news/30837",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T14:44:45.940639Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9167,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T14:44:45.940639Z",
-      "latest_at": "2026-09-04T14:44:45.940639Z",
-      "primary_item": {
-        "id": "e2ce92006f274e5a2b54888d8ad1162674864dc4",
-        "title": "全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线",
-        "url": "https://www.aibase.com/news/30837",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8cb68be363d4",
-      "title": "奥尔特曼证实 OpenAI 自研人形机器人：家用不是当务之急，但长期看好",
-      "url": "https://www.aibase.com/news/30835",
-      "primary_url": "https://www.aibase.com/news/30835",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6ae178bf91296eccddd95d1a602f85b598268e03",
-          "title": "奥尔特曼证实 OpenAI 自研人形机器人：家用不是当务之急，但长期看好",
-          "url": "https://www.aibase.com/news/30835",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T13:44:45.940639Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6ae178bf91296eccddd95d1a602f85b598268e03",
-          "title": "奥尔特曼证实 OpenAI 自研人形机器人：家用不是当务之急，但长期看好",
-          "url": "https://www.aibase.com/news/30835",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T13:44:45.940639Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.875,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T13:44:45.940639Z",
-      "latest_at": "2026-09-04T13:44:45.940639Z",
-      "primary_item": {
-        "id": "6ae178bf91296eccddd95d1a602f85b598268e03",
-        "title": "奥尔特曼证实 OpenAI 自研人形机器人：家用不是当务之急，但长期看好",
-        "url": "https://www.aibase.com/news/30835",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_98d7644e1651",
-      "title": "Qira 落地可穿戴：摩托罗拉发布 moto watch ultra，抬腕就能问 AI",
-      "url": "https://www.aibase.com/news/30834",
-      "primary_url": "https://www.aibase.com/news/30834",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "92cdb83d11cbee93d12fe4e829c9f760ec352f9a",
-          "title": "Qira 落地可穿戴：摩托罗拉发布 moto watch ultra，抬腕就能问 AI",
-          "url": "https://www.aibase.com/news/30834",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T12:44:45.940639Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "92cdb83d11cbee93d12fe4e829c9f760ec352f9a",
-          "title": "Qira 落地可穿戴：摩托罗拉发布 moto watch ultra，抬腕就能问 AI",
-          "url": "https://www.aibase.com/news/30834",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-04T12:44:45.940639Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7787,
-      "importance": 0.7787,
-      "importance_score": 0.7787,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8333,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T12:44:45.940639Z",
-      "latest_at": "2026-09-04T12:44:45.940639Z",
-      "primary_item": {
-        "id": "92cdb83d11cbee93d12fe4e829c9f760ec352f9a",
-        "title": "Qira 落地可穿戴：摩托罗拉发布 moto watch ultra，抬腕就能问 AI",
-        "url": "https://www.aibase.com/news/30834",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_90d8b4a9f2d4",
-      "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
-      "url": "https://aihot.virxact.com/items/cmtmzreoy0hhoromy3ebv5nbg",
-      "primary_url": "https://aihot.virxact.com/items/cmtmzreoy0hhoromy3ebv5nbg",
+      "story_id": "story_121d4d9e02dd",
+      "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+      "url": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2",
+      "primary_url": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b330260b2607579fdaf72a155e5a074642a024cb",
-          "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
-          "url": "https://aihot.virxact.com/items/cmtmzreoy0hhoromy3ebv5nbg",
+          "id": "dc93ecf7b66a54ac3337bdf95ad476a50835e4f5",
+          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+          "url": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-04T12:41:05Z"
+          "published_at": "2026-09-05T11:43:16Z"
         }
       ],
       "source_count": 1,
@@ -1048,13 +87,13 @@
       ],
       "items": [
         {
-          "id": "b330260b2607579fdaf72a155e5a074642a024cb",
-          "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
-          "url": "https://aihot.virxact.com/items/cmtmzreoy0hhoromy3ebv5nbg",
+          "id": "dc93ecf7b66a54ac3337bdf95ad476a50835e4f5",
+          "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+          "url": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-04T12:41:05Z"
+          "published_at": "2026-09-05T11:43:16Z"
         }
       ],
       "item_count": 1,
@@ -1074,32 +113,883 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-04T12:41:05Z",
-      "latest_at": "2026-09-04T12:41:05Z",
+      "earliest_at": "2026-09-05T11:43:16Z",
+      "latest_at": "2026-09-05T11:43:16Z",
       "primary_item": {
-        "id": "b330260b2607579fdaf72a155e5a074642a024cb",
-        "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
-        "url": "https://aihot.virxact.com/items/cmtmzreoy0hhoromy3ebv5nbg",
+        "id": "dc93ecf7b66a54ac3337bdf95ad476a50835e4f5",
+        "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+        "url": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_2aa2a03f2546",
-      "title": "微软给 Copilot 智能体装上“刹车”：发邮件、付款前必须人工点头",
-      "url": "https://www.aibase.com/news/30833",
-      "primary_url": "https://www.aibase.com/news/30833",
+      "story_id": "story_5ca34cad08cf",
+      "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+      "url": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9",
+      "primary_url": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "82e95085cca6e54e691ff9e8d5cf0f508660074f",
+          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+          "url": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T11:39:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "82e95085cca6e54e691ff9e8d5cf0f508660074f",
+          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+          "url": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T11:39:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8285,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T11:39:52Z",
+      "latest_at": "2026-09-05T11:39:52Z",
+      "primary_item": {
+        "id": "82e95085cca6e54e691ff9e8d5cf0f508660074f",
+        "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+        "url": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c1bf81fd891c",
+      "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
+      "url": "https://aihot.virxact.com/items/cmtoazuoz03z6roxhurow5v5s",
+      "primary_url": "https://aihot.virxact.com/items/cmtoazuoz03z6roxhurow5v5s",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0c02c1972d4c997f9a2ab5f54e8e3990d5174f52",
+          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
+          "url": "https://aihot.virxact.com/items/cmtoazuoz03z6roxhurow5v5s",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T11:15:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "0c02c1972d4c997f9a2ab5f54e8e3990d5174f52",
+          "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
+          "url": "https://aihot.virxact.com/items/cmtoazuoz03z6roxhurow5v5s",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T11:15:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8118,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T11:15:55Z",
+      "latest_at": "2026-09-05T11:15:55Z",
+      "primary_item": {
+        "id": "0c02c1972d4c997f9a2ab5f54e8e3990d5174f52",
+        "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
+        "url": "https://aihot.virxact.com/items/cmtoazuoz03z6roxhurow5v5s",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_96f7978c9a1c",
+      "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+      "url": "https://aihot.virxact.com/items/cmto3hqh80160roxt5aweoxun",
+      "primary_url": "https://aihot.virxact.com/items/cmto3hqh80160roxt5aweoxun",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b5655182f2b93db671233f2edc632b988026bc06",
+          "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+          "url": "https://aihot.virxact.com/items/cmto3hqh80160roxt5aweoxun",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:56:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "b5655182f2b93db671233f2edc632b988026bc06",
+          "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+          "url": "https://aihot.virxact.com/items/cmto3hqh80160roxt5aweoxun",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:56:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6736,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-05T07:56:50Z",
+      "latest_at": "2026-09-05T07:56:50Z",
+      "primary_item": {
+        "id": "b5655182f2b93db671233f2edc632b988026bc06",
+        "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+        "url": "https://aihot.virxact.com/items/cmto3hqh80160roxt5aweoxun",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b578c5186657",
+      "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+      "url": "https://aihot.virxact.com/items/cmto4hkdv01leromx37jl2511",
+      "primary_url": "https://aihot.virxact.com/items/cmto4hkdv01leromx37jl2511",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1998d2c9e9929b8c702187af9c2ee133ea280745",
+          "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+          "url": "https://aihot.virxact.com/items/cmto4hkdv01leromx37jl2511",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:53:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1998d2c9e9929b8c702187af9c2ee133ea280745",
+          "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+          "url": "https://aihot.virxact.com/items/cmto4hkdv01leromx37jl2511",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:53:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6709,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-05T07:53:01Z",
+      "latest_at": "2026-09-05T07:53:01Z",
+      "primary_item": {
+        "id": "1998d2c9e9929b8c702187af9c2ee133ea280745",
+        "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+        "url": "https://aihot.virxact.com/items/cmto4hkdv01leromx37jl2511",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9f08f0185a47",
+      "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+      "url": "https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3",
+      "primary_url": "https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fd7f98a37442edb6e5ff270a0da6d623ce15940a",
+          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+          "url": "https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:41:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "fd7f98a37442edb6e5ff270a0da6d623ce15940a",
+          "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+          "url": "https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:41:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7445,
+      "importance": 0.7445,
+      "importance_score": 0.7445,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6626,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-05T07:41:03Z",
+      "latest_at": "2026-09-05T07:41:03Z",
+      "primary_item": {
+        "id": "fd7f98a37442edb6e5ff270a0da6d623ce15940a",
+        "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+        "url": "https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1113630dde53",
+      "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架",
+      "url": "https://aihot.virxact.com/items/cmto1tyjd0kh4roqs2p93ydka",
+      "primary_url": "https://aihot.virxact.com/items/cmto1tyjd0kh4roqs2p93ydka",
+      "source": "X：OpenAI (@OpenAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a4c554146070c8bae0269df24816d02c5b7d0a9b",
+          "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架",
+          "url": "https://aihot.virxact.com/items/cmto1tyjd0kh4roqs2p93ydka",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:09:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI (@OpenAI)"
+      ],
+      "items": [
+        {
+          "id": "a4c554146070c8bae0269df24816d02c5b7d0a9b",
+          "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架",
+          "url": "https://aihot.virxact.com/items/cmto1tyjd0kh4roqs2p93ydka",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T07:09:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6404,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-05T07:09:06Z",
+      "latest_at": "2026-09-05T07:09:06Z",
+      "primary_item": {
+        "id": "a4c554146070c8bae0269df24816d02c5b7d0a9b",
+        "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架",
+        "url": "https://aihot.virxact.com/items/cmto1tyjd0kh4roqs2p93ydka",
+        "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_df6f2ef5089d",
+      "title": "GitHub Copilot weekly releases — August 31",
+      "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+      "primary_url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6b8d1ce6756fba7757f676f83fa006229b8f7c68",
+          "title": "GitHub Copilot weekly releases — August 31",
+          "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-04T21:05:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6b8d1ce6756fba7757f676f83fa006229b8f7c68",
+          "title": "GitHub Copilot weekly releases — August 31",
+          "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-04T21:05:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7172,
+      "importance": 0.7172,
+      "importance_score": 0.7172,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.2209,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-04T21:05:01Z",
+      "latest_at": "2026-09-04T21:05:01Z",
+      "primary_item": {
+        "id": "6b8d1ce6756fba7757f676f83fa006229b8f7c68",
+        "title": "GitHub Copilot weekly releases — August 31",
+        "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_67aff5abb878",
+      "title": "GPT-6 Astra is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c81991057a853ffe91acd307d388dbac74f1710e",
+          "title": "GPT-6 Astra is generally available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-04T18:59:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c81991057a853ffe91acd307d388dbac74f1710e",
+          "title": "GPT-6 Astra is generally available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-04T18:59:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7118,
+      "importance": 0.7118,
+      "importance_score": 0.7118,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.134,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-04T18:59:51Z",
+      "latest_at": "2026-09-04T18:59:51Z",
+      "primary_item": {
+        "id": "c81991057a853ffe91acd307d388dbac74f1710e",
+        "title": "GPT-6 Astra is generally available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_670bbc23dba2",
+      "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+      "url": "https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn",
+      "primary_url": "https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "49b3a56ebf752cdc6d2d1e31cf921143c31151b4",
+          "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "url": "https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T00:42:24Z"
+        },
+        {
+          "id": "2a9f3bd183eaad70c009364dbb75b4518cb0413a",
+          "title": "奥尔特曼致歉“GPT-6 Astra AI 上线混乱”，现已面向所有 Plus / Pro 等用户推出",
+          "url": "https://www.ithome.com/0/998/661.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T00:42:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "49b3a56ebf752cdc6d2d1e31cf921143c31151b4",
+          "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+          "url": "https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T00:42:24Z"
+        },
+        {
+          "id": "2a9f3bd183eaad70c009364dbb75b4518cb0413a",
+          "title": "奥尔特曼致歉“GPT-6 Astra AI 上线混乱”，现已面向所有 Plus / Pro 等用户推出",
+          "url": "https://www.ithome.com/0/998/661.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T00:42:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7114,
+      "importance": 0.7114,
+      "importance_score": 0.7114,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.3719,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-05T00:42:24Z",
+      "latest_at": "2026-09-05T00:42:24Z",
+      "primary_item": {
+        "id": "49b3a56ebf752cdc6d2d1e31cf921143c31151b4",
+        "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+        "url": "https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9c23fb70a3c6",
+      "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+      "url": "https://aihot.virxact.com/items/cmtnl720g03olroqsrkmbl292",
+      "primary_url": "https://aihot.virxact.com/items/cmtnl720g03olroqsrkmbl292",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b23e3135bb91c32d92518f1fefc4565d2aef10c5",
+          "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "url": "https://aihot.virxact.com/items/cmtnl720g03olroqsrkmbl292",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T22:52:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b23e3135bb91c32d92518f1fefc4565d2aef10c5",
+          "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+          "url": "https://aihot.virxact.com/items/cmtnl720g03olroqsrkmbl292",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T22:52:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6711,
+      "importance": 0.6711,
+      "importance_score": 0.6711,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.2957,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-04T22:52:38Z",
+      "latest_at": "2026-09-04T22:52:38Z",
+      "primary_item": {
+        "id": "b23e3135bb91c32d92518f1fefc4565d2aef10c5",
+        "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+        "url": "https://aihot.virxact.com/items/cmtnl720g03olroqsrkmbl292",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ea47d0ab696b",
+      "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
+      "url": "https://aihot.virxact.com/items/cmtnkdx8y031qroqs79optcp2",
+      "primary_url": "https://aihot.virxact.com/items/cmtnkdx8y031qroqs79optcp2",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c278a5979fc024c51193239f03028aa15e522520",
+          "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
+          "url": "https://aihot.virxact.com/items/cmtnkdx8y031qroqs79optcp2",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T22:52:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "c278a5979fc024c51193239f03028aa15e522520",
+          "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
+          "url": "https://aihot.virxact.com/items/cmtnkdx8y031qroqs79optcp2",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T22:52:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6711,
+      "importance": 0.6711,
+      "importance_score": 0.6711,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.2956,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-04T22:52:29Z",
+      "latest_at": "2026-09-04T22:52:29Z",
+      "primary_item": {
+        "id": "c278a5979fc024c51193239f03028aa15e522520",
+        "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
+        "url": "https://aihot.virxact.com/items/cmtnkdx8y031qroqs79optcp2",
+        "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_05ee18be4afa",
+      "title": "New API endpoint provides privacy-safe star history data",
+      "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+      "primary_url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
+          "title": "New API endpoint provides privacy-safe star history data",
+          "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-04T16:43:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
+          "title": "New API endpoint provides privacy-safe star history data",
+          "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-04T16:43:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6689,
+      "importance": 0.6689,
+      "importance_score": 0.6689,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.0396,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-04T16:43:56Z",
+      "latest_at": "2026-09-04T16:43:56Z",
+      "primary_item": {
+        "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
+        "title": "New API endpoint provides privacy-safe star history data",
+        "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_36dd304bb011",
+      "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
+      "url": "https://aihot.virxact.com/items/cmtne97cd058urog1zpa39wm7",
+      "primary_url": "https://aihot.virxact.com/items/cmtne97cd058urog1zpa39wm7",
+      "source": "X：OpenAI (@OpenAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cacc6c2a976e37ba36bf65e03549b327fadd171c",
+          "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
+          "url": "https://aihot.virxact.com/items/cmtne97cd058urog1zpa39wm7",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T20:13:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI (@OpenAI)"
+      ],
+      "items": [
+        {
+          "id": "cacc6c2a976e37ba36bf65e03549b327fadd171c",
+          "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
+          "url": "https://aihot.virxact.com/items/cmtne97cd058urog1zpa39wm7",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T20:13:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.649,
+      "importance": 0.649,
+      "importance_score": 0.649,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.1849,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-04T20:13:05Z",
+      "latest_at": "2026-09-04T20:13:05Z",
+      "primary_item": {
+        "id": "cacc6c2a976e37ba36bf65e03549b327fadd171c",
+        "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
+        "url": "https://aihot.virxact.com/items/cmtne97cd058urog1zpa39wm7",
+        "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b7c56bd3b6a6",
+      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+      "url": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi",
+      "primary_url": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bc7cf1fe0e1e1f05a03ad3bd682f692c31fa8fab",
+          "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+          "url": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T18:37:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "bc7cf1fe0e1e1f05a03ad3bd682f692c31fa8fab",
+          "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+          "url": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T18:37:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6356,
+      "importance": 0.6356,
+      "importance_score": 0.6356,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.1182,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-04T18:37:00Z",
+      "latest_at": "2026-09-04T18:37:00Z",
+      "primary_item": {
+        "id": "bc7cf1fe0e1e1f05a03ad3bd682f692c31fa8fab",
+        "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+        "url": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b560edbac994",
+      "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
+      "url": "https://www.aibase.com/news/30850",
+      "primary_url": "https://www.aibase.com/news/30850",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "748f7c3edd72716df0eacae2c7e47136785a0b5e",
-          "title": "微软给 Copilot 智能体装上“刹车”：发邮件、付款前必须人工点头",
-          "url": "https://www.aibase.com/news/30833",
+          "id": "e1b6194d6fb3fdbfe94b27c4f038cd16ccb37cad",
+          "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
+          "url": "https://www.aibase.com/news/30850",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T11:44:45.940639Z"
+          "published_at": "2026-09-04T18:27:39.331488Z"
         }
       ],
       "source_count": 1,
@@ -1108,58 +998,175 @@
       ],
       "items": [
         {
-          "id": "748f7c3edd72716df0eacae2c7e47136785a0b5e",
-          "title": "微软给 Copilot 智能体装上“刹车”：发邮件、付款前必须人工点头",
-          "url": "https://www.aibase.com/news/30833",
+          "id": "e1b6194d6fb3fdbfe94b27c4f038cd16ccb37cad",
+          "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
+          "url": "https://www.aibase.com/news/30850",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T11:44:45.940639Z"
+          "published_at": "2026-09-04T18:27:39.331488Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
-      "importance_label": "行业动态",
+      "score": 0.6343,
+      "importance": 0.6343,
+      "importance_score": 0.6343,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7917,
+        "recency": 0.1117,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-04T11:44:45.940639Z",
-      "latest_at": "2026-09-04T11:44:45.940639Z",
+      "earliest_at": "2026-09-04T18:27:39.331488Z",
+      "latest_at": "2026-09-04T18:27:39.331488Z",
       "primary_item": {
-        "id": "748f7c3edd72716df0eacae2c7e47136785a0b5e",
-        "title": "微软给 Copilot 智能体装上“刹车”：发邮件、付款前必须人工点头",
-        "url": "https://www.aibase.com/news/30833",
+        "id": "e1b6194d6fb3fdbfe94b27c4f038cd16ccb37cad",
+        "title": "马斯克女儿拍广告把机器人当狗遛，还怒怼 AI 抢人类饭碗",
+        "url": "https://www.aibase.com/news/30850",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_35ad20f16d48",
-      "title": "阿里千问上线首月用户破3000万：开源上下文底座，打造企业级Agent新范式",
-      "url": "https://www.aibase.com/news/30832",
-      "primary_url": "https://www.aibase.com/news/30832",
+      "story_id": "story_6da4acaf8484",
+      "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
+      "url": "https://aihot.virxact.com/items/cmtn9rovi0tkdromy0vgnyouj",
+      "primary_url": "https://aihot.virxact.com/items/cmtn9rovi0tkdromy0vgnyouj",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4657d5d81ab2352ad328188fcf8e16eb505952d4",
+          "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
+          "url": "https://aihot.virxact.com/items/cmtn9rovi0tkdromy0vgnyouj",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T17:45:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "4657d5d81ab2352ad328188fcf8e16eb505952d4",
+          "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
+          "url": "https://aihot.virxact.com/items/cmtn9rovi0tkdromy0vgnyouj",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T17:45:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6284,
+      "importance": 0.6284,
+      "importance_score": 0.6284,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.0821,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-04T17:45:09Z",
+      "latest_at": "2026-09-04T17:45:09Z",
+      "primary_item": {
+        "id": "4657d5d81ab2352ad328188fcf8e16eb505952d4",
+        "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
+        "url": "https://aihot.virxact.com/items/cmtn9rovi0tkdromy0vgnyouj",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_84b04060fe4c",
+      "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
+      "url": "https://aihot.virxact.com/items/cmtnagm2q01m9rog1y8p2sotq",
+      "primary_url": "https://aihot.virxact.com/items/cmtnagm2q01m9rog1y8p2sotq",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8ec62d86e772912f0cffc469bf444107570a56c2",
+          "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
+          "url": "https://aihot.virxact.com/items/cmtnagm2q01m9rog1y8p2sotq",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T17:38:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "8ec62d86e772912f0cffc469bf444107570a56c2",
+          "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
+          "url": "https://aihot.virxact.com/items/cmtnagm2q01m9rog1y8p2sotq",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T17:38:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6275,
+      "importance": 0.6275,
+      "importance_score": 0.6275,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.0777,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-04T17:38:48Z",
+      "latest_at": "2026-09-04T17:38:48Z",
+      "primary_item": {
+        "id": "8ec62d86e772912f0cffc469bf444107570a56c2",
+        "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
+        "url": "https://aihot.virxact.com/items/cmtnagm2q01m9rog1y8p2sotq",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7faeef057301",
+      "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+      "url": "https://www.aibase.com/news/30849",
+      "primary_url": "https://www.aibase.com/news/30849",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "899df97767cd01ac3f5c21fb849bc94949754eb8",
-          "title": "阿里千问上线首月用户破3000万：开源上下文底座，打造企业级Agent新范式",
-          "url": "https://www.aibase.com/news/30832",
+          "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
+          "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+          "url": "https://www.aibase.com/news/30849",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T11:44:45.940639Z"
+          "published_at": "2026-09-04T17:27:39.331488Z"
         }
       ],
       "source_count": 1,
@@ -1168,38 +1175,37 @@
       ],
       "items": [
         {
-          "id": "899df97767cd01ac3f5c21fb849bc94949754eb8",
-          "title": "阿里千问上线首月用户破3000万：开源上下文底座，打造企业级Agent新范式",
-          "url": "https://www.aibase.com/news/30832",
+          "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
+          "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+          "url": "https://www.aibase.com/news/30849",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-04T11:44:45.940639Z"
+          "published_at": "2026-09-04T17:27:39.331488Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
-      "importance_label": "行业动态",
+      "score": 0.626,
+      "importance": 0.626,
+      "importance_score": 0.626,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7917,
+        "recency": 0.07,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-04T11:44:45.940639Z",
-      "latest_at": "2026-09-04T11:44:45.940639Z",
+      "earliest_at": "2026-09-04T17:27:39.331488Z",
+      "latest_at": "2026-09-04T17:27:39.331488Z",
       "primary_item": {
-        "id": "899df97767cd01ac3f5c21fb849bc94949754eb8",
-        "title": "阿里千问上线首月用户破3000万：开源上下文底座，打造企业级Agent新范式",
-        "url": "https://www.aibase.com/news/30832",
+        "id": "3c172a49ac86ca2c7ee8d59c7a147ae8fb7efb05",
+        "title": "以色列-荷兰AI独角兽Wonderful斩获5.5亿美元C轮融资，估值直冲50亿美元",
+        "url": "https://www.aibase.com/news/30849",
         "source": "AIbase",
         "source_name": "AIbase"
       }
