@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-09-09T17:01:57.797209Z",
+  "generated_at": "2026-09-10T16:53:39.499819Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_91d5074fb05a",
-      "title": "Get ready for the game with new football features in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
+      "story_id": "story_94ad36d7ed05",
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
       "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "dad5e6c6622a0090580d4406896a7166970daff0",
-          "title": "Get ready for the game with new football features in Search",
-          "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
+          "id": "d17100a4d67001021e880928e59782b6ce602ba4",
+          "title": "3 ways to prep for your next big race with Search",
+          "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-09T16:00:00Z"
+          "published_at": "2026-09-10T16:00:00Z"
         }
       ],
       "source_count": 1,
@@ -27,25 +27,25 @@
       ],
       "items": [
         {
-          "id": "dad5e6c6622a0090580d4406896a7166970daff0",
-          "title": "Get ready for the game with new football features in Search",
-          "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
+          "id": "d17100a4d67001021e880928e59782b6ce602ba4",
+          "title": "3 ways to prep for your next big race with Search",
+          "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-09T16:00:00Z"
+          "published_at": "2026-09-10T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8524,
-      "importance": 0.8524,
-      "importance_score": 0.8524,
+      "score": 0.8535,
+      "importance": 0.8535,
+      "importance_score": 0.8535,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.957,
+        "recency": 0.9627,
         "story_heat": 0.0
       },
       "category": "official",
@@ -54,93 +54,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T16:00:00Z",
-      "latest_at": "2026-09-09T16:00:00Z",
+      "earliest_at": "2026-09-10T16:00:00Z",
+      "latest_at": "2026-09-10T16:00:00Z",
       "primary_item": {
-        "id": "dad5e6c6622a0090580d4406896a7166970daff0",
-        "title": "Get ready for the game with new football features in Search",
-        "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
+        "id": "d17100a4d67001021e880928e59782b6ce602ba4",
+        "title": "3 ways to prep for your next big race with Search",
+        "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_ada2f6461358",
-      "title": "Recreating a 70-year love story frame by frame",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "26fbf978c4fd836611834662158952580d960e28",
-          "title": "Recreating a 70-year love story frame by frame",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "26fbf978c4fd836611834662158952580d960e28",
-          "title": "Recreating a 70-year love story frame by frame",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8524,
-      "importance": 0.8524,
-      "importance_score": 0.8524,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.957,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T16:00:00Z",
-      "latest_at": "2026-09-09T16:00:00Z",
-      "primary_item": {
-        "id": "26fbf978c4fd836611834662158952580d960e28",
-        "title": "Recreating a 70-year love story frame by frame",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_377bfe454379",
-      "title": "Remediate Code Quality findings with agentic autofix",
-      "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
-      "primary_url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
+      "story_id": "story_61aac319f1d5",
+      "title": "Xcode 27 runner image now runs on macOS 27",
+      "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
+      "primary_url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ad26dab94774552dcff735fc552e83cb5d84cf17",
-          "title": "Remediate Code Quality findings with agentic autofix",
-          "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
+          "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
+          "title": "Xcode 27 runner image now runs on macOS 27",
+          "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-09T12:21:01Z"
+          "published_at": "2026-09-10T15:15:36Z"
         }
       ],
       "source_count": 1,
@@ -149,25 +88,25 @@
       ],
       "items": [
         {
-          "id": "ad26dab94774552dcff735fc552e83cb5d84cf17",
-          "title": "Remediate Code Quality findings with agentic autofix",
-          "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
+          "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
+          "title": "Xcode 27 runner image now runs on macOS 27",
+          "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-09T12:21:01Z"
+          "published_at": "2026-09-10T15:15:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.822,
-      "importance": 0.822,
-      "importance_score": 0.822,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8049,
+        "recency": 0.9319,
         "story_heat": 0.0
       },
       "category": "official",
@@ -176,32 +115,113 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T12:21:01Z",
-      "latest_at": "2026-09-09T12:21:01Z",
+      "earliest_at": "2026-09-10T15:15:36Z",
+      "latest_at": "2026-09-10T15:15:36Z",
       "primary_item": {
-        "id": "ad26dab94774552dcff735fc552e83cb5d84cf17",
-        "title": "Remediate Code Quality findings with agentic autofix",
-        "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
+        "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
+        "title": "Xcode 27 runner image now runs on macOS 27",
+        "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_b7e5fba54103",
-      "title": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
-      "url": "https://www.aibase.com/news/30936",
-      "primary_url": "https://www.aibase.com/news/30936",
+      "story_id": "story_1ef5285e671d",
+      "title": "OpenAI 与 GSA 合作，为美国联邦及地方政府提供 AI 访问与网络防御支持 / Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "primary_url": "https://openai.com/index/expanding-ai-access-us-government",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bdf77751802f84701ddbf73176dd6fd1aa229872",
+          "title": "OpenAI 与 GSA 合作，为美国联邦及地方政府提供 AI 访问与网络防御支持 / Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+          "url": "https://openai.com/index/expanding-ai-access-us-government",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T07:00:00Z"
+        },
+        {
+          "id": "d27814d6c390dfd3a3308c1b40e93ce20515ac16",
+          "title": "OpenAI 与 GSA 合作，为美国联邦及地方政府提供 AI 访问与网络防御支持",
+          "url": "https://openai.com/index/expanding-ai-access-us-government",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bdf77751802f84701ddbf73176dd6fd1aa229872",
+          "title": "OpenAI 与 GSA 合作，为美国联邦及地方政府提供 AI 访问与网络防御支持 / Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+          "url": "https://openai.com/index/expanding-ai-access-us-government",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T07:00:00Z"
+        },
+        {
+          "id": "d27814d6c390dfd3a3308c1b40e93ce20515ac16",
+          "title": "OpenAI 与 GSA 合作，为美国联邦及地方政府提供 AI 访问与网络防御支持",
+          "url": "https://openai.com/index/expanding-ai-access-us-government",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.5877,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T07:00:00Z",
+      "latest_at": "2026-09-10T16:53:39.499819Z",
+      "primary_item": {
+        "id": "bdf77751802f84701ddbf73176dd6fd1aa229872",
+        "title": "OpenAI 与 GSA 合作，为美国联邦及地方政府提供 AI 访问与网络防御支持 / Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+        "url": "https://openai.com/index/expanding-ai-access-us-government",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1f24e58b62e5",
+      "title": "275万网友用阿福减重超500万斤:AI或引爆健康消费  体脂秤血糖",
+      "url": "https://www.aibase.com/news/30971",
+      "primary_url": "https://www.aibase.com/news/30971",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c75d5ec7de2bb548d1c0a3d11635ada5aec59732",
-          "title": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
-          "url": "https://www.aibase.com/news/30936",
+          "id": "49f740619fb57d89cecb9a7c6c8ebd1f75d7cb7a",
+          "title": "275万网友用阿福减重超500万斤:AI或引爆健康消费  体脂秤血糖",
+          "url": "https://www.aibase.com/news/30971",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T17:01:57.797209Z"
+          "published_at": "2026-09-10T16:53:39.499819Z"
         }
       ],
       "source_count": 1,
@@ -210,13 +230,13 @@
       ],
       "items": [
         {
-          "id": "c75d5ec7de2bb548d1c0a3d11635ada5aec59732",
-          "title": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
-          "url": "https://www.aibase.com/news/30936",
+          "id": "49f740619fb57d89cecb9a7c6c8ebd1f75d7cb7a",
+          "title": "275万网友用阿福减重超500万斤:AI或引爆健康消费  体脂秤血糖",
+          "url": "https://www.aibase.com/news/30971",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T17:01:57.797209Z"
+          "published_at": "2026-09-10T16:53:39.499819Z"
         }
       ],
       "item_count": 1,
@@ -236,32 +256,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T17:01:57.797209Z",
-      "latest_at": "2026-09-09T17:01:57.797209Z",
+      "earliest_at": "2026-09-10T16:53:39.499819Z",
+      "latest_at": "2026-09-10T16:53:39.499819Z",
       "primary_item": {
-        "id": "c75d5ec7de2bb548d1c0a3d11635ada5aec59732",
-        "title": "2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界",
-        "url": "https://www.aibase.com/news/30936",
+        "id": "49f740619fb57d89cecb9a7c6c8ebd1f75d7cb7a",
+        "title": "275万网友用阿福减重超500万斤:AI或引爆健康消费  体脂秤血糖",
+        "url": "https://www.aibase.com/news/30971",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_44294c4bc10a",
-      "title": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
-      "url": "https://www.aibase.com/news/30934",
-      "primary_url": "https://www.aibase.com/news/30934",
+      "story_id": "story_db2169f94c45",
+      "title": "AI新经济，在这里看见丨2026外滩大会首日观察",
+      "url": "https://www.aibase.com/news/30972",
+      "primary_url": "https://www.aibase.com/news/30972",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5bd8bd58734b136e8e75ad4f1b82e70ad5ad161e",
-          "title": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
-          "url": "https://www.aibase.com/news/30934",
+          "id": "6aa5c9a4c8054b628a0044d52deec575fa709839",
+          "title": "AI新经济，在这里看见丨2026外滩大会首日观察",
+          "url": "https://www.aibase.com/news/30972",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T17:01:57.797209Z"
+          "published_at": "2026-09-10T16:53:39.499819Z"
         }
       ],
       "source_count": 1,
@@ -270,13 +290,13 @@
       ],
       "items": [
         {
-          "id": "5bd8bd58734b136e8e75ad4f1b82e70ad5ad161e",
-          "title": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
-          "url": "https://www.aibase.com/news/30934",
+          "id": "6aa5c9a4c8054b628a0044d52deec575fa709839",
+          "title": "AI新经济，在这里看见丨2026外滩大会首日观察",
+          "url": "https://www.aibase.com/news/30972",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T17:01:57.797209Z"
+          "published_at": "2026-09-10T16:53:39.499819Z"
         }
       ],
       "item_count": 1,
@@ -296,32 +316,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T17:01:57.797209Z",
-      "latest_at": "2026-09-09T17:01:57.797209Z",
+      "earliest_at": "2026-09-10T16:53:39.499819Z",
+      "latest_at": "2026-09-10T16:53:39.499819Z",
       "primary_item": {
-        "id": "5bd8bd58734b136e8e75ad4f1b82e70ad5ad161e",
-        "title": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
-        "url": "https://www.aibase.com/news/30934",
+        "id": "6aa5c9a4c8054b628a0044d52deec575fa709839",
+        "title": "AI新经济，在这里看见丨2026外滩大会首日观察",
+        "url": "https://www.aibase.com/news/30972",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d77e3b76af01",
-      "title": "AI Coding诞生新吉尼斯纪录：9岁孩子夺冠，外滩黑客松上万人用AI做应用",
-      "url": "https://www.aibase.com/news/30937",
-      "primary_url": "https://www.aibase.com/news/30937",
+      "story_id": "story_4b0ae290c322",
+      "title": "ChatGPT 语音模式升级：Pro 可调用 GPT-6 Astra，每日限额规则大改",
+      "url": "https://www.aibase.com/news/30968",
+      "primary_url": "https://www.aibase.com/news/30968",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3833d138bb365fbbf3cbd9ff19ab1f8061acea5c",
-          "title": "AI Coding诞生新吉尼斯纪录：9岁孩子夺冠，外滩黑客松上万人用AI做应用",
-          "url": "https://www.aibase.com/news/30937",
+          "id": "3a2a56f1e0bc775e8a0643b76725c0dc36ebc1cb",
+          "title": "ChatGPT 语音模式升级：Pro 可调用 GPT-6 Astra，每日限额规则大改",
+          "url": "https://www.aibase.com/news/30968",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T17:01:57.797209Z"
+          "published_at": "2026-09-10T16:53:39.499819Z"
         }
       ],
       "source_count": 1,
@@ -330,13 +350,13 @@
       ],
       "items": [
         {
-          "id": "3833d138bb365fbbf3cbd9ff19ab1f8061acea5c",
-          "title": "AI Coding诞生新吉尼斯纪录：9岁孩子夺冠，外滩黑客松上万人用AI做应用",
-          "url": "https://www.aibase.com/news/30937",
+          "id": "3a2a56f1e0bc775e8a0643b76725c0dc36ebc1cb",
+          "title": "ChatGPT 语音模式升级：Pro 可调用 GPT-6 Astra，每日限额规则大改",
+          "url": "https://www.aibase.com/news/30968",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T17:01:57.797209Z"
+          "published_at": "2026-09-10T16:53:39.499819Z"
         }
       ],
       "item_count": 1,
@@ -356,32 +376,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T17:01:57.797209Z",
-      "latest_at": "2026-09-09T17:01:57.797209Z",
+      "earliest_at": "2026-09-10T16:53:39.499819Z",
+      "latest_at": "2026-09-10T16:53:39.499819Z",
       "primary_item": {
-        "id": "3833d138bb365fbbf3cbd9ff19ab1f8061acea5c",
-        "title": "AI Coding诞生新吉尼斯纪录：9岁孩子夺冠，外滩黑客松上万人用AI做应用",
-        "url": "https://www.aibase.com/news/30937",
+        "id": "3a2a56f1e0bc775e8a0643b76725c0dc36ebc1cb",
+        "title": "ChatGPT 语音模式升级：Pro 可调用 GPT-6 Astra，每日限额规则大改",
+        "url": "https://www.aibase.com/news/30968",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_31c581e568c1",
-      "title": "Meta 推出个人 AI 智能体 Muse：跑在云端虚拟机上，扎克伯格称“不会失控”",
-      "url": "https://www.aibase.com/news/30933",
-      "primary_url": "https://www.aibase.com/news/30933",
+      "story_id": "story_b60bd7a32ee1",
+      "title": "DeepSeek Harness 0.1.5 更新：适配 V4.1 Flash，新增文件上传与侧边栏预览",
+      "url": "https://www.aibase.com/news/30969",
+      "primary_url": "https://www.aibase.com/news/30969",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "258f665b36ffb7b6af610e61c512acd48692da44",
-          "title": "Meta 推出个人 AI 智能体 Muse：跑在云端虚拟机上，扎克伯格称“不会失控”",
-          "url": "https://www.aibase.com/news/30933",
+          "id": "6aaf035dd9b0a6feba2b52b76f8c732d94b2520b",
+          "title": "DeepSeek Harness 0.1.5 更新：适配 V4.1 Flash，新增文件上传与侧边栏预览",
+          "url": "https://www.aibase.com/news/30969",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T17:01:57.797209Z"
+          "published_at": "2026-09-10T16:53:39.499819Z"
         }
       ],
       "source_count": 1,
@@ -390,13 +410,13 @@
       ],
       "items": [
         {
-          "id": "258f665b36ffb7b6af610e61c512acd48692da44",
-          "title": "Meta 推出个人 AI 智能体 Muse：跑在云端虚拟机上，扎克伯格称“不会失控”",
-          "url": "https://www.aibase.com/news/30933",
+          "id": "6aaf035dd9b0a6feba2b52b76f8c732d94b2520b",
+          "title": "DeepSeek Harness 0.1.5 更新：适配 V4.1 Flash，新增文件上传与侧边栏预览",
+          "url": "https://www.aibase.com/news/30969",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T17:01:57.797209Z"
+          "published_at": "2026-09-10T16:53:39.499819Z"
         }
       ],
       "item_count": 1,
@@ -416,32 +436,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T17:01:57.797209Z",
-      "latest_at": "2026-09-09T17:01:57.797209Z",
+      "earliest_at": "2026-09-10T16:53:39.499819Z",
+      "latest_at": "2026-09-10T16:53:39.499819Z",
       "primary_item": {
-        "id": "258f665b36ffb7b6af610e61c512acd48692da44",
-        "title": "Meta 推出个人 AI 智能体 Muse：跑在云端虚拟机上，扎克伯格称“不会失控”",
-        "url": "https://www.aibase.com/news/30933",
+        "id": "6aaf035dd9b0a6feba2b52b76f8c732d94b2520b",
+        "title": "DeepSeek Harness 0.1.5 更新：适配 V4.1 Flash，新增文件上传与侧边栏预览",
+        "url": "https://www.aibase.com/news/30969",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_5003c6038a2a",
-      "title": "谷歌重磅福利：Gemini每日简报功能向全体免费用户全面开放",
-      "url": "https://www.aibase.com/news/30935",
-      "primary_url": "https://www.aibase.com/news/30935",
+      "story_id": "story_1cb8fd9f6ef6",
+      "title": "​Anthropic向欧盟网络安全局敞开大门，Mythos5 模型迎合规大考",
+      "url": "https://www.aibase.com/news/30970",
+      "primary_url": "https://www.aibase.com/news/30970",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a01d59bb4e5ce5d1a7b094419e3c70f468f464e4",
-          "title": "谷歌重磅福利：Gemini每日简报功能向全体免费用户全面开放",
-          "url": "https://www.aibase.com/news/30935",
+          "id": "adbbebd9c68a086d9d13b177af5f733242036d75",
+          "title": "​Anthropic向欧盟网络安全局敞开大门，Mythos5 模型迎合规大考",
+          "url": "https://www.aibase.com/news/30970",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T17:01:57.797209Z"
+          "published_at": "2026-09-10T16:53:39.499819Z"
         }
       ],
       "source_count": 1,
@@ -450,13 +470,13 @@
       ],
       "items": [
         {
-          "id": "a01d59bb4e5ce5d1a7b094419e3c70f468f464e4",
-          "title": "谷歌重磅福利：Gemini每日简报功能向全体免费用户全面开放",
-          "url": "https://www.aibase.com/news/30935",
+          "id": "adbbebd9c68a086d9d13b177af5f733242036d75",
+          "title": "​Anthropic向欧盟网络安全局敞开大门，Mythos5 模型迎合规大考",
+          "url": "https://www.aibase.com/news/30970",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T17:01:57.797209Z"
+          "published_at": "2026-09-10T16:53:39.499819Z"
         }
       ],
       "item_count": 1,
@@ -476,32 +496,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T17:01:57.797209Z",
-      "latest_at": "2026-09-09T17:01:57.797209Z",
+      "earliest_at": "2026-09-10T16:53:39.499819Z",
+      "latest_at": "2026-09-10T16:53:39.499819Z",
       "primary_item": {
-        "id": "a01d59bb4e5ce5d1a7b094419e3c70f468f464e4",
-        "title": "谷歌重磅福利：Gemini每日简报功能向全体免费用户全面开放",
-        "url": "https://www.aibase.com/news/30935",
+        "id": "adbbebd9c68a086d9d13b177af5f733242036d75",
+        "title": "​Anthropic向欧盟网络安全局敞开大门，Mythos5 模型迎合规大考",
+        "url": "https://www.aibase.com/news/30970",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_17637b0de4d5",
-      "title": "OpenAI 称正与三星合作开发下一代芯片，双方合作持续深化",
-      "url": "https://www.aibase.com/news/30932",
-      "primary_url": "https://www.aibase.com/news/30932",
+      "story_id": "story_1db7fedec63a",
+      "title": "刘震云、马毅谈AI时代:机器拿走共性，人更要守住个性",
+      "url": "https://www.aibase.com/news/30967",
+      "primary_url": "https://www.aibase.com/news/30967",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1f533f820225abf5bcb52b4d655b41a2090cbf4f",
-          "title": "OpenAI 称正与三星合作开发下一代芯片，双方合作持续深化",
-          "url": "https://www.aibase.com/news/30932",
+          "id": "2a1ce41f6a4df2ea3ae80a6d84e99d5fe4be355c",
+          "title": "刘震云、马毅谈AI时代:机器拿走共性，人更要守住个性",
+          "url": "https://www.aibase.com/news/30967",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T16:57:57.797209Z"
+          "published_at": "2026-09-10T16:53:39.499819Z"
         }
       ],
       "source_count": 1,
@@ -510,25 +530,25 @@
       ],
       "items": [
         {
-          "id": "1f533f820225abf5bcb52b4d655b41a2090cbf4f",
-          "title": "OpenAI 称正与三星合作开发下一代芯片，双方合作持续深化",
-          "url": "https://www.aibase.com/news/30932",
+          "id": "2a1ce41f6a4df2ea3ae80a6d84e99d5fe4be355c",
+          "title": "刘震云、马毅谈AI时代:机器拿走共性，人更要守住个性",
+          "url": "https://www.aibase.com/news/30967",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T16:57:57.797209Z"
+          "published_at": "2026-09-10T16:53:39.499819Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8114,
-      "importance": 0.8114,
-      "importance_score": 0.8114,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9972,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -536,32 +556,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T16:57:57.797209Z",
-      "latest_at": "2026-09-09T16:57:57.797209Z",
+      "earliest_at": "2026-09-10T16:53:39.499819Z",
+      "latest_at": "2026-09-10T16:53:39.499819Z",
       "primary_item": {
-        "id": "1f533f820225abf5bcb52b4d655b41a2090cbf4f",
-        "title": "OpenAI 称正与三星合作开发下一代芯片，双方合作持续深化",
-        "url": "https://www.aibase.com/news/30932",
+        "id": "2a1ce41f6a4df2ea3ae80a6d84e99d5fe4be355c",
+        "title": "刘震云、马毅谈AI时代:机器拿走共性，人更要守住个性",
+        "url": "https://www.aibase.com/news/30967",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_f3465fb49457",
-      "title": "Anthropic顶尖大牛愤然离职：AI失控倒计时，人类正在饮鸩止渴",
-      "url": "https://www.aibase.com/news/30931",
-      "primary_url": "https://www.aibase.com/news/30931",
+      "story_id": "story_e33195282655",
+      "title": "蚂蚁阿福App加码健康服务:首页新增健康入口，管理健康信息更方便了",
+      "url": "https://www.aibase.com/news/30966",
+      "primary_url": "https://www.aibase.com/news/30966",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9e0a0d22e6f66ab6dcab5efb3c60532304609367",
-          "title": "Anthropic顶尖大牛愤然离职：AI失控倒计时，人类正在饮鸩止渴",
-          "url": "https://www.aibase.com/news/30931",
+          "id": "155a6e6f0a9f4436a80fae50864cf104519f6049",
+          "title": "蚂蚁阿福App加码健康服务:首页新增健康入口，管理健康信息更方便了",
+          "url": "https://www.aibase.com/news/30966",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T16:42:57.797209Z"
+          "published_at": "2026-09-10T16:41:39.499819Z"
         }
       ],
       "source_count": 1,
@@ -570,25 +590,25 @@
       ],
       "items": [
         {
-          "id": "9e0a0d22e6f66ab6dcab5efb3c60532304609367",
-          "title": "Anthropic顶尖大牛愤然离职：AI失控倒计时，人类正在饮鸩止渴",
-          "url": "https://www.aibase.com/news/30931",
+          "id": "155a6e6f0a9f4436a80fae50864cf104519f6049",
+          "title": "蚂蚁阿福App加码健康服务:首页新增健康入口，管理健康信息更方便了",
+          "url": "https://www.aibase.com/news/30966",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T16:42:57.797209Z"
+          "published_at": "2026-09-10T16:41:39.499819Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9868,
+        "recency": 0.9917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -596,32 +616,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T16:42:57.797209Z",
-      "latest_at": "2026-09-09T16:42:57.797209Z",
+      "earliest_at": "2026-09-10T16:41:39.499819Z",
+      "latest_at": "2026-09-10T16:41:39.499819Z",
       "primary_item": {
-        "id": "9e0a0d22e6f66ab6dcab5efb3c60532304609367",
-        "title": "Anthropic顶尖大牛愤然离职：AI失控倒计时，人类正在饮鸩止渴",
-        "url": "https://www.aibase.com/news/30931",
+        "id": "155a6e6f0a9f4436a80fae50864cf104519f6049",
+        "title": "蚂蚁阿福App加码健康服务:首页新增健康入口，管理健康信息更方便了",
+        "url": "https://www.aibase.com/news/30966",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_7bdc13acbfb5",
-      "title": "三星与Mistral达成合作 全面赋能芯片设计与制造",
-      "url": "https://www.aibase.com/news/30927",
-      "primary_url": "https://www.aibase.com/news/30927",
+      "story_id": "story_57cd34a20dbb",
+      "title": "千问新款 AI 眼镜 N1“保密式”亮相：首次支持虹膜识别，不带显示屏",
+      "url": "https://www.aibase.com/news/30963",
+      "primary_url": "https://www.aibase.com/news/30963",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "faaf6269a02e31eb3599ec7bff694e6b4917bde4",
-          "title": "三星与Mistral达成合作 全面赋能芯片设计与制造",
-          "url": "https://www.aibase.com/news/30927",
+          "id": "4628d32b8eb0ba47678c8790b03cb6c8d12cf42d",
+          "title": "千问新款 AI 眼镜 N1“保密式”亮相：首次支持虹膜识别，不带显示屏",
+          "url": "https://www.aibase.com/news/30963",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T16:01:57.797209Z"
+          "published_at": "2026-09-10T16:21:39.499819Z"
         }
       ],
       "source_count": 1,
@@ -630,13 +650,193 @@
       ],
       "items": [
         {
-          "id": "faaf6269a02e31eb3599ec7bff694e6b4917bde4",
-          "title": "三星与Mistral达成合作 全面赋能芯片设计与制造",
-          "url": "https://www.aibase.com/news/30927",
+          "id": "4628d32b8eb0ba47678c8790b03cb6c8d12cf42d",
+          "title": "千问新款 AI 眼镜 N1“保密式”亮相：首次支持虹膜识别，不带显示屏",
+          "url": "https://www.aibase.com/news/30963",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T16:01:57.797209Z"
+          "published_at": "2026-09-10T16:21:39.499819Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9778,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T16:21:39.499819Z",
+      "latest_at": "2026-09-10T16:21:39.499819Z",
+      "primary_item": {
+        "id": "4628d32b8eb0ba47678c8790b03cb6c8d12cf42d",
+        "title": "千问新款 AI 眼镜 N1“保密式”亮相：首次支持虹膜识别，不带显示屏",
+        "url": "https://www.aibase.com/news/30963",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cdee94a6a8fa",
+      "title": "AMD：超 20 款锐龙 AI Max+ PRO 495 设备即将上市，迷你主机成绝对主力",
+      "url": "https://www.aibase.com/news/30962",
+      "primary_url": "https://www.aibase.com/news/30962",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "86a337b16160aede5c7ec02df73ea7baca631d3a",
+          "title": "AMD：超 20 款锐龙 AI Max+ PRO 495 设备即将上市，迷你主机成绝对主力",
+          "url": "https://www.aibase.com/news/30962",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-10T16:17:39.499819Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "86a337b16160aede5c7ec02df73ea7baca631d3a",
+          "title": "AMD：超 20 款锐龙 AI Max+ PRO 495 设备即将上市，迷你主机成绝对主力",
+          "url": "https://www.aibase.com/news/30962",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-10T16:17:39.499819Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.975,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T16:17:39.499819Z",
+      "latest_at": "2026-09-10T16:17:39.499819Z",
+      "primary_item": {
+        "id": "86a337b16160aede5c7ec02df73ea7baca631d3a",
+        "title": "AMD：超 20 款锐龙 AI Max+ PRO 495 设备即将上市，迷你主机成绝对主力",
+        "url": "https://www.aibase.com/news/30962",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_90b5ea4b73be",
+      "title": "告别配音“对不上嘴”！亚马逊Prime Video重磅上线AI口型同步技术",
+      "url": "https://www.aibase.com/news/30961",
+      "primary_url": "https://www.aibase.com/news/30961",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "30dd6b0f1728b3f6b0dcf9f7dd6941a69b259341",
+          "title": "告别配音“对不上嘴”！亚马逊Prime Video重磅上线AI口型同步技术",
+          "url": "https://www.aibase.com/news/30961",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-10T16:08:39.499819Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "30dd6b0f1728b3f6b0dcf9f7dd6941a69b259341",
+          "title": "告别配音“对不上嘴”！亚马逊Prime Video重磅上线AI口型同步技术",
+          "url": "https://www.aibase.com/news/30961",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-10T16:08:39.499819Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8058,
+      "importance": 0.8058,
+      "importance_score": 0.8058,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9688,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T16:08:39.499819Z",
+      "latest_at": "2026-09-10T16:08:39.499819Z",
+      "primary_item": {
+        "id": "30dd6b0f1728b3f6b0dcf9f7dd6941a69b259341",
+        "title": "告别配音“对不上嘴”！亚马逊Prime Video重磅上线AI口型同步技术",
+        "url": "https://www.aibase.com/news/30961",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7f8e689bea4a",
+      "title": "​Kimi携手华胜天成、金山云等巨头杀入企业核心腹地",
+      "url": "https://www.aibase.com/news/30959",
+      "primary_url": "https://www.aibase.com/news/30959",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c1755425e5d1902336cf88c4f4e2b220814c57c8",
+          "title": "​Kimi携手华胜天成、金山云等巨头杀入企业核心腹地",
+          "url": "https://www.aibase.com/news/30959",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-10T15:53:39.499819Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c1755425e5d1902336cf88c4f4e2b220814c57c8",
+          "title": "​Kimi携手华胜天成、金山云等巨头杀入企业核心腹地",
+          "url": "https://www.aibase.com/news/30959",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-10T15:53:39.499819Z"
         }
       ],
       "item_count": 1,
@@ -656,32 +856,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T16:01:57.797209Z",
-      "latest_at": "2026-09-09T16:01:57.797209Z",
+      "earliest_at": "2026-09-10T15:53:39.499819Z",
+      "latest_at": "2026-09-10T15:53:39.499819Z",
       "primary_item": {
-        "id": "faaf6269a02e31eb3599ec7bff694e6b4917bde4",
-        "title": "三星与Mistral达成合作 全面赋能芯片设计与制造",
-        "url": "https://www.aibase.com/news/30927",
+        "id": "c1755425e5d1902336cf88c4f4e2b220814c57c8",
+        "title": "​Kimi携手华胜天成、金山云等巨头杀入企业核心腹地",
+        "url": "https://www.aibase.com/news/30959",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_8cc2a6c43877",
-      "title": "冲击科创板！DeepSeek 传已聘请中信证券筹备年内 IPO，估值剑指 5000 亿",
-      "url": "https://www.aibase.com/news/30929",
-      "primary_url": "https://www.aibase.com/news/30929",
+      "story_id": "story_8e27a13a4eae",
+      "title": "加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书",
+      "url": "https://www.aibase.com/news/30960",
+      "primary_url": "https://www.aibase.com/news/30960",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8572b8bb5fbcb01a440edef5d1ef15e0c8125bdb",
-          "title": "冲击科创板！DeepSeek 传已聘请中信证券筹备年内 IPO，估值剑指 5000 亿",
-          "url": "https://www.aibase.com/news/30929",
+          "id": "b2f1159261616fe08ffe387a2349905e80c6c1a8",
+          "title": "加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书",
+          "url": "https://www.aibase.com/news/30960",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T16:01:57.797209Z"
+          "published_at": "2026-09-10T15:53:39.499819Z"
         }
       ],
       "source_count": 1,
@@ -690,13 +890,13 @@
       ],
       "items": [
         {
-          "id": "8572b8bb5fbcb01a440edef5d1ef15e0c8125bdb",
-          "title": "冲击科创板！DeepSeek 传已聘请中信证券筹备年内 IPO，估值剑指 5000 亿",
-          "url": "https://www.aibase.com/news/30929",
+          "id": "b2f1159261616fe08ffe387a2349905e80c6c1a8",
+          "title": "加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书",
+          "url": "https://www.aibase.com/news/30960",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T16:01:57.797209Z"
+          "published_at": "2026-09-10T15:53:39.499819Z"
         }
       ],
       "item_count": 1,
@@ -716,32 +916,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T16:01:57.797209Z",
-      "latest_at": "2026-09-09T16:01:57.797209Z",
+      "earliest_at": "2026-09-10T15:53:39.499819Z",
+      "latest_at": "2026-09-10T15:53:39.499819Z",
       "primary_item": {
-        "id": "8572b8bb5fbcb01a440edef5d1ef15e0c8125bdb",
-        "title": "冲击科创板！DeepSeek 传已聘请中信证券筹备年内 IPO，估值剑指 5000 亿",
-        "url": "https://www.aibase.com/news/30929",
+        "id": "b2f1159261616fe08ffe387a2349905e80c6c1a8",
+        "title": "加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书",
+        "url": "https://www.aibase.com/news/30960",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_44c6243de390",
-      "title": "联通联手魅族发布“小魔方”AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
-      "url": "https://www.aibase.com/news/30928",
-      "primary_url": "https://www.aibase.com/news/30928",
+      "story_id": "story_97ac306c5938",
+      "title": "蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建",
+      "url": "https://www.aibase.com/news/30958",
+      "primary_url": "https://www.aibase.com/news/30958",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e68dfff7426cc66458faff7de979d7a55c5f8b3b",
-          "title": "联通联手魅族发布“小魔方”AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
-          "url": "https://www.aibase.com/news/30928",
+          "id": "21aa95205243255abdef400fc7e6e6ebe54d830c",
+          "title": "蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建",
+          "url": "https://www.aibase.com/news/30958",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T16:01:57.797209Z"
+          "published_at": "2026-09-10T15:53:39.499819Z"
         }
       ],
       "source_count": 1,
@@ -750,13 +950,13 @@
       ],
       "items": [
         {
-          "id": "e68dfff7426cc66458faff7de979d7a55c5f8b3b",
-          "title": "联通联手魅族发布“小魔方”AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
-          "url": "https://www.aibase.com/news/30928",
+          "id": "21aa95205243255abdef400fc7e6e6ebe54d830c",
+          "title": "蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建",
+          "url": "https://www.aibase.com/news/30958",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-09T16:01:57.797209Z"
+          "published_at": "2026-09-10T15:53:39.499819Z"
         }
       ],
       "item_count": 1,
@@ -776,239 +976,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T16:01:57.797209Z",
-      "latest_at": "2026-09-09T16:01:57.797209Z",
+      "earliest_at": "2026-09-10T15:53:39.499819Z",
+      "latest_at": "2026-09-10T15:53:39.499819Z",
       "primary_item": {
-        "id": "e68dfff7426cc66458faff7de979d7a55c5f8b3b",
-        "title": "联通联手魅族发布“小魔方”AI 手机：4 英寸方屏仅 99 克，主打全语音交互",
-        "url": "https://www.aibase.com/news/30928",
+        "id": "21aa95205243255abdef400fc7e6e6ebe54d830c",
+        "title": "蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建",
+        "url": "https://www.aibase.com/news/30958",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_86792e94522d",
-      "title": "京东启动“物理 AI 加速计划”：要建全球最大物理世界运营中心",
-      "url": "https://www.aibase.com/news/30926",
-      "primary_url": "https://www.aibase.com/news/30926",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f1621e561a51bf77eda8c9244adb29bb70f34ed7",
-          "title": "京东启动“物理 AI 加速计划”：要建全球最大物理世界运营中心",
-          "url": "https://www.aibase.com/news/30926",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T15:01:57.797209Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f1621e561a51bf77eda8c9244adb29bb70f34ed7",
-          "title": "京东启动“物理 AI 加速计划”：要建全球最大物理世界运营中心",
-          "url": "https://www.aibase.com/news/30926",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T15:01:57.797209Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9167,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T15:01:57.797209Z",
-      "latest_at": "2026-09-09T15:01:57.797209Z",
-      "primary_item": {
-        "id": "f1621e561a51bf77eda8c9244adb29bb70f34ed7",
-        "title": "京东启动“物理 AI 加速计划”：要建全球最大物理世界运营中心",
-        "url": "https://www.aibase.com/news/30926",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b5482f4013d4",
-      "title": "曹操出行联合豆包上线 AI 打车服务，首批落地北京、杭州、苏州",
-      "url": "https://www.aibase.com/news/30925",
-      "primary_url": "https://www.aibase.com/news/30925",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c43cc88c9d25bf803a73982ff1f6fa7f75065a39",
-          "title": "曹操出行联合豆包上线 AI 打车服务，首批落地北京、杭州、苏州",
-          "url": "https://www.aibase.com/news/30925",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T15:01:57.797209Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c43cc88c9d25bf803a73982ff1f6fa7f75065a39",
-          "title": "曹操出行联合豆包上线 AI 打车服务，首批落地北京、杭州、苏州",
-          "url": "https://www.aibase.com/news/30925",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T15:01:57.797209Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9167,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T15:01:57.797209Z",
-      "latest_at": "2026-09-09T15:01:57.797209Z",
-      "primary_item": {
-        "id": "c43cc88c9d25bf803a73982ff1f6fa7f75065a39",
-        "title": "曹操出行联合豆包上线 AI 打车服务，首批落地北京、杭州、苏州",
-        "url": "https://www.aibase.com/news/30925",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_40f32a89c2f6",
-      "title": "蚂蚁开源 Ling-3.0-flash-VL：124B 参数原生多模态大模型正式登场",
-      "url": "https://www.aibase.com/news/30924",
-      "primary_url": "https://www.aibase.com/news/30924",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8eb25888146026a7410274c23f643f524cd63172",
-          "title": "蚂蚁开源 Ling-3.0-flash-VL：124B 参数原生多模态大模型正式登场",
-          "url": "https://www.aibase.com/news/30924",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T14:01:57.797209Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8eb25888146026a7410274c23f643f524cd63172",
-          "title": "蚂蚁开源 Ling-3.0-flash-VL：124B 参数原生多模态大模型正式登场",
-          "url": "https://www.aibase.com/news/30924",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T14:01:57.797209Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.875,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T14:01:57.797209Z",
-      "latest_at": "2026-09-09T14:01:57.797209Z",
-      "primary_item": {
-        "id": "8eb25888146026a7410274c23f643f524cd63172",
-        "title": "蚂蚁开源 Ling-3.0-flash-VL：124B 参数原生多模态大模型正式登场",
-        "url": "https://www.aibase.com/news/30924",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_81ec2ce477fc",
-      "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-      "url": "https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo",
-      "primary_url": "https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo",
-      "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+      "story_id": "story_455fa13636f9",
+      "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
+      "url": "https://aihot.news/items/cmtvqbs1q03q9rofb98re4l3n",
+      "primary_url": "https://aihot.news/items/cmtvqbs1q03q9rofb98re4l3n",
+      "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "dc2d85417da075d8ae4b6d7e7b1c2c7eb59364f3",
-          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-          "url": "https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo",
-          "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+          "id": "b5a5dda5771f535ba15069dbca65970fa0c88872",
+          "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
+          "url": "https://aihot.news/items/cmtvqbs1q03q9rofb98re4l3n",
+          "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-09T13:27:40Z"
+          "published_at": "2026-09-10T15:49:16Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Anthropic：The Institute（旗舰研究长文 · 网页）"
+        "X：Tencent WorkBuddy (@WorkBuddy_AI)"
       ],
       "items": [
         {
-          "id": "dc2d85417da075d8ae4b6d7e7b1c2c7eb59364f3",
-          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-          "url": "https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo",
-          "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+          "id": "b5a5dda5771f535ba15069dbca65970fa0c88872",
+          "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
+          "url": "https://aihot.news/items/cmtvqbs1q03q9rofb98re4l3n",
+          "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-09T13:27:40Z"
+          "published_at": "2026-09-10T15:49:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7822,
-      "importance": 0.7822,
-      "importance_score": 0.7822,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8512,
+        "recency": 0.9553,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1016,59 +1036,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T13:27:40Z",
-      "latest_at": "2026-09-09T13:27:40Z",
+      "earliest_at": "2026-09-10T15:49:16Z",
+      "latest_at": "2026-09-10T15:49:16Z",
       "primary_item": {
-        "id": "dc2d85417da075d8ae4b6d7e7b1c2c7eb59364f3",
-        "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-        "url": "https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo",
-        "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+        "id": "b5a5dda5771f535ba15069dbca65970fa0c88872",
+        "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
+        "url": "https://aihot.news/items/cmtvqbs1q03q9rofb98re4l3n",
+        "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_289755dfd002",
-      "title": "抢单“物理外挂”判赔 300 万：最高法发布 9 件反不正当竞争典型案例，AI 与直播电商成重点",
-      "url": "https://www.aibase.com/news/30923",
-      "primary_url": "https://www.aibase.com/news/30923",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_01f656c02129",
+      "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
+      "url": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx",
+      "primary_url": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx",
+      "source": "X：Google AI (@GoogleAI)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8598a39ef631fbe1b732484fd97c783affb02203",
-          "title": "抢单“物理外挂”判赔 300 万：最高法发布 9 件反不正当竞争典型案例，AI 与直播电商成重点",
-          "url": "https://www.aibase.com/news/30923",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T12:01:57.797209Z"
+          "id": "6985f263c2eed20c411eaf111c65f0460e9566c7",
+          "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
+          "url": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx",
+          "source": "X：Google AI (@GoogleAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T15:35:29Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "X：Google AI (@GoogleAI)"
       ],
       "items": [
         {
-          "id": "8598a39ef631fbe1b732484fd97c783affb02203",
-          "title": "抢单“物理外挂”判赔 300 万：最高法发布 9 件反不正当竞争典型案例，AI 与直播电商成重点",
-          "url": "https://www.aibase.com/news/30923",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T12:01:57.797209Z"
+          "id": "6985f263c2eed20c411eaf111c65f0460e9566c7",
+          "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
+          "url": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx",
+          "source": "X：Google AI (@GoogleAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T15:35:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7917,
+        "recency": 0.9457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1076,120 +1096,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T12:01:57.797209Z",
-      "latest_at": "2026-09-09T12:01:57.797209Z",
+      "earliest_at": "2026-09-10T15:35:29Z",
+      "latest_at": "2026-09-10T15:35:29Z",
       "primary_item": {
-        "id": "8598a39ef631fbe1b732484fd97c783affb02203",
-        "title": "抢单“物理外挂”判赔 300 万：最高法发布 9 件反不正当竞争典型案例，AI 与直播电商成重点",
-        "url": "https://www.aibase.com/news/30923",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "6985f263c2eed20c411eaf111c65f0460e9566c7",
+        "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
+        "url": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx",
+        "source": "X：Google AI (@GoogleAI)",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_57f248685be7",
-      "title": "Enterprise-managed sandbox in Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_c7158213ca07",
+      "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+      "url": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t",
+      "primary_url": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
-          "title": "Enterprise-managed sandbox in Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T02:43:38Z"
+          "id": "0e4d6038d8ad18dd96fd3d14644b351898b173c5",
+          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+          "url": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T15:04:41Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
-          "title": "Enterprise-managed sandbox in Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T02:43:38Z"
+          "id": "0e4d6038d8ad18dd96fd3d14644b351898b173c5",
+          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+          "url": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T15:04:41Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.4039,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T02:43:38Z",
-      "latest_at": "2026-09-09T02:43:38Z",
-      "primary_item": {
-        "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
-        "title": "Enterprise-managed sandbox in Copilot for JetBrains",
-        "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_88377bbed7e8",
-      "title": "千问APP教育优惠上线，工作助理等功能会员9.9元/月",
-      "url": "https://www.aibase.com/news/30921",
-      "primary_url": "https://www.aibase.com/news/30921",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b4a526435cffd48fea5904bb03f9b1dccde6e02d",
-          "title": "千问APP教育优惠上线，工作助理等功能会员9.9元/月",
-          "url": "https://www.aibase.com/news/30921",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T11:01:57.797209Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b4a526435cffd48fea5904bb03f9b1dccde6e02d",
-          "title": "千问APP教育优惠上线，工作助理等功能会员9.9元/月",
-          "url": "https://www.aibase.com/news/30921",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T11:01:57.797209Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7969,
+      "importance": 0.7969,
+      "importance_score": 0.7969,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.75,
+        "recency": 0.9243,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1197,14 +1156,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T11:01:57.797209Z",
-      "latest_at": "2026-09-09T11:01:57.797209Z",
+      "earliest_at": "2026-09-10T15:04:41Z",
+      "latest_at": "2026-09-10T15:04:41Z",
       "primary_item": {
-        "id": "b4a526435cffd48fea5904bb03f9b1dccde6e02d",
-        "title": "千问APP教育优惠上线，工作助理等功能会员9.9元/月",
-        "url": "https://www.aibase.com/news/30921",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "0e4d6038d8ad18dd96fd3d14644b351898b173c5",
+        "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+        "url": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1a19ac9717ee",
+      "title": "OpenAI 在 ChatGPT Work 中推出 Data agent",
+      "url": "https://aihot.news/items/cmtvopug40gnbronbmfh6c077",
+      "primary_url": "https://aihot.news/items/cmtvopug40gnbronbmfh6c077",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b6214a03ceae377807348c55ce26f0090d41a12b",
+          "title": "OpenAI 在 ChatGPT Work 中推出 Data agent",
+          "url": "https://aihot.news/items/cmtvopug40gnbronbmfh6c077",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "b6214a03ceae377807348c55ce26f0090d41a12b",
+          "title": "OpenAI 在 ChatGPT Work 中推出 Data agent",
+          "url": "https://aihot.news/items/cmtvopug40gnbronbmfh6c077",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9211,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T15:00:00Z",
+      "latest_at": "2026-09-10T15:00:00Z",
+      "primary_item": {
+        "id": "b6214a03ceae377807348c55ce26f0090d41a12b",
+        "title": "OpenAI 在 ChatGPT Work 中推出 Data agent",
+        "url": "https://aihot.news/items/cmtvopug40gnbronbmfh6c077",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "source_name": "AI HOT"
       }
     }
   ]
