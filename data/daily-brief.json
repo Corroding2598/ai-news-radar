@@ -1,24 +1,146 @@
 {
-  "generated_at": "2026-09-14T18:21:05.402318Z",
+  "generated_at": "2026-09-15T17:28:32.945626Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_91704e3cc457",
-      "title": "Configure cost and quality in Copilot auto model selection",
-      "url": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
-      "primary_url": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
+      "story_id": "story_16a7b27ed0ae",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5483b40883b9a65644edb078c2fa278d0495f0d0",
+          "title": "Your Agent Aced the Task. Will It Do It Again?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T16:00:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5483b40883b9a65644edb078c2fa278d0495f0d0",
+          "title": "Your Agent Aced the Task. Will It Do It Again?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T16:00:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8728,
+      "importance": 0.8728,
+      "importance_score": 0.8728,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.939,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T16:00:44Z",
+      "latest_at": "2026-09-15T16:00:44Z",
+      "primary_item": {
+        "id": "5483b40883b9a65644edb078c2fa278d0495f0d0",
+        "title": "Your Agent Aced the Task. Will It Do It Again?",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2f92a8ca47fb",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d4698e1cc41a05e866c459a7521514f37fbe34ce",
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T17:05:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "d4698e1cc41a05e866c459a7521514f37fbe34ce",
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T17:05:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8699,
+      "importance": 0.8699,
+      "importance_score": 0.8699,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9843,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T17:05:57Z",
+      "latest_at": "2026-09-15T17:05:57Z",
+      "primary_item": {
+        "id": "d4698e1cc41a05e866c459a7521514f37fbe34ce",
+        "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_10a67c97a758",
+      "title": "SHA-1 in HTTPS on GitHub sunset",
+      "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+      "primary_url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f39d163057cf991c5497226aef363229e444fc96",
-          "title": "Configure cost and quality in Copilot auto model selection",
-          "url": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
+          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
+          "title": "SHA-1 in HTTPS on GitHub sunset",
+          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-14T16:05:27Z"
+          "published_at": "2026-09-15T16:47:20Z"
         }
       ],
       "source_count": 1,
@@ -27,25 +149,25 @@
       ],
       "items": [
         {
-          "id": "f39d163057cf991c5497226aef363229e444fc96",
-          "title": "Configure cost and quality in Copilot auto model selection",
-          "url": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
+          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
+          "title": "SHA-1 in HTTPS on GitHub sunset",
+          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-14T16:05:27Z"
+          "published_at": "2026-09-15T16:47:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8542,
-      "importance": 0.8542,
-      "importance_score": 0.8542,
+      "score": 0.8553,
+      "importance": 0.8553,
+      "importance_score": 0.8553,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9058,
+        "ai_relevance": 0.87,
+        "recency": 0.9714,
         "story_heat": 0.0
       },
       "category": "official",
@@ -54,32 +176,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T16:05:27Z",
-      "latest_at": "2026-09-14T16:05:27Z",
+      "earliest_at": "2026-09-15T16:47:20Z",
+      "latest_at": "2026-09-15T16:47:20Z",
       "primary_item": {
-        "id": "f39d163057cf991c5497226aef363229e444fc96",
-        "title": "Configure cost and quality in Copilot auto model selection",
-        "url": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
+        "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
+        "title": "SHA-1 in HTTPS on GitHub sunset",
+        "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_2267286cfd5c",
-      "title": "DevFest is back",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+      "story_id": "story_149a852934bd",
+      "title": "AI for Societal Impact",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
       "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
-          "title": "DevFest is back",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+          "id": "26a5630cff9e8872abc22ccb03614f08acadea77",
+          "title": "AI for Societal Impact",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-14T16:00:00Z"
+          "published_at": "2026-09-15T16:00:00Z"
         }
       ],
       "source_count": 1,
@@ -88,25 +210,25 @@
       ],
       "items": [
         {
-          "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
-          "title": "DevFest is back",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+          "id": "26a5630cff9e8872abc22ccb03614f08acadea77",
+          "title": "AI for Societal Impact",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-14T16:00:00Z"
+          "published_at": "2026-09-15T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8504,
-      "importance": 0.8504,
-      "importance_score": 0.8504,
+      "score": 0.8487,
+      "importance": 0.8487,
+      "importance_score": 0.8487,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.9,
-        "recency": 0.902,
+        "ai_relevance": 0.87,
+        "recency": 0.9385,
         "story_heat": 0.0
       },
       "category": "official",
@@ -115,219 +237,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T16:00:00Z",
-      "latest_at": "2026-09-14T16:00:00Z",
+      "earliest_at": "2026-09-15T16:00:00Z",
+      "latest_at": "2026-09-15T16:00:00Z",
       "primary_item": {
-        "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
-        "title": "DevFest is back",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+        "id": "26a5630cff9e8872abc22ccb03614f08acadea77",
+        "title": "AI for Societal Impact",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_29cc0eae04c6",
-      "title": "宇树人形机器人G1+发布:电机、视觉、交互与续航全面增强 标准版售价9.5万元",
-      "url": "https://www.aibase.com/news/31032",
-      "primary_url": "https://www.aibase.com/news/31032",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b6a2cbb5ccebd54ad3152895f4163f9701ead5c8",
-          "title": "宇树人形机器人G1+发布:电机、视觉、交互与续航全面增强 标准版售价9.5万元",
-          "url": "https://www.aibase.com/news/31032",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T17:21:05.402318Z"
-        },
-        {
-          "id": "a8bc136d86a96e7eedd7cb5ae2286e8815874168",
-          "title": "宇树人形机器人 G1+ 发布：电机、视觉、交互与续航全面增强，标准版售价 9.5 万元",
-          "url": "https://www.aibase.com/zh/news/31032",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b6a2cbb5ccebd54ad3152895f4163f9701ead5c8",
-          "title": "宇树人形机器人G1+发布:电机、视觉、交互与续航全面增强 标准版售价9.5万元",
-          "url": "https://www.aibase.com/news/31032",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T17:21:05.402318Z"
-        },
-        {
-          "id": "a8bc136d86a96e7eedd7cb5ae2286e8815874168",
-          "title": "宇树人形机器人 G1+ 发布：电机、视觉、交互与续航全面增强，标准版售价 9.5 万元",
-          "url": "https://www.aibase.com/zh/news/31032",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9583,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T17:21:05.402318Z",
-      "latest_at": "2026-09-14T18:21:05.402318Z",
-      "primary_item": {
-        "id": "b6a2cbb5ccebd54ad3152895f4163f9701ead5c8",
-        "title": "宇树人形机器人G1+发布:电机、视觉、交互与续航全面增强 标准版售价9.5万元",
-        "url": "https://www.aibase.com/news/31032",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e2ee9e8e7f77",
-      "title": "ElevenLabs发布Music v2.5音频模型，同步开放APP与API访问",
-      "url": "https://www.aibase.com/news/31030",
-      "primary_url": "https://www.aibase.com/news/31030",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0b4f54f1df503cbe04ae20532fa4fc857c9c089f",
-          "title": "ElevenLabs发布Music v2.5音频模型，同步开放APP与API访问",
-          "url": "https://www.aibase.com/news/31030",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T16:21:05.402318Z"
-        },
-        {
-          "id": "e7a54c4e8a3bc5a6883c666753067c782fdda1f6",
-          "title": "ElevenLabs 发布 Music v2.5 音频模型，同步开放 APP 与 API 访问",
-          "url": "https://www.aibase.com/zh/news/31030",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0b4f54f1df503cbe04ae20532fa4fc857c9c089f",
-          "title": "ElevenLabs发布Music v2.5音频模型，同步开放APP与API访问",
-          "url": "https://www.aibase.com/news/31030",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T16:21:05.402318Z"
-        },
-        {
-          "id": "e7a54c4e8a3bc5a6883c666753067c782fdda1f6",
-          "title": "ElevenLabs 发布 Music v2.5 音频模型，同步开放 APP 与 API 访问",
-          "url": "https://www.aibase.com/zh/news/31030",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9167,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T16:21:05.402318Z",
-      "latest_at": "2026-09-14T18:21:05.402318Z",
-      "primary_item": {
-        "id": "0b4f54f1df503cbe04ae20532fa4fc857c9c089f",
-        "title": "ElevenLabs发布Music v2.5音频模型，同步开放APP与API访问",
-        "url": "https://www.aibase.com/news/31030",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_296d33defd03",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://openai.com/index/fyxer",
-      "primary_url": "https://openai.com/index/fyxer",
-      "source": "OpenAI News",
+      "story_id": "story_98c36a850624",
+      "title": "AI for everyone in every language",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+      "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "167e0f28aaf9969b90a74569a182b62614d29230",
-          "title": "How Fyxer built an AI executive assistant people trust",
-          "url": "https://openai.com/index/fyxer",
-          "source": "OpenAI News",
+          "id": "14060c2571c717161b27bfaa69b30841c601742d",
+          "title": "AI for everyone in every language",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-14T12:00:00Z"
+          "published_at": "2026-09-15T16:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "Google AI Blog"
       ],
       "items": [
         {
-          "id": "167e0f28aaf9969b90a74569a182b62614d29230",
-          "title": "How Fyxer built an AI executive assistant people trust",
-          "url": "https://openai.com/index/fyxer",
-          "source": "OpenAI News",
+          "id": "14060c2571c717161b27bfaa69b30841c601742d",
+          "title": "AI for everyone in every language",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-14T12:00:00Z"
+          "published_at": "2026-09-15T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8487,
+      "importance": 0.8487,
+      "importance_score": 0.8487,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7354,
+        "ai_relevance": 0.87,
+        "recency": 0.9385,
         "story_heat": 0.0
       },
       "category": "official",
@@ -336,32 +298,154 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T12:00:00Z",
-      "latest_at": "2026-09-14T12:00:00Z",
+      "earliest_at": "2026-09-15T16:00:00Z",
+      "latest_at": "2026-09-15T16:00:00Z",
       "primary_item": {
-        "id": "167e0f28aaf9969b90a74569a182b62614d29230",
-        "title": "How Fyxer built an AI executive assistant people trust",
-        "url": "https://openai.com/index/fyxer",
-        "source": "OpenAI News",
+        "id": "14060c2571c717161b27bfaa69b30841c601742d",
+        "title": "AI for everyone in every language",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_97dc30920ae0",
-      "title": "蓝虫具身发布模块化人形机器人“小白”，0. 98 万元起售",
-      "url": "https://www.aibase.com/news/31038",
-      "primary_url": "https://www.aibase.com/news/31038",
+      "story_id": "story_2db68954a435",
+      "title": "Building AI to accelerate science and improve lives",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "194233bcfcbcf571f6d454a1f5626a1ab2e4f175",
+          "title": "Building AI to accelerate science and improve lives",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "194233bcfcbcf571f6d454a1f5626a1ab2e4f175",
+          "title": "Building AI to accelerate science and improve lives",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8487,
+      "importance": 0.8487,
+      "importance_score": 0.8487,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9385,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T16:00:00Z",
+      "latest_at": "2026-09-15T16:00:00Z",
+      "primary_item": {
+        "id": "194233bcfcbcf571f6d454a1f5626a1ab2e4f175",
+        "title": "Building AI to accelerate science and improve lives",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_63b04c12395d",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
+          "title": "New insights from Google’s AI & Economy ATLAS",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
+          "title": "New insights from Google’s AI & Economy ATLAS",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8237,
+      "importance": 0.8237,
+      "importance_score": 0.8237,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8135,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T13:00:00Z",
+      "latest_at": "2026-09-15T13:00:00Z",
+      "primary_item": {
+        "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
+        "title": "New insights from Google’s AI & Economy ATLAS",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e19428ae3970",
+      "title": "阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！",
+      "url": "https://www.aibase.com/news/31066",
+      "primary_url": "https://www.aibase.com/news/31066",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2df63aaf65a7d3e448fe25dc9ed0abe5f070885c",
-          "title": "蓝虫具身发布模块化人形机器人“小白”，0. 98 万元起售",
-          "url": "https://www.aibase.com/news/31038",
+          "id": "a671926a058b92ae2ea45761e75092a928cb2a89",
+          "title": "阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！",
+          "url": "https://www.aibase.com/news/31066",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T17:58:05.402318Z"
+          "published_at": "2026-09-15T17:28:32.945626Z"
         }
       ],
       "source_count": 1,
@@ -370,25 +454,25 @@
       ],
       "items": [
         {
-          "id": "2df63aaf65a7d3e448fe25dc9ed0abe5f070885c",
-          "title": "蓝虫具身发布模块化人形机器人“小白”，0. 98 万元起售",
-          "url": "https://www.aibase.com/news/31038",
+          "id": "a671926a058b92ae2ea45761e75092a928cb2a89",
+          "title": "阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！",
+          "url": "https://www.aibase.com/news/31066",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T17:58:05.402318Z"
+          "published_at": "2026-09-15T17:28:32.945626Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8088,
-      "importance": 0.8088,
-      "importance_score": 0.8088,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.984,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -396,32 +480,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T17:58:05.402318Z",
-      "latest_at": "2026-09-14T17:58:05.402318Z",
+      "earliest_at": "2026-09-15T17:28:32.945626Z",
+      "latest_at": "2026-09-15T17:28:32.945626Z",
       "primary_item": {
-        "id": "2df63aaf65a7d3e448fe25dc9ed0abe5f070885c",
-        "title": "蓝虫具身发布模块化人形机器人“小白”，0. 98 万元起售",
-        "url": "https://www.aibase.com/news/31038",
+        "id": "a671926a058b92ae2ea45761e75092a928cb2a89",
+        "title": "阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！",
+        "url": "https://www.aibase.com/news/31066",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c777759ebcb8",
-      "title": "YC 总裁反对封杀蒸馏：与其禁，不如让开源实验室走“正门”合法获取能力",
-      "url": "https://www.aibase.com/news/31037",
-      "primary_url": "https://www.aibase.com/news/31037",
+      "story_id": "story_72ad78367669",
+      "title": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
+      "url": "https://www.aibase.com/news/31065",
+      "primary_url": "https://www.aibase.com/news/31065",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "fd8aa902d1168231ed3252fcada6912a59d70915",
-          "title": "YC 总裁反对封杀蒸馏：与其禁，不如让开源实验室走“正门”合法获取能力",
-          "url": "https://www.aibase.com/news/31037",
+          "id": "c803d253a8fe41c26511f20c69a6eceb007340be",
+          "title": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
+          "url": "https://www.aibase.com/news/31065",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T17:50:05.402318Z"
+          "published_at": "2026-09-15T17:24:32.945626Z"
         }
       ],
       "source_count": 1,
@@ -430,25 +514,25 @@
       ],
       "items": [
         {
-          "id": "fd8aa902d1168231ed3252fcada6912a59d70915",
-          "title": "YC 总裁反对封杀蒸馏：与其禁，不如让开源实验室走“正门”合法获取能力",
-          "url": "https://www.aibase.com/news/31037",
+          "id": "c803d253a8fe41c26511f20c69a6eceb007340be",
+          "title": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
+          "url": "https://www.aibase.com/news/31065",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T17:50:05.402318Z"
+          "published_at": "2026-09-15T17:24:32.945626Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
+      "score": 0.8114,
+      "importance": 0.8114,
+      "importance_score": 0.8114,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9785,
+        "recency": 0.9972,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -456,59 +540,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T17:50:05.402318Z",
-      "latest_at": "2026-09-14T17:50:05.402318Z",
+      "earliest_at": "2026-09-15T17:24:32.945626Z",
+      "latest_at": "2026-09-15T17:24:32.945626Z",
       "primary_item": {
-        "id": "fd8aa902d1168231ed3252fcada6912a59d70915",
-        "title": "YC 总裁反对封杀蒸馏：与其禁，不如让开源实验室走“正门”合法获取能力",
-        "url": "https://www.aibase.com/news/31037",
+        "id": "c803d253a8fe41c26511f20c69a6eceb007340be",
+        "title": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
+        "url": "https://www.aibase.com/news/31065",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_aa74071d48c4",
-      "title": "WorkBuddy 升级 PPT 能力:一句话生成可上台版，原文件可续改",
-      "url": "https://www.aibase.com/news/31036",
-      "primary_url": "https://www.aibase.com/news/31036",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_abef561bf943",
+      "title": "Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划",
+      "url": "https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y",
+      "primary_url": "https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4ec9865629999878aa081ea717c64b628ce9c445",
-          "title": "WorkBuddy 升级 PPT 能力:一句话生成可上台版，原文件可续改",
-          "url": "https://www.aibase.com/news/31036",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T17:48:05.402318Z"
+          "id": "adc93f4dff3b9936e2343cc3d64ac6d5dfe21310",
+          "title": "Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划",
+          "url": "https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T17:21:21Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Claude：Blog（网页）"
       ],
       "items": [
         {
-          "id": "4ec9865629999878aa081ea717c64b628ce9c445",
-          "title": "WorkBuddy 升级 PPT 能力:一句话生成可上台版，原文件可续改",
-          "url": "https://www.aibase.com/news/31036",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T17:48:05.402318Z"
+          "id": "adc93f4dff3b9936e2343cc3d64ac6d5dfe21310",
+          "title": "Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划",
+          "url": "https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T17:21:21Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9771,
+        "recency": 0.995,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -516,59 +600,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T17:48:05.402318Z",
-      "latest_at": "2026-09-14T17:48:05.402318Z",
+      "earliest_at": "2026-09-15T17:21:21Z",
+      "latest_at": "2026-09-15T17:21:21Z",
       "primary_item": {
-        "id": "4ec9865629999878aa081ea717c64b628ce9c445",
-        "title": "WorkBuddy 升级 PPT 能力:一句话生成可上台版，原文件可续改",
-        "url": "https://www.aibase.com/news/31036",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "adc93f4dff3b9936e2343cc3d64ac6d5dfe21310",
+        "title": "Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划",
+        "url": "https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_b70cb144f0a3",
-      "title": "GPT-6 Astra展现恐怖统治力：模拟售货机一年狂揽1.5万美元，成绩碾压Claude近3倍",
-      "url": "https://www.aibase.com/news/31035",
-      "primary_url": "https://www.aibase.com/news/31035",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_01afe819dd1c",
+      "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
+      "url": "https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm",
+      "primary_url": "https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm",
+      "source": "Google DeepMind：Blog（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "345c5cfafa8636c607e133d25ccbf5214eed7133",
-          "title": "GPT-6 Astra展现恐怖统治力：模拟售货机一年狂揽1.5万美元，成绩碾压Claude近3倍",
-          "url": "https://www.aibase.com/news/31035",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T17:45:05.402318Z"
+          "id": "8a5f9e3456ccc9c3d78a0977bb5335bab65e7a0b",
+          "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
+          "url": "https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T17:05:57Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Google DeepMind：Blog（RSS）"
       ],
       "items": [
         {
-          "id": "345c5cfafa8636c607e133d25ccbf5214eed7133",
-          "title": "GPT-6 Astra展现恐怖统治力：模拟售货机一年狂揽1.5万美元，成绩碾压Claude近3倍",
-          "url": "https://www.aibase.com/news/31035",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T17:45:05.402318Z"
+          "id": "8a5f9e3456ccc9c3d78a0977bb5335bab65e7a0b",
+          "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
+          "url": "https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T17:05:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.975,
+        "recency": 0.9843,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -576,32 +660,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T17:45:05.402318Z",
-      "latest_at": "2026-09-14T17:45:05.402318Z",
+      "earliest_at": "2026-09-15T17:05:57Z",
+      "latest_at": "2026-09-15T17:05:57Z",
       "primary_item": {
-        "id": "345c5cfafa8636c607e133d25ccbf5214eed7133",
-        "title": "GPT-6 Astra展现恐怖统治力：模拟售货机一年狂揽1.5万美元，成绩碾压Claude近3倍",
-        "url": "https://www.aibase.com/news/31035",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "8a5f9e3456ccc9c3d78a0977bb5335bab65e7a0b",
+        "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
+        "url": "https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm",
+        "source": "Google DeepMind：Blog（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_41a3428d74f5",
-      "title": "Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样",
-      "url": "https://www.aibase.com/news/31033",
-      "primary_url": "https://www.aibase.com/news/31033",
+      "story_id": "story_fc9f2432cf6b",
+      "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+      "url": "https://www.aibase.com/news/31062",
+      "primary_url": "https://www.aibase.com/news/31062",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e8f08078b8e71f8fa3fa222dc446dc661877bec9",
-          "title": "Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样",
-          "url": "https://www.aibase.com/news/31033",
+          "id": "1c3b3aff23daa961c16c1e3f481275f9b892f51f",
+          "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+          "url": "https://www.aibase.com/news/31062",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T17:21:05.402318Z"
+          "published_at": "2026-09-15T16:28:32.945626Z"
         }
       ],
       "source_count": 1,
@@ -610,13 +694,13 @@
       ],
       "items": [
         {
-          "id": "e8f08078b8e71f8fa3fa222dc446dc661877bec9",
-          "title": "Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样",
-          "url": "https://www.aibase.com/news/31033",
+          "id": "1c3b3aff23daa961c16c1e3f481275f9b892f51f",
+          "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+          "url": "https://www.aibase.com/news/31062",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T17:21:05.402318Z"
+          "published_at": "2026-09-15T16:28:32.945626Z"
         }
       ],
       "item_count": 1,
@@ -636,32 +720,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T17:21:05.402318Z",
-      "latest_at": "2026-09-14T17:21:05.402318Z",
+      "earliest_at": "2026-09-15T16:28:32.945626Z",
+      "latest_at": "2026-09-15T16:28:32.945626Z",
       "primary_item": {
-        "id": "e8f08078b8e71f8fa3fa222dc446dc661877bec9",
-        "title": "Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样",
-        "url": "https://www.aibase.com/news/31033",
+        "id": "1c3b3aff23daa961c16c1e3f481275f9b892f51f",
+        "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+        "url": "https://www.aibase.com/news/31062",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_87afa98087c0",
-      "title": "奥尔特曼支持给 AI“控速”：不是叫停技术进步，而是别让能力跑在对齐前面",
-      "url": "https://www.aibase.com/news/31031",
-      "primary_url": "https://www.aibase.com/news/31031",
+      "story_id": "story_26f5e329383b",
+      "title": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+      "url": "https://www.aibase.com/news/31063",
+      "primary_url": "https://www.aibase.com/news/31063",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2dcaa2d42cf97ef03f03e70933aeb173371b16ee",
-          "title": "奥尔特曼支持给 AI“控速”：不是叫停技术进步，而是别让能力跑在对齐前面",
-          "url": "https://www.aibase.com/news/31031",
+          "id": "6d09c8b87bc437b1e01dc89bbfcfbc9dbbd1403a",
+          "title": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+          "url": "https://www.aibase.com/news/31063",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T16:21:05.402318Z"
+          "published_at": "2026-09-15T16:28:32.945626Z"
         }
       ],
       "source_count": 1,
@@ -670,13 +754,193 @@
       ],
       "items": [
         {
-          "id": "2dcaa2d42cf97ef03f03e70933aeb173371b16ee",
-          "title": "奥尔特曼支持给 AI“控速”：不是叫停技术进步，而是别让能力跑在对齐前面",
-          "url": "https://www.aibase.com/news/31031",
+          "id": "6d09c8b87bc437b1e01dc89bbfcfbc9dbbd1403a",
+          "title": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+          "url": "https://www.aibase.com/news/31063",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T16:21:05.402318Z"
+          "published_at": "2026-09-15T16:28:32.945626Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9583,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T16:28:32.945626Z",
+      "latest_at": "2026-09-15T16:28:32.945626Z",
+      "primary_item": {
+        "id": "6d09c8b87bc437b1e01dc89bbfcfbc9dbbd1403a",
+        "title": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+        "url": "https://www.aibase.com/news/31063",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1a7ecda9ceff",
+      "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
+      "url": "https://aihot.news/items/cmu2vlgqe03sxrowkkyx8bc1s",
+      "primary_url": "https://aihot.news/items/cmu2vlgqe03sxrowkkyx8bc1s",
+      "source": "Google Blog：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e57d382f5040cb02940f04269a06604b4dcd313f",
+          "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
+          "url": "https://aihot.news/items/cmu2vlgqe03sxrowkkyx8bc1s",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Blog：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e57d382f5040cb02940f04269a06604b4dcd313f",
+          "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
+          "url": "https://aihot.news/items/cmu2vlgqe03sxrowkkyx8bc1s",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9385,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T16:00:00Z",
+      "latest_at": "2026-09-15T16:00:00Z",
+      "primary_item": {
+        "id": "e57d382f5040cb02940f04269a06604b4dcd313f",
+        "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
+        "url": "https://aihot.news/items/cmu2vlgqe03sxrowkkyx8bc1s",
+        "source": "Google Blog：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7b54ebbb3d57",
+      "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
+      "url": "https://aihot.news/items/cmu2utske02sjrowk2zs2agim",
+      "primary_url": "https://aihot.news/items/cmu2utske02sjrowk2zs2agim",
+      "source": "Pragmatic Engineer（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "218d34f890e5b533698fac7ce839b77ff665300c",
+          "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
+          "url": "https://aihot.news/items/cmu2utske02sjrowk2zs2agim",
+          "source": "Pragmatic Engineer（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T15:41:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Pragmatic Engineer（RSS）"
+      ],
+      "items": [
+        {
+          "id": "218d34f890e5b533698fac7ce839b77ff665300c",
+          "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
+          "url": "https://aihot.news/items/cmu2utske02sjrowk2zs2agim",
+          "source": "Pragmatic Engineer（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T15:41:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7971,
+      "importance": 0.7971,
+      "importance_score": 0.7971,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9256,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T15:41:25Z",
+      "latest_at": "2026-09-15T15:41:25Z",
+      "primary_item": {
+        "id": "218d34f890e5b533698fac7ce839b77ff665300c",
+        "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
+        "url": "https://aihot.news/items/cmu2utske02sjrowk2zs2agim",
+        "source": "Pragmatic Engineer（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_303095275e2c",
+      "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+      "url": "https://www.aibase.com/news/31061",
+      "primary_url": "https://www.aibase.com/news/31061",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e674a9ca19a77f4e5598e825b75b4a664ba165f3",
+          "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+          "url": "https://www.aibase.com/news/31061",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T15:28:32.945626Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e674a9ca19a77f4e5598e825b75b4a664ba165f3",
+          "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+          "url": "https://www.aibase.com/news/31061",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T15:28:32.945626Z"
         }
       ],
       "item_count": 1,
@@ -696,32 +960,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T16:21:05.402318Z",
-      "latest_at": "2026-09-14T16:21:05.402318Z",
+      "earliest_at": "2026-09-15T15:28:32.945626Z",
+      "latest_at": "2026-09-15T15:28:32.945626Z",
       "primary_item": {
-        "id": "2dcaa2d42cf97ef03f03e70933aeb173371b16ee",
-        "title": "奥尔特曼支持给 AI“控速”：不是叫停技术进步，而是别让能力跑在对齐前面",
-        "url": "https://www.aibase.com/news/31031",
+        "id": "e674a9ca19a77f4e5598e825b75b4a664ba165f3",
+        "title": "微信回应小微AI隐私争议:不会读取用户已删除朋友圈",
+        "url": "https://www.aibase.com/news/31061",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_60cbed5d8ea4",
-      "title": "Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台",
-      "url": "https://www.aibase.com/news/31029",
-      "primary_url": "https://www.aibase.com/news/31029",
+      "story_id": "story_c27c0144955e",
+      "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
+      "url": "https://www.aibase.com/news/31060",
+      "primary_url": "https://www.aibase.com/news/31060",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0190e357ef7ef18a3962018cdf44f2dc21344658",
-          "title": "Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台",
-          "url": "https://www.aibase.com/news/31029",
+          "id": "b44e753979970f394c7664a09621b5c0055d84d3",
+          "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
+          "url": "https://www.aibase.com/news/31060",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T15:21:05.402318Z"
+          "published_at": "2026-09-15T15:28:32.945626Z"
         }
       ],
       "source_count": 1,
@@ -730,25 +994,25 @@
       ],
       "items": [
         {
-          "id": "0190e357ef7ef18a3962018cdf44f2dc21344658",
-          "title": "Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台",
-          "url": "https://www.aibase.com/news/31029",
+          "id": "b44e753979970f394c7664a09621b5c0055d84d3",
+          "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
+          "url": "https://www.aibase.com/news/31060",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T15:21:05.402318Z"
+          "published_at": "2026-09-15T15:28:32.945626Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.875,
+        "recency": 0.9167,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -756,32 +1020,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T15:21:05.402318Z",
-      "latest_at": "2026-09-14T15:21:05.402318Z",
+      "earliest_at": "2026-09-15T15:28:32.945626Z",
+      "latest_at": "2026-09-15T15:28:32.945626Z",
       "primary_item": {
-        "id": "0190e357ef7ef18a3962018cdf44f2dc21344658",
-        "title": "Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台",
-        "url": "https://www.aibase.com/news/31029",
+        "id": "b44e753979970f394c7664a09621b5c0055d84d3",
+        "title": "曝 Anthropic、OpenAI 与谷歌秘密磋商：筹建 AI 安全标准机构",
+        "url": "https://www.aibase.com/news/31060",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d295fbd3183c",
-      "title": "DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放",
-      "url": "https://www.aibase.com/news/31028",
-      "primary_url": "https://www.aibase.com/news/31028",
+      "story_id": "story_4e8bb4d19bc5",
+      "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
+      "url": "https://www.aibase.com/news/31059",
+      "primary_url": "https://www.aibase.com/news/31059",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "63a3eba161e8b41d100b7dbd995ea94a93d9195f",
-          "title": "DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放",
-          "url": "https://www.aibase.com/news/31028",
+          "id": "69873021dcb01777944fd2372744ec790fd80430",
+          "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
+          "url": "https://www.aibase.com/news/31059",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T15:21:05.402318Z"
+          "published_at": "2026-09-15T15:28:32.945626Z"
         }
       ],
       "source_count": 1,
@@ -790,25 +1054,25 @@
       ],
       "items": [
         {
-          "id": "63a3eba161e8b41d100b7dbd995ea94a93d9195f",
-          "title": "DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放",
-          "url": "https://www.aibase.com/news/31028",
+          "id": "69873021dcb01777944fd2372744ec790fd80430",
+          "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
+          "url": "https://www.aibase.com/news/31059",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-14T15:21:05.402318Z"
+          "published_at": "2026-09-15T15:28:32.945626Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.875,
+        "recency": 0.9167,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -816,469 +1080,132 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T15:21:05.402318Z",
-      "latest_at": "2026-09-14T15:21:05.402318Z",
+      "earliest_at": "2026-09-15T15:28:32.945626Z",
+      "latest_at": "2026-09-15T15:28:32.945626Z",
       "primary_item": {
-        "id": "63a3eba161e8b41d100b7dbd995ea94a93d9195f",
-        "title": "DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放",
-        "url": "https://www.aibase.com/news/31028",
+        "id": "69873021dcb01777944fd2372744ec790fd80430",
+        "title": "盖茨谈AI全球竞速：中美各四家模型领跑，中国人形机器人运动会“非常震撼”",
+        "url": "https://www.aibase.com/news/31059",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_3befaa0ab2de",
-      "title": "百图生科牵手华大智造：联合构建专属细胞大模型，押注\"设备+模型+智能体\"一体化",
-      "url": "https://www.aibase.com/news/31027",
-      "primary_url": "https://www.aibase.com/news/31027",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cf66c680557c818a9cf364882f4eb2714970b81b",
-          "title": "百图生科牵手华大智造：联合构建专属细胞大模型，押注\"设备+模型+智能体\"一体化",
-          "url": "https://www.aibase.com/news/31027",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T15:21:05.402318Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cf66c680557c818a9cf364882f4eb2714970b81b",
-          "title": "百图生科牵手华大智造：联合构建专属细胞大模型，押注\"设备+模型+智能体\"一体化",
-          "url": "https://www.aibase.com/news/31027",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T15:21:05.402318Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.875,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T15:21:05.402318Z",
-      "latest_at": "2026-09-14T15:21:05.402318Z",
-      "primary_item": {
-        "id": "cf66c680557c818a9cf364882f4eb2714970b81b",
-        "title": "百图生科牵手华大智造：联合构建专属细胞大模型，押注\"设备+模型+智能体\"一体化",
-        "url": "https://www.aibase.com/news/31027",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_74fa49b8c331",
-      "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，\"造 Agent\" 变成一次 API 调用",
-      "url": "https://www.aibase.com/news/31025",
-      "primary_url": "https://www.aibase.com/news/31025",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8811fabcaec4719137fe03427f39243b127ec160",
-          "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，\"造 Agent\" 变成一次 API 调用",
-          "url": "https://www.aibase.com/news/31025",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T14:21:05.402318Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8811fabcaec4719137fe03427f39243b127ec160",
-          "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，\"造 Agent\" 变成一次 API 调用",
-          "url": "https://www.aibase.com/news/31025",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T14:21:05.402318Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7787,
-      "importance": 0.7787,
-      "importance_score": 0.7787,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8333,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T14:21:05.402318Z",
-      "latest_at": "2026-09-14T14:21:05.402318Z",
-      "primary_item": {
-        "id": "8811fabcaec4719137fe03427f39243b127ec160",
-        "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，\"造 Agent\" 变成一次 API 调用",
-        "url": "https://www.aibase.com/news/31025",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_46319a6f086b",
-      "title": "爆料称 DeepSeek 下一波大模型将至：3 万亿参数，性能剑指 GPT-6 Astra",
-      "url": "https://www.aibase.com/news/31026",
-      "primary_url": "https://www.aibase.com/news/31026",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bd07b217956dd8a67c767e0e3ec20a2fbea80989",
-          "title": "爆料称 DeepSeek 下一波大模型将至：3 万亿参数，性能剑指 GPT-6 Astra",
-          "url": "https://www.aibase.com/news/31026",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T14:21:05.402318Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bd07b217956dd8a67c767e0e3ec20a2fbea80989",
-          "title": "爆料称 DeepSeek 下一波大模型将至：3 万亿参数，性能剑指 GPT-6 Astra",
-          "url": "https://www.aibase.com/news/31026",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T14:21:05.402318Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7787,
-      "importance": 0.7787,
-      "importance_score": 0.7787,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8333,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T14:21:05.402318Z",
-      "latest_at": "2026-09-14T14:21:05.402318Z",
-      "primary_item": {
-        "id": "bd07b217956dd8a67c767e0e3ec20a2fbea80989",
-        "title": "爆料称 DeepSeek 下一波大模型将至：3 万亿参数，性能剑指 GPT-6 Astra",
-        "url": "https://www.aibase.com/news/31026",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_89d3100f1511",
-      "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
-      "url": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq",
-      "primary_url": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq",
-      "source": "公众号：小红书技术（dots.llm）",
+      "story_id": "story_00fdd2182896",
+      "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+      "url": "https://aihot.news/items/cmu2t7e9005xhro3xi5oq27e7",
+      "primary_url": "https://aihot.news/items/cmu2t7e9005xhro3xi5oq27e7",
+      "source": "公众号：生数科技（Vidu·视频）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b8c070394d69d43b1b3a6213ed8f22e47140760a",
-          "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
-          "url": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq",
-          "source": "公众号：小红书技术（dots.llm）",
+          "id": "a8325300d875a78d3b81af253742c87a26d266c2",
+          "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+          "url": "https://aihot.news/items/cmu2t7e9005xhro3xi5oq27e7",
+          "source": "公众号：生数科技（Vidu·视频）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-14T09:59:00Z"
+          "published_at": "2026-09-15T14:30:59Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：小红书技术（dots.llm）"
+        "公众号：生数科技（Vidu·视频）"
       ],
       "items": [
         {
-          "id": "b8c070394d69d43b1b3a6213ed8f22e47140760a",
-          "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
-          "url": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq",
-          "source": "公众号：小红书技术（dots.llm）",
+          "id": "a8325300d875a78d3b81af253742c87a26d266c2",
+          "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+          "url": "https://aihot.news/items/cmu2t7e9005xhro3xi5oq27e7",
+          "source": "公众号：生数科技（Vidu·视频）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-14T09:59:00Z"
+          "published_at": "2026-09-15T14:30:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7873,
+      "importance": 0.7873,
+      "importance_score": 0.7873,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6513,
+        "recency": 0.8767,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-14T09:59:00Z",
-      "latest_at": "2026-09-14T09:59:00Z",
+      "earliest_at": "2026-09-15T14:30:59Z",
+      "latest_at": "2026-09-15T14:30:59Z",
       "primary_item": {
-        "id": "b8c070394d69d43b1b3a6213ed8f22e47140760a",
-        "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
-        "url": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq",
-        "source": "公众号：小红书技术（dots.llm）",
+        "id": "a8325300d875a78d3b81af253742c87a26d266c2",
+        "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+        "url": "https://aihot.news/items/cmu2t7e9005xhro3xi5oq27e7",
+        "source": "公众号：生数科技（Vidu·视频）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_12e9dd685180",
-      "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "primary_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_4a654b599211",
+      "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+      "url": "https://www.aibase.com/news/31057",
+      "primary_url": "https://www.aibase.com/news/31057",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
-          "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
-          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-14T00:00:00Z"
+          "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
+          "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+          "url": "https://www.aibase.com/news/31057",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T14:28:32.945626Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
-          "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
-          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-14T00:00:00Z"
+          "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
+          "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+          "url": "https://www.aibase.com/news/31057",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T14:28:32.945626Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
-      "importance_label": "官方更新",
+      "score": 0.787,
+      "importance": 0.787,
+      "importance_score": 0.787,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.2354,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.875,
         "story_heat": 0.0
       },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-14T00:00:00Z",
-      "latest_at": "2026-09-14T00:00:00Z",
-      "primary_item": {
-        "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
-        "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
-        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c44516f172f7",
-      "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-      "url": "https://www.aibase.com/news/31007",
-      "primary_url": "https://www.aibase.com/news/31007",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
-          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-          "url": "https://www.aibase.com/news/31007",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T05:11:20.663949Z"
-        },
-        {
-          "id": "41f5e984d75194a3e846cfb6bab5fc8532381529",
-          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-          "url": "https://www.aibase.com/zh/news/31007",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
-          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-          "url": "https://www.aibase.com/news/31007",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T05:11:20.663949Z"
-        },
-        {
-          "id": "41f5e984d75194a3e846cfb6bab5fc8532381529",
-          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-          "url": "https://www.aibase.com/zh/news/31007",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7273,
-      "importance": 0.7273,
-      "importance_score": 0.7273,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.4516,
-        "story_heat": 0.25
-      },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-14T05:11:20.663949Z",
-      "latest_at": "2026-09-14T05:11:20.663949Z",
+      "earliest_at": "2026-09-15T14:28:32.945626Z",
+      "latest_at": "2026-09-15T14:28:32.945626Z",
       "primary_item": {
-        "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
-        "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
-        "url": "https://www.aibase.com/news/31007",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_55fa7ed70ecc",
-      "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-      "url": "https://www.aibase.com/news/31020",
-      "primary_url": "https://www.aibase.com/news/31020",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "76af0c7d656443bc8aca74060926a032258e5938",
-          "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-          "url": "https://www.aibase.com/news/31020",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T05:11:20.663949Z"
-        },
-        {
-          "id": "1b28c15b172cf4924dd842bbb8cefc1be4e5bb0f",
-          "title": "智能体跑长任务为何「失忆跑题」：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-          "url": "https://www.aibase.com/zh/news/31020",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "76af0c7d656443bc8aca74060926a032258e5938",
-          "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-          "url": "https://www.aibase.com/news/31020",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T05:11:20.663949Z"
-        },
-        {
-          "id": "1b28c15b172cf4924dd842bbb8cefc1be4e5bb0f",
-          "title": "智能体跑长任务为何「失忆跑题」：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-          "url": "https://www.aibase.com/zh/news/31020",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7273,
-      "importance": 0.7273,
-      "importance_score": 0.7273,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.4516,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-14T05:11:20.663949Z",
-      "latest_at": "2026-09-14T05:11:20.663949Z",
-      "primary_item": {
-        "id": "76af0c7d656443bc8aca74060926a032258e5938",
-        "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-        "url": "https://www.aibase.com/news/31020",
+        "id": "c9f956e2abc3242c93e86adc5d6a856e77cb2c55",
+        "title": "DeepSeek Harness 官方桌面端即将就绪：三大平台支持，用 V4.1 Flash 还是自家最香",
+        "url": "https://www.aibase.com/news/31057",
         "source": "AIbase",
         "source_name": "AIbase"
       }
