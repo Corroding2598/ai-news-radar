@@ -1,29 +1,151 @@
 {
-  "generated_at": "2026-09-20T16:41:06.465600Z",
+  "generated_at": "2026-09-21T18:28:39.788798Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_3b9f37e77f68",
-      "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-      "url": "https://www.aibase.com/news/31201",
-      "primary_url": "https://www.aibase.com/news/31201",
+      "story_id": "story_2761dd45b97c",
+      "title": "Grok 4.7 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
+          "title": "Grok 4.7 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T14:54:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
+          "title": "Grok 4.7 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T14:54:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8432,
+      "importance": 0.8432,
+      "importance_score": 0.8432,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8511,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T14:54:12Z",
+      "latest_at": "2026-09-21T14:54:12Z",
+      "primary_item": {
+        "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
+        "title": "Grok 4.7 is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a7ca59844a94",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "primary_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.819,
+      "importance": 0.819,
+      "importance_score": 0.819,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7301,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T12:00:00Z",
+      "latest_at": "2026-09-21T12:00:00Z",
+      "primary_item": {
+        "id": "bdf469aa53f96d483730507ef5d3ca8cc1c622c0",
+        "title": "Advisory Group on Mathematics and Artificial Intelligence",
+        "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_96972c7cb916",
+      "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+      "url": "https://www.aibase.com/news/31240",
+      "primary_url": "https://www.aibase.com/news/31240",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
-          "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-          "url": "https://www.aibase.com/news/31201",
+          "id": "749e770d05615b34278e234511bee1d1d638c41f",
+          "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+          "url": "https://www.aibase.com/news/31240",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T12:43:32.671118Z"
+          "published_at": "2026-09-21T15:11:42.525418Z"
         },
         {
-          "id": "fd0fd51afc417873c5f26bff2c788d99f2ea7220",
-          "title": "微信 AI 团队开源 WeKnora：知识库不再只「动嘴」，还能在沙箱里「动手」",
-          "url": "https://www.aibase.com/zh/news/31201",
+          "id": "ace43d11b8ec25418c7fabce8c0dbbb8375c0633",
+          "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+          "url": "https://www.aibase.com/zh/news/31240",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -37,18 +159,18 @@
       ],
       "items": [
         {
-          "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
-          "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-          "url": "https://www.aibase.com/news/31201",
+          "id": "749e770d05615b34278e234511bee1d1d638c41f",
+          "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+          "url": "https://www.aibase.com/news/31240",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T12:43:32.671118Z"
+          "published_at": "2026-09-21T15:11:42.525418Z"
         },
         {
-          "id": "fd0fd51afc417873c5f26bff2c788d99f2ea7220",
-          "title": "微信 AI 团队开源 WeKnora：知识库不再只「动嘴」，还能在沙箱里「动手」",
-          "url": "https://www.aibase.com/zh/news/31201",
+          "id": "ace43d11b8ec25418c7fabce8c0dbbb8375c0633",
+          "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+          "url": "https://www.aibase.com/zh/news/31240",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -57,14 +179,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.804,
-      "importance": 0.804,
-      "importance_score": 0.804,
+      "score": 0.8096,
+      "importance": 0.8096,
+      "importance_score": 0.8096,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.835,
+        "recency": 0.8632,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -73,78 +195,78 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T12:43:32.671118Z",
-      "latest_at": "2026-09-20T12:43:32.671118Z",
+      "earliest_at": "2026-09-21T15:11:42.525418Z",
+      "latest_at": "2026-09-21T15:11:42.525418Z",
       "primary_item": {
-        "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
-        "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-        "url": "https://www.aibase.com/news/31201",
+        "id": "749e770d05615b34278e234511bee1d1d638c41f",
+        "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+        "url": "https://www.aibase.com/news/31240",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b8f596441c84",
-      "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-      "url": "https://www.aibase.com/news/31203",
-      "primary_url": "https://www.aibase.com/news/31203",
+      "story_id": "story_0ea2c31ba4e4",
+      "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+      "url": "https://www.aibase.com/news/31239",
+      "primary_url": "https://www.aibase.com/news/31239",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "url": "https://www.aibase.com/news/31203",
+          "id": "2837ab12cb645a3824255bffbad285d3e37c3619",
+          "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+          "url": "https://www.aibase.com/news/31239",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T12:43:32.671118Z"
+          "published_at": "2026-09-21T15:11:42.525418Z"
         },
         {
-          "id": "323c43aa24ca76d1c20009012d1a02f2506f1082",
-          "title": "特朗普要给“人工智能”改名：超 18 万人投票，“卓越智能”票数暂领先",
-          "url": "https://www.ithome.com/1/004/829.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T07:46:36Z"
+          "id": "cc15f05b612ab7688838ffbec7f150b7336466d3",
+          "title": "月之暗面推出 Kimi Code Desktop 桌面端，把 AI 编程 Agent 直接搬上 macOS 和 Windows",
+          "url": "https://www.aibase.com/zh/news/31239",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
         "AIbase",
-        "IT之家 (ITHome)"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "url": "https://www.aibase.com/news/31203",
+          "id": "2837ab12cb645a3824255bffbad285d3e37c3619",
+          "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+          "url": "https://www.aibase.com/news/31239",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T12:43:32.671118Z"
+          "published_at": "2026-09-21T15:11:42.525418Z"
         },
         {
-          "id": "323c43aa24ca76d1c20009012d1a02f2506f1082",
-          "title": "特朗普要给“人工智能”改名：超 18 万人投票，“卓越智能”票数暂领先",
-          "url": "https://www.ithome.com/1/004/829.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T07:46:36Z"
+          "id": "cc15f05b612ab7688838ffbec7f150b7336466d3",
+          "title": "月之暗面推出 Kimi Code Desktop 桌面端，把 AI 编程 Agent 直接搬上 macOS 和 Windows",
+          "url": "https://www.aibase.com/zh/news/31239",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.804,
-      "importance": 0.804,
-      "importance_score": 0.804,
+      "score": 0.8096,
+      "importance": 0.8096,
+      "importance_score": 0.8096,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.835,
+        "recency": 0.8632,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -153,59 +275,140 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T07:46:36Z",
-      "latest_at": "2026-09-20T12:43:32.671118Z",
+      "earliest_at": "2026-09-21T15:11:42.525418Z",
+      "latest_at": "2026-09-21T15:11:42.525418Z",
       "primary_item": {
-        "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-        "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-        "url": "https://www.aibase.com/news/31203",
+        "id": "2837ab12cb645a3824255bffbad285d3e37c3619",
+        "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+        "url": "https://www.aibase.com/news/31239",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b9ad3a6beae8",
-      "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-      "url": "https://aihot.news/items/cmu9w55as056krowjqmhejtmz",
-      "primary_url": "https://aihot.news/items/cmu9w55as056krowjqmhejtmz",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "story_id": "story_530db518a73a",
+      "title": "OpenAI Academy 扩展新学习路径 / Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "primary_url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5aafa50f62c10a69f52a8b6441c46712c874f1a",
+          "title": "OpenAI Academy 扩展新学习路径 / Expanding OpenAI Academy with new learning paths",
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T07:00:00Z"
+        },
+        {
+          "id": "1e74c248518d7e5a2aa5dbf3787cfd22bf4ef83c",
+          "title": "OpenAI Academy 扩展新学习路径",
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b5aafa50f62c10a69f52a8b6441c46712c874f1a",
+          "title": "OpenAI Academy 扩展新学习路径 / Expanding OpenAI Academy with new learning paths",
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T07:00:00Z"
+        },
+        {
+          "id": "1e74c248518d7e5a2aa5dbf3787cfd22bf4ef83c",
+          "title": "OpenAI Academy 扩展新学习路径",
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.5218,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T07:00:00Z",
+      "latest_at": "2026-09-21T18:28:39.788798Z",
+      "primary_item": {
+        "id": "b5aafa50f62c10a69f52a8b6441c46712c874f1a",
+        "title": "OpenAI Academy 扩展新学习路径 / Expanding OpenAI Academy with new learning paths",
+        "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5fe076df397c",
+      "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
+      "url": "https://aihot.news/items/cmubi4zxl110orolnqaltv0qp",
+      "primary_url": "https://aihot.news/items/cmubi4zxl110orolnqaltv0qp",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "aad2f90a99897411d3a52d8d3e89e075cf303f5f",
-          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-          "url": "https://aihot.news/items/cmu9w55as056krowjqmhejtmz",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "id": "d26e85f5b9d96f877192ae987f40acbe9d8f0d34",
+          "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
+          "url": "https://aihot.news/items/cmubi4zxl110orolnqaltv0qp",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-20T13:52:24Z"
+          "published_at": "2026-09-21T17:06:20Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+        "X：Elon Musk (@elonmusk, xAI)"
       ],
       "items": [
         {
-          "id": "aad2f90a99897411d3a52d8d3e89e075cf303f5f",
-          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-          "url": "https://aihot.news/items/cmu9w55as056krowjqmhejtmz",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "id": "d26e85f5b9d96f877192ae987f40acbe9d8f0d34",
+          "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
+          "url": "https://aihot.news/items/cmubi4zxl110orolnqaltv0qp",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-20T13:52:24Z"
+          "published_at": "2026-09-21T17:06:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8828,
+        "recency": 0.9428,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -213,299 +416,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T13:52:24Z",
-      "latest_at": "2026-09-20T13:52:24Z",
+      "earliest_at": "2026-09-21T17:06:20Z",
+      "latest_at": "2026-09-21T17:06:20Z",
       "primary_item": {
-        "id": "aad2f90a99897411d3a52d8d3e89e075cf303f5f",
-        "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-        "url": "https://aihot.news/items/cmu9w55as056krowjqmhejtmz",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "id": "d26e85f5b9d96f877192ae987f40acbe9d8f0d34",
+        "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
+        "url": "https://aihot.news/items/cmubi4zxl110orolnqaltv0qp",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_049bec628a51",
-      "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-      "url": "https://www.aibase.com/news/31205",
-      "primary_url": "https://www.aibase.com/news/31205",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "url": "https://www.aibase.com/news/31205",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T12:43:32.671118Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "url": "https://www.aibase.com/news/31205",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T12:43:32.671118Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.835,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T12:43:32.671118Z",
-      "latest_at": "2026-09-20T12:43:32.671118Z",
-      "primary_item": {
-        "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-        "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-        "url": "https://www.aibase.com/news/31205",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a7041e9bc97d",
-      "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-      "url": "https://www.aibase.com/news/31204",
-      "primary_url": "https://www.aibase.com/news/31204",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
-          "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "url": "https://www.aibase.com/news/31204",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T12:43:32.671118Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
-          "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "url": "https://www.aibase.com/news/31204",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T12:43:32.671118Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.835,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T12:43:32.671118Z",
-      "latest_at": "2026-09-20T12:43:32.671118Z",
-      "primary_item": {
-        "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
-        "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-        "url": "https://www.aibase.com/news/31204",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9358b1862fb5",
-      "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-      "url": "https://www.aibase.com/news/31206",
-      "primary_url": "https://www.aibase.com/news/31206",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
-          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "url": "https://www.aibase.com/news/31206",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T12:43:32.671118Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
-          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "url": "https://www.aibase.com/news/31206",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T12:43:32.671118Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.835,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T12:43:32.671118Z",
-      "latest_at": "2026-09-20T12:43:32.671118Z",
-      "primary_item": {
-        "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
-        "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-        "url": "https://www.aibase.com/news/31206",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7ffe17087c40",
-      "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-      "url": "https://www.aibase.com/news/31200",
-      "primary_url": "https://www.aibase.com/news/31200",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
-          "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-          "url": "https://www.aibase.com/news/31200",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T12:43:32.671118Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
-          "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-          "url": "https://www.aibase.com/news/31200",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T12:43:32.671118Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.835,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T12:43:32.671118Z",
-      "latest_at": "2026-09-20T12:43:32.671118Z",
-      "primary_item": {
-        "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
-        "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-        "url": "https://www.aibase.com/news/31200",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2ad77bfa5189",
-      "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-      "url": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
-      "primary_url": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
-      "source": "Qwen：Blog Retrieval（API）",
+      "story_id": "story_2a439c41d14e",
+      "title": "Artificial Analysis 评测 Grok 4.7：智能指数得分 46，编码智能体指数升至 56",
+      "url": "https://aihot.news/items/cmubhf6n4106prolnfasuj0hw",
+      "primary_url": "https://aihot.news/items/cmubhf6n4106prolnfasuj0hw",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e5390474418151eae6841c87558305870f5c317e",
-          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-          "url": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
-          "source": "Qwen：Blog Retrieval（API）",
+          "id": "eebb7b6938bbc8a02637cd48b2da9a44bc8a59b3",
+          "title": "Artificial Analysis 评测 Grok 4.7：智能指数得分 46，编码智能体指数升至 56",
+          "url": "https://aihot.news/items/cmubhf6n4106prolnfasuj0hw",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-20T12:00:00Z"
+          "published_at": "2026-09-21T16:38:05Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Qwen：Blog Retrieval（API）"
+        "X：Artificial Analysis (@ArtificialAnlys)"
       ],
       "items": [
         {
-          "id": "e5390474418151eae6841c87558305870f5c317e",
-          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-          "url": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
-          "source": "Qwen：Blog Retrieval（API）",
+          "id": "eebb7b6938bbc8a02637cd48b2da9a44bc8a59b3",
+          "title": "Artificial Analysis 评测 Grok 4.7：智能指数得分 46，编码智能体指数升至 56",
+          "url": "https://aihot.news/items/cmubhf6n4106prolnfasuj0hw",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-20T12:00:00Z"
+          "published_at": "2026-09-21T16:38:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8048,
+        "recency": 0.9232,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -513,37 +476,277 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T12:00:00Z",
-      "latest_at": "2026-09-20T12:00:00Z",
+      "earliest_at": "2026-09-21T16:38:05Z",
+      "latest_at": "2026-09-21T16:38:05Z",
       "primary_item": {
-        "id": "e5390474418151eae6841c87558305870f5c317e",
-        "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-        "url": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
-        "source": "Qwen：Blog Retrieval（API）",
+        "id": "eebb7b6938bbc8a02637cd48b2da9a44bc8a59b3",
+        "title": "Artificial Analysis 评测 Grok 4.7：智能指数得分 46，编码智能体指数升至 56",
+        "url": "https://aihot.news/items/cmubhf6n4106prolnfasuj0hw",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_8f011c20527e",
-      "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-      "url": "https://www.aibase.com/news/31195",
-      "primary_url": "https://www.aibase.com/news/31195",
+      "story_id": "story_8fca2699b05a",
+      "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+      "url": "https://www.aibase.com/news/31241",
+      "primary_url": "https://www.aibase.com/news/31241",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
-          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-          "url": "https://www.aibase.com/news/31195",
+          "id": "1659a096004845fb17ae234e2b186092ad808ecc",
+          "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+          "url": "https://www.aibase.com/news/31241",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
+          "published_at": "2026-09-21T15:11:42.525418Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1659a096004845fb17ae234e2b186092ad808ecc",
+          "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+          "url": "https://www.aibase.com/news/31241",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T15:11:42.525418Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8632,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T15:11:42.525418Z",
+      "latest_at": "2026-09-21T15:11:42.525418Z",
+      "primary_item": {
+        "id": "1659a096004845fb17ae234e2b186092ad808ecc",
+        "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+        "url": "https://www.aibase.com/news/31241",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6f2ad66232ac",
+      "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+      "url": "https://www.aibase.com/news/31237",
+      "primary_url": "https://www.aibase.com/news/31237",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
+          "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "url": "https://www.aibase.com/news/31237",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T15:11:42.525418Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
+          "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "url": "https://www.aibase.com/news/31237",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T15:11:42.525418Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8632,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T15:11:42.525418Z",
+      "latest_at": "2026-09-21T15:11:42.525418Z",
+      "primary_item": {
+        "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
+        "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+        "url": "https://www.aibase.com/news/31237",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_85b0b9bb1d20",
+      "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+      "url": "https://www.aibase.com/news/31238",
+      "primary_url": "https://www.aibase.com/news/31238",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
+          "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "url": "https://www.aibase.com/news/31238",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T15:11:42.525418Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
+          "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "url": "https://www.aibase.com/news/31238",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T15:11:42.525418Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8632,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T15:11:42.525418Z",
+      "latest_at": "2026-09-21T15:11:42.525418Z",
+      "primary_item": {
+        "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
+        "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+        "url": "https://www.aibase.com/news/31238",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_172f86878f07",
+      "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+      "url": "https://aihot.news/items/cmub7xf1o0pu2roln165i6mhu",
+      "primary_url": "https://aihot.news/items/cmub7xf1o0pu2roln165i6mhu",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "533fd8cc250a63e6473da9ed78c309845448b923",
+          "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "url": "https://aihot.news/items/cmub7xf1o0pu2roln165i6mhu",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T11:52:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "533fd8cc250a63e6473da9ed78c309845448b923",
+          "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "url": "https://aihot.news/items/cmub7xf1o0pu2roln165i6mhu",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T11:52:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7251,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T11:52:52Z",
+      "latest_at": "2026-09-21T11:52:52Z",
+      "primary_item": {
+        "id": "533fd8cc250a63e6473da9ed78c309845448b923",
+        "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+        "url": "https://aihot.news/items/cmub7xf1o0pu2roln165i6mhu",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e205f1c31513",
+      "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+      "url": "https://www.aibase.com/news/31228",
+      "primary_url": "https://www.aibase.com/news/31228",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "url": "https://www.aibase.com/news/31228",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:04:31.352601Z"
         },
         {
-          "id": "535656a3ef2580fd2b00a3404a7757bed209b22e",
-          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-          "url": "https://www.aibase.com/zh/news/31195",
+          "id": "cbf7c299e9416e4fc0ef854ba50c8d8d22f56874",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "url": "https://www.aibase.com/zh/news/31228",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -557,18 +760,18 @@
       ],
       "items": [
         {
-          "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
-          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-          "url": "https://www.aibase.com/news/31195",
+          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "url": "https://www.aibase.com/news/31228",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
+          "published_at": "2026-09-21T08:04:31.352601Z"
         },
         {
-          "id": "535656a3ef2580fd2b00a3404a7757bed209b22e",
-          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-          "url": "https://www.aibase.com/zh/news/31195",
+          "id": "cbf7c299e9416e4fc0ef854ba50c8d8d22f56874",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "url": "https://www.aibase.com/zh/news/31228",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -577,14 +780,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6308,
+        "recency": 0.5666,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -593,37 +796,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T07:49:24.187479Z",
-      "latest_at": "2026-09-20T07:49:24.187479Z",
+      "earliest_at": "2026-09-21T08:04:31.352601Z",
+      "latest_at": "2026-09-21T08:04:31.352601Z",
       "primary_item": {
-        "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
-        "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-        "url": "https://www.aibase.com/news/31195",
+        "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+        "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+        "url": "https://www.aibase.com/news/31228",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_8905851ba602",
-      "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-      "url": "https://www.aibase.com/news/31189",
-      "primary_url": "https://www.aibase.com/news/31189",
+      "story_id": "story_0f8570f5c4b6",
+      "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+      "url": "https://www.aibase.com/news/31234",
+      "primary_url": "https://www.aibase.com/news/31234",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
-          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "url": "https://www.aibase.com/news/31189",
+          "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
+          "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+          "url": "https://www.aibase.com/news/31234",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
+          "published_at": "2026-09-21T08:04:31.352601Z"
         },
         {
-          "id": "c2f016ed45cebd8c13aacc4dc3a10d8e051b000e",
-          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "url": "https://www.aibase.com/zh/news/31189",
+          "id": "f857388ab8fd42f08d5a883c4627c4c14def6811",
+          "title": "开发者实锤 OpenAI 广告追踪链条：ChatGPT 账号正悄悄绑定你的全网浏览足迹",
+          "url": "https://www.aibase.com/zh/news/31234",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -637,18 +840,18 @@
       ],
       "items": [
         {
-          "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
-          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "url": "https://www.aibase.com/news/31189",
+          "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
+          "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+          "url": "https://www.aibase.com/news/31234",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
+          "published_at": "2026-09-21T08:04:31.352601Z"
         },
         {
-          "id": "c2f016ed45cebd8c13aacc4dc3a10d8e051b000e",
-          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "url": "https://www.aibase.com/zh/news/31189",
+          "id": "f857388ab8fd42f08d5a883c4627c4c14def6811",
+          "title": "开发者实锤 OpenAI 广告追踪链条：ChatGPT 账号正悄悄绑定你的全网浏览足迹",
+          "url": "https://www.aibase.com/zh/news/31234",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -657,14 +860,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6308,
+        "recency": 0.5666,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -673,32 +876,412 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T07:49:24.187479Z",
-      "latest_at": "2026-09-20T07:49:24.187479Z",
+      "earliest_at": "2026-09-21T08:04:31.352601Z",
+      "latest_at": "2026-09-21T08:04:31.352601Z",
       "primary_item": {
-        "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
-        "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-        "url": "https://www.aibase.com/news/31189",
+        "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
+        "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+        "url": "https://www.aibase.com/news/31234",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_11175d628d3c",
-      "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-      "url": "https://www.aibase.com/news/31199",
-      "primary_url": "https://www.aibase.com/news/31199",
+      "story_id": "story_9431f6c40685",
+      "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+      "url": "https://www.aibase.com/news/31224",
+      "primary_url": "https://www.aibase.com/news/31224",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "url": "https://www.aibase.com/news/31199",
+          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "url": "https://www.aibase.com/news/31224",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
+          "published_at": "2026-09-21T08:04:31.352601Z"
+        },
+        {
+          "id": "8eca55882f34970bd5b3f6d433f5d1c3f08798d5",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成「实时」",
+          "url": "https://www.aibase.com/zh/news/31224",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "url": "https://www.aibase.com/news/31224",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:04:31.352601Z"
+        },
+        {
+          "id": "8eca55882f34970bd5b3f6d433f5d1c3f08798d5",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成「实时」",
+          "url": "https://www.aibase.com/zh/news/31224",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5666,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T08:04:31.352601Z",
+      "latest_at": "2026-09-21T08:04:31.352601Z",
+      "primary_item": {
+        "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+        "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+        "url": "https://www.aibase.com/news/31224",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fe9b8db9865d",
+      "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
+      "url": "https://www.aibase.com/news/31236",
+      "primary_url": "https://www.aibase.com/news/31236",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "347b285ee3b2634946f60950a426ce43abf8850d",
+          "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
+          "url": "https://www.aibase.com/news/31236",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:04:31.352601Z"
+        },
+        {
+          "id": "d93b5702376fa0679c7eb8fe14a93661ff034743",
+          "title": "百度文库网盘宣布 AI 办公出海，库库 AI 全球月活超 4000 万",
+          "url": "https://www.aibase.com/zh/news/31236",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "347b285ee3b2634946f60950a426ce43abf8850d",
+          "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
+          "url": "https://www.aibase.com/news/31236",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:04:31.352601Z"
+        },
+        {
+          "id": "d93b5702376fa0679c7eb8fe14a93661ff034743",
+          "title": "百度文库网盘宣布 AI 办公出海，库库 AI 全球月活超 4000 万",
+          "url": "https://www.aibase.com/zh/news/31236",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5666,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T08:04:31.352601Z",
+      "latest_at": "2026-09-21T08:04:31.352601Z",
+      "primary_item": {
+        "id": "347b285ee3b2634946f60950a426ce43abf8850d",
+        "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
+        "url": "https://www.aibase.com/news/31236",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_febf34851806",
+      "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
+      "url": "https://www.aibase.com/news/31227",
+      "primary_url": "https://www.aibase.com/news/31227",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b48d7b82ff56111dc01651b15447ba4b0f5b0554",
+          "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
+          "url": "https://www.aibase.com/news/31227",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:04:31.352601Z"
+        },
+        {
+          "id": "3ac4e484336027a100f3aaba063b98329d2feea4",
+          "title": "阿里 70 亿参数图像模型 Qwen-Image-2.1 开源发布，号称以瘦身之躯叫板闭源巨头",
+          "url": "https://www.aibase.com/zh/news/31227",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b48d7b82ff56111dc01651b15447ba4b0f5b0554",
+          "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
+          "url": "https://www.aibase.com/news/31227",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:04:31.352601Z"
+        },
+        {
+          "id": "3ac4e484336027a100f3aaba063b98329d2feea4",
+          "title": "阿里 70 亿参数图像模型 Qwen-Image-2.1 开源发布，号称以瘦身之躯叫板闭源巨头",
+          "url": "https://www.aibase.com/zh/news/31227",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5666,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T08:04:31.352601Z",
+      "latest_at": "2026-09-21T08:04:31.352601Z",
+      "primary_item": {
+        "id": "b48d7b82ff56111dc01651b15447ba4b0f5b0554",
+        "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
+        "url": "https://www.aibase.com/news/31227",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_62ef79af4c6f",
+      "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+      "url": "https://www.aibase.com/news/31233",
+      "primary_url": "https://www.aibase.com/news/31233",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
+          "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "url": "https://www.aibase.com/news/31233",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:04:31.352601Z"
+        },
+        {
+          "id": "9bf7acc80de4207fe8277796dc6730ad46250660",
+          "title": "阿里换帅 Qwen 团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "url": "https://www.aibase.com/zh/news/31233",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
+          "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "url": "https://www.aibase.com/news/31233",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:04:31.352601Z"
+        },
+        {
+          "id": "9bf7acc80de4207fe8277796dc6730ad46250660",
+          "title": "阿里换帅 Qwen 团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "url": "https://www.aibase.com/zh/news/31233",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5666,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T08:04:31.352601Z",
+      "latest_at": "2026-09-21T08:04:31.352601Z",
+      "primary_item": {
+        "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
+        "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+        "url": "https://www.aibase.com/news/31233",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_eb792e0fc342",
+      "title": "tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "primary_url": "https://huggingface.co/blog/tokenizers-v1",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cfb47301ffa7e8e7d82c00a559d4ad4da9096611",
+          "title": "tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured",
+          "url": "https://huggingface.co/blog/tokenizers-v1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "cfb47301ffa7e8e7d82c00a559d4ad4da9096611",
+          "title": "tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured",
+          "url": "https://huggingface.co/blog/tokenizers-v1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.731,
+      "importance": 0.731,
+      "importance_score": 0.731,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.2301,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T00:00:00Z",
+      "latest_at": "2026-09-21T00:00:00Z",
+      "primary_item": {
+        "id": "cfb47301ffa7e8e7d82c00a559d4ad4da9096611",
+        "title": "tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured",
+        "url": "https://huggingface.co/blog/tokenizers-v1",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f9c8ec3296b6",
+      "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+      "url": "https://www.aibase.com/news/31231",
+      "primary_url": "https://www.aibase.com/news/31231",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
+          "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "url": "https://www.aibase.com/news/31231",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:04:31.352601Z"
         }
       ],
       "source_count": 1,
@@ -707,57 +1290,57 @@
       ],
       "items": [
         {
-          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "url": "https://www.aibase.com/news/31199",
+          "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
+          "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "url": "https://www.aibase.com/news/31231",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
+          "published_at": "2026-09-21T08:04:31.352601Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7253,
+      "importance": 0.7253,
+      "importance_score": 0.7253,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6308,
+        "recency": 0.5666,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-20T07:49:24.187479Z",
-      "latest_at": "2026-09-20T07:49:24.187479Z",
+      "earliest_at": "2026-09-21T08:04:31.352601Z",
+      "latest_at": "2026-09-21T08:04:31.352601Z",
       "primary_item": {
-        "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-        "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-        "url": "https://www.aibase.com/news/31199",
+        "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
+        "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+        "url": "https://www.aibase.com/news/31231",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_779300c8fa00",
-      "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-      "url": "https://www.aibase.com/news/31193",
-      "primary_url": "https://www.aibase.com/news/31193",
+      "story_id": "story_e03876109744",
+      "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+      "url": "https://www.aibase.com/news/31232",
+      "primary_url": "https://www.aibase.com/news/31232",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
-          "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "url": "https://www.aibase.com/news/31193",
+          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
+          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "url": "https://www.aibase.com/news/31232",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
+          "published_at": "2026-09-21T08:04:31.352601Z"
         }
       ],
       "source_count": 1,
@@ -766,509 +1349,37 @@
       ],
       "items": [
         {
-          "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
-          "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "url": "https://www.aibase.com/news/31193",
+          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
+          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "url": "https://www.aibase.com/news/31232",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
+          "published_at": "2026-09-21T08:04:31.352601Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7253,
+      "importance": 0.7253,
+      "importance_score": 0.7253,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6308,
+        "recency": 0.5666,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-20T07:49:24.187479Z",
-      "latest_at": "2026-09-20T07:49:24.187479Z",
+      "earliest_at": "2026-09-21T08:04:31.352601Z",
+      "latest_at": "2026-09-21T08:04:31.352601Z",
       "primary_item": {
-        "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
-        "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-        "url": "https://www.aibase.com/news/31193",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_824dc89c2827",
-      "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-      "url": "https://www.aibase.com/news/31192",
-      "primary_url": "https://www.aibase.com/news/31192",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "82999d0580f5197438f19f75ca06160e51996b3c",
-          "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-          "url": "https://www.aibase.com/news/31192",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "82999d0580f5197438f19f75ca06160e51996b3c",
-          "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-          "url": "https://www.aibase.com/news/31192",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6308,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:49:24.187479Z",
-      "latest_at": "2026-09-20T07:49:24.187479Z",
-      "primary_item": {
-        "id": "82999d0580f5197438f19f75ca06160e51996b3c",
-        "title": "B站上线\"AI 无限竞技场\"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅",
-        "url": "https://www.aibase.com/news/31192",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b6719a7d10d6",
-      "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-      "url": "https://www.aibase.com/news/31191",
-      "primary_url": "https://www.aibase.com/news/31191",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
-          "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "url": "https://www.aibase.com/news/31191",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
-          "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "url": "https://www.aibase.com/news/31191",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6308,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:49:24.187479Z",
-      "latest_at": "2026-09-20T07:49:24.187479Z",
-      "primary_item": {
-        "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
-        "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-        "url": "https://www.aibase.com/news/31191",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f3bebdd05345",
-      "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-      "url": "https://www.aibase.com/news/31188",
-      "primary_url": "https://www.aibase.com/news/31188",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e183d27ed4cc78b69a3f36ac35f6a633adb28374",
-          "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-          "url": "https://www.aibase.com/news/31188",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e183d27ed4cc78b69a3f36ac35f6a633adb28374",
-          "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-          "url": "https://www.aibase.com/news/31188",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6308,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:49:24.187479Z",
-      "latest_at": "2026-09-20T07:49:24.187479Z",
-      "primary_item": {
-        "id": "e183d27ed4cc78b69a3f36ac35f6a633adb28374",
-        "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-        "url": "https://www.aibase.com/news/31188",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_03f0758335ea",
-      "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-      "url": "https://www.aibase.com/news/31190",
-      "primary_url": "https://www.aibase.com/news/31190",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "98862ac4c8266264c05c1198d2854645bba8210f",
-          "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "url": "https://www.aibase.com/news/31190",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "98862ac4c8266264c05c1198d2854645bba8210f",
-          "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "url": "https://www.aibase.com/news/31190",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6308,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:49:24.187479Z",
-      "latest_at": "2026-09-20T07:49:24.187479Z",
-      "primary_item": {
-        "id": "98862ac4c8266264c05c1198d2854645bba8210f",
-        "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-        "url": "https://www.aibase.com/news/31190",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5639c87861f6",
-      "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-      "url": "https://www.aibase.com/news/31198",
-      "primary_url": "https://www.aibase.com/news/31198",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e66d3223fe840139ba719b619af347339d276b71",
-          "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-          "url": "https://www.aibase.com/news/31198",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e66d3223fe840139ba719b619af347339d276b71",
-          "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-          "url": "https://www.aibase.com/news/31198",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6308,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:49:24.187479Z",
-      "latest_at": "2026-09-20T07:49:24.187479Z",
-      "primary_item": {
-        "id": "e66d3223fe840139ba719b619af347339d276b71",
-        "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-        "url": "https://www.aibase.com/news/31198",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_58b93e51cdf4",
-      "title": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-      "url": "https://www.aibase.com/news/31185",
-      "primary_url": "https://www.aibase.com/news/31185",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "43b44b72102fd1fd8062cd85ba9e43ac01fecb64",
-          "title": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-          "url": "https://www.aibase.com/news/31185",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "43b44b72102fd1fd8062cd85ba9e43ac01fecb64",
-          "title": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-          "url": "https://www.aibase.com/news/31185",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6308,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:49:24.187479Z",
-      "latest_at": "2026-09-20T07:49:24.187479Z",
-      "primary_item": {
-        "id": "43b44b72102fd1fd8062cd85ba9e43ac01fecb64",
-        "title": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-        "url": "https://www.aibase.com/news/31185",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b02806500437",
-      "title": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-      "url": "https://www.aibase.com/news/31194",
-      "primary_url": "https://www.aibase.com/news/31194",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "90e270371d0aabbc835e0962954fe0aaa65d57e9",
-          "title": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-          "url": "https://www.aibase.com/news/31194",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "90e270371d0aabbc835e0962954fe0aaa65d57e9",
-          "title": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-          "url": "https://www.aibase.com/news/31194",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6308,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:49:24.187479Z",
-      "latest_at": "2026-09-20T07:49:24.187479Z",
-      "primary_item": {
-        "id": "90e270371d0aabbc835e0962954fe0aaa65d57e9",
-        "title": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-        "url": "https://www.aibase.com/news/31194",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1f424ad01265",
-      "title": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
-      "url": "https://www.aibase.com/news/31187",
-      "primary_url": "https://www.aibase.com/news/31187",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e622a50e2161652dc095545f41ed25067f8ab0a6",
-          "title": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
-          "url": "https://www.aibase.com/news/31187",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e622a50e2161652dc095545f41ed25067f8ab0a6",
-          "title": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
-          "url": "https://www.aibase.com/news/31187",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:49:24.187479Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6308,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:49:24.187479Z",
-      "latest_at": "2026-09-20T07:49:24.187479Z",
-      "primary_item": {
-        "id": "e622a50e2161652dc095545f41ed25067f8ab0a6",
-        "title": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
-        "url": "https://www.aibase.com/news/31187",
+        "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
+        "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+        "url": "https://www.aibase.com/news/31232",
         "source": "AIbase",
         "source_name": "AIbase"
       }
