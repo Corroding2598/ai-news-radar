@@ -1,29 +1,595 @@
 {
-  "generated_at": "2026-09-22T17:31:12.426413Z",
+  "generated_at": "2026-09-23T17:42:28.362205Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_8f83dc2392e4",
-      "title": "比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上",
-      "url": "https://www.aibase.com/news/31275",
-      "primary_url": "https://www.aibase.com/news/31275",
+      "story_id": "story_a4dec25709f4",
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
+          "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T13:17:01Z"
+        },
+        {
+          "id": "30d941e0266a2151d7133f346305ddb922d228f3",
+          "title": "Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
+          "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T13:17:01Z"
+        },
+        {
+          "id": "30d941e0266a2151d7133f346305ddb922d228f3",
+          "title": "Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8731,
+      "importance": 0.8731,
+      "importance_score": 0.8731,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8157,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T13:17:01Z",
+      "latest_at": "2026-09-23T17:42:28.362205Z",
+      "primary_item": {
+        "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
+        "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7cff1964bf19",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "primary_url": "https://openai.com/index/ringg",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "48e7e143951a807062656727fb44afb909b365f9",
+          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+          "url": "https://openai.com/index/ringg",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "48e7e143951a807062656727fb44afb909b365f9",
+          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+          "url": "https://openai.com/index/ringg",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.873,
+      "importance": 0.873,
+      "importance_score": 0.873,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T12:00:00Z",
+      "latest_at": "2026-09-24T12:00:00Z",
+      "primary_item": {
+        "id": "48e7e143951a807062656727fb44afb909b365f9",
+        "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+        "url": "https://openai.com/index/ringg",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_59f94707bb71",
+      "title": "Local sandboxing in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
+          "title": "Local sandboxing in the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T15:00:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
+          "title": "Local sandboxing in the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T15:00:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8596,
+      "importance": 0.8596,
+      "importance_score": 0.8596,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.8878,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T15:00:57Z",
+      "latest_at": "2026-09-23T15:00:57Z",
+      "primary_item": {
+        "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
+        "title": "Local sandboxing in the GitHub Copilot app",
+        "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9d02eeb8cef1",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "primary_url": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+          "title": "Two years of OpenAI Academy",
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+          "title": "Two years of OpenAI Academy",
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8588,
+      "importance": 0.8588,
+      "importance_score": 0.8588,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9288,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T16:00:00Z",
+      "latest_at": "2026-09-23T16:00:00Z",
+      "primary_item": {
+        "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+        "title": "Two years of OpenAI Academy",
+        "url": "https://openai.com/index/two-years-of-openai-academy",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_914ed32ad555",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+      "primary_url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "893ea26945a167f32462040ced977e07c6e6fb19",
+          "title": "Gemini 3.8 text-to-speech says hello",
+          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T15:25:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "893ea26945a167f32462040ced977e07c6e6fb19",
+          "title": "Gemini 3.8 text-to-speech says hello",
+          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T15:25:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8539,
+      "importance": 0.8539,
+      "importance_score": 0.8539,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9047,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T15:25:14Z",
+      "latest_at": "2026-09-23T15:25:14Z",
+      "primary_item": {
+        "id": "893ea26945a167f32462040ced977e07c6e6fb19",
+        "title": "Gemini 3.8 text-to-speech says hello",
+        "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1d77064cbebb",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "primary_url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
+          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
+          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8338,
+      "importance": 0.8338,
+      "importance_score": 0.8338,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8038,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T13:00:00Z",
+      "latest_at": "2026-09-23T13:00:00Z",
+      "primary_item": {
+        "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
+        "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+        "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5a7e6f4568a6",
+      "title": "Antigravity SDK 支持本地模型，可完全离线运行智能体",
+      "url": "https://aihot.news/items/cmued0oy602x2rommk0l8lw6q",
+      "primary_url": "https://aihot.news/items/cmued0oy602x2rommk0l8lw6q",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0357f56b60908067ff8d4d68d2d33d2f9a11886d",
+          "title": "Antigravity SDK 支持本地模型，可完全离线运行智能体",
+          "url": "https://aihot.news/items/cmued0oy602x2rommk0l8lw6q",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T17:09:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "0357f56b60908067ff8d4d68d2d33d2f9a11886d",
+          "title": "Antigravity SDK 支持本地模型，可完全离线运行智能体",
+          "url": "https://aihot.news/items/cmued0oy602x2rommk0l8lw6q",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T17:09:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9768,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T17:09:01Z",
+      "latest_at": "2026-09-23T17:09:01Z",
+      "primary_item": {
+        "id": "0357f56b60908067ff8d4d68d2d33d2f9a11886d",
+        "title": "Antigravity SDK 支持本地模型，可完全离线运行智能体",
+        "url": "https://aihot.news/items/cmued0oy602x2rommk0l8lw6q",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_94cc4e2ca727",
+      "title": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名",
+      "url": "https://aihot.news/items/cmuedgev303hyromm2gpbnjqf",
+      "primary_url": "https://aihot.news/items/cmuedgev303hyromm2gpbnjqf",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "262375d53e17ffe825834a403bda0b3157ed4840",
+          "title": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名",
+          "url": "https://aihot.news/items/cmuedgev303hyromm2gpbnjqf",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T17:05:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "262375d53e17ffe825834a403bda0b3157ed4840",
+          "title": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名",
+          "url": "https://aihot.news/items/cmuedgev303hyromm2gpbnjqf",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T17:05:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8069,
+      "importance": 0.8069,
+      "importance_score": 0.8069,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9743,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T17:05:25Z",
+      "latest_at": "2026-09-23T17:05:25Z",
+      "primary_item": {
+        "id": "262375d53e17ffe825834a403bda0b3157ed4840",
+        "title": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名",
+        "url": "https://aihot.news/items/cmuedgev303hyromm2gpbnjqf",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6c7f135044a9",
+      "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
+      "url": "https://aihot.news/items/cmuea8xrm0t1nroghhxj2y3eg",
+      "primary_url": "https://aihot.news/items/cmuea8xrm0t1nroghhxj2y3eg",
+      "source": "Google DeepMind：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5b78c9962e3d8a4aa73504fd0f7186fcd6f39b21",
+          "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
+          "url": "https://aihot.news/items/cmuea8xrm0t1nroghhxj2y3eg",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T15:25:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5b78c9962e3d8a4aa73504fd0f7186fcd6f39b21",
+          "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
+          "url": "https://aihot.news/items/cmuea8xrm0t1nroghhxj2y3eg",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T15:25:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7929,
+      "importance": 0.7929,
+      "importance_score": 0.7929,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9047,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T15:25:14Z",
+      "latest_at": "2026-09-23T15:25:14Z",
+      "primary_item": {
+        "id": "5b78c9962e3d8a4aa73504fd0f7186fcd6f39b21",
+        "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
+        "url": "https://aihot.news/items/cmuea8xrm0t1nroghhxj2y3eg",
+        "source": "Google DeepMind：Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_42e1d69f9046",
+      "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+      "url": "https://www.aibase.com/news/31314",
+      "primary_url": "https://www.aibase.com/news/31314",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d65484ba6a572f4a909a2e534b86e9757071190f",
-          "title": "比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上",
-          "url": "https://www.aibase.com/news/31275",
+          "id": "6f8fa966422cbd923179a995ee86389a3281c571",
+          "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+          "url": "https://www.aibase.com/news/31314",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-22T17:06:04.361443Z"
+          "published_at": "2026-09-23T12:24:25.934355Z"
         },
         {
-          "id": "dc7bed0f2c266735e5c4f348a7c183a66cc42721",
-          "title": "比尔・盖茨谈 AI：像亲手创造的「外星人」，社会讨论还远未跟上",
-          "url": "https://www.aibase.com/zh/news/31275",
+          "id": "bb7cfb0631f9ad50ea1e9154d0164c073e72ef7a",
+          "title": "科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+          "url": "https://www.aibase.com/zh/news/31314",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -37,18 +603,18 @@
       ],
       "items": [
         {
-          "id": "d65484ba6a572f4a909a2e534b86e9757071190f",
-          "title": "比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上",
-          "url": "https://www.aibase.com/news/31275",
+          "id": "6f8fa966422cbd923179a995ee86389a3281c571",
+          "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+          "url": "https://www.aibase.com/news/31314",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-22T17:06:04.361443Z"
+          "published_at": "2026-09-23T12:24:25.934355Z"
         },
         {
-          "id": "dc7bed0f2c266735e5c4f348a7c183a66cc42721",
-          "title": "比尔・盖茨谈 AI：像亲手创造的「外星人」，社会讨论还远未跟上",
-          "url": "https://www.aibase.com/zh/news/31275",
+          "id": "bb7cfb0631f9ad50ea1e9154d0164c073e72ef7a",
+          "title": "科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+          "url": "https://www.aibase.com/zh/news/31314",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -57,14 +623,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8335,
-      "importance": 0.8335,
-      "importance_score": 0.8335,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9825,
+        "recency": 0.7791,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -73,32 +639,292 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T17:06:04.361443Z",
-      "latest_at": "2026-09-22T17:06:04.361443Z",
+      "earliest_at": "2026-09-23T12:24:25.934355Z",
+      "latest_at": "2026-09-23T12:24:25.934355Z",
       "primary_item": {
-        "id": "d65484ba6a572f4a909a2e534b86e9757071190f",
-        "title": "比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上",
-        "url": "https://www.aibase.com/news/31275",
+        "id": "6f8fa966422cbd923179a995ee86389a3281c571",
+        "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+        "url": "https://www.aibase.com/news/31314",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_f9b8ddd279dd",
-      "title": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
-      "url": "https://www.aibase.com/news/31276",
-      "primary_url": "https://www.aibase.com/news/31276",
+      "story_id": "story_dad7c8365eba",
+      "title": "千问一口气端出五款语音大模型，TTS价格腰斩七成、ASR砍掉九成五，把耳朵和嗓子全打包给了开发者",
+      "url": "https://www.aibase.com/news/31305",
+      "primary_url": "https://www.aibase.com/news/31305",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "52084fe5d7c17f0b4e8c558ab21ec21345b64d68",
-          "title": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
-          "url": "https://www.aibase.com/news/31276",
+          "id": "a1c2d6dd50d0585583ecf7168504964ab080d85b",
+          "title": "千问一口气端出五款语音大模型，TTS价格腰斩七成、ASR砍掉九成五，把耳朵和嗓子全打包给了开发者",
+          "url": "https://www.aibase.com/news/31305",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-22T17:06:04.361443Z"
+          "published_at": "2026-09-23T12:24:25.934355Z"
+        },
+        {
+          "id": "483e122877e5228ef76fdfcaa848f441adaf37c7",
+          "title": "千问一口气端出五款语音大模型，TTS 价格腰斩七成、ASR 砍掉九成五，把耳朵和嗓子全打包给了开发者",
+          "url": "https://www.aibase.com/zh/news/31305",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "a1c2d6dd50d0585583ecf7168504964ab080d85b",
+          "title": "千问一口气端出五款语音大模型，TTS价格腰斩七成、ASR砍掉九成五，把耳朵和嗓子全打包给了开发者",
+          "url": "https://www.aibase.com/news/31305",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T12:24:25.934355Z"
+        },
+        {
+          "id": "483e122877e5228ef76fdfcaa848f441adaf37c7",
+          "title": "千问一口气端出五款语音大模型，TTS 价格腰斩七成、ASR 砍掉九成五，把耳朵和嗓子全打包给了开发者",
+          "url": "https://www.aibase.com/zh/news/31305",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7791,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T12:24:25.934355Z",
+      "latest_at": "2026-09-23T12:24:25.934355Z",
+      "primary_item": {
+        "id": "a1c2d6dd50d0585583ecf7168504964ab080d85b",
+        "title": "千问一口气端出五款语音大模型，TTS价格腰斩七成、ASR砍掉九成五，把耳朵和嗓子全打包给了开发者",
+        "url": "https://www.aibase.com/news/31305",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4cf48b10ee6b",
+      "title": "小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol",
+      "url": "https://aihot.news/items/cmue9wuq00sqxrogh9805ahzr",
+      "primary_url": "https://aihot.news/items/cmue9wuq00sqxrogh9805ahzr",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2ed0fe503e50cd137aea241d237a42b1974108a3",
+          "title": "小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol",
+          "url": "https://aihot.news/items/cmue9wuq00sqxrogh9805ahzr",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T15:20:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
+      ],
+      "items": [
+        {
+          "id": "2ed0fe503e50cd137aea241d237a42b1974108a3",
+          "title": "小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol",
+          "url": "https://aihot.news/items/cmue9wuq00sqxrogh9805ahzr",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T15:20:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9015,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T15:20:38Z",
+      "latest_at": "2026-09-23T15:20:38Z",
+      "primary_item": {
+        "id": "2ed0fe503e50cd137aea241d237a42b1974108a3",
+        "title": "小米发布 MiMo-V2.6 Pro 与 Flash 开源全模态模型，Pro 在多数 Agent 基准上对标 Claude Opus 5 和 GPT-5.6 Sol",
+        "url": "https://aihot.news/items/cmue9wuq00sqxrogh9805ahzr",
+        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bffd2366240b",
+      "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
+      "url": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3",
+      "primary_url": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c1b2aa6ba759d6eb9a27bc0ec363322681de0f63",
+          "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
+          "url": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T14:33:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "c1b2aa6ba759d6eb9a27bc0ec363322681de0f63",
+          "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
+          "url": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T14:33:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8686,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T14:33:15Z",
+      "latest_at": "2026-09-23T14:33:15Z",
+      "primary_item": {
+        "id": "c1b2aa6ba759d6eb9a27bc0ec363322681de0f63",
+        "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
+        "url": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_751c47e35a0f",
+      "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
+      "url": "https://aihot.news/items/cmue2etyn0k5broghxiolkkpi",
+      "primary_url": "https://aihot.news/items/cmue2etyn0k5broghxiolkkpi",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bf320de93e5281942766a430b213a72315a3680e",
+          "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
+          "url": "https://aihot.news/items/cmue2etyn0k5broghxiolkkpi",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "bf320de93e5281942766a430b213a72315a3680e",
+          "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
+          "url": "https://aihot.news/items/cmue2etyn0k5broghxiolkkpi",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8038,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T13:00:00Z",
+      "latest_at": "2026-09-23T13:00:00Z",
+      "primary_item": {
+        "id": "bf320de93e5281942766a430b213a72315a3680e",
+        "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
+        "url": "https://aihot.news/items/cmue2etyn0k5broghxiolkkpi",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_55f6057b7824",
+      "title": "AI牛市溢出第一波红利:日韩奢侈品柜台在股市震荡里站稳，三星海力士员工三年薪水池要胀到114.9万亿韩元",
+      "url": "https://www.aibase.com/news/31310",
+      "primary_url": "https://www.aibase.com/news/31310",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a0846ec5f1f59c7563f2e27777b5fa5797feb24d",
+          "title": "AI牛市溢出第一波红利:日韩奢侈品柜台在股市震荡里站稳，三星海力士员工三年薪水池要胀到114.9万亿韩元",
+          "url": "https://www.aibase.com/news/31310",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T12:24:25.934355Z"
         }
       ],
       "source_count": 1,
@@ -107,25 +933,25 @@
       ],
       "items": [
         {
-          "id": "52084fe5d7c17f0b4e8c558ab21ec21345b64d68",
-          "title": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
-          "url": "https://www.aibase.com/news/31276",
+          "id": "a0846ec5f1f59c7563f2e27777b5fa5797feb24d",
+          "title": "AI牛市溢出第一波红利:日韩奢侈品柜台在股市震荡里站稳，三星海力士员工三年薪水池要胀到114.9万亿韩元",
+          "url": "https://www.aibase.com/news/31310",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-22T17:06:04.361443Z"
+          "published_at": "2026-09-23T12:24:25.934355Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9825,
+        "recency": 0.7791,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -133,452 +959,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T17:06:04.361443Z",
-      "latest_at": "2026-09-22T17:06:04.361443Z",
+      "earliest_at": "2026-09-23T12:24:25.934355Z",
+      "latest_at": "2026-09-23T12:24:25.934355Z",
       "primary_item": {
-        "id": "52084fe5d7c17f0b4e8c558ab21ec21345b64d68",
-        "title": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
-        "url": "https://www.aibase.com/news/31276",
+        "id": "a0846ec5f1f59c7563f2e27777b5fa5797feb24d",
+        "title": "AI牛市溢出第一波红利:日韩奢侈品柜台在股市震荡里站稳，三星海力士员工三年薪水池要胀到114.9万亿韩元",
+        "url": "https://www.aibase.com/news/31310",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_1e231e4995a5",
-      "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
-      "url": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
-      "primary_url": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6b5ec0f1fafe949a74830a7f29cb536ef02507d1",
-          "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
-          "url": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:53:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "6b5ec0f1fafe949a74830a7f29cb536ef02507d1",
-          "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
-          "url": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:53:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9738,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T16:53:30Z",
-      "latest_at": "2026-09-22T16:53:30Z",
-      "primary_item": {
-        "id": "6b5ec0f1fafe949a74830a7f29cb536ef02507d1",
-        "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
-        "url": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_db65379c2726",
-      "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
-      "url": "https://aihot.news/items/cmucxgajz0sfiroedxx6y9qyw",
-      "primary_url": "https://aihot.news/items/cmucxgajz0sfiroedxx6y9qyw",
-      "source": "X：Boris Cherny (@bcherny)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9146d4b72e188fbd28087a0057905cc927decbd3",
-          "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
-          "url": "https://aihot.news/items/cmucxgajz0sfiroedxx6y9qyw",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:45:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Boris Cherny (@bcherny)"
-      ],
-      "items": [
-        {
-          "id": "9146d4b72e188fbd28087a0057905cc927decbd3",
-          "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
-          "url": "https://aihot.news/items/cmucxgajz0sfiroedxx6y9qyw",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:45:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.968,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T16:45:10Z",
-      "latest_at": "2026-09-22T16:45:10Z",
-      "primary_item": {
-        "id": "9146d4b72e188fbd28087a0057905cc927decbd3",
-        "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
-        "url": "https://aihot.news/items/cmucxgajz0sfiroedxx6y9qyw",
-        "source": "X：Boris Cherny (@bcherny)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5ada7f98c1c8",
-      "title": "Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5",
-      "url": "https://aihot.news/items/cmucxgaki0sfkroed0n804wg5",
-      "primary_url": "https://aihot.news/items/cmucxgaki0sfkroed0n804wg5",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0f3e9848c0acc3e3f3ab52d250ceb59a6bda5c6c",
-          "title": "Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5",
-          "url": "https://aihot.news/items/cmucxgaki0sfkroed0n804wg5",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:44:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "0f3e9848c0acc3e3f3ab52d250ceb59a6bda5c6c",
-          "title": "Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5",
-          "url": "https://aihot.news/items/cmucxgaki0sfkroed0n804wg5",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:44:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9676,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T16:44:34Z",
-      "latest_at": "2026-09-22T16:44:34Z",
-      "primary_item": {
-        "id": "0f3e9848c0acc3e3f3ab52d250ceb59a6bda5c6c",
-        "title": "Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5",
-        "url": "https://aihot.news/items/cmucxgaki0sfkroed0n804wg5",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1aa3a2a8c5e9",
-      "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
-      "url": "https://aihot.news/items/cmucwv0h50ro5roedgmckw2j5",
-      "primary_url": "https://aihot.news/items/cmucwv0h50ro5roedgmckw2j5",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "715e57d4e105685edee286feb468cf6d1de4e4f4",
-          "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
-          "url": "https://aihot.news/items/cmucwv0h50ro5roedgmckw2j5",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:41:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "715e57d4e105685edee286feb468cf6d1de4e4f4",
-          "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
-          "url": "https://aihot.news/items/cmucwv0h50ro5roedgmckw2j5",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:41:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9657,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T16:41:45Z",
-      "latest_at": "2026-09-22T16:41:45Z",
-      "primary_item": {
-        "id": "715e57d4e105685edee286feb468cf6d1de4e4f4",
-        "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
-        "url": "https://aihot.news/items/cmucwv0h50ro5roedgmckw2j5",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_934f37010571",
-      "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
-      "url": "https://aihot.news/items/cmucx8ev80s5yroedurnxuik7",
-      "primary_url": "https://aihot.news/items/cmucx8ev80s5yroedurnxuik7",
-      "source": "@mark_k",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a340a07393720b35c5b2190036764911e141526a",
-          "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
-          "url": "https://aihot.news/items/cmucx8ev80s5yroedurnxuik7",
-          "source": "@mark_k",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:38:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "@mark_k"
-      ],
-      "items": [
-        {
-          "id": "a340a07393720b35c5b2190036764911e141526a",
-          "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
-          "url": "https://aihot.news/items/cmucx8ev80s5yroedurnxuik7",
-          "source": "@mark_k",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:38:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9637,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T16:38:58Z",
-      "latest_at": "2026-09-22T16:38:58Z",
-      "primary_item": {
-        "id": "a340a07393720b35c5b2190036764911e141526a",
-        "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
-        "url": "https://aihot.news/items/cmucx8ev80s5yroedurnxuik7",
-        "source": "@mark_k",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4d2df92fa2f6",
-      "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
-      "url": "https://aihot.news/items/cmucxceh40salroedruwhn0ee",
-      "primary_url": "https://aihot.news/items/cmucxceh40salroedruwhn0ee",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3ffaa9d15a7f7077411a7a0b89afb3ef491938e9",
-          "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
-          "url": "https://aihot.news/items/cmucxceh40salroedruwhn0ee",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:38:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude Code：GitHub Releases（RSS）"
-      ],
-      "items": [
-        {
-          "id": "3ffaa9d15a7f7077411a7a0b89afb3ef491938e9",
-          "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
-          "url": "https://aihot.news/items/cmucxceh40salroedruwhn0ee",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:38:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9632,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T16:38:14Z",
-      "latest_at": "2026-09-22T16:38:14Z",
-      "primary_item": {
-        "id": "3ffaa9d15a7f7077411a7a0b89afb3ef491938e9",
-        "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
-        "url": "https://aihot.news/items/cmucxceh40salroedruwhn0ee",
-        "source": "Claude Code：GitHub Releases（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_20428f1e6984",
-      "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
-      "url": "https://aihot.news/items/cmucwpqty0rj8roedzxz1496u",
-      "primary_url": "https://aihot.news/items/cmucwpqty0rj8roedzxz1496u",
-      "source": "X：Claude (@claudeai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2b84cfda25cb192496f77d9e34d03febfc60810d",
-          "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
-          "url": "https://aihot.news/items/cmucwpqty0rj8roedzxz1496u",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:31:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude (@claudeai)"
-      ],
-      "items": [
-        {
-          "id": "2b84cfda25cb192496f77d9e34d03febfc60810d",
-          "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
-          "url": "https://aihot.news/items/cmucwpqty0rj8roedzxz1496u",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:31:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8036,
-      "importance": 0.8036,
-      "importance_score": 0.8036,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9582,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T16:31:01Z",
-      "latest_at": "2026-09-22T16:31:01Z",
-      "primary_item": {
-        "id": "2b84cfda25cb192496f77d9e34d03febfc60810d",
-        "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
-        "url": "https://aihot.news/items/cmucwpqty0rj8roedzxz1496u",
-        "source": "X：Claude (@claudeai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_061f5d49b07b",
-      "title": "阿里千问办公发布 Agent 全家桶:从自动化脚本到\"有身份、担责任\"的数字员工",
-      "url": "https://www.aibase.com/news/31273",
-      "primary_url": "https://www.aibase.com/news/31273",
+      "story_id": "story_e271e2e6dfd3",
+      "title": "Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖",
+      "url": "https://www.aibase.com/news/31313",
+      "primary_url": "https://www.aibase.com/news/31313",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "be590ac0c2e7526aa423ee5700fd33688976ef4c",
-          "title": "阿里千问办公发布 Agent 全家桶:从自动化脚本到\"有身份、担责任\"的数字员工",
-          "url": "https://www.aibase.com/news/31273",
+          "id": "d7d4cab0fe2d625f3ae39b0b3bee9586d6e4474d",
+          "title": "Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖",
+          "url": "https://www.aibase.com/news/31313",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-22T16:24:04.361443Z"
+          "published_at": "2026-09-23T12:24:25.934355Z"
         }
       ],
       "source_count": 1,
@@ -587,25 +993,25 @@
       ],
       "items": [
         {
-          "id": "be590ac0c2e7526aa423ee5700fd33688976ef4c",
-          "title": "阿里千问办公发布 Agent 全家桶:从自动化脚本到\"有身份、担责任\"的数字员工",
-          "url": "https://www.aibase.com/news/31273",
+          "id": "d7d4cab0fe2d625f3ae39b0b3bee9586d6e4474d",
+          "title": "Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖",
+          "url": "https://www.aibase.com/news/31313",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-22T16:24:04.361443Z"
+          "published_at": "2026-09-23T12:24:25.934355Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9534,
+        "recency": 0.7791,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -613,32 +1019,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T16:24:04.361443Z",
-      "latest_at": "2026-09-22T16:24:04.361443Z",
+      "earliest_at": "2026-09-23T12:24:25.934355Z",
+      "latest_at": "2026-09-23T12:24:25.934355Z",
       "primary_item": {
-        "id": "be590ac0c2e7526aa423ee5700fd33688976ef4c",
-        "title": "阿里千问办公发布 Agent 全家桶:从自动化脚本到\"有身份、担责任\"的数字员工",
-        "url": "https://www.aibase.com/news/31273",
+        "id": "d7d4cab0fe2d625f3ae39b0b3bee9586d6e4474d",
+        "title": "Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖",
+        "url": "https://www.aibase.com/news/31313",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_7aae7081bd0a",
-      "title": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-      "url": "https://www.aibase.com/news/31272",
-      "primary_url": "https://www.aibase.com/news/31272",
+      "story_id": "story_19bc2b476307",
+      "title": "​全新深蓝 S07 正式官宣接入豆包大模型，9 月 28 日震撼上市",
+      "url": "https://www.aibase.com/news/31306",
+      "primary_url": "https://www.aibase.com/news/31306",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6fba15cc8d5a53afa18228b2322c0920d43c512f",
-          "title": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-          "url": "https://www.aibase.com/news/31272",
+          "id": "380d97ed678c430fe3b11f5773215b91e366dd58",
+          "title": "​全新深蓝 S07 正式官宣接入豆包大模型，9 月 28 日震撼上市",
+          "url": "https://www.aibase.com/news/31306",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-22T16:15:04.361443Z"
+          "published_at": "2026-09-23T12:24:25.934355Z"
         }
       ],
       "source_count": 1,
@@ -647,25 +1053,25 @@
       ],
       "items": [
         {
-          "id": "6fba15cc8d5a53afa18228b2322c0920d43c512f",
-          "title": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-          "url": "https://www.aibase.com/news/31272",
+          "id": "380d97ed678c430fe3b11f5773215b91e366dd58",
+          "title": "​全新深蓝 S07 正式官宣接入豆包大模型，9 月 28 日震撼上市",
+          "url": "https://www.aibase.com/news/31306",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-22T16:15:04.361443Z"
+          "published_at": "2026-09-23T12:24:25.934355Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8014,
-      "importance": 0.8014,
-      "importance_score": 0.8014,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9471,
+        "recency": 0.7791,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -673,32 +1079,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T16:15:04.361443Z",
-      "latest_at": "2026-09-22T16:15:04.361443Z",
+      "earliest_at": "2026-09-23T12:24:25.934355Z",
+      "latest_at": "2026-09-23T12:24:25.934355Z",
       "primary_item": {
-        "id": "6fba15cc8d5a53afa18228b2322c0920d43c512f",
-        "title": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-        "url": "https://www.aibase.com/news/31272",
+        "id": "380d97ed678c430fe3b11f5773215b91e366dd58",
+        "title": "​全新深蓝 S07 正式官宣接入豆包大模型，9 月 28 日震撼上市",
+        "url": "https://www.aibase.com/news/31306",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_cf3334fa61e7",
-      "title": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
-      "url": "https://www.aibase.com/news/31271",
-      "primary_url": "https://www.aibase.com/news/31271",
+      "story_id": "story_2b124b2420fb",
+      "title": "千问发布 Qwen-Audio-3.1系列语音大模型，五款模型全线降价最高95%",
+      "url": "https://www.aibase.com/news/31303",
+      "primary_url": "https://www.aibase.com/news/31303",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "45befe84b9951a1cb3beb57350d8ec2ae5908627",
-          "title": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
-          "url": "https://www.aibase.com/news/31271",
+          "id": "f9c647882171aec3276083dab05fcd2f62eda369",
+          "title": "千问发布 Qwen-Audio-3.1系列语音大模型，五款模型全线降价最高95%",
+          "url": "https://www.aibase.com/news/31303",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-22T16:06:04.361443Z"
+          "published_at": "2026-09-23T12:24:25.934355Z"
         }
       ],
       "source_count": 1,
@@ -707,25 +1113,25 @@
       ],
       "items": [
         {
-          "id": "45befe84b9951a1cb3beb57350d8ec2ae5908627",
-          "title": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
-          "url": "https://www.aibase.com/news/31271",
+          "id": "f9c647882171aec3276083dab05fcd2f62eda369",
+          "title": "千问发布 Qwen-Audio-3.1系列语音大模型，五款模型全线降价最高95%",
+          "url": "https://www.aibase.com/news/31303",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-22T16:06:04.361443Z"
+          "published_at": "2026-09-23T12:24:25.934355Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9409,
+        "recency": 0.7791,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -733,32 +1139,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T16:06:04.361443Z",
-      "latest_at": "2026-09-22T16:06:04.361443Z",
+      "earliest_at": "2026-09-23T12:24:25.934355Z",
+      "latest_at": "2026-09-23T12:24:25.934355Z",
       "primary_item": {
-        "id": "45befe84b9951a1cb3beb57350d8ec2ae5908627",
-        "title": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
-        "url": "https://www.aibase.com/news/31271",
+        "id": "f9c647882171aec3276083dab05fcd2f62eda369",
+        "title": "千问发布 Qwen-Audio-3.1系列语音大模型，五款模型全线降价最高95%",
+        "url": "https://www.aibase.com/news/31303",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c1a32d684761",
-      "title": "月之暗面推出Kimi Code桌面版：Plan、目标、Swarm三种模式齐发，AI编程搬进图形界面",
-      "url": "https://www.aibase.com/news/31269",
-      "primary_url": "https://www.aibase.com/news/31269",
+      "story_id": "story_2db7e0a345ab",
+      "title": "国内开发者如何稳定使用 Claude Code、Codex 和 Gemini CLI：从配置接入到团队协作",
+      "url": "https://www.aibase.com/news/31312",
+      "primary_url": "https://www.aibase.com/news/31312",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6de83a0295b35d7df1ce5c028d70935724c10ea1",
-          "title": "月之暗面推出Kimi Code桌面版：Plan、目标、Swarm三种模式齐发，AI编程搬进图形界面",
-          "url": "https://www.aibase.com/news/31269",
+          "id": "8687a26100b3bb06139a6fe801e354041323e172",
+          "title": "国内开发者如何稳定使用 Claude Code、Codex 和 Gemini CLI：从配置接入到团队协作",
+          "url": "https://www.aibase.com/news/31312",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-22T16:06:04.361443Z"
+          "published_at": "2026-09-23T12:24:25.934355Z"
         }
       ],
       "source_count": 1,
@@ -767,25 +1173,25 @@
       ],
       "items": [
         {
-          "id": "6de83a0295b35d7df1ce5c028d70935724c10ea1",
-          "title": "月之暗面推出Kimi Code桌面版：Plan、目标、Swarm三种模式齐发，AI编程搬进图形界面",
-          "url": "https://www.aibase.com/news/31269",
+          "id": "8687a26100b3bb06139a6fe801e354041323e172",
+          "title": "国内开发者如何稳定使用 Claude Code、Codex 和 Gemini CLI：从配置接入到团队协作",
+          "url": "https://www.aibase.com/news/31312",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-22T16:06:04.361443Z"
+          "published_at": "2026-09-23T12:24:25.934355Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9409,
+        "recency": 0.7791,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -793,32 +1199,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T16:06:04.361443Z",
-      "latest_at": "2026-09-22T16:06:04.361443Z",
+      "earliest_at": "2026-09-23T12:24:25.934355Z",
+      "latest_at": "2026-09-23T12:24:25.934355Z",
       "primary_item": {
-        "id": "6de83a0295b35d7df1ce5c028d70935724c10ea1",
-        "title": "月之暗面推出Kimi Code桌面版：Plan、目标、Swarm三种模式齐发，AI编程搬进图形界面",
-        "url": "https://www.aibase.com/news/31269",
+        "id": "8687a26100b3bb06139a6fe801e354041323e172",
+        "title": "国内开发者如何稳定使用 Claude Code、Codex 和 Gemini CLI：从配置接入到团队协作",
+        "url": "https://www.aibase.com/news/31312",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_0f81c1733eb1",
-      "title": "阿里试水QwenBook AI设备，团队规模约150人",
-      "url": "https://www.aibase.com/news/31270",
-      "primary_url": "https://www.aibase.com/news/31270",
+      "story_id": "story_359f4ed50013",
+      "title": "最高折扣 50%：微软推 AI 替你“干活”，Copilot 变身超级应用",
+      "url": "https://www.aibase.com/news/31302",
+      "primary_url": "https://www.aibase.com/news/31302",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d557137f367f4e0ae6306b4b687687281f672d5c",
-          "title": "阿里试水QwenBook AI设备，团队规模约150人",
-          "url": "https://www.aibase.com/news/31270",
+          "id": "c8232ac6a39ba2b860f8adc624c910f155fd9864",
+          "title": "最高折扣 50%：微软推 AI 替你“干活”，Copilot 变身超级应用",
+          "url": "https://www.aibase.com/news/31302",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-22T16:06:04.361443Z"
+          "published_at": "2026-09-23T12:24:25.934355Z"
         }
       ],
       "source_count": 1,
@@ -827,25 +1233,25 @@
       ],
       "items": [
         {
-          "id": "d557137f367f4e0ae6306b4b687687281f672d5c",
-          "title": "阿里试水QwenBook AI设备，团队规模约150人",
-          "url": "https://www.aibase.com/news/31270",
+          "id": "c8232ac6a39ba2b860f8adc624c910f155fd9864",
+          "title": "最高折扣 50%：微软推 AI 替你“干活”，Copilot 变身超级应用",
+          "url": "https://www.aibase.com/news/31302",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-22T16:06:04.361443Z"
+          "published_at": "2026-09-23T12:24:25.934355Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9409,
+        "recency": 0.7791,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -853,375 +1259,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T16:06:04.361443Z",
-      "latest_at": "2026-09-22T16:06:04.361443Z",
+      "earliest_at": "2026-09-23T12:24:25.934355Z",
+      "latest_at": "2026-09-23T12:24:25.934355Z",
       "primary_item": {
-        "id": "d557137f367f4e0ae6306b4b687687281f672d5c",
-        "title": "阿里试水QwenBook AI设备，团队规模约150人",
-        "url": "https://www.aibase.com/news/31270",
+        "id": "c8232ac6a39ba2b860f8adc624c910f155fd9864",
+        "title": "最高折扣 50%：微软推 AI 替你“干活”，Copilot 变身超级应用",
+        "url": "https://www.aibase.com/news/31302",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1c320478cd82",
-      "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
-      "url": "https://aihot.news/items/cmuctnbbf0nziroedajbl6g3r",
-      "primary_url": "https://aihot.news/items/cmuctnbbf0nziroedajbl6g3r",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1bc0e9a219d5376aee9fb71cc99f9dd76610d33f",
-          "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
-          "url": "https://aihot.news/items/cmuctnbbf0nziroedajbl6g3r",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T15:13:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "1bc0e9a219d5376aee9fb71cc99f9dd76610d33f",
-          "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
-          "url": "https://aihot.news/items/cmuctnbbf0nziroedajbl6g3r",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T15:13:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9044,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T15:13:34Z",
-      "latest_at": "2026-09-22T15:13:34Z",
-      "primary_item": {
-        "id": "1bc0e9a219d5376aee9fb71cc99f9dd76610d33f",
-        "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
-        "url": "https://aihot.news/items/cmuctnbbf0nziroedajbl6g3r",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_578c4003252d",
-      "title": "弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle",
-      "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
-      "primary_url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4a35cc0153a58845023103cb85f335de7f79b7c8",
-          "title": "弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle",
-          "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T09:21:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4a35cc0153a58845023103cb85f335de7f79b7c8",
-          "title": "弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle",
-          "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T09:21:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.6596,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T09:21:03Z",
-      "latest_at": "2026-09-22T09:21:03Z",
-      "primary_item": {
-        "id": "4a35cc0153a58845023103cb85f335de7f79b7c8",
-        "title": "弃用通知：全平台 CodeQL 捆绑包 / Deprecation notice: All-platform CodeQL bundle",
-        "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_eafb17fe46d0",
-      "title": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
-      "url": "https://www.aibase.com/news/31268",
-      "primary_url": "https://www.aibase.com/news/31268",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "92836c0fdd405d3c9315b0e57888192b648f8062",
-          "title": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
-          "url": "https://www.aibase.com/news/31268",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T15:06:04.361443Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "92836c0fdd405d3c9315b0e57888192b648f8062",
-          "title": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
-          "url": "https://www.aibase.com/news/31268",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T15:06:04.361443Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7918,
-      "importance": 0.7918,
-      "importance_score": 0.7918,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8992,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T15:06:04.361443Z",
-      "latest_at": "2026-09-22T15:06:04.361443Z",
-      "primary_item": {
-        "id": "92836c0fdd405d3c9315b0e57888192b648f8062",
-        "title": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
-        "url": "https://www.aibase.com/news/31268",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6c869d3de1a0",
-      "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
-      "url": "https://aihot.news/items/cmucs4qas0m1vroedh2vdhjb6",
-      "primary_url": "https://aihot.news/items/cmucs4qas0m1vroedh2vdhjb6",
-      "source": "LlamaIndex：产品、工程与评测",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2285dcac9f811e9b8498389650bb53da2de98f19",
-          "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
-          "url": "https://aihot.news/items/cmucs4qas0m1vroedh2vdhjb6",
-          "source": "LlamaIndex：产品、工程与评测",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T14:38:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LlamaIndex：产品、工程与评测"
-      ],
-      "items": [
-        {
-          "id": "2285dcac9f811e9b8498389650bb53da2de98f19",
-          "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
-          "url": "https://aihot.news/items/cmucs4qas0m1vroedh2vdhjb6",
-          "source": "LlamaIndex：产品、工程与评测",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T14:38:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8802,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T14:38:40Z",
-      "latest_at": "2026-09-22T14:38:40Z",
-      "primary_item": {
-        "id": "2285dcac9f811e9b8498389650bb53da2de98f19",
-        "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
-        "url": "https://aihot.news/items/cmucs4qas0m1vroedh2vdhjb6",
-        "source": "LlamaIndex：产品、工程与评测",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b6c9298bca3c",
-      "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
-      "url": "https://aihot.news/items/cmucwn00k0rgmroed9bjd9g33",
-      "primary_url": "https://aihot.news/items/cmucwn00k0rgmroed9bjd9g33",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "87552b700d5b654dc2dedae9d5cdf407a145b0a8",
-          "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
-          "url": "https://aihot.news/items/cmucwn00k0rgmroed9bjd9g33",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T14:35:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News：AI 热帖"
-      ],
-      "items": [
-        {
-          "id": "87552b700d5b654dc2dedae9d5cdf407a145b0a8",
-          "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
-          "url": "https://aihot.news/items/cmucwn00k0rgmroed9bjd9g33",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T14:35:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8778,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T14:35:15Z",
-      "latest_at": "2026-09-22T14:35:15Z",
-      "primary_item": {
-        "id": "87552b700d5b654dc2dedae9d5cdf407a145b0a8",
-        "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
-        "url": "https://aihot.news/items/cmucwn00k0rgmroed9bjd9g33",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8d51dd1482b6",
-      "title": "Apple 新款 Mac mini（M6/M5 Pro）与 Mac Studio（M5 Max/M5 Ultra）今日开售",
-      "url": "https://aihot.news/items/cmucoqh360i0jroedps8dr2es",
-      "primary_url": "https://aihot.news/items/cmucoqh360i0jroedps8dr2es",
-      "source": "Apple：Newsroom（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "641d0788766734551f895d2e2895bf68d9466b1b",
-          "title": "Apple 新款 Mac mini（M6/M5 Pro）与 Mac Studio（M5 Max/M5 Ultra）今日开售",
-          "url": "https://aihot.news/items/cmucoqh360i0jroedps8dr2es",
-          "source": "Apple：Newsroom（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T12:59:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Apple：Newsroom（RSS）"
-      ],
-      "items": [
-        {
-          "id": "641d0788766734551f895d2e2895bf68d9466b1b",
-          "title": "Apple 新款 Mac mini（M6/M5 Pro）与 Mac Studio（M5 Max/M5 Ultra）今日开售",
-          "url": "https://aihot.news/items/cmucoqh360i0jroedps8dr2es",
-          "source": "Apple：Newsroom（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T12:59:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8112,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T12:59:21Z",
-      "latest_at": "2026-09-22T12:59:21Z",
-      "primary_item": {
-        "id": "641d0788766734551f895d2e2895bf68d9466b1b",
-        "title": "Apple 新款 Mac mini（M6/M5 Pro）与 Mac Studio（M5 Max/M5 Ultra）今日开售",
-        "url": "https://aihot.news/items/cmucoqh360i0jroedps8dr2es",
-        "source": "Apple：Newsroom（RSS）",
-        "source_name": "AI HOT"
       }
     }
   ]
