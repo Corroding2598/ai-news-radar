@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-09-29T18:27:31.600476Z",
+  "generated_at": "2026-09-30T18:16:31.727784Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_9be84db4b5c5",
-      "title": "GPT-6.1 Sol in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+      "story_id": "story_6caab1facf6a",
+      "title": "GitHub Advanced Security trials for GitHub Team",
+      "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+      "primary_url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "af29f025c5ac0129cadde6356b7889b9b5fb7a32",
-          "title": "GPT-6.1 Sol in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
+          "title": "GitHub Advanced Security trials for GitHub Team",
+          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-29T17:02:27Z"
+          "published_at": "2026-09-30T16:48:24Z"
         }
       ],
       "source_count": 1,
@@ -27,25 +27,25 @@
       ],
       "items": [
         {
-          "id": "af29f025c5ac0129cadde6356b7889b9b5fb7a32",
-          "title": "GPT-6.1 Sol in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+          "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
+          "title": "GitHub Advanced Security trials for GitHub Team",
+          "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-29T17:02:27Z"
+          "published_at": "2026-09-30T16:48:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8732,
-      "importance": 0.8732,
-      "importance_score": 0.8732,
+      "score": 0.8488,
+      "importance": 0.8488,
+      "importance_score": 0.8488,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9409,
+        "ai_relevance": 0.87,
+        "recency": 0.9388,
         "story_heat": 0.0
       },
       "category": "official",
@@ -54,32 +54,315 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T17:02:27Z",
-      "latest_at": "2026-09-29T17:02:27Z",
+      "earliest_at": "2026-09-30T16:48:24Z",
+      "latest_at": "2026-09-30T16:48:24Z",
       "primary_item": {
-        "id": "af29f025c5ac0129cadde6356b7889b9b5fb7a32",
-        "title": "GPT-6.1 Sol in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+        "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
+        "title": "GitHub Advanced Security trials for GitHub Team",
+        "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_26eda081f5ba",
-      "title": "安卓端Google Assistant正式谢幕，Gemini接管手机语音入口，手表汽车却还留着旧管家",
-      "url": "https://www.aibase.com/news/31419",
-      "primary_url": "https://www.aibase.com/news/31419",
+      "story_id": "story_40e72bec9edf",
+      "title": "HydraFusion in VS Code and the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
+          "title": "HydraFusion in VS Code and the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T14:31:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
+          "title": "HydraFusion in VS Code and the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T14:31:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8436,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T14:31:19Z",
+      "latest_at": "2026-09-30T14:31:19Z",
+      "primary_item": {
+        "id": "bd6ff7531c4f691e042fd6a620e1de8e0f43bc53",
+        "title": "HydraFusion in VS Code and the GitHub Copilot app",
+        "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6a91381a4292",
+      "title": "OpenAI 挫败协同模型蒸馏行动 / Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "primary_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "677e69be9293919b541c7b1d7f5ddf99c4e569cc",
+          "title": "OpenAI 挫败协同模型蒸馏行动 / Disrupting a coordinated model-distillation campaign",
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T10:30:00Z"
+        },
+        {
+          "id": "7f59be596ca13723d2442e4b8845b0e1fb5a280a",
+          "title": "OpenAI 挫败协同模型蒸馏行动",
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "677e69be9293919b541c7b1d7f5ddf99c4e569cc",
+          "title": "OpenAI 挫败协同模型蒸馏行动 / Disrupting a coordinated model-distillation campaign",
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T10:30:00Z"
+        },
+        {
+          "id": "7f59be596ca13723d2442e4b8845b0e1fb5a280a",
+          "title": "OpenAI 挫败协同模型蒸馏行动",
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.676,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T10:30:00Z",
+      "latest_at": "2026-09-30T18:16:31.727784Z",
+      "primary_item": {
+        "id": "677e69be9293919b541c7b1d7f5ddf99c4e569cc",
+        "title": "OpenAI 挫败协同模型蒸馏行动 / Disrupting a coordinated model-distillation campaign",
+        "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5294bab58d74",
+      "title": "X25519-only TLS ends for GHE.com on October 7",
+      "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+      "primary_url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
+          "title": "X25519-only TLS ends for GHE.com on October 7",
+          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T13:30:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
+          "title": "X25519-only TLS ends for GHE.com on October 7",
+          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T13:30:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8013,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T13:30:24Z",
+      "latest_at": "2026-09-30T13:30:24Z",
+      "primary_item": {
+        "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
+        "title": "X25519-only TLS ends for GHE.com on October 7",
+        "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_72c2d83c1d33",
+      "title": "亏损超80亿、算力承诺546亿:Anthropic招股书揭开大模型顶流的真实账本",
+      "url": "https://www.aibase.com/news/31438",
+      "primary_url": "https://www.aibase.com/news/31438",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "60fc5e98a94a9abfe0f2c0c52cb48388ac9df024",
-          "title": "安卓端Google Assistant正式谢幕，Gemini接管手机语音入口，手表汽车却还留着旧管家",
-          "url": "https://www.aibase.com/news/31419",
+          "id": "b15ec128830995aa7ee3a179b50f7ad8e6e11a40",
+          "title": "亏损超80亿、算力承诺546亿:Anthropic招股书揭开大模型顶流的真实账本",
+          "url": "https://www.aibase.com/news/31438",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-29T17:59:31.600476Z"
+          "published_at": "2026-09-30T16:16:31.727784Z"
+        },
+        {
+          "id": "f7a17c0e8cdac8f0e734aebdcb8c22a7bcbd5820",
+          "title": "亏损超 80 亿、算力承诺 546 亿：Anthropic 招股书揭开大模型顶流的真实账本",
+          "url": "https://www.aibase.com/zh/news/31438",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b15ec128830995aa7ee3a179b50f7ad8e6e11a40",
+          "title": "亏损超80亿、算力承诺546亿:Anthropic招股书揭开大模型顶流的真实账本",
+          "url": "https://www.aibase.com/news/31438",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T16:16:31.727784Z"
+        },
+        {
+          "id": "f7a17c0e8cdac8f0e734aebdcb8c22a7bcbd5820",
+          "title": "亏损超 80 亿、算力承诺 546 亿：Anthropic 招股书揭开大模型顶流的真实账本",
+          "url": "https://www.aibase.com/zh/news/31438",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9167,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T16:16:31.727784Z",
+      "latest_at": "2026-09-30T18:16:31.727784Z",
+      "primary_item": {
+        "id": "b15ec128830995aa7ee3a179b50f7ad8e6e11a40",
+        "title": "亏损超80亿、算力承诺546亿:Anthropic招股书揭开大模型顶流的真实账本",
+        "url": "https://www.aibase.com/news/31438",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_97bc90269c17",
+      "title": "苏姿丰下月访韩剑指HBM4，三星有望跻身AMD AI加速器内存供应链",
+      "url": "https://www.aibase.com/news/31445",
+      "primary_url": "https://www.aibase.com/news/31445",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "01c814b5764f311695cf54e7d5ba4b48a43fb854",
+          "title": "苏姿丰下月访韩剑指HBM4，三星有望跻身AMD AI加速器内存供应链",
+          "url": "https://www.aibase.com/news/31445",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T17:46:31.727784Z"
         }
       ],
       "source_count": 1,
@@ -88,25 +371,25 @@
       ],
       "items": [
         {
-          "id": "60fc5e98a94a9abfe0f2c0c52cb48388ac9df024",
-          "title": "安卓端Google Assistant正式谢幕，Gemini接管手机语音入口，手表汽车却还留着旧管家",
-          "url": "https://www.aibase.com/news/31419",
+          "id": "01c814b5764f311695cf54e7d5ba4b48a43fb854",
+          "title": "苏姿丰下月访韩剑指HBM4，三星有望跻身AMD AI加速器内存供应链",
+          "url": "https://www.aibase.com/news/31445",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-29T17:59:31.600476Z"
+          "published_at": "2026-09-30T17:46:31.727784Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9806,
+        "recency": 0.9792,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -114,59 +397,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T17:59:31.600476Z",
-      "latest_at": "2026-09-29T17:59:31.600476Z",
+      "earliest_at": "2026-09-30T17:46:31.727784Z",
+      "latest_at": "2026-09-30T17:46:31.727784Z",
       "primary_item": {
-        "id": "60fc5e98a94a9abfe0f2c0c52cb48388ac9df024",
-        "title": "安卓端Google Assistant正式谢幕，Gemini接管手机语音入口，手表汽车却还留着旧管家",
-        "url": "https://www.aibase.com/news/31419",
+        "id": "01c814b5764f311695cf54e7d5ba4b48a43fb854",
+        "title": "苏姿丰下月访韩剑指HBM4，三星有望跻身AMD AI加速器内存供应链",
+        "url": "https://www.aibase.com/news/31445",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_ee4172ad2cc3",
-      "title": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use",
-      "url": "https://aihot.news/items/f98z66ziz0zcujb7ni8vcsl0j",
-      "primary_url": "https://aihot.news/items/f98z66ziz0zcujb7ni8vcsl0j",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "source_name": "AI HOT",
+      "story_id": "story_42c5bc665f16",
+      "title": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+      "url": "https://www.aibase.com/news/31444",
+      "primary_url": "https://www.aibase.com/news/31444",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "64661565949de77ab8d931b759c19fe6efe1a035",
-          "title": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use",
-          "url": "https://aihot.news/items/f98z66ziz0zcujb7ni8vcsl0j",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T17:53:43Z"
+          "id": "2fe003d5b727e708ae7324358cc8ab2444e60ef1",
+          "title": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+          "url": "https://www.aibase.com/news/31444",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T17:43:31.727784Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "64661565949de77ab8d931b759c19fe6efe1a035",
-          "title": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use",
-          "url": "https://aihot.news/items/f98z66ziz0zcujb7ni8vcsl0j",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T17:53:43Z"
+          "id": "2fe003d5b727e708ae7324358cc8ab2444e60ef1",
+          "title": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+          "url": "https://www.aibase.com/news/31444",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T17:43:31.727784Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9765,
+        "recency": 0.9771,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -174,59 +457,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T17:53:43Z",
-      "latest_at": "2026-09-29T17:53:43Z",
+      "earliest_at": "2026-09-30T17:43:31.727784Z",
+      "latest_at": "2026-09-30T17:43:31.727784Z",
       "primary_item": {
-        "id": "64661565949de77ab8d931b759c19fe6efe1a035",
-        "title": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use",
-        "url": "https://aihot.news/items/f98z66ziz0zcujb7ni8vcsl0j",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT"
+        "id": "2fe003d5b727e708ae7324358cc8ab2444e60ef1",
+        "title": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
+        "url": "https://www.aibase.com/news/31444",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_592f69a28e21",
-      "title": "ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用",
-      "url": "https://aihot.news/items/l641opkl15r7iy1fa80jyuh1l",
-      "primary_url": "https://aihot.news/items/l641opkl15r7iy1fa80jyuh1l",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
+      "story_id": "story_15b832525770",
+      "title": "沃尔玛向门店 AI 海报下\"禁令\"：ChatGPT 生成的招牌一律不许挂",
+      "url": "https://www.aibase.com/news/31443",
+      "primary_url": "https://www.aibase.com/news/31443",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "68b22b0aadce9b47465cdcbc690bd0fd4ddb9df0",
-          "title": "ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用",
-          "url": "https://aihot.news/items/l641opkl15r7iy1fa80jyuh1l",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T17:47:44Z"
+          "id": "9ecb1919899073dfe756e0578cf3dabca6db8e60",
+          "title": "沃尔玛向门店 AI 海报下\"禁令\"：ChatGPT 生成的招牌一律不许挂",
+          "url": "https://www.aibase.com/news/31443",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T17:36:31.727784Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Tibo (@thsottiaux)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "68b22b0aadce9b47465cdcbc690bd0fd4ddb9df0",
-          "title": "ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用",
-          "url": "https://aihot.news/items/l641opkl15r7iy1fa80jyuh1l",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T17:47:44Z"
+          "id": "9ecb1919899073dfe756e0578cf3dabca6db8e60",
+          "title": "沃尔玛向门店 AI 海报下\"禁令\"：ChatGPT 生成的招牌一律不许挂",
+          "url": "https://www.aibase.com/news/31443",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T17:36:31.727784Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9724,
+        "recency": 0.9722,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -234,47 +517,107 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T17:47:44Z",
-      "latest_at": "2026-09-29T17:47:44Z",
+      "earliest_at": "2026-09-30T17:36:31.727784Z",
+      "latest_at": "2026-09-30T17:36:31.727784Z",
       "primary_item": {
-        "id": "68b22b0aadce9b47465cdcbc690bd0fd4ddb9df0",
-        "title": "ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用",
-        "url": "https://aihot.news/items/l641opkl15r7iy1fa80jyuh1l",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
+        "id": "9ecb1919899073dfe756e0578cf3dabca6db8e60",
+        "title": "沃尔玛向门店 AI 海报下\"禁令\"：ChatGPT 生成的招牌一律不许挂",
+        "url": "https://www.aibase.com/news/31443",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_90bf726e0f7c",
-      "title": "OpenAI 发布常驻智能体 dots，由 GPT‑6 Astra 驱动",
-      "url": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
-      "primary_url": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_1935b0311ad2",
+      "title": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
+      "url": "https://www.aibase.com/news/31442",
+      "primary_url": "https://www.aibase.com/news/31442",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "ccf025f2b6aacb9e0b868bd9ce175056861fb55c",
-          "title": "OpenAI 发布常驻智能体 dots，由 GPT‑6 Astra 驱动",
-          "url": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T17:36:13Z"
+          "id": "6757c36b81c628fb06c093fe683ab944bdaf493e",
+          "title": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
+          "url": "https://www.aibase.com/news/31442",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T17:31:31.727784Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "ccf025f2b6aacb9e0b868bd9ce175056861fb55c",
-          "title": "OpenAI 发布常驻智能体 dots，由 GPT‑6 Astra 驱动",
-          "url": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "6757c36b81c628fb06c093fe683ab944bdaf493e",
+          "title": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
+          "url": "https://www.aibase.com/news/31442",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T17:31:31.727784Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8058,
+      "importance": 0.8058,
+      "importance_score": 0.8058,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9688,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T17:31:31.727784Z",
+      "latest_at": "2026-09-30T17:31:31.727784Z",
+      "primary_item": {
+        "id": "6757c36b81c628fb06c093fe683ab944bdaf493e",
+        "title": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
+        "url": "https://www.aibase.com/news/31442",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dbc144b045d1",
+      "title": "Jensen Huang 称行业领袖在白宫签署超级智能协定",
+      "url": "https://aihot.news/items/fr7dgcpa02ssu37g9fsmj5q9n",
+      "primary_url": "https://aihot.news/items/fr7dgcpa02ssu37g9fsmj5q9n",
+      "source": "X：Jensen Huang (@JensenHuang)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aedafb518550fc0eb1f40e47c3f1b19f361da85a",
+          "title": "Jensen Huang 称行业领袖在白宫签署超级智能协定",
+          "url": "https://aihot.news/items/fr7dgcpa02ssu37g9fsmj5q9n",
+          "source": "X：Jensen Huang (@JensenHuang)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T17:36:13Z"
+          "published_at": "2026-09-30T17:25:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Jensen Huang (@JensenHuang)"
+      ],
+      "items": [
+        {
+          "id": "aedafb518550fc0eb1f40e47c3f1b19f361da85a",
+          "title": "Jensen Huang 称行业领袖在白宫签署超级智能协定",
+          "url": "https://aihot.news/items/fr7dgcpa02ssu37g9fsmj5q9n",
+          "source": "X：Jensen Huang (@JensenHuang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T17:25:30Z"
         }
       ],
       "item_count": 1,
@@ -286,7 +629,7 @@
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9644,
+        "recency": 0.9646,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -294,59 +637,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T17:36:13Z",
-      "latest_at": "2026-09-29T17:36:13Z",
+      "earliest_at": "2026-09-30T17:25:30Z",
+      "latest_at": "2026-09-30T17:25:30Z",
       "primary_item": {
-        "id": "ccf025f2b6aacb9e0b868bd9ce175056861fb55c",
-        "title": "OpenAI 发布常驻智能体 dots，由 GPT‑6 Astra 驱动",
-        "url": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "aedafb518550fc0eb1f40e47c3f1b19f361da85a",
+        "title": "Jensen Huang 称行业领袖在白宫签署超级智能协定",
+        "url": "https://aihot.news/items/fr7dgcpa02ssu37g9fsmj5q9n",
+        "source": "X：Jensen Huang (@JensenHuang)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_1e69724407e6",
-      "title": "ChatGPT 推出 Space 团队协作功能与交互式文档 pages",
-      "url": "https://aihot.news/items/e4a2k70bkqzz23di75itqnegk",
-      "primary_url": "https://aihot.news/items/e4a2k70bkqzz23di75itqnegk",
-      "source": "X：ChatGPT (@ChatGPT)",
-      "source_name": "AI HOT",
+      "story_id": "story_c155b7b1d3cc",
+      "title": "豆包AI个人助手独立App实锤：定名“小豆”剑指全场景智能生态",
+      "url": "https://www.aibase.com/news/31440",
+      "primary_url": "https://www.aibase.com/news/31440",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "b578a74cc354711d7ca45d56c90018c128247729",
-          "title": "ChatGPT 推出 Space 团队协作功能与交互式文档 pages",
-          "url": "https://aihot.news/items/e4a2k70bkqzz23di75itqnegk",
-          "source": "X：ChatGPT (@ChatGPT)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T17:29:06Z"
+          "id": "7243905fee1bfec29126eed83a91b603d3eae548",
+          "title": "豆包AI个人助手独立App实锤：定名“小豆”剑指全场景智能生态",
+          "url": "https://www.aibase.com/news/31440",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T17:16:31.727784Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：ChatGPT (@ChatGPT)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "b578a74cc354711d7ca45d56c90018c128247729",
-          "title": "ChatGPT 推出 Space 团队协作功能与交互式文档 pages",
-          "url": "https://aihot.news/items/e4a2k70bkqzz23di75itqnegk",
-          "source": "X：ChatGPT (@ChatGPT)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T17:29:06Z"
+          "id": "7243905fee1bfec29126eed83a91b603d3eae548",
+          "title": "豆包AI个人助手独立App实锤：定名“小豆”剑指全场景智能生态",
+          "url": "https://www.aibase.com/news/31440",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T17:16:31.727784Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9594,
+        "recency": 0.9583,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -354,32 +697,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T17:29:06Z",
-      "latest_at": "2026-09-29T17:29:06Z",
+      "earliest_at": "2026-09-30T17:16:31.727784Z",
+      "latest_at": "2026-09-30T17:16:31.727784Z",
       "primary_item": {
-        "id": "b578a74cc354711d7ca45d56c90018c128247729",
-        "title": "ChatGPT 推出 Space 团队协作功能与交互式文档 pages",
-        "url": "https://aihot.news/items/e4a2k70bkqzz23di75itqnegk",
-        "source": "X：ChatGPT (@ChatGPT)",
-        "source_name": "AI HOT"
+        "id": "7243905fee1bfec29126eed83a91b603d3eae548",
+        "title": "豆包AI个人助手独立App实锤：定名“小豆”剑指全场景智能生态",
+        "url": "https://www.aibase.com/news/31440",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_9ea20ba9f25e",
-      "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
-      "url": "https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed",
-      "primary_url": "https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed",
+      "story_id": "story_cfe42da6221d",
+      "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+      "url": "https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw",
+      "primary_url": "https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "dafaefda9df72aee4914790436e3d1465fb2b63f",
-          "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
-          "url": "https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed",
+          "id": "9d8ad365ce38665a8691df7cfcd400fdce51a54a",
+          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+          "url": "https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T17:23:22Z"
+          "published_at": "2026-09-30T16:20:04Z"
         }
       ],
       "source_count": 1,
@@ -388,25 +731,25 @@
       ],
       "items": [
         {
-          "id": "dafaefda9df72aee4914790436e3d1465fb2b63f",
-          "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
-          "url": "https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed",
+          "id": "9d8ad365ce38665a8691df7cfcd400fdce51a54a",
+          "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+          "url": "https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T17:23:22Z"
+          "published_at": "2026-09-30T16:20:04Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9554,
+        "recency": 0.9191,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -414,32 +757,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T17:23:22Z",
-      "latest_at": "2026-09-29T17:23:22Z",
+      "earliest_at": "2026-09-30T16:20:04Z",
+      "latest_at": "2026-09-30T16:20:04Z",
       "primary_item": {
-        "id": "dafaefda9df72aee4914790436e3d1465fb2b63f",
-        "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
-        "url": "https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed",
+        "id": "9d8ad365ce38665a8691df7cfcd400fdce51a54a",
+        "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
+        "url": "https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ad688b3c0738",
-      "title": "OpenAI 抛训练安全新规：高管手握\"一票否决\"，警报超时自动停训",
-      "url": "https://www.aibase.com/news/31417",
-      "primary_url": "https://www.aibase.com/news/31417",
+      "story_id": "story_5dce233c18ec",
+      "title": "OpenAI与红帽等联合推进OCE1.0研发，打造面向AI代理的“企业级Kubernetes”",
+      "url": "https://www.aibase.com/news/31439",
+      "primary_url": "https://www.aibase.com/news/31439",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b24ac9918a8c0ece8869a4cd0e407f8f1a80bd6d",
-          "title": "OpenAI 抛训练安全新规：高管手握\"一票否决\"，警报超时自动停训",
-          "url": "https://www.aibase.com/news/31417",
+          "id": "b593c19ffd3badaa00f1381546aa1dc7f9ad36d9",
+          "title": "OpenAI与红帽等联合推进OCE1.0研发，打造面向AI代理的“企业级Kubernetes”",
+          "url": "https://www.aibase.com/news/31439",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-29T16:27:31.600476Z"
+          "published_at": "2026-09-30T16:16:31.727784Z"
         }
       ],
       "source_count": 1,
@@ -448,13 +791,13 @@
       ],
       "items": [
         {
-          "id": "b24ac9918a8c0ece8869a4cd0e407f8f1a80bd6d",
-          "title": "OpenAI 抛训练安全新规：高管手握\"一票否决\"，警报超时自动停训",
-          "url": "https://www.aibase.com/news/31417",
+          "id": "b593c19ffd3badaa00f1381546aa1dc7f9ad36d9",
+          "title": "OpenAI与红帽等联合推进OCE1.0研发，打造面向AI代理的“企业级Kubernetes”",
+          "url": "https://www.aibase.com/news/31439",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-29T16:27:31.600476Z"
+          "published_at": "2026-09-30T16:16:31.727784Z"
         }
       ],
       "item_count": 1,
@@ -474,32 +817,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T16:27:31.600476Z",
-      "latest_at": "2026-09-29T16:27:31.600476Z",
+      "earliest_at": "2026-09-30T16:16:31.727784Z",
+      "latest_at": "2026-09-30T16:16:31.727784Z",
       "primary_item": {
-        "id": "b24ac9918a8c0ece8869a4cd0e407f8f1a80bd6d",
-        "title": "OpenAI 抛训练安全新规：高管手握\"一票否决\"，警报超时自动停训",
-        "url": "https://www.aibase.com/news/31417",
+        "id": "b593c19ffd3badaa00f1381546aa1dc7f9ad36d9",
+        "title": "OpenAI与红帽等联合推进OCE1.0研发，打造面向AI代理的“企业级Kubernetes”",
+        "url": "https://www.aibase.com/news/31439",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_cb99c0ccf8f3",
-      "title": "央视揭网贷诈骗新套路：AI 一天狂拨 20 万通，两月坑了上千人",
-      "url": "https://www.aibase.com/news/31416",
-      "primary_url": "https://www.aibase.com/news/31416",
+      "story_id": "story_f87debf1c7e7",
+      "title": "微软亮出生物学\"世界模型\"Project Quine：一个周末筛出抗癌候选物",
+      "url": "https://www.aibase.com/news/31437",
+      "primary_url": "https://www.aibase.com/news/31437",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "148d8ceb671733ed81bcccc802b207692a821491",
-          "title": "央视揭网贷诈骗新套路：AI 一天狂拨 20 万通，两月坑了上千人",
-          "url": "https://www.aibase.com/news/31416",
+          "id": "51f97ec615e8f98a5ae70a26bf7f947b90f5223b",
+          "title": "微软亮出生物学\"世界模型\"Project Quine：一个周末筛出抗癌候选物",
+          "url": "https://www.aibase.com/news/31437",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-29T16:27:31.600476Z"
+          "published_at": "2026-09-30T16:16:31.727784Z"
         }
       ],
       "source_count": 1,
@@ -508,13 +851,13 @@
       ],
       "items": [
         {
-          "id": "148d8ceb671733ed81bcccc802b207692a821491",
-          "title": "央视揭网贷诈骗新套路：AI 一天狂拨 20 万通，两月坑了上千人",
-          "url": "https://www.aibase.com/news/31416",
+          "id": "51f97ec615e8f98a5ae70a26bf7f947b90f5223b",
+          "title": "微软亮出生物学\"世界模型\"Project Quine：一个周末筛出抗癌候选物",
+          "url": "https://www.aibase.com/news/31437",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-29T16:27:31.600476Z"
+          "published_at": "2026-09-30T16:16:31.727784Z"
         }
       ],
       "item_count": 1,
@@ -534,178 +877,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T16:27:31.600476Z",
-      "latest_at": "2026-09-29T16:27:31.600476Z",
+      "earliest_at": "2026-09-30T16:16:31.727784Z",
+      "latest_at": "2026-09-30T16:16:31.727784Z",
       "primary_item": {
-        "id": "148d8ceb671733ed81bcccc802b207692a821491",
-        "title": "央视揭网贷诈骗新套路：AI 一天狂拨 20 万通，两月坑了上千人",
-        "url": "https://www.aibase.com/news/31416",
+        "id": "51f97ec615e8f98a5ae70a26bf7f947b90f5223b",
+        "title": "微软亮出生物学\"世界模型\"Project Quine：一个周末筛出抗癌候选物",
+        "url": "https://www.aibase.com/news/31437",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_884977ecb800",
-      "title": "圆点 / Introducing dots",
-      "url": "https://openai.com/index/introducing-dots",
-      "primary_url": "https://openai.com/index/introducing-dots",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_5eb4a858ef5b",
+      "title": "《纽约时报》揭 OpenAI 安全黑洞：员工预警遭无视，GPT-6.1 Astra 被迫搁置",
+      "url": "https://www.aibase.com/news/31436",
+      "primary_url": "https://www.aibase.com/news/31436",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "2b11a94daa76944049a411e5efd75358f397d796",
-          "title": "圆点 / Introducing dots",
-          "url": "https://openai.com/index/introducing-dots",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z"
-        },
-        {
-          "id": "1c68c3e1f1673d60618000416d29305baeffb172",
-          "title": "圆点",
-          "url": "https://openai.com/index/introducing-dots",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-29T17:36:13.593000Z"
-        },
-        {
-          "id": "e61c8538b91723609748335f63d606600688e18a",
-          "title": "Dots",
-          "url": "https://openai.com/index/introducing-dots",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-29T17:07:57Z"
-        },
-        {
-          "id": "f5800fcde9d1657f69a08421b120dda90d3395db",
-          "title": "圆点 / Dots: Always-on agents",
-          "url": "https://openai.com/index/introducing-dots",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-29T17:07:57Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "2b11a94daa76944049a411e5efd75358f397d796",
-          "title": "圆点 / Introducing dots",
-          "url": "https://openai.com/index/introducing-dots",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z"
-        },
-        {
-          "id": "1c68c3e1f1673d60618000416d29305baeffb172",
-          "title": "圆点",
-          "url": "https://openai.com/index/introducing-dots",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-29T17:36:13.593000Z"
-        },
-        {
-          "id": "e61c8538b91723609748335f63d606600688e18a",
-          "title": "Dots",
-          "url": "https://openai.com/index/introducing-dots",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-29T17:07:57Z"
-        },
-        {
-          "id": "f5800fcde9d1657f69a08421b120dda90d3395db",
-          "title": "圆点 / Dots: Always-on agents",
-          "url": "https://openai.com/index/introducing-dots",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-29T17:07:57Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2309,
-        "story_heat": 0.75
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T00:00:00Z",
-      "latest_at": "2026-09-29T17:36:13.593000Z",
-      "primary_item": {
-        "id": "2b11a94daa76944049a411e5efd75358f397d796",
-        "title": "圆点 / Introducing dots",
-        "url": "https://openai.com/index/introducing-dots",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f7060d94f779",
-      "title": "Arena 研究：LLM 裁判偏爱自己答案的概率比人类高 70%",
-      "url": "https://aihot.news/items/u6afu3icor0mjvuoie6d2fd2w",
-      "primary_url": "https://aihot.news/items/u6afu3icor0mjvuoie6d2fd2w",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "db894c41c0f37f16c4491800849f5e37d0dc6172",
-          "title": "Arena 研究：LLM 裁判偏爱自己答案的概率比人类高 70%",
-          "url": "https://aihot.news/items/u6afu3icor0mjvuoie6d2fd2w",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T16:05:24Z"
+          "id": "defab0a400a4c9a602dbb002a6da7c0603dcfc1d",
+          "title": "《纽约时报》揭 OpenAI 安全黑洞：员工预警遭无视，GPT-6.1 Astra 被迫搁置",
+          "url": "https://www.aibase.com/news/31436",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T15:16:31.727784Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Arena (@arena)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "db894c41c0f37f16c4491800849f5e37d0dc6172",
-          "title": "Arena 研究：LLM 裁判偏爱自己答案的概率比人类高 70%",
-          "url": "https://aihot.news/items/u6afu3icor0mjvuoie6d2fd2w",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T16:05:24Z"
+          "id": "defab0a400a4c9a602dbb002a6da7c0603dcfc1d",
+          "title": "《纽约时报》揭 OpenAI 安全黑洞：员工预警遭无视，GPT-6.1 Astra 被迫搁置",
+          "url": "https://www.aibase.com/news/31436",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T15:16:31.727784Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7923,
-      "importance": 0.7923,
-      "importance_score": 0.7923,
+      "score": 0.787,
+      "importance": 0.787,
+      "importance_score": 0.787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9013,
+        "recency": 0.875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -713,59 +937,299 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T16:05:24Z",
-      "latest_at": "2026-09-29T16:05:24Z",
+      "earliest_at": "2026-09-30T15:16:31.727784Z",
+      "latest_at": "2026-09-30T15:16:31.727784Z",
       "primary_item": {
-        "id": "db894c41c0f37f16c4491800849f5e37d0dc6172",
-        "title": "Arena 研究：LLM 裁判偏爱自己答案的概率比人类高 70%",
-        "url": "https://aihot.news/items/u6afu3icor0mjvuoie6d2fd2w",
-        "source": "X：Arena (@arena)",
+        "id": "defab0a400a4c9a602dbb002a6da7c0603dcfc1d",
+        "title": "《纽约时报》揭 OpenAI 安全黑洞：员工预警遭无视，GPT-6.1 Astra 被迫搁置",
+        "url": "https://www.aibase.com/news/31436",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4fe599838410",
+      "title": "微软研究院发布生物学“世界模型”Quine，药物筛选验证周期压缩至数天",
+      "url": "https://www.aibase.com/news/31434",
+      "primary_url": "https://www.aibase.com/news/31434",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8ca3f0b148dc1f5e792c8f3bf2b5bfbf579fe883",
+          "title": "微软研究院发布生物学“世界模型”Quine，药物筛选验证周期压缩至数天",
+          "url": "https://www.aibase.com/news/31434",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T15:16:31.727784Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8ca3f0b148dc1f5e792c8f3bf2b5bfbf579fe883",
+          "title": "微软研究院发布生物学“世界模型”Quine，药物筛选验证周期压缩至数天",
+          "url": "https://www.aibase.com/news/31434",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T15:16:31.727784Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.787,
+      "importance": 0.787,
+      "importance_score": 0.787,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.875,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T15:16:31.727784Z",
+      "latest_at": "2026-09-30T15:16:31.727784Z",
+      "primary_item": {
+        "id": "8ca3f0b148dc1f5e792c8f3bf2b5bfbf579fe883",
+        "title": "微软研究院发布生物学“世界模型”Quine，药物筛选验证周期压缩至数天",
+        "url": "https://www.aibase.com/news/31434",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d6854b383816",
+      "title": "谷歌宣布向免费用户全面开放 Gemini Skills，Gems 功能将于 11 月完成历史性整合",
+      "url": "https://www.aibase.com/news/31435",
+      "primary_url": "https://www.aibase.com/news/31435",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6fb0fec1680a3c5821303056ce2ffece4f1b17c8",
+          "title": "谷歌宣布向免费用户全面开放 Gemini Skills，Gems 功能将于 11 月完成历史性整合",
+          "url": "https://www.aibase.com/news/31435",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T15:16:31.727784Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6fb0fec1680a3c5821303056ce2ffece4f1b17c8",
+          "title": "谷歌宣布向免费用户全面开放 Gemini Skills，Gems 功能将于 11 月完成历史性整合",
+          "url": "https://www.aibase.com/news/31435",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T15:16:31.727784Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.787,
+      "importance": 0.787,
+      "importance_score": 0.787,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.875,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T15:16:31.727784Z",
+      "latest_at": "2026-09-30T15:16:31.727784Z",
+      "primary_item": {
+        "id": "6fb0fec1680a3c5821303056ce2ffece4f1b17c8",
+        "title": "谷歌宣布向免费用户全面开放 Gemini Skills，Gems 功能将于 11 月完成历史性整合",
+        "url": "https://www.aibase.com/news/31435",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_87af6c77a204",
+      "title": "豆包AI再升级:一站式搞定出行全流程，剑指生活服务入口",
+      "url": "https://www.aibase.com/news/31433",
+      "primary_url": "https://www.aibase.com/news/31433",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "462ff8f0e7abc456490fa32a4f04374f18006fc6",
+          "title": "豆包AI再升级:一站式搞定出行全流程，剑指生活服务入口",
+          "url": "https://www.aibase.com/news/31433",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T15:16:31.727784Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "462ff8f0e7abc456490fa32a4f04374f18006fc6",
+          "title": "豆包AI再升级:一站式搞定出行全流程，剑指生活服务入口",
+          "url": "https://www.aibase.com/news/31433",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-30T15:16:31.727784Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.787,
+      "importance": 0.787,
+      "importance_score": 0.787,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.875,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T15:16:31.727784Z",
+      "latest_at": "2026-09-30T15:16:31.727784Z",
+      "primary_item": {
+        "id": "462ff8f0e7abc456490fa32a4f04374f18006fc6",
+        "title": "豆包AI再升级:一站式搞定出行全流程，剑指生活服务入口",
+        "url": "https://www.aibase.com/news/31433",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e55a5d916818",
+      "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
+      "url": "https://aihot.news/items/deivg466iwv9ypddacud3hd7d",
+      "primary_url": "https://aihot.news/items/deivg466iwv9ypddacud3hd7d",
+      "source": "Google DeepMind：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "acef7a1a7c62dbffc965fba117935a0622d0d0ae",
+          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
+          "url": "https://aihot.news/items/deivg466iwv9ypddacud3hd7d",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T15:03:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "acef7a1a7c62dbffc965fba117935a0622d0d0ae",
+          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
+          "url": "https://aihot.news/items/deivg466iwv9ypddacud3hd7d",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T15:03:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7851,
+      "importance": 0.7851,
+      "importance_score": 0.7851,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8657,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T15:03:07Z",
+      "latest_at": "2026-09-30T15:03:07Z",
+      "primary_item": {
+        "id": "acef7a1a7c62dbffc965fba117935a0622d0d0ae",
+        "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
+        "url": "https://aihot.news/items/deivg466iwv9ypddacud3hd7d",
+        "source": "Google DeepMind：Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_fa122f2b9051",
-      "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择",
-      "url": "https://aihot.news/items/olf3cbdvsrlr6avso72eom7ea",
-      "primary_url": "https://aihot.news/items/olf3cbdvsrlr6avso72eom7ea",
-      "source": "Pragmatic Engineer（RSS）",
+      "story_id": "story_56ba9e058f0c",
+      "title": "MIT 等机构发布 Ataraxos，以极低成本战胜顶级人类 Stratego 选手",
+      "url": "https://aihot.news/items/knj4jcg30hz6vujhwu7xqeplj",
+      "primary_url": "https://aihot.news/items/knj4jcg30hz6vujhwu7xqeplj",
+      "source": "MIT News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d7e099b809315a4ce4638c15ffc62be1df346f92",
-          "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择",
-          "url": "https://aihot.news/items/olf3cbdvsrlr6avso72eom7ea",
-          "source": "Pragmatic Engineer（RSS）",
+          "id": "bd502a5a4271de276651e4e8fff94e39804a8538",
+          "title": "MIT 等机构发布 Ataraxos，以极低成本战胜顶级人类 Stratego 选手",
+          "url": "https://aihot.news/items/knj4jcg30hz6vujhwu7xqeplj",
+          "source": "MIT News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T15:53:19Z"
+          "published_at": "2026-09-30T15:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Pragmatic Engineer（RSS）"
+        "MIT News（RSS）"
       ],
       "items": [
         {
-          "id": "d7e099b809315a4ce4638c15ffc62be1df346f92",
-          "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择",
-          "url": "https://aihot.news/items/olf3cbdvsrlr6avso72eom7ea",
-          "source": "Pragmatic Engineer（RSS）",
+          "id": "bd502a5a4271de276651e4e8fff94e39804a8538",
+          "title": "MIT 等机构发布 Ataraxos，以极低成本战胜顶级人类 Stratego 选手",
+          "url": "https://aihot.news/items/knj4jcg30hz6vujhwu7xqeplj",
+          "source": "MIT News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T15:53:19Z"
+          "published_at": "2026-09-30T15:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
+      "score": 0.7847,
+      "importance": 0.7847,
+      "importance_score": 0.7847,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.8635,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -773,494 +1237,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T15:53:19Z",
-      "latest_at": "2026-09-29T15:53:19Z",
+      "earliest_at": "2026-09-30T15:00:00Z",
+      "latest_at": "2026-09-30T15:00:00Z",
       "primary_item": {
-        "id": "d7e099b809315a4ce4638c15ffc62be1df346f92",
-        "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择",
-        "url": "https://aihot.news/items/olf3cbdvsrlr6avso72eom7ea",
-        "source": "Pragmatic Engineer（RSS）",
+        "id": "bd502a5a4271de276651e4e8fff94e39804a8538",
+        "title": "MIT 等机构发布 Ataraxos，以极低成本战胜顶级人类 Stratego 选手",
+        "url": "https://aihot.news/items/knj4jcg30hz6vujhwu7xqeplj",
+        "source": "MIT News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_251b41798a77",
-      "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
-      "url": "https://aihot.news/items/a5g2n8nm848m2i7oaghvgl55o",
-      "primary_url": "https://aihot.news/items/a5g2n8nm848m2i7oaghvgl55o",
-      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "09ef5bb2cd4f399b48e2d068cf757a2dd0e40290",
-          "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
-          "url": "https://aihot.news/items/a5g2n8nm848m2i7oaghvgl55o",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T15:45:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
-      ],
-      "items": [
-        {
-          "id": "09ef5bb2cd4f399b48e2d068cf757a2dd0e40290",
-          "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
-          "url": "https://aihot.news/items/a5g2n8nm848m2i7oaghvgl55o",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T15:45:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7895,
-      "importance": 0.7895,
-      "importance_score": 0.7895,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8877,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T15:45:46Z",
-      "latest_at": "2026-09-29T15:45:46Z",
-      "primary_item": {
-        "id": "09ef5bb2cd4f399b48e2d068cf757a2dd0e40290",
-        "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
-        "url": "https://aihot.news/items/a5g2n8nm848m2i7oaghvgl55o",
-        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d9e15bdd303d",
-      "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
-      "url": "https://aihot.news/items/tcf79upi169og7ftecq28pps2",
-      "primary_url": "https://aihot.news/items/tcf79upi169og7ftecq28pps2",
-      "source": "Hugging Face：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "57ca608d9a00ee59ce8e799dbad4008aa61c66db",
-          "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
-          "url": "https://aihot.news/items/tcf79upi169og7ftecq28pps2",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T15:30:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "57ca608d9a00ee59ce8e799dbad4008aa61c66db",
-          "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
-          "url": "https://aihot.news/items/tcf79upi169og7ftecq28pps2",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T15:30:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8772,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T15:30:38Z",
-      "latest_at": "2026-09-29T15:30:38Z",
-      "primary_item": {
-        "id": "57ca608d9a00ee59ce8e799dbad4008aa61c66db",
-        "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
-        "url": "https://aihot.news/items/tcf79upi169og7ftecq28pps2",
-        "source": "Hugging Face：Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_82cb1f5f7541",
-      "title": "AMD 82 亿美元全股票吞下World Labs，李飞飞挂帅执行副总裁",
-      "url": "https://www.aibase.com/news/31415",
-      "primary_url": "https://www.aibase.com/news/31415",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d751c3ba7418596bbcdd8825d51edc66fca815c3",
-          "title": "AMD 82 亿美元全股票吞下World Labs，李飞飞挂帅执行副总裁",
-          "url": "https://www.aibase.com/news/31415",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T15:27:31.600476Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d751c3ba7418596bbcdd8825d51edc66fca815c3",
-          "title": "AMD 82 亿美元全股票吞下World Labs，李飞飞挂帅执行副总裁",
-          "url": "https://www.aibase.com/news/31415",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T15:27:31.600476Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.875,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T15:27:31.600476Z",
-      "latest_at": "2026-09-29T15:27:31.600476Z",
-      "primary_item": {
-        "id": "d751c3ba7418596bbcdd8825d51edc66fca815c3",
-        "title": "AMD 82 亿美元全股票吞下World Labs，李飞飞挂帅执行副总裁",
-        "url": "https://www.aibase.com/news/31415",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a61f6529e35f",
-      "title": "OpenAI明日重启200美元Pro订阅:API配额减半，取消5小时限制",
-      "url": "https://www.aibase.com/news/31413",
-      "primary_url": "https://www.aibase.com/news/31413",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9a451596fb998952296bd543cd4867507338cc48",
-          "title": "OpenAI明日重启200美元Pro订阅:API配额减半，取消5小时限制",
-          "url": "https://www.aibase.com/news/31413",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T15:27:31.600476Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9a451596fb998952296bd543cd4867507338cc48",
-          "title": "OpenAI明日重启200美元Pro订阅:API配额减半，取消5小时限制",
-          "url": "https://www.aibase.com/news/31413",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T15:27:31.600476Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.875,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T15:27:31.600476Z",
-      "latest_at": "2026-09-29T15:27:31.600476Z",
-      "primary_item": {
-        "id": "9a451596fb998952296bd543cd4867507338cc48",
-        "title": "OpenAI明日重启200美元Pro订阅:API配额减半，取消5小时限制",
-        "url": "https://www.aibase.com/news/31413",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fe42d02e04dd",
-      "title": "xAI推出Team Bots：能跟团队一起学、一起干的Grok智能体， 24 小时帮保险公司挽回 12 万美元",
-      "url": "https://www.aibase.com/news/31414",
-      "primary_url": "https://www.aibase.com/news/31414",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3433eb5a18099759dadb3ad4d038cd0cbb8edec2",
-          "title": "xAI推出Team Bots：能跟团队一起学、一起干的Grok智能体， 24 小时帮保险公司挽回 12 万美元",
-          "url": "https://www.aibase.com/news/31414",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T15:27:31.600476Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3433eb5a18099759dadb3ad4d038cd0cbb8edec2",
-          "title": "xAI推出Team Bots：能跟团队一起学、一起干的Grok智能体， 24 小时帮保险公司挽回 12 万美元",
-          "url": "https://www.aibase.com/news/31414",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T15:27:31.600476Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.875,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T15:27:31.600476Z",
-      "latest_at": "2026-09-29T15:27:31.600476Z",
-      "primary_item": {
-        "id": "3433eb5a18099759dadb3ad4d038cd0cbb8edec2",
-        "title": "xAI推出Team Bots：能跟团队一起学、一起干的Grok智能体， 24 小时帮保险公司挽回 12 万美元",
-        "url": "https://www.aibase.com/news/31414",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_83a2221c61ae",
-      "title": "中国生成式 AI 用户破 7 亿，普及率过半，算力一年涨了 177%",
-      "url": "https://www.aibase.com/news/31411",
-      "primary_url": "https://www.aibase.com/news/31411",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "90cd2e2d9572a7a60cc90bc9d28786807b6833f6",
-          "title": "中国生成式 AI 用户破 7 亿，普及率过半，算力一年涨了 177%",
-          "url": "https://www.aibase.com/news/31411",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T15:27:31.600476Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "90cd2e2d9572a7a60cc90bc9d28786807b6833f6",
-          "title": "中国生成式 AI 用户破 7 亿，普及率过半，算力一年涨了 177%",
-          "url": "https://www.aibase.com/news/31411",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T15:27:31.600476Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.875,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T15:27:31.600476Z",
-      "latest_at": "2026-09-29T15:27:31.600476Z",
-      "primary_item": {
-        "id": "90cd2e2d9572a7a60cc90bc9d28786807b6833f6",
-        "title": "中国生成式 AI 用户破 7 亿，普及率过半，算力一年涨了 177%",
-        "url": "https://www.aibase.com/news/31411",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_84e5e4fb1e9e",
-      "title": "麦肯锡：十年内约 1100 万美国人或因 AI 丢岗转行，真正的难题是\"往哪转\"",
-      "url": "https://www.aibase.com/news/31412",
-      "primary_url": "https://www.aibase.com/news/31412",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "eeeb3d897bbcd55d50a82152b2aa42f6d4534265",
-          "title": "麦肯锡：十年内约 1100 万美国人或因 AI 丢岗转行，真正的难题是\"往哪转\"",
-          "url": "https://www.aibase.com/news/31412",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T15:27:31.600476Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "eeeb3d897bbcd55d50a82152b2aa42f6d4534265",
-          "title": "麦肯锡：十年内约 1100 万美国人或因 AI 丢岗转行，真正的难题是\"往哪转\"",
-          "url": "https://www.aibase.com/news/31412",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T15:27:31.600476Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.787,
-      "importance": 0.787,
-      "importance_score": 0.787,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.875,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T15:27:31.600476Z",
-      "latest_at": "2026-09-29T15:27:31.600476Z",
-      "primary_item": {
-        "id": "eeeb3d897bbcd55d50a82152b2aa42f6d4534265",
-        "title": "麦肯锡：十年内约 1100 万美国人或因 AI 丢岗转行，真正的难题是\"往哪转\"",
-        "url": "https://www.aibase.com/news/31412",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f101e9f94d07",
-      "title": "字节豆包要出独立个人助理App了，内部已秘密内测数月",
-      "url": "https://www.aibase.com/news/31410",
-      "primary_url": "https://www.aibase.com/news/31410",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "063b07e79d2b33d1da91d56b9ea6f68fa27c0cd2",
-          "title": "字节豆包要出独立个人助理App了，内部已秘密内测数月",
-          "url": "https://www.aibase.com/news/31410",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T14:27:31.600476Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "063b07e79d2b33d1da91d56b9ea6f68fa27c0cd2",
-          "title": "字节豆包要出独立个人助理App了，内部已秘密内测数月",
-          "url": "https://www.aibase.com/news/31410",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-29T14:27:31.600476Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7787,
-      "importance": 0.7787,
-      "importance_score": 0.7787,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8333,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T14:27:31.600476Z",
-      "latest_at": "2026-09-29T14:27:31.600476Z",
-      "primary_item": {
-        "id": "063b07e79d2b33d1da91d56b9ea6f68fa27c0cd2",
-        "title": "字节豆包要出独立个人助理App了，内部已秘密内测数月",
-        "url": "https://www.aibase.com/news/31410",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
