@@ -1,85 +1,24 @@
 {
-  "generated_at": "2026-10-07T19:12:14.495476Z",
+  "generated_at": "2026-10-08T19:09:16.983978Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_b96448f5a552",
-      "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
-      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "02228483c26c0e348ca6cc525c33d8d6d485fa1c",
-          "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
-          "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T17:45:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "02228483c26c0e348ca6cc525c33d8d6d485fa1c",
-          "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
-          "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T17:45:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.861,
-      "importance": 0.861,
-      "importance_score": 0.861,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9398,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T17:45:34Z",
-      "latest_at": "2026-10-07T17:45:34Z",
-      "primary_item": {
-        "id": "02228483c26c0e348ca6cc525c33d8d6d485fa1c",
-        "title": "秘密保护必须与软件一起扩展 / Secret protection must scale with software",
-        "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_87f43b6934de",
-      "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-      "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+      "story_id": "story_71ebc92c009c",
+      "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+      "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+      "primary_url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
-          "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-          "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+          "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
+          "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+          "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:17Z"
+          "published_at": "2026-10-08T16:00:56Z"
         }
       ],
       "source_count": 1,
@@ -88,147 +27,25 @@
       ],
       "items": [
         {
-          "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
-          "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-          "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+          "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
+          "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+          "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:17Z"
+          "published_at": "2026-10-08T16:00:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8534,
-      "importance": 0.8534,
-      "importance_score": 0.8534,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.857,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T15:46:17Z",
-      "latest_at": "2026-10-07T15:46:17Z",
-      "primary_item": {
-        "id": "4b00cda75f5bf858a654f796a769ab4bacf81797",
-        "title": "GitHub Copilot 的本地沙箱现已普遍可用 / Local sandboxing for GitHub Copilot now generally available",
-        "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_cfd130b4e19f",
-      "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
-      "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-      "primary_url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b2ee605dc8cba7b47fafb515839143263ce95ea9",
-          "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
-          "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b2ee605dc8cba7b47fafb515839143263ce95ea9",
-          "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
-          "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T15:46:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8444,
-      "importance": 0.8444,
-      "importance_score": 0.8444,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8569,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T15:46:13Z",
-      "latest_at": "2026-10-07T15:46:13Z",
-      "primary_item": {
-        "id": "b2ee605dc8cba7b47fafb515839143263ce95ea9",
-        "title": "在 GitHub Copilot CLI 中发现本地模型 / Discover local models in GitHub Copilot CLI",
-        "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5260e9d19f4f",
-      "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-      "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-      "primary_url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
-          "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-          "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T16:13:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
-          "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-          "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T16:13:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8762,
+        "recency": 0.8692,
         "story_heat": 0.0
       },
       "category": "official",
@@ -237,78 +54,778 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-07T16:13:56Z",
-      "latest_at": "2026-10-07T16:13:56Z",
+      "earliest_at": "2026-10-08T16:00:56Z",
+      "latest_at": "2026-10-08T16:00:56Z",
       "primary_item": {
-        "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
-        "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-        "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+        "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
+        "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+        "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_ea4f899dc8df",
-      "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-      "source": "Google AI Blog",
+      "story_id": "story_351ffe6737f3",
+      "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+      "primary_url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
-          "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-          "source": "Google AI Blog",
+          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
+          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-07T12:00:00Z"
+          "published_at": "2026-10-08T14:25:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
+          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T14:25:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8032,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T14:25:53Z",
+      "latest_at": "2026-10-08T14:25:53Z",
+      "primary_item": {
+        "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
+        "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+        "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9da48b438562",
+      "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
+      "url": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p",
+      "primary_url": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p",
+      "source": "The Decoder：AI News",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c7e99b03271bc80811fe033e0c0d1d97167cee37",
+          "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
+          "url": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p",
+          "source": "The Decoder：AI News",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T18:17:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News"
+      ],
+      "items": [
+        {
+          "id": "c7e99b03271bc80811fe033e0c0d1d97167cee37",
+          "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
+          "url": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p",
+          "source": "The Decoder：AI News",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T18:17:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8048,
+      "importance": 0.8048,
+      "importance_score": 0.8048,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9638,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T18:17:07Z",
+      "latest_at": "2026-10-08T18:17:07Z",
+      "primary_item": {
+        "id": "c7e99b03271bc80811fe033e0c0d1d97167cee37",
+        "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
+        "url": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p",
+        "source": "The Decoder：AI News",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_83360d9382e7",
+      "title": "德国环保搜索引擎Ecosia弃用Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+      "url": "https://www.aibase.com/news/31475",
+      "primary_url": "https://www.aibase.com/news/31475",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2a2f32348124de46ca2daa141e77720879ffa92d",
+          "title": "德国环保搜索引擎Ecosia弃用Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+          "url": "https://www.aibase.com/news/31475",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T15:02:10.585978Z"
         },
         {
-          "id": "61c14a01e0333dd09aa20b3d42db2b7bc47adc2d",
-          "title": "Google Playground：创建和玩自定义游戏 / Google Playground: Create and play custom games",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-07T12:28:36Z"
+          "id": "ba7d15cb96e2197a3f9d50b68e4d12458c927e01",
+          "title": "德国环保搜索引擎 Ecosia 弃用 Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+          "url": "https://www.aibase.com/zh/news/31475",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Google AI Blog",
-        "Hacker News · 24h最热"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
-          "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T12:00:00Z"
+          "id": "2a2f32348124de46ca2daa141e77720879ffa92d",
+          "title": "德国环保搜索引擎Ecosia弃用Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+          "url": "https://www.aibase.com/news/31475",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T15:02:10.585978Z"
         },
         {
-          "id": "61c14a01e0333dd09aa20b3d42db2b7bc47adc2d",
-          "title": "Google Playground：创建和玩自定义游戏 / Google Playground: Create and play custom games",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-07T12:28:36Z"
+          "id": "ba7d15cb96e2197a3f9d50b68e4d12458c927e01",
+          "title": "德国环保搜索引擎 Ecosia 弃用 Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+          "url": "https://www.aibase.com/zh/news/31475",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8284,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T15:02:10.585978Z",
+      "latest_at": "2026-10-08T15:02:10.585978Z",
+      "primary_item": {
+        "id": "2a2f32348124de46ca2daa141e77720879ffa92d",
+        "title": "德国环保搜索引擎Ecosia弃用Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+        "url": "https://www.aibase.com/news/31475",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4b702a65738a",
+      "title": "谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频",
+      "url": "https://www.aibase.com/news/31476",
+      "primary_url": "https://www.aibase.com/news/31476",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ac8c03bf081f0cf3adffbee7a7867937bb049dd2",
+          "title": "谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频",
+          "url": "https://www.aibase.com/news/31476",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T15:02:10.585978Z"
+        },
+        {
+          "id": "03070758f6784a443202c382c76cbf347481a0d1",
+          "title": "谷歌把 AI 搜索塞进手机：EmbeddingGemma2 开源，不到 600MB 断网照样搜图文音视频",
+          "url": "https://www.aibase.com/zh/news/31476",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ac8c03bf081f0cf3adffbee7a7867937bb049dd2",
+          "title": "谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频",
+          "url": "https://www.aibase.com/news/31476",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T15:02:10.585978Z"
+        },
+        {
+          "id": "03070758f6784a443202c382c76cbf347481a0d1",
+          "title": "谷歌把 AI 搜索塞进手机：EmbeddingGemma2 开源，不到 600MB 断网照样搜图文音视频",
+          "url": "https://www.aibase.com/zh/news/31476",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8284,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T15:02:10.585978Z",
+      "latest_at": "2026-10-08T15:02:10.585978Z",
+      "primary_item": {
+        "id": "ac8c03bf081f0cf3adffbee7a7867937bb049dd2",
+        "title": "谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频",
+        "url": "https://www.aibase.com/news/31476",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1a46ab7c19f6",
+      "title": "Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index",
+      "url": "https://aihot.news/items/p95hk44dfpkogo2v4rgwvxq30",
+      "primary_url": "https://aihot.news/items/p95hk44dfpkogo2v4rgwvxq30",
+      "source": "Arena",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6ad26cc1735edb67701ac67952a2059c41d1dfb5",
+          "title": "Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index",
+          "url": "https://aihot.news/items/p95hk44dfpkogo2v4rgwvxq30",
+          "source": "Arena",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T17:08:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Arena"
+      ],
+      "items": [
+        {
+          "id": "6ad26cc1735edb67701ac67952a2059c41d1dfb5",
+          "title": "Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index",
+          "url": "https://aihot.news/items/p95hk44dfpkogo2v4rgwvxq30",
+          "source": "Arena",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T17:08:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9158,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T17:08:01Z",
+      "latest_at": "2026-10-08T17:08:01Z",
+      "primary_item": {
+        "id": "6ad26cc1735edb67701ac67952a2059c41d1dfb5",
+        "title": "Arena 宣布 2 亿美元 B 轮融资，估值达 31 亿美元，并推出 Alignment Index",
+        "url": "https://aihot.news/items/p95hk44dfpkogo2v4rgwvxq30",
+        "source": "Arena",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3839353cbff7",
+      "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
+      "url": "https://aihot.news/items/dsbzfsw2pdaw0ikh67cyxmlss",
+      "primary_url": "https://aihot.news/items/dsbzfsw2pdaw0ikh67cyxmlss",
+      "source": "Artificial Analysis",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ebafdef03e65c8c7463c91b9d5d35e846b4fcf51",
+          "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
+          "url": "https://aihot.news/items/dsbzfsw2pdaw0ikh67cyxmlss",
+          "source": "Artificial Analysis",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T16:42:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Artificial Analysis"
+      ],
+      "items": [
+        {
+          "id": "ebafdef03e65c8c7463c91b9d5d35e846b4fcf51",
+          "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
+          "url": "https://aihot.news/items/dsbzfsw2pdaw0ikh67cyxmlss",
+          "source": "Artificial Analysis",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T16:42:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8982,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T16:42:42Z",
+      "latest_at": "2026-10-08T16:42:42Z",
+      "primary_item": {
+        "id": "ebafdef03e65c8c7463c91b9d5d35e846b4fcf51",
+        "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半",
+        "url": "https://aihot.news/items/dsbzfsw2pdaw0ikh67cyxmlss",
+        "source": "Artificial Analysis",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_75d3bc91922d",
+      "title": "LangChain 用 Stripe Link 和 Managed Deep Agents 构建可支付的智能体 Restock",
+      "url": "https://aihot.news/items/l846t7ycr11aqcasu45nowosp",
+      "primary_url": "https://aihot.news/items/l846t7ycr11aqcasu45nowosp",
+      "source": "LangChain：Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2902f0c6748fbad3897138cd060e286a704281e8",
+          "title": "LangChain 用 Stripe Link 和 Managed Deep Agents 构建可支付的智能体 Restock",
+          "url": "https://aihot.news/items/l846t7ycr11aqcasu45nowosp",
+          "source": "LangChain：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T16:21:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LangChain：Blog"
+      ],
+      "items": [
+        {
+          "id": "2902f0c6748fbad3897138cd060e286a704281e8",
+          "title": "LangChain 用 Stripe Link 和 Managed Deep Agents 构建可支付的智能体 Restock",
+          "url": "https://aihot.news/items/l846t7ycr11aqcasu45nowosp",
+          "source": "LangChain：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T16:21:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7886,
+      "importance": 0.7886,
+      "importance_score": 0.7886,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8832,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T16:21:08Z",
+      "latest_at": "2026-10-08T16:21:08Z",
+      "primary_item": {
+        "id": "2902f0c6748fbad3897138cd060e286a704281e8",
+        "title": "LangChain 用 Stripe Link 和 Managed Deep Agents 构建可支付的智能体 Restock",
+        "url": "https://aihot.news/items/l846t7ycr11aqcasu45nowosp",
+        "source": "LangChain：Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f46a0324f45f",
+      "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
+      "url": "https://aihot.news/items/g0wo2aksqgzw87bywxaeo631z",
+      "primary_url": "https://aihot.news/items/g0wo2aksqgzw87bywxaeo631z",
+      "source": "Claude：YouTube",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0dc08dbe24c19236f847999503e156b1c931b483",
+          "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
+          "url": "https://aihot.news/items/g0wo2aksqgzw87bywxaeo631z",
+          "source": "Claude：YouTube",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T15:53:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：YouTube"
+      ],
+      "items": [
+        {
+          "id": "0dc08dbe24c19236f847999503e156b1c931b483",
+          "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
+          "url": "https://aihot.news/items/g0wo2aksqgzw87bywxaeo631z",
+          "source": "Claude：YouTube",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T15:53:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7848,
+      "importance": 0.7848,
+      "importance_score": 0.7848,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8638,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T15:53:13Z",
+      "latest_at": "2026-10-08T15:53:13Z",
+      "primary_item": {
+        "id": "0dc08dbe24c19236f847999503e156b1c931b483",
+        "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
+        "url": "https://aihot.news/items/g0wo2aksqgzw87bywxaeo631z",
+        "source": "Claude：YouTube",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_92c16a3804d3",
+      "title": "腾讯 WorkBuddy 上线独立文件浏览器！本地文档可直接呼叫 AI 处理",
+      "url": "https://www.aibase.com/news/31478",
+      "primary_url": "https://www.aibase.com/news/31478",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fa4649f90c7b97c1a779f00744e1323e8c9500ec",
+          "title": "腾讯 WorkBuddy 上线独立文件浏览器！本地文档可直接呼叫 AI 处理",
+          "url": "https://www.aibase.com/news/31478",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T15:02:10.585978Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "fa4649f90c7b97c1a779f00744e1323e8c9500ec",
+          "title": "腾讯 WorkBuddy 上线独立文件浏览器！本地文档可直接呼叫 AI 处理",
+          "url": "https://www.aibase.com/news/31478",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T15:02:10.585978Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8284,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T15:02:10.585978Z",
+      "latest_at": "2026-10-08T15:02:10.585978Z",
+      "primary_item": {
+        "id": "fa4649f90c7b97c1a779f00744e1323e8c9500ec",
+        "title": "腾讯 WorkBuddy 上线独立文件浏览器！本地文档可直接呼叫 AI 处理",
+        "url": "https://www.aibase.com/news/31478",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_bf9a6e3edb2d",
+      "title": "阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假",
+      "url": "https://www.aibase.com/news/31479",
+      "primary_url": "https://www.aibase.com/news/31479",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "de9f6ed81b804e78b6972547007343537c80d63a",
+          "title": "阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假",
+          "url": "https://www.aibase.com/news/31479",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T15:02:10.585978Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "de9f6ed81b804e78b6972547007343537c80d63a",
+          "title": "阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假",
+          "url": "https://www.aibase.com/news/31479",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T15:02:10.585978Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8284,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T15:02:10.585978Z",
+      "latest_at": "2026-10-08T15:02:10.585978Z",
+      "primary_item": {
+        "id": "de9f6ed81b804e78b6972547007343537c80d63a",
+        "title": "阶跃首款大模型原生智能体手机定档：一句话调度跑腿，拍张海报就帮你请假",
+        "url": "https://www.aibase.com/news/31479",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c10ed232c272",
+      "title": "阿里蔡崇信:AI将转向隐性基础设施，知识工作者TAM达50万亿美元",
+      "url": "https://www.aibase.com/news/31474",
+      "primary_url": "https://www.aibase.com/news/31474",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "182088db13ff964e66f18e54dec3bee379e9d85a",
+          "title": "阿里蔡崇信:AI将转向隐性基础设施，知识工作者TAM达50万亿美元",
+          "url": "https://www.aibase.com/news/31474",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T15:02:10.585978Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "182088db13ff964e66f18e54dec3bee379e9d85a",
+          "title": "阿里蔡崇信:AI将转向隐性基础设施，知识工作者TAM达50万亿美元",
+          "url": "https://www.aibase.com/news/31474",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T15:02:10.585978Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8284,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T15:02:10.585978Z",
+      "latest_at": "2026-10-08T15:02:10.585978Z",
+      "primary_item": {
+        "id": "182088db13ff964e66f18e54dec3bee379e9d85a",
+        "title": "阿里蔡崇信:AI将转向隐性基础设施，知识工作者TAM达50万亿美元",
+        "url": "https://www.aibase.com/news/31474",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "GPT-6.1 Sol 在 Codex 和 ChatGPT 工作中超快 / GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8bb2bcca184f0ae24fe38357a52ce8612602279b",
+          "title": "法典 CLI 0.162.0 / Codex CLI 0.162.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T00:00:00Z"
+        },
+        {
+          "id": "ea853af1899fb409377ae777f6ac3a71ef793f5f",
+          "title": "GPT-6.1 Sol 在 Codex 和 ChatGPT 工作中超快 / GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "8bb2bcca184f0ae24fe38357a52ce8612602279b",
+          "title": "法典 CLI 0.162.0 / Codex CLI 0.162.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T00:00:00Z"
+        },
+        {
+          "id": "ea853af1899fb409377ae777f6ac3a71ef793f5f",
+          "title": "GPT-6.1 Sol 在 Codex 和 ChatGPT 工作中超快 / GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.6998,
+        "ai_relevance": 1.0,
+        "recency": 0.2019,
         "story_heat": 0.25
       },
       "category": "official",
@@ -318,972 +835,529 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-07T12:00:00Z",
-      "latest_at": "2026-10-07T12:28:36Z",
+      "earliest_at": "2026-10-08T00:00:00Z",
+      "latest_at": "2026-10-08T00:00:00Z",
       "primary_item": {
-        "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
-        "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3e763070a96c",
-      "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
-      "url": "https://aihot.news/items/vk1sotxx6v25hhgn55mwgv4nv",
-      "primary_url": "https://aihot.news/items/vk1sotxx6v25hhgn55mwgv4nv",
-      "source": "Cursor",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8cbd96ea7cc3ccb6a67a1c256c16726a3be330fb",
-          "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
-          "url": "https://aihot.news/items/vk1sotxx6v25hhgn55mwgv4nv",
-          "source": "Cursor",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:14:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cursor"
-      ],
-      "items": [
-        {
-          "id": "8cbd96ea7cc3ccb6a67a1c256c16726a3be330fb",
-          "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
-          "url": "https://aihot.news/items/vk1sotxx6v25hhgn55mwgv4nv",
-          "source": "Cursor",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:14:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9596,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T18:14:03Z",
-      "latest_at": "2026-10-07T18:14:03Z",
-      "primary_item": {
-        "id": "8cbd96ea7cc3ccb6a67a1c256c16726a3be330fb",
-        "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
-        "url": "https://aihot.news/items/vk1sotxx6v25hhgn55mwgv4nv",
-        "source": "Cursor",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a304883a46ad",
-      "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
-      "url": "https://aihot.news/items/vd2lvzvjz4tujiqupl30ifq3k",
-      "primary_url": "https://aihot.news/items/vd2lvzvjz4tujiqupl30ifq3k",
-      "source": "Claude Code：GitHub Releases",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5c442e640da60fc61688c5c474367bf2b9d7f989",
-          "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
-          "url": "https://aihot.news/items/vd2lvzvjz4tujiqupl30ifq3k",
-          "source": "Claude Code：GitHub Releases",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:10:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude Code：GitHub Releases"
-      ],
-      "items": [
-        {
-          "id": "5c442e640da60fc61688c5c474367bf2b9d7f989",
-          "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
-          "url": "https://aihot.news/items/vd2lvzvjz4tujiqupl30ifq3k",
-          "source": "Claude Code：GitHub Releases",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:10:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.957,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T18:10:20Z",
-      "latest_at": "2026-10-07T18:10:20Z",
-      "primary_item": {
-        "id": "5c442e640da60fc61688c5c474367bf2b9d7f989",
-        "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
-        "url": "https://aihot.news/items/vd2lvzvjz4tujiqupl30ifq3k",
-        "source": "Claude Code：GitHub Releases",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0d4e0b2f2e92",
-      "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
-      "url": "https://aihot.news/items/ponkn6n046yorr5pg1yv3yjm5",
-      "primary_url": "https://aihot.news/items/ponkn6n046yorr5pg1yv3yjm5",
-      "source": "Claude Devs",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "068c31a3bc83da9bd5b2df65f175cb32c7eed921",
-          "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
-          "url": "https://aihot.news/items/ponkn6n046yorr5pg1yv3yjm5",
-          "source": "Claude Devs",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:08:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude Devs"
-      ],
-      "items": [
-        {
-          "id": "068c31a3bc83da9bd5b2df65f175cb32c7eed921",
-          "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
-          "url": "https://aihot.news/items/ponkn6n046yorr5pg1yv3yjm5",
-          "source": "Claude Devs",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:08:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8032,
-      "importance": 0.8032,
-      "importance_score": 0.8032,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.956,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T18:08:53Z",
-      "latest_at": "2026-10-07T18:08:53Z",
-      "primary_item": {
-        "id": "068c31a3bc83da9bd5b2df65f175cb32c7eed921",
-        "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
-        "url": "https://aihot.news/items/ponkn6n046yorr5pg1yv3yjm5",
-        "source": "Claude Devs",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2f26b2cb4e30",
-      "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
-      "url": "https://aihot.news/items/zn6imszjo14gki6kr2uyydknp",
-      "primary_url": "https://aihot.news/items/zn6imszjo14gki6kr2uyydknp",
-      "source": "Claude",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c2bcbf9cdc8748ec606a4eefd0ab7030e9438504",
-          "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
-          "url": "https://aihot.news/items/zn6imszjo14gki6kr2uyydknp",
-          "source": "Claude",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:01:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude"
-      ],
-      "items": [
-        {
-          "id": "c2bcbf9cdc8748ec606a4eefd0ab7030e9438504",
-          "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
-          "url": "https://aihot.news/items/zn6imszjo14gki6kr2uyydknp",
-          "source": "Claude",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:01:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9508,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T18:01:21Z",
-      "latest_at": "2026-10-07T18:01:21Z",
-      "primary_item": {
-        "id": "c2bcbf9cdc8748ec606a4eefd0ab7030e9438504",
-        "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
-        "url": "https://aihot.news/items/zn6imszjo14gki6kr2uyydknp",
-        "source": "Claude",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2cd98b4efdab",
-      "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
-      "url": "https://aihot.news/items/uir31g728myjry383z17txvrw",
-      "primary_url": "https://aihot.news/items/uir31g728myjry383z17txvrw",
-      "source": "OpenAI：官网动态",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "790d2e18048745b8f5c38e2e087a2981b84a70e3",
-          "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
-          "url": "https://aihot.news/items/uir31g728myjry383z17txvrw",
-          "source": "OpenAI：官网动态",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:00:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI：官网动态"
-      ],
-      "items": [
-        {
-          "id": "790d2e18048745b8f5c38e2e087a2981b84a70e3",
-          "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
-          "url": "https://aihot.news/items/uir31g728myjry383z17txvrw",
-          "source": "OpenAI：官网动态",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:00:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9505,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T18:00:58Z",
-      "latest_at": "2026-10-07T18:00:58Z",
-      "primary_item": {
-        "id": "790d2e18048745b8f5c38e2e087a2981b84a70e3",
-        "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
-        "url": "https://aihot.news/items/uir31g728myjry383z17txvrw",
-        "source": "OpenAI：官网动态",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0ca1450969b5",
-      "title": "GPT-6 和面向所有人的智能用户界面 / GPT-6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "primary_url": "https://openai.com/index/gpt-6-for-everyone",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "aa1be73cdc1c440199f2a700f12559fa44e39511",
-          "title": "GPT-6 和面向所有人的智能用户界面 / GPT-6 and Intelligent UI for everyone",
-          "url": "https://openai.com/index/gpt-6-for-everyone",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T00:00:00Z"
-        },
-        {
-          "id": "e2823ef39574320f4468e7848ed6e55fbe258413",
-          "title": "GPT-6 面向所有人推出，带来智能 UI",
-          "url": "https://openai.com/index/gpt-6-for-everyone",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "12c87bc5bf4a3ee5f3ffd78d4021b63b3b9f029f",
-          "title": "GPT-6 和面向所有人的智能用户界面",
-          "url": "https://openai.com/index/gpt-6-for-everyone",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-07T19:00:15.099000Z"
-        },
-        {
-          "id": "7b1e6f0f5837f043c2d13e7d352e9c0bc543d662",
-          "title": "GPT-6 和面向所有人的智能用户界面 / GPT‑6 and Intelligent UI for everyone",
-          "url": "https://openai.com/index/gpt-6-for-everyone",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-07T18:00:58Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News",
-        "Readhub · AI",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "aa1be73cdc1c440199f2a700f12559fa44e39511",
-          "title": "GPT-6 和面向所有人的智能用户界面 / GPT-6 and Intelligent UI for everyone",
-          "url": "https://openai.com/index/gpt-6-for-everyone",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T00:00:00Z"
-        },
-        {
-          "id": "e2823ef39574320f4468e7848ed6e55fbe258413",
-          "title": "GPT-6 面向所有人推出，带来智能 UI",
-          "url": "https://openai.com/index/gpt-6-for-everyone",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "12c87bc5bf4a3ee5f3ffd78d4021b63b3b9f029f",
-          "title": "GPT-6 和面向所有人的智能用户界面",
-          "url": "https://openai.com/index/gpt-6-for-everyone",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-07T19:00:15.099000Z"
-        },
-        {
-          "id": "7b1e6f0f5837f043c2d13e7d352e9c0bc543d662",
-          "title": "GPT-6 和面向所有人的智能用户界面 / GPT‑6 and Intelligent UI for everyone",
-          "url": "https://openai.com/index/gpt-6-for-everyone",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-07T18:00:58Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.1998,
-        "story_heat": 0.75
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T00:00:00Z",
-      "latest_at": "2026-10-07T19:12:14.495476Z",
-      "primary_item": {
-        "id": "aa1be73cdc1c440199f2a700f12559fa44e39511",
-        "title": "GPT-6 和面向所有人的智能用户界面 / GPT-6 and Intelligent UI for everyone",
-        "url": "https://openai.com/index/gpt-6-for-everyone",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ef22dd9b9d52",
-      "title": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）",
-      "url": "https://aihot.news/items/lfy2ww68p9lgpxxhu5jssflwf",
-      "primary_url": "https://aihot.news/items/lfy2ww68p9lgpxxhu5jssflwf",
-      "source": "Aravind Srinivas",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9236b8c7671d6d39097a1a26b3950efae961d5fd",
-          "title": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）",
-          "url": "https://aihot.news/items/lfy2ww68p9lgpxxhu5jssflwf",
-          "source": "Aravind Srinivas",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T16:33:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Aravind Srinivas"
-      ],
-      "items": [
-        {
-          "id": "9236b8c7671d6d39097a1a26b3950efae961d5fd",
-          "title": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）",
-          "url": "https://aihot.news/items/lfy2ww68p9lgpxxhu5jssflwf",
-          "source": "Aravind Srinivas",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T16:33:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8894,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T16:33:02Z",
-      "latest_at": "2026-10-07T16:33:02Z",
-      "primary_item": {
-        "id": "9236b8c7671d6d39097a1a26b3950efae961d5fd",
-        "title": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）",
-        "url": "https://aihot.news/items/lfy2ww68p9lgpxxhu5jssflwf",
-        "source": "Aravind Srinivas",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2be45e9c55a5",
-      "title": "Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3%",
-      "url": "https://aihot.news/items/y7db2ly158hip5dw1evmjw5kv",
-      "primary_url": "https://aihot.news/items/y7db2ly158hip5dw1evmjw5kv",
-      "source": "Unsloth",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "863baa9bcd1c7845437d5efa4c838115816e773b",
-          "title": "Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3%",
-          "url": "https://aihot.news/items/y7db2ly158hip5dw1evmjw5kv",
-          "source": "Unsloth",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T16:21:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Unsloth"
-      ],
-      "items": [
-        {
-          "id": "863baa9bcd1c7845437d5efa4c838115816e773b",
-          "title": "Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3%",
-          "url": "https://aihot.news/items/y7db2ly158hip5dw1evmjw5kv",
-          "source": "Unsloth",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T16:21:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7882,
-      "importance": 0.7882,
-      "importance_score": 0.7882,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8812,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T16:21:14Z",
-      "latest_at": "2026-10-07T16:21:14Z",
-      "primary_item": {
-        "id": "863baa9bcd1c7845437d5efa4c838115816e773b",
-        "title": "Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3%",
-        "url": "https://aihot.news/items/y7db2ly158hip5dw1evmjw5kv",
-        "source": "Unsloth",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_276fa55a1d70",
-      "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
-      "url": "https://aihot.news/items/t9wypjd9cbb42ttuq7vrpp07l",
-      "primary_url": "https://aihot.news/items/t9wypjd9cbb42ttuq7vrpp07l",
-      "source": "Microsoft Research 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2a5876c9749fcf1e90fc4bfc8a416bd848f7826c",
-          "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
-          "url": "https://aihot.news/items/t9wypjd9cbb42ttuq7vrpp07l",
-          "source": "Microsoft Research 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Microsoft Research 博客"
-      ],
-      "items": [
-        {
-          "id": "2a5876c9749fcf1e90fc4bfc8a416bd848f7826c",
-          "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
-          "url": "https://aihot.news/items/t9wypjd9cbb42ttuq7vrpp07l",
-          "source": "Microsoft Research 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7853,
-      "importance": 0.7853,
-      "importance_score": 0.7853,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8665,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T16:00:00Z",
-      "latest_at": "2026-10-07T16:00:00Z",
-      "primary_item": {
-        "id": "2a5876c9749fcf1e90fc4bfc8a416bd848f7826c",
-        "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
-        "url": "https://aihot.news/items/t9wypjd9cbb42ttuq7vrpp07l",
-        "source": "Microsoft Research 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c4f146fec495",
-      "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
-      "url": "https://aihot.news/items/iz93flwr7h9m7po4wnu8sm4hy",
-      "primary_url": "https://aihot.news/items/iz93flwr7h9m7po4wnu8sm4hy",
-      "source": "404 Media",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "927bd41a51269cd0ffc692eb78e8d17569569b32",
-          "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
-          "url": "https://aihot.news/items/iz93flwr7h9m7po4wnu8sm4hy",
-          "source": "404 Media",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T14:46:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "404 Media"
-      ],
-      "items": [
-        {
-          "id": "927bd41a51269cd0ffc692eb78e8d17569569b32",
-          "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
-          "url": "https://aihot.news/items/iz93flwr7h9m7po4wnu8sm4hy",
-          "source": "404 Media",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T14:46:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7751,
-      "importance": 0.7751,
-      "importance_score": 0.7751,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8153,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T14:46:15Z",
-      "latest_at": "2026-10-07T14:46:15Z",
-      "primary_item": {
-        "id": "927bd41a51269cd0ffc692eb78e8d17569569b32",
-        "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
-        "url": "https://aihot.news/items/iz93flwr7h9m7po4wnu8sm4hy",
-        "source": "404 Media",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fd880e3de2b7",
-      "title": "Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成",
-      "url": "https://aihot.news/items/don06si59xc143ed92gdmlnvo",
-      "primary_url": "https://aihot.news/items/don06si59xc143ed92gdmlnvo",
-      "source": "Google",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "581238830766da3356fbbfe7fb894624961b133e",
-          "title": "Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成",
-          "url": "https://aihot.news/items/don06si59xc143ed92gdmlnvo",
-          "source": "Google",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T14:12:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google"
-      ],
-      "items": [
-        {
-          "id": "581238830766da3356fbbfe7fb894624961b133e",
-          "title": "Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成",
-          "url": "https://aihot.news/items/don06si59xc143ed92gdmlnvo",
-          "source": "Google",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T14:12:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7917,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T14:12:16Z",
-      "latest_at": "2026-10-07T14:12:16Z",
-      "primary_item": {
-        "id": "581238830766da3356fbbfe7fb894624961b133e",
-        "title": "Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成",
-        "url": "https://aihot.news/items/don06si59xc143ed92gdmlnvo",
-        "source": "Google",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3ddea01b4d28",
-      "title": "a16z 解析德州为何让数据中心排队等电",
-      "url": "https://aihot.news/items/yk3grmalszldrwd1p8bxk0cki",
-      "primary_url": "https://aihot.news/items/yk3grmalszldrwd1p8bxk0cki",
-      "source": "a16z：News",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4797bc2073611c8eddbcea712c400fb5a12a74b2",
-          "title": "a16z 解析德州为何让数据中心排队等电",
-          "url": "https://aihot.news/items/yk3grmalszldrwd1p8bxk0cki",
-          "source": "a16z：News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T14:01:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "a16z：News"
-      ],
-      "items": [
-        {
-          "id": "4797bc2073611c8eddbcea712c400fb5a12a74b2",
-          "title": "a16z 解析德州为何让数据中心排队等电",
-          "url": "https://aihot.news/items/yk3grmalszldrwd1p8bxk0cki",
-          "source": "a16z：News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T14:01:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7689,
-      "importance": 0.7689,
-      "importance_score": 0.7689,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7844,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T14:01:44Z",
-      "latest_at": "2026-10-07T14:01:44Z",
-      "primary_item": {
-        "id": "4797bc2073611c8eddbcea712c400fb5a12a74b2",
-        "title": "a16z 解析德州为何让数据中心排队等电",
-        "url": "https://aihot.news/items/yk3grmalszldrwd1p8bxk0cki",
-        "source": "a16z：News",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c0adb90c4eeb",
-      "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
-      "url": "https://aihot.news/items/r96kyuxfie0w9mup4206gzn29",
-      "primary_url": "https://aihot.news/items/r96kyuxfie0w9mup4206gzn29",
-      "source": "Hugging Face 社区博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9a4b0b775c3d40110b3f359c3e0f4291e1430964",
-          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
-          "url": "https://aihot.news/items/r96kyuxfie0w9mup4206gzn29",
-          "source": "Hugging Face 社区博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T12:45:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face 社区博客"
-      ],
-      "items": [
-        {
-          "id": "9a4b0b775c3d40110b3f359c3e0f4291e1430964",
-          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
-          "url": "https://aihot.news/items/r96kyuxfie0w9mup4206gzn29",
-          "source": "Hugging Face 社区博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T12:45:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7314,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T12:45:31Z",
-      "latest_at": "2026-10-07T12:45:31Z",
-      "primary_item": {
-        "id": "9a4b0b775c3d40110b3f359c3e0f4291e1430964",
-        "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
-        "url": "https://aihot.news/items/r96kyuxfie0w9mup4206gzn29",
-        "source": "Hugging Face 社区博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "ChatGPT for iOS 1.2026.272",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "970507defeb4fc629819eea2649547e925fc190b",
-          "title": "ChatGPT for iOS 1.2026.272",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "970507defeb4fc629819eea2649547e925fc190b",
-          "title": "ChatGPT for iOS 1.2026.272",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.1998,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-07T00:00:00Z",
-      "latest_at": "2026-10-07T00:00:00Z",
-      "primary_item": {
-        "id": "970507defeb4fc629819eea2649547e925fc190b",
-        "title": "ChatGPT for iOS 1.2026.272",
+        "id": "ea853af1899fb409377ae777f6ac3a71ef793f5f",
+        "title": "GPT-6.1 Sol 在 Codex 和 ChatGPT 工作中超快 / GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_bb30d565ebf0",
-      "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
-      "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-      "primary_url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_206499a729c8",
+      "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+      "url": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v",
+      "primary_url": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v",
+      "source": "The Decoder：AI News",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
-          "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
-          "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T23:43:00Z"
+          "id": "82791b72508bd686ca53bbf3ffec1bec34c2b5d5",
+          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+          "url": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v",
+          "source": "The Decoder：AI News",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T13:01:01Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "The Decoder：AI News"
       ],
       "items": [
         {
-          "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
-          "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
-          "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T23:43:00Z"
+          "id": "82791b72508bd686ca53bbf3ffec1bec34c2b5d5",
+          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+          "url": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v",
+          "source": "The Decoder：AI News",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T13:01:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7106,
-      "importance": 0.7106,
-      "importance_score": 0.7106,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7443,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T13:01:01Z",
+      "latest_at": "2026-10-08T13:01:01Z",
+      "primary_item": {
+        "id": "82791b72508bd686ca53bbf3ffec1bec34c2b5d5",
+        "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+        "url": "https://aihot.news/items/cal34hameqt3bh6d52vaqt58v",
+        "source": "The Decoder：AI News",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c3253994e810",
+      "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+      "url": "https://aihot.news/items/gq8yjkqlcdbpy0l5uc8ch2sj8",
+      "primary_url": "https://aihot.news/items/gq8yjkqlcdbpy0l5uc8ch2sj8",
+      "source": "Anthropic：Claude.dev 开发者博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fdae06df7ab44785b639c56d2f86ff54721d559f",
+          "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+          "url": "https://aihot.news/items/gq8yjkqlcdbpy0l5uc8ch2sj8",
+          "source": "Anthropic：Claude.dev 开发者博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Claude.dev 开发者博客"
+      ],
+      "items": [
+        {
+          "id": "fdae06df7ab44785b639c56d2f86ff54721d559f",
+          "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+          "url": "https://aihot.news/items/gq8yjkqlcdbpy0l5uc8ch2sj8",
+          "source": "Anthropic：Claude.dev 开发者博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7019,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T12:00:00Z",
+      "latest_at": "2026-10-08T12:00:00Z",
+      "primary_item": {
+        "id": "fdae06df7ab44785b639c56d2f86ff54721d559f",
+        "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+        "url": "https://aihot.news/items/gq8yjkqlcdbpy0l5uc8ch2sj8",
+        "source": "Anthropic：Claude.dev 开发者博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_82ec7733b33b",
+      "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
+      "url": "https://www.aibase.com/news/31464",
+      "primary_url": "https://www.aibase.com/news/31464",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c0675054f2f6930dc400b0d3225c971d34de5970",
+          "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
+          "url": "https://www.aibase.com/news/31464",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T07:38:16.371275Z"
+        },
+        {
+          "id": "80d3d27fd9d83794f062041a7f9c6faa6251c979",
+          "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
+          "url": "https://www.aibase.com/zh/news/31464",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c0675054f2f6930dc400b0d3225c971d34de5970",
+          "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
+          "url": "https://www.aibase.com/news/31464",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T07:38:16.371275Z"
+        },
+        {
+          "id": "80d3d27fd9d83794f062041a7f9c6faa6251c979",
+          "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
+          "url": "https://www.aibase.com/zh/news/31464",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5201,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T07:38:16.371275Z",
+      "latest_at": "2026-10-08T07:38:16.371275Z",
+      "primary_item": {
+        "id": "c0675054f2f6930dc400b0d3225c971d34de5970",
+        "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
+        "url": "https://www.aibase.com/news/31464",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9a0358c5cce4",
+      "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
+      "url": "https://www.aibase.com/news/31462",
+      "primary_url": "https://www.aibase.com/news/31462",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dbad19fab84c245daf5823011ebd374e4cbc7d84",
+          "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
+          "url": "https://www.aibase.com/news/31462",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T07:38:16.371275Z"
+        },
+        {
+          "id": "a3585e4b48b1e9a1371f83c0760bf83312477839",
+          "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠 AI Agent 收割企业级市场？",
+          "url": "https://www.aibase.com/zh/news/31462",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "dbad19fab84c245daf5823011ebd374e4cbc7d84",
+          "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
+          "url": "https://www.aibase.com/news/31462",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T07:38:16.371275Z"
+        },
+        {
+          "id": "a3585e4b48b1e9a1371f83c0760bf83312477839",
+          "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠 AI Agent 收割企业级市场？",
+          "url": "https://www.aibase.com/zh/news/31462",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5201,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T07:38:16.371275Z",
+      "latest_at": "2026-10-08T07:38:16.371275Z",
+      "primary_item": {
+        "id": "dbad19fab84c245daf5823011ebd374e4cbc7d84",
+        "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
+        "url": "https://www.aibase.com/news/31462",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9791f7fec0e9",
+      "title": "美国地方媒体组团起诉微软OpenAI：数万篇文章被喂进模型，一文钱没给",
+      "url": "https://www.aibase.com/news/31466",
+      "primary_url": "https://www.aibase.com/news/31466",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "62e8a8b732ff45e8f560e89adb9fbcdc6bce8838",
+          "title": "美国地方媒体组团起诉微软OpenAI：数万篇文章被喂进模型，一文钱没给",
+          "url": "https://www.aibase.com/news/31466",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T07:38:16.371275Z"
+        },
+        {
+          "id": "f41b06f448cc6ac3a3acf70c452d1bfe7cdcb525",
+          "title": "美国地方媒体组团起诉微软 OpenAI：数万篇文章被喂进模型，一文钱没给",
+          "url": "https://www.aibase.com/zh/news/31466",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "62e8a8b732ff45e8f560e89adb9fbcdc6bce8838",
+          "title": "美国地方媒体组团起诉微软OpenAI：数万篇文章被喂进模型，一文钱没给",
+          "url": "https://www.aibase.com/news/31466",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T07:38:16.371275Z"
+        },
+        {
+          "id": "f41b06f448cc6ac3a3acf70c452d1bfe7cdcb525",
+          "title": "美国地方媒体组团起诉微软 OpenAI：数万篇文章被喂进模型，一文钱没给",
+          "url": "https://www.aibase.com/zh/news/31466",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5201,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T07:38:16.371275Z",
+      "latest_at": "2026-10-08T07:38:16.371275Z",
+      "primary_item": {
+        "id": "62e8a8b732ff45e8f560e89adb9fbcdc6bce8838",
+        "title": "美国地方媒体组团起诉微软OpenAI：数万篇文章被喂进模型，一文钱没给",
+        "url": "https://www.aibase.com/news/31466",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c7b85c0dea53",
+      "title": "谷歌调整Gemini订阅策略:10月9日起免费版仅留Flash-Lite，付费阶梯进一步拉开",
+      "url": "https://www.aibase.com/news/31471",
+      "primary_url": "https://www.aibase.com/news/31471",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bfb03d7c9b438ef13c116f85713f71682d6b4a51",
+          "title": "谷歌调整Gemini订阅策略:10月9日起免费版仅留Flash-Lite，付费阶梯进一步拉开",
+          "url": "https://www.aibase.com/news/31471",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T07:38:16.371275Z"
+        },
+        {
+          "id": "a7b3f1e37a326261a762d66b8534282841f3eb26",
+          "title": "谷歌调整 Gemini 订阅策略：10 月 9 日起免费版仅留 Flash-Lite，付费阶梯进一步拉开",
+          "url": "https://www.aibase.com/zh/news/31471",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bfb03d7c9b438ef13c116f85713f71682d6b4a51",
+          "title": "谷歌调整Gemini订阅策略:10月9日起免费版仅留Flash-Lite，付费阶梯进一步拉开",
+          "url": "https://www.aibase.com/news/31471",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T07:38:16.371275Z"
+        },
+        {
+          "id": "a7b3f1e37a326261a762d66b8534282841f3eb26",
+          "title": "谷歌调整 Gemini 订阅策略：10 月 9 日起免费版仅留 Flash-Lite，付费阶梯进一步拉开",
+          "url": "https://www.aibase.com/zh/news/31471",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5201,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T07:38:16.371275Z",
+      "latest_at": "2026-10-08T07:38:16.371275Z",
+      "primary_item": {
+        "id": "bfb03d7c9b438ef13c116f85713f71682d6b4a51",
+        "title": "谷歌调整Gemini订阅策略:10月9日起免费版仅留Flash-Lite，付费阶梯进一步拉开",
+        "url": "https://www.aibase.com/news/31471",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_077dea1e8a7a",
+      "title": "破坏人工智能支持的“假面”操作 / Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "primary_url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "595f5594a8cd13b83071f2d99b296e326515563a",
+          "title": "破坏人工智能支持的“假面”操作 / Disrupting AI-enabled “false front” operations",
+          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T00:00:00Z"
+        },
+        {
+          "id": "f5ec05aed2a7d10bc79933bcfe36c9e3e1338ad8",
+          "title": "OpenAI 扰乱人工智能支持的“虚假阵线”影响力运作 / OpenAI disrupts AI-enabled 'false front' influence operations",
+          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "595f5594a8cd13b83071f2d99b296e326515563a",
+          "title": "破坏人工智能支持的“假面”操作 / Disrupting AI-enabled “false front” operations",
+          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T00:00:00Z"
+        },
+        {
+          "id": "f5ec05aed2a7d10bc79933bcfe36c9e3e1338ad8",
+          "title": "OpenAI 扰乱人工智能支持的“虚假阵线”影响力运作 / OpenAI disrupts AI-enabled 'false front' influence operations",
+          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.188,
-        "story_heat": 0.0
+        "recency": 0.2019,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-06T23:43:00Z",
-      "latest_at": "2026-10-06T23:43:00Z",
+      "earliest_at": "2026-10-08T00:00:00Z",
+      "latest_at": "2026-10-08T19:09:16.983978Z",
       "primary_item": {
-        "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
-        "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
-        "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-        "source": "GitHub Changelog",
+        "id": "595f5594a8cd13b83071f2d99b296e326515563a",
+        "title": "破坏人工智能支持的“假面”操作 / Disrupting AI-enabled “false front” operations",
+        "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     }
